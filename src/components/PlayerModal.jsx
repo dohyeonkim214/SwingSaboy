@@ -1,5 +1,6 @@
 import { useEffect } from 'react'
 import { PLATFORMS } from '../constants/catalog'
+import { useI18n } from '../i18n/LanguageContext'
 import { getEmbedUrl, getSourceUrl } from '../utils/format'
 import TagBadge from './TagBadge'
 
@@ -8,6 +9,7 @@ import TagBadge from './TagBadge'
  * ESC 키 또는 배경 클릭으로 닫힌다.
  */
 export default function PlayerModal({ item, onClose }) {
+  const { t } = useI18n()
   // ESC로 닫기 + 모달이 떠 있는 동안 배경 스크롤 잠금
   useEffect(() => {
     if (!item) return
@@ -31,7 +33,7 @@ export default function PlayerModal({ item, onClose }) {
       onClick={onClose}
       role="dialog"
       aria-modal="true"
-      aria-label={`${item.title} 플레이어`}
+      aria-label={t.playerAria(item.title)}
     >
       {/* stopPropagation: 모달 내부 클릭은 닫기로 전파되지 않도록 */}
       <div
@@ -45,12 +47,12 @@ export default function PlayerModal({ item, onClose }) {
             <p className="mt-0.5 text-sm text-cream-500">
               {item.artist}
               <span className="mx-2 text-night-600">◆</span>
-              {item.year} · {item.bpm} BPM
+              {item.year} · {item.bpm ?? '–'} BPM
             </p>
           </div>
           <button
             onClick={onClose}
-            aria-label="닫기"
+            aria-label={t.close}
             className="shrink-0 text-2xl leading-none text-cream-500 transition-colors hover:text-gold-300"
           >
             ✕
@@ -84,7 +86,7 @@ export default function PlayerModal({ item, onClose }) {
             rel="noreferrer"
             className="text-xs tracking-wider text-cream-500 underline-offset-4 hover:text-gold-300 hover:underline"
           >
-            {PLATFORMS[item.source.platform]?.label}에서 열기 ↗
+            {t.openOn(PLATFORMS[item.source.platform]?.label)}
           </a>
         </div>
       </div>

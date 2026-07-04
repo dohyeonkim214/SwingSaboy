@@ -51,11 +51,11 @@ export default function FilterBar({
           <select
             value={sortBy}
             onChange={(e) => setSortBy(e.target.value)}
-            aria-label="정렬 기준"
+            aria-label={t.sortAria}
             className="border border-night-600 bg-night-950 px-3 py-2.5 text-sm text-cream-300 focus:border-gold-500 focus:outline-none"
           >
             {SORT_OPTIONS.map((o) => (
-              <option key={o.value} value={o.value}>{o.label}</option>
+              <option key={o.value} value={o.value}>{t[o.labelKey]}</option>
             ))}
           </select>
         </div>
@@ -82,13 +82,13 @@ export default function FilterBar({
           <div>
             <p className="mb-2 text-[11px] tracking-[0.2em] uppercase text-cream-500">Type</p>
             <div className="flex flex-wrap gap-2">
-              {TYPES.map((t) => (
+              {TYPES.map((ty) => (
                 <Chip
-                  key={t.id}
-                  active={filters.types.includes(t.id)}
-                  onClick={() => actions.toggleType(t.id)}
+                  key={ty.id}
+                  active={filters.types.includes(ty.id)}
+                  onClick={() => actions.toggleType(ty.id)}
                 >
-                  {t.icon} {t.label}
+                  {ty.icon} {t[ty.labelKey]}
                 </Chip>
               ))}
             </div>
@@ -104,7 +104,7 @@ export default function FilterBar({
               }
               className="border border-night-600 bg-night-950 px-3 py-1.5 text-sm text-cream-300 focus:border-gold-500 focus:outline-none"
             >
-              <option value="all">전체 연대</option>
+              <option value="all">{t.allEras}</option>
               {decades.map((d) => (
                 <option key={d} value={d}>{d}s</option>
               ))}
@@ -118,14 +118,14 @@ export default function FilterBar({
         {/* 3행: 결과 개수 + 초기화 */}
         <div className="mt-4 flex items-center justify-between border-t border-night-700 pt-3">
           <p className="text-xs text-cream-500">
-            <span className="text-gold-400">{resultCount}</span>개의 콘텐츠
+            <span className="text-gold-400">{resultCount}</span>{t.resultsSuffix}
           </p>
           {isDirty && (
             <button
               onClick={actions.reset}
               className="text-xs tracking-wider text-cream-500 underline-offset-4 hover:text-gold-300 hover:underline"
             >
-              필터 초기화 ✕
+              {t.resetFilters}
             </button>
           )}
         </div>

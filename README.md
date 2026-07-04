@@ -14,8 +14,31 @@ npm run preview  # 빌드 결과 미리보기
 ```
 
 백엔드가 없어도 앱은 동작합니다 — `/api/content` 호출이 실패하면 번들에 포함된
-`content.json`으로 자동 폴백하므로, `dist/`만 Netlify, Vercel, GitHub Pages 등에
-정적 배포하는 것도 여전히 가능합니다.
+정적 스냅샷(`src/data/archive.json`)으로 자동 폴백합니다.
+
+## Vercel 배포 (정적 스냅샷 방식)
+
+Vercel은 서버리스라 Express 서버·SQLite·스케줄러가 그대로 올라가지 않습니다.
+대신 로컬 DB를 JSON 스냅샷으로 내보내 번들에 포함시키는 방식을 씁니다:
+
+```bash
+npm run snapshot   # ① 유튜브 수집 1회 + DB → src/data/archive.json 내보내기
+git add -A; git commit -m "archive snapshot"; git push   # ② 푸시
+```
+
+**최초 배포 (한 번만):**
+
+1. GitHub에 저장소를 만들고 푸시 (`git init` → `git add -A` → `git commit` → `git push`)
+2. [vercel.com](https://vercel.com) → **Add New Project** → 저장소 Import
+3. Framework Preset이 **Vite**로 자동 감지됨 → 그대로 **Deploy**
+
+이후에는 `npm run snapshot` → `git push`만 하면 Vercel이 자동 재배포합니다.
+GitHub 없이 하려면 프로젝트 루트에서 `npx vercel --prod` 한 줄로도 됩니다.
+
+- `.env`(API 키)와 `server/data/`(DB)는 gitignore 대상이라 배포에 포함되지 않습니다.
+  수집은 항상 로컬에서 하고, 결과물(archive.json)만 올라갑니다.
+- 매일 자동 갱신까지 원하면 GitHub Actions 크론으로 `npm run snapshot` + 커밋을
+  돌리면 됩니다 (API 키는 저장소 Secret에 등록).
 
 ## 백엔드 (유튜브 자동 수집 엔진)
 
@@ -26,6 +49,8 @@ npm run preview  # 빌드 결과 미리보기
 ```
 server/
 ├── index.js      # Express API — GET /api/content·/api/status, POST /api/collect
+├── snapshot.js   # 수집 1회 + 정적 스냅샷 내보내기 (Vercel 배포용 원커맨드)
+├── export.js     # DB → src/data/archive.json
 ├── config.js     # 환경변수 + 스타일별 검색어·할당량 예산 (수집 튜닝 지점)
 ├── db.js         # node:sqlite 저장소 (Node 24 내장 — 네이티브 의존성 없음)
 ├── youtube.js    # YouTube Data API v3 클라이언트 (search 100유닛 / videos 1유닛)

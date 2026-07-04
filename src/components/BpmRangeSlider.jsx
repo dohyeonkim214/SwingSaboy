@@ -1,4 +1,5 @@
 import { BPM_MIN, BPM_MAX } from '../constants/catalog'
+import { useI18n } from '../i18n/LanguageContext'
 
 /**
  * BPM 범위 듀얼 슬라이더.
@@ -6,6 +7,7 @@ import { BPM_MIN, BPM_MAX } from '../constants/catalog'
  * 선택 구간은 골드 하이라이트 바로 표시한다. 외부 라이브러리 불필요.
  */
 export default function BpmRangeSlider({ value, onChange }) {
+  const { t } = useI18n()
   const [lo, hi] = value
   const span = BPM_MAX - BPM_MIN
   const loPct = ((lo - BPM_MIN) / span) * 100
@@ -37,13 +39,13 @@ export default function BpmRangeSlider({ value, onChange }) {
           type="range" min={BPM_MIN} max={BPM_MAX} step={5} value={lo}
           onChange={(e) => setLo(e.target.value)}
           className="bpm-thumb absolute top-0 h-4 w-full"
-          aria-label="최소 BPM"
+          aria-label={t.bpmMinAria}
         />
         <input
           type="range" min={BPM_MIN} max={BPM_MAX} step={5} value={hi}
           onChange={(e) => setHi(e.target.value)}
           className="bpm-thumb absolute top-0 h-4 w-full"
-          aria-label="최대 BPM"
+          aria-label={t.bpmMaxAria}
         />
       </div>
 

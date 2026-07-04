@@ -50,10 +50,7 @@ export default function App() {
 
       <main className="mx-auto max-w-7xl px-4 pb-20">
         {playlistEmpty ? (
-          <EmptyState
-            title="플레이리스트가 비어 있습니다"
-            hint="카드의 ♡ 를 눌러 좋아하는 곡과 영상을 모아보세요."
-          />
+          <EmptyState titleKey="playlistEmptyTitle" hintKey="playlistEmptyHint" />
         ) : (
           <ContentGrid
             items={visible}

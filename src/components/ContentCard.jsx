@@ -1,9 +1,13 @@
 import { PLATFORMS, TYPES } from '../constants/catalog'
+import { useI18n } from '../i18n/LanguageContext'
 import { formatDuration, getThumbnailUrl } from '../utils/format'
 import TagBadge from './TagBadge'
 
-/** 타입 id → 라벨 */
-const typeLabelOf = (id) => TYPES.find((t) => t.id === id)?.label ?? id
+/** 타입 id → i18n 라벨 */
+const typeLabelOf = (id, t) => {
+  const key = TYPES.find((ty) => ty.id === id)?.labelKey
+  return key ? t[key] : id
+}
 
 /**
  * Spotify/SoundCloud처럼 썸네일 이미지가 없는 항목을 위한
@@ -29,6 +33,7 @@ function DecoPlaceholder({ title }) {
  * 카드 클릭 → 임베드 플레이어 모달, 하트 클릭 → 즐겨찾기 토글.
  */
 export default function ContentCard({ item, isFavorite, onToggleFavorite, onPlay, index }) {
+  const { t } = useI18n()
   const thumb = getThumbnailUrl(item.source)
   const platform = PLATFORMS[item.source.platform]
 
@@ -41,7 +46,7 @@ export default function ContentCard({ item, isFavorite, onToggleFavorite, onPlay
       <button
         onClick={() => onPlay(item)}
         className="relative block aspect-video w-full overflow-hidden text-left"
-        aria-label={`${item.title} 재생`}
+        aria-label={t.playAria(item.title)}
       >
         {thumb ? (
           <img
@@ -63,7 +68,7 @@ export default function ContentCard({ item, isFavorite, onToggleFavorite, onPlay
 
         {/* 좌상단: 타입 배지 / 우하단: 길이 */}
         <span className="absolute left-2 top-2 bg-night-950/85 px-2 py-0.5 text-[10px] tracking-[0.15em] uppercase text-cream-300">
-          {typeLabelOf(item.type)}
+          {typeLabelOf(item.type, t)}
         </span>
         <span className="absolute bottom-2 right-2 bg-night-950/85 px-1.5 py-0.5 font-mono text-[11px] text-cream-300">
           {formatDuration(item.durationSec)}
@@ -83,7 +88,7 @@ export default function ContentCard({ item, isFavorite, onToggleFavorite, onPlay
           <button
             onClick={() => onToggleFavorite(item.id)}
             aria-pressed={isFavorite}
-            aria-label={isFavorite ? '플레이리스트에서 제거' : '플레이리스트에 추가'}
+            aria-label={isFavorite ? t.removeFavAria : t.addFavAria}
             className={`shrink-0 text-xl leading-none transition-transform hover:scale-125 ${
               isFavorite ? 'text-gold-400' : 'text-night-600 hover:text-gold-600'
             }`}

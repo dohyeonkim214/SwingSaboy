@@ -2,10 +2,12 @@
  * 콘텐츠 데이터 접근 계층 (Data Access Layer)
  *
  * 1순위: 백엔드 API(/api/content) — 유튜브 자동 수집분을 포함한 전체 아카이브.
- * 2순위: 로컬 JSON 폴백 — 백엔드 없이 정적 배포만 했을 때도 앱이 동작해야 한다.
+ * 2순위: 정적 스냅샷(archive.json) 폴백 — `npm run snapshot`으로 DB에서 내보낸
+ *        파일이 번들에 포함되므로, 백엔드 없는 정적 배포(Vercel 등)에서도 전체
+ *        아카이브가 보인다. (content.json은 시드용 원본 큐레이션 데이터)
  * UI 컴포넌트는 데이터 출처를 전혀 몰라도 되도록 async 인터페이스로 통일.
  */
-import fallback from '../data/content.json'
+import fallback from '../data/archive.json'
 
 /**
  * 전체 콘텐츠 목록을 가져온다.
