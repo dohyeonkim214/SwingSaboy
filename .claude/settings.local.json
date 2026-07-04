@@ -9,7 +9,14 @@
       "PowerShell(if \\(Test-Path .env\\) { $k = \\(Get-Content .env | Where-Object { $_ -match '^YOUTUBE_API_KEY=\\(.+\\)$' }\\); if \\($k\\) { \"키 설정됨 \\(길이: $\\(\\($k -replace '^YOUTUBE_API_KEY=',''\\).Length\\)자\\)\" } else { \"'.env'는 있지만 YOUTUBE_API_KEY 줄이 없거나 비어 있음\" } } else { \"'.env' 파일 없음\" })",
       "PowerShell(node --check server/collector.js; node --check server/youtube.js; node --check server/config.js; if \\(Test-Path .env\\) { $k = \\(Get-Content .env | Where-Object { $_ -match '^YOUTUBE_API_KEY=.+' }\\); if \\($k\\) { \"구문 OK + 키 설정 확인\" } else { \"구문 OK, 하지만 .env에 YOUTUBE_API_KEY 값이 없음\" } } else { \"구문 OK, .env 없음\" })",
       "PowerShell(node server/index.js)",
-      "PowerShell($deadline = \\(Get-Date\\).AddSeconds\\(90\\); do { Start-Sleep -Seconds 5; try { $s = Invoke-RestMethod http://localhost:3001/api/status -TimeoutSec 5 } catch { continue }; if \\($s.lastCollectedAt\\) { break } } while \\(\\(Get-Date\\) -lt $deadline\\); $s | ConvertTo-Json -Depth 5)"
+      "PowerShell($deadline = \\(Get-Date\\).AddSeconds\\(90\\); do { Start-Sleep -Seconds 5; try { $s = Invoke-RestMethod http://localhost:3001/api/status -TimeoutSec 5 } catch { continue }; if \\($s.lastCollectedAt\\) { break } } while \\(\\(Get-Date\\) -lt $deadline\\); $s | ConvertTo-Json -Depth 5)",
+      "PowerShell(Move-Item server\\\\data\\\\archive.db server\\\\data\\\\archive.db.bak)",
+      "PowerShell(npm run export)",
+      "PowerShell(Remove-Item server\\\\data\\\\archive.db -Confirm:$false)",
+      "PowerShell(Move-Item server\\\\data\\\\archive.db.bak server\\\\data\\\\archive.db)",
+      "PowerShell(\"?? ??\")",
+      "PowerShell(git add .github server/db.js server/seed.js src/data/archive.json)",
+      "PowerShell(git push)"
     ]
   }
 }
