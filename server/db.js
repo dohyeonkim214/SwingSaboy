@@ -58,6 +58,8 @@ function rowToItem(row) {
       id: row.source_id,
       ...(row.source_url ? { url: row.source_url } : {}),
     },
+    // 스냅샷(archive.json)을 다시 시드할 때 큐레이션 보호 플래그가 유지되도록 포함
+    curated: Boolean(row.curated),
   }
 }
 
