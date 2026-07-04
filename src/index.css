@@ -1,0 +1,88 @@
+@import 'tailwindcss';
+
+/*
+ * 디자인 토큰 (Tailwind v4 @theme)
+ * — 1930~40년대 재즈클럽 무드: 딥 세피아-블랙 배경 + 따뜻한 골드 포인트
+ */
+@theme {
+  /* 배경 계열 (어두운 세피아-블랙) */
+  --color-night-950: #120e09;
+  --color-night-900: #1a140e;
+  --color-night-800: #231b12;
+  --color-night-700: #33281a;
+  --color-night-600: #4a3b28;
+
+  /* 골드/브라스 포인트 */
+  --color-gold-300: #eed9a4;
+  --color-gold-400: #ddb464;
+  --color-gold-500: #c99a3f;
+  --color-gold-600: #a97e2e;
+
+  /* 크림(텍스트) 계열 */
+  --color-cream-100: #f5ecd9;
+  --color-cream-300: #d9c9ab;
+  --color-cream-500: #a6947a;
+
+  /* 아르데코 타이포 */
+  --font-deco: 'Limelight', 'Georgia', serif;
+  --font-display: 'Poiret One', 'Josefin Sans', sans-serif;
+  --font-body: 'Josefin Sans', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+}
+
+/* 기본 배경/글꼴 + 은은한 골드 라디얼 조명 효과 */
+body {
+  font-family: var(--font-body);
+  color: var(--color-cream-100);
+  background-color: var(--color-night-950);
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgb(201 154 63 / 0.12), transparent 70%),
+    radial-gradient(ellipse 60% 40% at 90% 110%, rgb(201 154 63 / 0.05), transparent 70%);
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+/*
+ * BPM 듀얼 레인지 슬라이더 — 네이티브 <input type=range> 두 개를 겹쳐 쓰므로
+ * 트랙은 투명하게, 썸(손잡이)만 골드 다이아몬드(아르데코 모티프)로 커스텀
+ */
+input[type='range'].bpm-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  pointer-events: none; /* 트랙 클릭은 무시, 썸만 조작 */
+}
+input[type='range'].bpm-thumb::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  pointer-events: auto;
+  width: 16px;
+  height: 16px;
+  background: var(--color-gold-400);
+  transform: rotate(45deg); /* 다이아몬드 */
+  border: 2px solid var(--color-night-950);
+  outline: 1px solid var(--color-gold-500);
+  cursor: grab;
+  transition: background 0.15s;
+}
+input[type='range'].bpm-thumb::-webkit-slider-thumb:hover {
+  background: var(--color-gold-300);
+}
+input[type='range'].bpm-thumb::-moz-range-thumb {
+  pointer-events: auto;
+  width: 12px;
+  height: 12px;
+  border-radius: 0;
+  background: var(--color-gold-400);
+  transform: rotate(45deg);
+  border: 2px solid var(--color-night-950);
+  cursor: grab;
+}
+
+/* 카드 진입 애니메이션 */
+@keyframes card-in {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-card-in {
+  animation: card-in 0.35s ease-out both;
+}

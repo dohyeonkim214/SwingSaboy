@@ -1,0 +1,25 @@
+{
+  "name": "savoy-archive",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "스윙 댄스(Lindy Hop, Balboa, Charleston, Collegiate Shag) 음악·영상 큐레이션 아카이브",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "node server/index.js",
+    "server:watch": "node --watch server/index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.2",
+    "@vitejs/plugin-react": "^5.0.0",
+    "tailwindcss": "^4.3.2",
+    "vite": "^7.0.0"
+  }
+}

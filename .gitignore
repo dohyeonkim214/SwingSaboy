@@ -1,0 +1,8 @@
+node_modules
+dist
+*.local
+.DS_Store
+
+# 백엔드 비밀키·로컬 DB
+.env
+server/data/
