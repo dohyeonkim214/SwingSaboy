@@ -23,14 +23,14 @@ jobs:
 
       - run: npm ci
 
-      # 빈 DB → 직전 archive.json 시드 → 수집 → 새 archive.json 내보내기 (누적 구조)
+      # 빈 DB → 직전 archive.json 시드 → 수집 → 스냅샷 내보내기 → 문서 역동기화
       - run: npm run snapshot
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
-      - name: Commit snapshot if changed
+      - name: Commit snapshot + synced docs if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/data/archive.json
-          git diff --cached --quiet || { git commit -m "chore: daily archive snapshot" && git push; }
+          git add src/data/archive.json .claude/docs/features
+          git diff --cached --quiet || { git commit -m "chore: daily archive snapshot + docs sync" && git push; }

@@ -11,7 +11,8 @@
     "server": "node server/index.js",
     "server:watch": "node --watch server/index.js",
     "export": "node server/export.js",
-    "snapshot": "node server/snapshot.js"
+    "snapshot": "node server/snapshot.js",
+    "docs:sync": "node server/docs-sync.js"
   },
   "dependencies": {
     "express": "^5.1.0",

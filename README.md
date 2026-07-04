@@ -49,8 +49,9 @@ GitHub 없이 하려면 프로젝트 루트에서 `npx vercel --prod` 한 줄로
 ```
 server/
 ├── index.js      # Express API — GET /api/content·/api/status, POST /api/collect
-├── snapshot.js   # 수집 1회 + 정적 스냅샷 내보내기 (Vercel 배포용 원커맨드)
+├── snapshot.js   # 수집 1회 + 스냅샷 내보내기 + 문서 역동기화 (원커맨드)
 ├── export.js     # DB → src/data/archive.json
+├── docs-sync.js  # 코드→문서 역동기화 — .claude/docs/features/*.md의 auto:stats 구간 갱신
 ├── config.js     # 환경변수 + 스타일별 검색어·할당량 예산 (수집 튜닝 지점)
 ├── db.js         # node:sqlite 저장소 (Node 24 내장 — 네이티브 의존성 없음)
 ├── youtube.js    # YouTube Data API v3 클라이언트 (search 100유닛 / videos 1유닛)
