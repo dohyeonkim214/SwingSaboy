@@ -16,7 +16,11 @@
       "PowerShell(Move-Item server\\\\data\\\\archive.db.bak server\\\\data\\\\archive.db)",
       "PowerShell(\"?? ??\")",
       "PowerShell(git add .github server/db.js server/seed.js src/data/archive.json)",
-      "PowerShell(git push)"
+      "PowerShell(git push)",
+      "PowerShell(git add server/docs-sync.js server/snapshot.js package.json package-lock.json .github/workflows/snapshot.yml .claude/docs/features README.md)",
+      "PowerShell(git stash push -- .claude/settings.local.json)",
+      "PowerShell(git pull --rebase)",
+      "PowerShell(git stash pop)"
     ]
   }
 }
