@@ -1,6 +1,557 @@
 {
- "exportedAt": "2026-07-05T18:30:34.509Z",
+ "exportedAt": "2026-07-06T18:49:28.716Z",
  "items": [
+  {
+   "id": "yt-fsjMeX7y-pM",
+   "type": "video",
+   "title": "RTSF 2023 – Sophie & Thomas – Jamboree Ball (Sunday)",
+   "artist": "RockThatSwing",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 180,
+   "popularity": 97,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "fsjMeX7y-pM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gaR7-tb7rHU",
+   "type": "video",
+   "title": "Nils & Bianca Instructor Showcase - ILHC 2022",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 669,
+   "popularity": 80,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "gaR7-tb7rHU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-OFTIfk6U3vo",
+   "type": "video",
+   "title": "The Black Bottom (1927)",
+   "artist": "StephendelRoser",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 202,
+   "popularity": 76,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "OFTIfk6U3vo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-X1me6wfoqI4",
+   "type": "video",
+   "title": "ILHC 2010 - Showcase - Max Pitruzzella & Annie Trudeau",
+   "artist": "PatrickAndNatasha",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 216,
+   "popularity": 73,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "X1me6wfoqI4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-EBd5cb4Cqfc",
+   "type": "tutorial",
+   "title": "HOW TO do SQUAT CHARLESTON? Master this EXCITING step!",
+   "artist": "Secrets of Solo",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 339,
+   "popularity": 72,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "EBd5cb4Cqfc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-XDIEBC2kdcA",
+   "type": "video",
+   "title": "Energising jazz dance warm up with Ksenia Parkhatskaya",
+   "artist": "Secrets of Solo",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 747,
+   "popularity": 68,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "XDIEBC2kdcA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-X-7DN_nHuSg",
+   "type": "tutorial",
+   "title": "Learn Swing Dance! Lindy Hop for Beginners: Triple Step Rhythm (Class 1 of 6)",
+   "artist": "SwingStepTV",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 4284,
+   "popularity": 66,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "X-7DN_nHuSg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Dg1BKGWNWRA",
+   "type": "video",
+   "title": "Different Types of Swing Dance Styles",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 361,
+   "popularity": 65,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "Dg1BKGWNWRA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Yl0b7DbIBDU",
+   "type": "video",
+   "title": "The Great Gatsy Show - Charleston 20s Dance Couple",
+   "artist": "Mexmann",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 320,
+   "popularity": 63,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "Yl0b7DbIBDU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-xzbaPb_8pE4",
+   "type": "video",
+   "title": "Dean Collins, el genio del Lindy Hop | Estilo Hollywood, Jewel McGowan, el Whip",
+   "artist": "EstiloSwing: Baile y cultura Swing",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 1664,
+   "popularity": 60,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "xzbaPb_8pE4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-qq5Kq1dCZWo",
+   "type": "tutorial",
+   "title": "CalBal Classic 2024 - Invitational Mixed Couples - Mia & Nick",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 142,
+   "popularity": 59,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "qq5Kq1dCZWo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-r_N1LLsLvso",
+   "type": "video",
+   "title": "solo charleston steps",
+   "artist": "Tamara Gassner",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 95,
+   "popularity": 59,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "r_N1LLsLvso"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7Pl9dlBoKIQ",
+   "type": "video",
+   "title": "4/27/16 Next Level Lindy Hop - Partner Charleston (20s basic, circle, breakaway, after seben)",
+   "artist": "swinginstyle",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 119,
+   "popularity": 56,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "7Pl9dlBoKIQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-RVMO1PKHi4k",
+   "type": "video",
+   "title": "Hot Rhythm Holiday 2016 Collegiate Shag Invitational Jack & Jill",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 980,
+   "popularity": 55,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "RVMO1PKHi4k"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-RVkyDdUUzgk",
+   "type": "video",
+   "title": "Breaking down the Frankie 6s #lindyhop #swingdance #frankiemanning",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 58,
+   "popularity": 54,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "RVkyDdUUzgk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Alq4LDF7Sps",
+   "type": "tutorial",
+   "title": "Erik & Sylvia - Hollywood Style Classics",
+   "artist": "Siscast",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 110,
+   "popularity": 52,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "Alq4LDF7Sps"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zhN6n8OEu28",
+   "type": "video",
+   "title": "Frankie Manning - Lindy Hoppers clásicos (1)",
+   "artist": "EstiloSwing: Baile y cultura Swing",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 59,
+   "popularity": 48,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "zhN6n8OEu28"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-G8-MF-UbRiE",
+   "type": "video",
+   "title": "[LIVE] ILHC 2026 - Jazz Team",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 2802,
+   "popularity": 42,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "G8-MF-UbRiE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pZq39FtSyG4",
+   "type": "tutorial",
+   "title": "Beginners Balboa with Simon & Anna (11.4.2021)",
+   "artist": "SwingdanceUK",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 2957,
+   "popularity": 42,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "pZq39FtSyG4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-h00-7LVB71E",
+   "type": "tutorial",
+   "title": "Collegiate Shag for beginners | Sheffield University swing society",
+   "artist": "Swing Society",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 564,
+   "popularity": 42,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "h00-7LVB71E"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Vh_KiSAmXIk",
+   "type": "video",
+   "title": "[LIVE] ILHC 2026 - Lindy Hop Team",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1957,
+   "popularity": 41,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "Vh_KiSAmXIk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1rh09Qv6cjk",
+   "type": "video",
+   "title": "[LIVE] ILHC 2026 - Jazz Throwdown - Top 16 battles",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 2744,
+   "popularity": 40,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "1rh09Qv6cjk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-0Lm54A8gKQc",
+   "type": "video",
+   "title": "[LIVE] ILHC 2026 - Advanced Strictly - Top 8 battles",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1703,
+   "popularity": 39,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "0Lm54A8gKQc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-cSWvwYuQJZY",
+   "type": "video",
+   "title": "[LIVE] ILHC 2026 - Jazz Throwdown - finals",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 3526,
+   "popularity": 39,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "cSWvwYuQJZY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-aCPt2fBlYy0",
+   "type": "video",
+   "title": "[LIVE] ILHC 2026 - Advanced Draw - finals",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1271,
+   "popularity": 38,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "aCPt2fBlYy0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3wEykSfSuNw",
+   "type": "video",
+   "title": "[LIVE] ILHC 2026 - Advanced Strictly - finals",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1669,
+   "popularity": 37,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "3wEykSfSuNw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lxgcTwC83QY",
+   "type": "video",
+   "title": "[LIVE] ILHC 2026 - Novice Draw - finals",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1304,
+   "popularity": 36,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "lxgcTwC83QY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-0gTqO88M2Tc",
+   "type": "video",
+   "title": "[LIVE] ILHC 2026 - Novice Draw - semi-finals",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1401,
+   "popularity": 35,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "0gTqO88M2Tc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-MtNVest30O8",
+   "type": "video",
+   "title": "Uptown Swing Solo Jazz (Charleston) 6/22/2026",
+   "artist": "Uptown Swing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 62,
+   "popularity": 27,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "MtNVest30O8"
+   },
+   "curated": false
+  },
   {
    "id": "yt-Tr-77vZ4_SU",
    "type": "video",
@@ -743,6 +1294,25 @@
    "curated": false
   },
   {
+   "id": "yt-I6jFHVUEZB0",
+   "type": "video",
+   "title": "[LIVE] ILHC 2026 - Advanced Draw - semi-finals",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1412,
+   "popularity": 35,
+   "addedAt": "2026-07-05",
+   "source": {
+    "platform": "youtube",
+    "id": "I6jFHVUEZB0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-FTwBUHiSK2U",
    "type": "video",
    "title": "Balboa Social Finals - Camp Jitterbug 2026",
@@ -815,25 +1385,6 @@
    "source": {
     "platform": "youtube",
     "id": "poBU95v0A9A"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-I6jFHVUEZB0",
-   "type": "video",
-   "title": "[LIVE] ILHC 2026 - Advanced Draw - semi-finals",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 1529,
-   "popularity": 28,
-   "addedAt": "2026-07-05",
-   "source": {
-    "platform": "youtube",
-    "id": "I6jFHVUEZB0"
    },
    "curated": false
   },
@@ -5988,7 +6539,8 @@
    "title": "Advanced Tandem Charleston Combinations for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
-    "charleston"
+    "charleston",
+    "lindy"
    ],
    "bpm": null,
    "year": 2025,
@@ -9557,6 +10109,25 @@
    "curated": false
   },
   {
+   "id": "yt-0TOBqXugSmg",
+   "type": "video",
+   "title": "2026 Junior II Champions - Ava Farlow & Billy West",
+   "artist": "Stages Video Productions",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 188,
+   "popularity": 52,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "0TOBqXugSmg"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-FOFAMOyGAsE",
    "type": "tutorial",
    "title": "Swing Dancing - Learn how to do a Lindy Hop Tuck Turn",
@@ -9819,25 +10390,6 @@
    "source": {
     "platform": "youtube",
     "id": "nf7QJ4SkgrI"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-0TOBqXugSmg",
-   "type": "video",
-   "title": "2026 Junior II Champions - Ava Farlow & Billy West",
-   "artist": "Stages Video Productions",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 188,
-   "popularity": 51,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "0TOBqXugSmg"
    },
    "curated": false
   },
