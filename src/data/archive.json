@@ -1,6 +1,405 @@
 {
- "exportedAt": "2026-07-07T18:49:26.051Z",
+ "exportedAt": "2026-07-08T18:38:02.626Z",
  "items": [
+  {
+   "id": "yt-fBGEUnWDxMA",
+   "type": "video",
+   "title": "1920s Charleston Vintage Dance Music | Great Stars And Songs To Make You Dance",
+   "artist": "Classical Tunes",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 4687,
+   "popularity": 74,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "fBGEUnWDxMA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-5fFzZ2qhc2M",
+   "type": "video",
+   "title": "1925 Paul Whiteman - Charleston",
+   "artist": "The78Prof",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 163,
+   "popularity": 70,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "5fFzZ2qhc2M"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1TXeWlH7Y3Q",
+   "type": "tutorial",
+   "title": "AJW2018 Class Recap: Remy & Jo - Partnered charleston combo",
+   "artist": "The Sweet Heart (Authentic Jazz Weekend)",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 84,
+   "popularity": 65,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "1TXeWlH7Y3Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ta-cLOi6sxQ",
+   "type": "video",
+   "title": "20s Flapper Charleston Dance #swingdance #flappers #charleston",
+   "artist": "Joje_SwingJazz",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 45,
+   "popularity": 58,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "ta-cLOi6sxQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3BqRBlm_p3Q",
+   "type": "tutorial",
+   "title": "Charleston Dance Lesson 1",
+   "artist": "Bryan Overbey",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 48,
+   "popularity": 57,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "3BqRBlm_p3Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dYNc7XIhxDQ",
+   "type": "video",
+   "title": "Collegiate Shag - Maja & Teis",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 91,
+   "popularity": 53,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "dYNc7XIhxDQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--wDFLfMPzXg",
+   "type": "video",
+   "title": "Keith Phillips & Stacy Yokoyama - Savoy Swing 2",
+   "artist": "Swango1cars",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2008,
+   "durationSec": 177,
+   "popularity": 51,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "-wDFLfMPzXg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-GD9lxyR2b_g",
+   "type": "tutorial",
+   "title": "CalBal Classic 2026 - The Open Classic - Alice & Blake",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 117,
+   "popularity": 49,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "GD9lxyR2b_g"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--bar1Cp6Qvs",
+   "type": "video",
+   "title": "Bal Swing (Stop step)",
+   "artist": "EastlakeZoo",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 46,
+   "popularity": 48,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "-bar1Cp6Qvs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-NZSnreY8Fcg",
+   "type": "video",
+   "title": "Social - Skye & Jessica @ SEOUL lindyfest 2025 #swingdance #lindyhop",
+   "artist": "스윙댄스 Lindy Explorer ",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 118,
+   "popularity": 46,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "NZSnreY8Fcg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-0TzNAkJ77cg",
+   "type": "video",
+   "title": "Collegiate Shag #swingdance #shag #dance",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 50,
+   "popularity": 45,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "0TzNAkJ77cg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pZIMdduPPyQ",
+   "type": "video",
+   "title": "Thrift Shop - Solo Jazz and Charleston Routine, Hove UK",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 128,
+   "popularity": 44,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "pZIMdduPPyQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gsaH3Cl-WWg",
+   "type": "video",
+   "title": "20s partner charleston, with mambo step, outside turn and more",
+   "artist": "Swing Patrol Berlin",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 145,
+   "popularity": 43,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "gsaH3Cl-WWg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-rjfNtDc5LK4",
+   "type": "tutorial",
+   "title": "Balboa 발보아 #dance #swingdance #스윙댄스 #swing #balboa #dancetutorial",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 69,
+   "popularity": 41,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "rjfNtDc5LK4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-paKR5EZcWOc",
+   "type": "video",
+   "title": "Collegiate Shag · Clase 1",
+   "artist": "Ivo Ivori",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 196,
+   "popularity": 40,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "paKR5EZcWOc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nJgpPOqu4yc",
+   "type": "tutorial",
+   "title": "10/1/19 Pure Balboa, Class 1",
+   "artist": "Lorelei DeMesa",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 103,
+   "popularity": 37,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "nJgpPOqu4yc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-jaA_y8AJtA4",
+   "type": "video",
+   "title": "What's on: 'Thrift Shop' Charleston & Solo Jazz Course",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 64,
+   "popularity": 37,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "jaA_y8AJtA4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-go6pp2sBkW0",
+   "type": "video",
+   "title": "2015 Spring Week 7 - Pure Balboa",
+   "artist": "UCI Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 60,
+   "popularity": 35,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "go6pp2sBkW0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-6MC476XpXeQ",
+   "type": "video",
+   "title": "St. Louis Shag - May 2018",
+   "artist": "Lindy of the North",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 171,
+   "popularity": 32,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "6MC476XpXeQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-RnaVf1nrIPU",
+   "type": "video",
+   "title": "Austin Shag Jam Performance",
+   "artist": "AP Collegiate Shag",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 132,
+   "popularity": 31,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "RnaVf1nrIPU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8rJ-4kbADO4",
+   "type": "video",
+   "title": "Collegiate Shag Recap - Week 4 Intermediates - Essex Swing Dance",
+   "artist": "Essex Swing Dance",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 58,
+   "popularity": 22,
+   "addedAt": "2026-07-08",
+   "source": {
+    "platform": "youtube",
+    "id": "8rJ-4kbADO4"
+   },
+   "curated": false
+  },
   {
    "id": "yt-IoMbeDhG9fU",
    "type": "video",
@@ -12162,6 +12561,25 @@
    "curated": false
   },
   {
+   "id": "yt-0DPHwlgqaMY",
+   "type": "tutorial",
+   "title": "Balboa | Todd & Irina – Lesson 1 \"Follower Denise Paulino Lollies Styling\"",
+   "artist": "Summer Jamboree Dance Academy",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 438,
+   "popularity": 50,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "0DPHwlgqaMY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-hWZrL7mX9BI",
    "type": "video",
    "title": "Swing It Seattle - Frankie Manning Lindy Hop Performance 1992",
@@ -12253,25 +12671,6 @@
    "source": {
     "platform": "youtube",
     "id": "R2aqQ6NwJbc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-0DPHwlgqaMY",
-   "type": "tutorial",
-   "title": "Balboa | Todd & Irina – Lesson 1 \"Follower Denise Paulino Lollies Styling\"",
-   "artist": "Summer Jamboree Dance Academy",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 438,
-   "popularity": 49,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "0DPHwlgqaMY"
    },
    "curated": false
   },
@@ -16969,6 +17368,25 @@
    "curated": false
   },
   {
+   "id": "yt-CMm2FsJ8YMM",
+   "type": "video",
+   "title": "A Great Demonstration of Collegiate Shag from 1937 (Phony Boy)",
+   "artist": "Walter Nelson (Wallywood Pictures)",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 108,
+   "popularity": 29,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "CMm2FsJ8YMM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-RvV6rrOporQ",
    "type": "video",
    "title": "Dom & Kate -- The Balboa Experiment 2024, social dance",
@@ -16984,25 +17402,6 @@
    "source": {
     "platform": "youtube",
     "id": "RvV6rrOporQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-CMm2FsJ8YMM",
-   "type": "video",
-   "title": "A Great Demonstration of Collegiate Shag from 1937 (Phony Boy)",
-   "artist": "Walter Nelson (Wallywood Pictures)",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 108,
-   "popularity": 27,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "CMm2FsJ8YMM"
    },
    "curated": false
   },
