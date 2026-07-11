@@ -1,6 +1,348 @@
 {
- "exportedAt": "2026-07-10T18:37:25.653Z",
+ "exportedAt": "2026-07-11T18:24:41.453Z",
  "items": [
+  {
+   "id": "yt-5YMPNNWnU7g",
+   "type": "video",
+   "title": "Ginger Rogers and Lucy do The Charleston",
+   "artist": "classictvguru70",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2008,
+   "durationSec": 128,
+   "popularity": 90,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "5YMPNNWnU7g"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ehVZktW0BK4",
+   "type": "video",
+   "title": "Balboa-Swing Dancing in the short Maharaja (1943)",
+   "artist": "A-Town Agency",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2007,
+   "durationSec": 183,
+   "popularity": 78,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "ehVZktW0BK4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-WTtducuT6e8",
+   "type": "video",
+   "title": "Savoy Ballroom (The Soulmate Project Remix)",
+   "artist": "Tarmac Rodéo - Topic",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 168,
+   "popularity": 75,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "WTtducuT6e8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-5SSZJtdyf8g",
+   "type": "video",
+   "title": "Learn to Lindy Hop from the Ground Up - 6 Count Vocabulary",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 853,
+   "popularity": 69,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "5SSZJtdyf8g"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-moEoNiuGfL4",
+   "type": "video",
+   "title": "Learn Frankie Manning's LINDY CHORUS",
+   "artist": "Swing Time",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 1590,
+   "popularity": 67,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "moEoNiuGfL4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lqTR4ge9ucc",
+   "type": "video",
+   "title": "Frankie Manning & Åsa Palm, Herräng 1999",
+   "artist": "Mandi Gould",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 144,
+   "popularity": 63,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "lqTR4ge9ucc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-WVs_FQUn9fk",
+   "type": "video",
+   "title": "Frankie Manning's Points and Reverse Swingout",
+   "artist": "Dancing Heart",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 118,
+   "popularity": 61,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "WVs_FQUn9fk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Sh1XzsdU7XY",
+   "type": "video",
+   "title": "Lindyhop/ Tap - Frankie Manning, Dawn Hampton and Chazz Young @ Wild Week 1995 스윙댄스 린디합",
+   "artist": "스윙댄스 Lindy Explorer ",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 352,
+   "popularity": 60,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "Sh1XzsdU7XY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-AwJjk00bauE",
+   "type": "video",
+   "title": "Frankie Manning Media Archive Village Gate, \"A Night at the Savoy\"",
+   "artist": "Frankie Manning Foundation",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 130,
+   "popularity": 52,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "AwJjk00bauE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-mGnIYJQEfj8",
+   "type": "video",
+   "title": "Lindy Hop Performance - Lindy Chorus - Frankie Manning",
+   "artist": "Swing Planet",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 165,
+   "popularity": 52,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "mGnIYJQEfj8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-V0RD_uKnQqQ",
+   "type": "video",
+   "title": "RTSF 2026: Fast Feet Jack’n’Jill Lindy Hop Finals – Friday",
+   "artist": "RockThatSwing",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 256,
+   "popularity": 51,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "V0RD_uKnQqQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Xq5TLtesSDw",
+   "type": "tutorial",
+   "title": "CalBal Classic 2025 - Invitational Mixed Couples - Theresa & Nick",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 126,
+   "popularity": 50,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "Xq5TLtesSDw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1R6G90BN9U0",
+   "type": "video",
+   "title": "WNH - Swingin' At The Savoy - Lindy Hop Clips",
+   "artist": "The Swing Cats Rhythm Revue",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 74,
+   "popularity": 46,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "1R6G90BN9U0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_rmDzbZOasg",
+   "type": "video",
+   "title": "Intermediate Balboa Ballroom Dance",
+   "artist": "Dance Vision Syllabus - Learn to Ballroom Dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 99,
+   "popularity": 44,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "_rmDzbZOasg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-04_UYAVK6fA",
+   "type": "tutorial",
+   "title": "Week 2 - Balboa Basics for Lindyhoppers - Nalla & Jessica #swingdance",
+   "artist": "스윙댄스 Lindy Explorer ",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 96,
+   "popularity": 40,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "04_UYAVK6fA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-2HcMC1RshRY",
+   "type": "video",
+   "title": "Lindy Hop dance style music 🎵 Halpless",
+   "artist": "ODG-DANCE",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 49,
+   "popularity": 38,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "2HcMC1RshRY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-H24wOH_qOnM",
+   "type": "video",
+   "title": "Uptown Swing Solo Jazz (Charleston) 6/15/2026",
+   "artist": "Uptown Swing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 86,
+   "popularity": 25,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "H24wOH_qOnM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-N35WUSbsdKc",
+   "type": "video",
+   "title": "WBGO Archive (2010): The late Lindy Hop legend Norma Miller shared her amazing Savoy Ballroom...",
+   "artist": "WBGO",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 228,
+   "popularity": 23,
+   "addedAt": "2026-07-11",
+   "source": {
+    "platform": "youtube",
+    "id": "N35WUSbsdKc"
+   },
+   "curated": false
+  },
   {
    "id": "yt-rpgHgu1P9NY",
    "type": "tutorial",
@@ -4667,7 +5009,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 96,
-   "popularity": 49,
+   "popularity": 50,
    "addedAt": "2026-07-05",
    "source": {
     "platform": "youtube",
@@ -12867,6 +13209,25 @@
    "curated": false
   },
   {
+   "id": "yt-45eMp_QmgBM",
+   "type": "video",
+   "title": "2026 Professional Champions - Autumn Jones & Grayson Free",
+   "artist": "Stages Video Productions",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 189,
+   "popularity": 56,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "45eMp_QmgBM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-dP8jiwmcV9U",
    "type": "tutorial",
    "title": "Difference between Lindy Hop and Charleston | Online Swing Dance Lessons | Street Smart Swing",
@@ -13053,25 +13414,6 @@
    "source": {
     "platform": "youtube",
     "id": "uWCBz7WGyCg"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-45eMp_QmgBM",
-   "type": "video",
-   "title": "2026 Professional Champions - Autumn Jones & Grayson Free",
-   "artist": "Stages Video Productions",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 189,
-   "popularity": 55,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "45eMp_QmgBM"
    },
    "curated": false
   },
@@ -18491,6 +18833,25 @@
    "curated": false
   },
   {
+   "id": "yt-jr0MqdXbf44",
+   "type": "video",
+   "title": "Beijing Balboa Fever 2026  Advanced Mix & Match Final",
+   "artist": "Swing Beasts Studio_Beijing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 778,
+   "popularity": 36,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "jr0MqdXbf44"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-XYXcqFQbTvk",
    "type": "tutorial",
    "title": "Pensacola Swing Savoy Style Lindy Hop Lesson",
@@ -18525,25 +18886,6 @@
    "source": {
     "platform": "youtube",
     "id": "VROGdid3-dk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-jr0MqdXbf44",
-   "type": "video",
-   "title": "Beijing Balboa Fever 2026  Advanced Mix & Match Final",
-   "artist": "Swing Beasts Studio_Beijing",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 778,
-   "popularity": 35,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "jr0MqdXbf44"
    },
    "curated": false
   },
