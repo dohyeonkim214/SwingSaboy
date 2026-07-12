@@ -1,6 +1,747 @@
 {
- "exportedAt": "2026-07-11T18:24:41.453Z",
+ "exportedAt": "2026-07-12T18:25:16.270Z",
  "items": [
+  {
+   "id": "yt-vdOFotyWwy4",
+   "type": "video",
+   "title": "RTSF 2107 - Bianca & Nils",
+   "artist": "RockThatSwing",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 158,
+   "popularity": 100,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "vdOFotyWwy4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-PyzkLRrZTCQ",
+   "type": "video",
+   "title": "Can’t believe we literally just met 😅 #westcoastswing #dance #competition #improv #randomsong",
+   "artist": "Keerigan Rudd",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 54,
+   "popularity": 98,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "PyzkLRrZTCQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ofdFj_giGWU",
+   "type": "video",
+   "title": "Max & Pamela - Harlem 2014",
+   "artist": "LindyhopLT",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 248,
+   "popularity": 96,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "ofdFj_giGWU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-6NIeqzrF7Jw",
+   "type": "video",
+   "title": "Thibault Ramirez & Emeline Rochefeuille - 1st place Strictly Open Finals - Global Grand Prix 2022",
+   "artist": "Global Grand Prix - West Coast Swing Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 172,
+   "popularity": 93,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "6NIeqzrF7Jw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-F9wrAAAcQL4",
+   "type": "tutorial",
+   "title": "Shuffling for Beginners: Your First 5 Moves to Master",
+   "artist": "Emylee x The Shuffle Vault",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 791,
+   "popularity": 85,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "F9wrAAAcQL4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-30lGUtZvhs4",
+   "type": "tutorial",
+   "title": "Charleston Shuffle Dance Tutorial | How to do the CHARLESTON How to Shuffle Dance",
+   "artist": "Shuffle Dance Academy",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 692,
+   "popularity": 74,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "30lGUtZvhs4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-eqM0CZG2dQQ",
+   "type": "video",
+   "title": "ATHENS RHYTHM HOP 2025 - Nils and Bianca",
+   "artist": "Nils and Bianca",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 131,
+   "popularity": 73,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "eqM0CZG2dQQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-z-3O34h_-y4",
+   "type": "video",
+   "title": "ILHC 2011 - Invitational Jack & Jill ENTIRE Competition (International Lindy Hop Championships) [HD]",
+   "artist": "LindyLibrary",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 1798,
+   "popularity": 69,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "z-3O34h_-y4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ndmqdmk8Dg0",
+   "type": "video",
+   "title": "CALL and RESPONSE in Lindy Hop social dancing. Mercè Garric & Jaume Rosset.",
+   "artist": "Swing this Music",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 139,
+   "popularity": 67,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "ndmqdmk8Dg0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-WbHwYePVoik",
+   "type": "video",
+   "title": "Swing dancing - Lindy Hop & Balboa",
+   "artist": "DanceTime.com",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 150,
+   "popularity": 60,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "WbHwYePVoik"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-2Mqe761Cvas",
+   "type": "video",
+   "title": "Belles on Toes  Collegiate Shag contest",
+   "artist": "snakeblskn",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 259,
+   "popularity": 59,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "2Mqe761Cvas"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9IbRlvoHPho",
+   "type": "video",
+   "title": "3rd Place: Laura & Skye - Invitational Draw - ILHC 2024",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 130,
+   "popularity": 55,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "9IbRlvoHPho"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-p_xIvVBpYyg",
+   "type": "video",
+   "title": "MyCharleston: Sing Sing Sing - Charleston/Solo Jazz Routine",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 103,
+   "popularity": 51,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "p_xIvVBpYyg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Xdi-6vQsnyw",
+   "type": "tutorial",
+   "title": "Shag class 5 - scoots & shag out",
+   "artist": "SwingStreet.nl",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 148,
+   "popularity": 49,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "Xdi-6vQsnyw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dLIEizrA9Bk",
+   "type": "video",
+   "title": "'When The Saints Go Marching In' -  Solo Jazz & Charleston Routine",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 53,
+   "popularity": 48,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "dLIEizrA9Bk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-AK_DUCRllwI",
+   "type": "video",
+   "title": "Jazz Roots 2023 - Solo Competition 3/3 Reaction - Lindy Hop Swing Dance",
+   "artist": "Street Smart Swing",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 482,
+   "popularity": 46,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "AK_DUCRllwI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-EQt9jsaGWWs",
+   "type": "tutorial",
+   "title": "How to prepare for Lindy Hop Jack and Jill competitions 2022 | Lindy Hop and Swing Dance",
+   "artist": "Street Smart Swing",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 218,
+   "popularity": 45,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "EQt9jsaGWWs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-W34R8lMqYo8",
+   "type": "tutorial",
+   "title": "BEGINNING Line Dance step:  The Charleston! #LineDance #CountrySwing #DanceTutorial #countrydance",
+   "artist": "Adia Dance",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 55,
+   "popularity": 45,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "W34R8lMqYo8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-yONsSd1sj0E",
+   "type": "video",
+   "title": "The Fastest Feet! Shag Competition - Camp Hollywood 2023 - The Warmup",
+   "artist": "Joe N Dancer",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 153,
+   "popularity": 45,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "yONsSd1sj0E"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-uNLbqvyMlUA",
+   "type": "tutorial",
+   "title": "Solo jazz/charleston routine Yara - April 9th 2015, last class",
+   "artist": "SwingStreet.nl",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 189,
+   "popularity": 44,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "uNLbqvyMlUA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-E74PiusCQYY",
+   "type": "video",
+   "title": "\"puttin on the ritz\" Fred Astaire - solo jazz / charleston routine",
+   "artist": "rikomatic",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 62,
+   "popularity": 44,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "E74PiusCQYY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-fgyT1bsBqlY",
+   "type": "video",
+   "title": "CHARLESTON and SOLO JAZZ danced to Sidney Bechet's BLAME IT ON THE BLUES",
+   "artist": "Peter and Naomi",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 61,
+   "popularity": 43,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "fgyT1bsBqlY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-vRGyKc6etAA",
+   "type": "video",
+   "title": "B Swing Lindy ~ Charleston #1 [1920s Charleston Dance/Authentic Jazz/Solo Jazz]",
+   "artist": "Bswinglindy Singapore",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 162,
+   "popularity": 43,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "vRGyKc6etAA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dzGUWHY-7Cs",
+   "type": "tutorial",
+   "title": "Shag beg/Int - Class 02 - vomit comet (full) + turn drills",
+   "artist": "SwingStreet.nl",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 204,
+   "popularity": 43,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "dzGUWHY-7Cs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-cfjo5pjBNQc",
+   "type": "video",
+   "title": "Amateur Lindy Hop Finals – Uplifting Performances | Camp Hollywood 2025",
+   "artist": "Swing Dancing Phoenix",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 366,
+   "popularity": 42,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "cfjo5pjBNQc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Z9Gmxai3ew0",
+   "type": "video",
+   "title": "“Uptown Lowdown” Balboa Performance at You Should Be Dancing...! Studio Swing Dance Grand Opening",
+   "artist": "You Should Be Dancing...!",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 182,
+   "popularity": 42,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "Z9Gmxai3ew0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-t3DeyPT73vM",
+   "type": "video",
+   "title": "솔로재즈루틴 | Team ZIGZAG Solo Jazz Routine (Charleston)",
+   "artist": "Joje_SwingJazz",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 132,
+   "popularity": 42,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "t3DeyPT73vM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Dv8PgwU8a-8",
+   "type": "video",
+   "title": "Charleston/Solo Jazz/Jazz Routine - Corsi di ballo",
+   "artist": "Level 059 Dance Academy",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 50,
+   "popularity": 40,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "Dv8PgwU8a-8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ZO8mxLyqGpI",
+   "type": "video",
+   "title": "Herrang 2026 - Week 1 - Feel The Beat Competition",
+   "artist": "Herrang Dance Camp",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 219,
+   "popularity": 40,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "ZO8mxLyqGpI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pfHaKHrFuLQ",
+   "type": "video",
+   "title": "Combo shag competition - finals - Shag Republic 2024, Prague",
+   "artist": "Shag Republic",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 518,
+   "popularity": 39,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "pfHaKHrFuLQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-O0s4nJ8k6MI",
+   "type": "video",
+   "title": "B Swing Lindy ILHC 2020 Virtual Team Solo Jazz and Charleston Routine",
+   "artist": "Bswinglindy Singapore",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 145,
+   "popularity": 34,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "O0s4nJ8k6MI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--oWoi6KjnZ8",
+   "type": "tutorial",
+   "title": "Solo jazz/charleston Yara january 22nd, 3rd class",
+   "artist": "SwingStreet.nl",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 203,
+   "popularity": 32,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "-oWoi6KjnZ8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IBgZP0zi2dw",
+   "type": "video",
+   "title": "ATCJI 2020 Shag Showdown Competition Finals - Patricia Falzon & Alexandre Flore",
+   "artist": "All the Cats Join In",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 109,
+   "popularity": 31,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "IBgZP0zi2dw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-d-2K29h2VJk",
+   "type": "video",
+   "title": "Collegiate Shag from Patrick & Natasha",
+   "artist": "Panos Ligkas Triantopoulos",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 284,
+   "popularity": 31,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "d-2K29h2VJk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-5bUymNY4j30",
+   "type": "tutorial",
+   "title": "Solo Jazz & Charleston Class 1 - Recap",
+   "artist": "SwingdanceUK",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 531,
+   "popularity": 30,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "5bUymNY4j30"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-G8AXqpXBifQ",
+   "type": "video",
+   "title": "Shag Republic Prague 2023 - Competition Finals (Collegiate Shag & St. Louis Shag) - Video 2/4",
+   "artist": "Jerry Garcia",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 615,
+   "popularity": 26,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "G8AXqpXBifQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-mPgfZs9V7tg",
+   "type": "video",
+   "title": "EUSDS Video Recap, Saturday 1st December 2018 - Collegiate Shag (Week 3 of 3)",
+   "artist": "EUSDS (EUSDS)",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 65,
+   "popularity": 26,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "mPgfZs9V7tg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_VnovVk5qWo",
+   "type": "video",
+   "title": "Solo jazz: mini Charleston routine",
+   "artist": "chachisland",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 71,
+   "popularity": 16,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "_VnovVk5qWo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-UXk89EBVK8w",
+   "type": "video",
+   "title": "Level 2 - Bal Swing Expansion - Week 1 - 7/7/26",
+   "artist": "Twin Cities Balboa Connection",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 138,
+   "popularity": 15,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "UXk89EBVK8w"
+   },
+   "curated": false
+  },
   {
    "id": "yt-5YMPNNWnU7g",
    "type": "video",
@@ -1294,6 +2035,25 @@
    "curated": false
   },
   {
+   "id": "yt-OJLCUEWHeZU",
+   "type": "tutorial",
+   "title": "Balboa Dance Basic Steps for Beginners | Day 1 of 4",
+   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 91,
+   "popularity": 30,
+   "addedAt": "2026-07-10",
+   "source": {
+    "platform": "youtube",
+    "id": "OJLCUEWHeZU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Jz6wj1P6HPQ",
    "type": "video",
    "title": "HRH 2026 - Amateur Balboa Strictly Finals - Lucy & Stan",
@@ -1309,25 +2069,6 @@
    "source": {
     "platform": "youtube",
     "id": "Jz6wj1P6HPQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-OJLCUEWHeZU",
-   "type": "tutorial",
-   "title": "Balboa Dance Basic Steps for Beginners | Day 1 of 4",
-   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 91,
-   "popularity": 29,
-   "addedAt": "2026-07-10",
-   "source": {
-    "platform": "youtube",
-    "id": "OJLCUEWHeZU"
    },
    "curated": false
   },
@@ -4334,6 +5075,25 @@
    "curated": false
   },
   {
+   "id": "yt-cSWvwYuQJZY",
+   "type": "video",
+   "title": "[LIVE] ILHC 2026 - Jazz Throwdown - finals",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 3526,
+   "popularity": 47,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "cSWvwYuQJZY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-G8-MF-UbRiE",
    "type": "video",
    "title": "[LIVE] ILHC 2026 - Jazz Team",
@@ -4368,25 +5128,6 @@
    "source": {
     "platform": "youtube",
     "id": "Vh_KiSAmXIk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-cSWvwYuQJZY",
-   "type": "video",
-   "title": "[LIVE] ILHC 2026 - Jazz Throwdown - finals",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 3526,
-   "popularity": 46,
-   "addedAt": "2026-07-06",
-   "source": {
-    "platform": "youtube",
-    "id": "cSWvwYuQJZY"
    },
    "curated": false
   },
@@ -15489,6 +16230,25 @@
    "curated": false
   },
   {
+   "id": "yt-eywYcGcpkJQ",
+   "type": "video",
+   "title": "🎷 [160–169 BPM] Balboa Dance Music Playlist 💃🕺 | Smooth & Groovy Swing",
+   "artist": "Balboa Music Station",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 5649,
+   "popularity": 48,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "eywYcGcpkJQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Y3MedRSWEfI",
    "type": "video",
    "title": "A Short Explanation of Bal-Swing",
@@ -15504,25 +16264,6 @@
    "source": {
     "platform": "youtube",
     "id": "Y3MedRSWEfI"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-eywYcGcpkJQ",
-   "type": "video",
-   "title": "🎷 [160–169 BPM] Balboa Dance Music Playlist 💃🕺 | Smooth & Groovy Swing",
-   "artist": "Balboa Music Station",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 5649,
-   "popularity": 47,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "eywYcGcpkJQ"
    },
    "curated": false
   },
@@ -17617,6 +18358,25 @@
    "curated": false
   },
   {
+   "id": "yt-7umymmTwryQ",
+   "type": "video",
+   "title": "PiS 2024 - Jordan Hunter & Charlotte Liebenow - Collegiate Shag showcase",
+   "artist": "Swing Fever Social",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 60,
+   "popularity": 42,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "7umymmTwryQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-iewDPl7ipUA",
    "type": "video",
    "title": "Hellzapoppin' Hoopla - Harlem vs Hollywood (fwd swingout, Frankie & Willa Mae, switches)",
@@ -17727,25 +18487,6 @@
    "source": {
     "platform": "youtube",
     "id": "zln4Qr65owE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-7umymmTwryQ",
-   "type": "video",
-   "title": "PiS 2024 - Jordan Hunter & Charlotte Liebenow - Collegiate Shag showcase",
-   "artist": "Swing Fever Social",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 60,
-   "popularity": 41,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "7umymmTwryQ"
    },
    "curated": false
   },
@@ -18016,6 +18757,25 @@
    "curated": false
   },
   {
+   "id": "yt-r9xGQapq1Kk",
+   "type": "video",
+   "title": "Collegiate Shag Trailer | Steve & Chanzie Vol. 1",
+   "artist": "Summer Jamboree Dance Academy",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 49,
+   "popularity": 40,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "r9xGQapq1Kk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-SmA1phDbM-M",
    "type": "video",
    "title": "Lindy Hop Performance - Savoy Blip",
@@ -18088,25 +18848,6 @@
    "source": {
     "platform": "youtube",
     "id": "8eIvdPlZwg4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-r9xGQapq1Kk",
-   "type": "video",
-   "title": "Collegiate Shag Trailer | Steve & Chanzie Vol. 1",
-   "artist": "Summer Jamboree Dance Academy",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 49,
-   "popularity": 39,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "r9xGQapq1Kk"
    },
    "curated": false
   },
@@ -19574,6 +20315,25 @@
    "curated": false
   },
   {
+   "id": "yt-CMm2FsJ8YMM",
+   "type": "video",
+   "title": "A Great Demonstration of Collegiate Shag from 1937 (Phony Boy)",
+   "artist": "Walter Nelson (Wallywood Pictures)",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 108,
+   "popularity": 30,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "CMm2FsJ8YMM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-07z_0eosqE4",
    "type": "video",
    "title": "SAVOY STYLE SWING \"It Could Happen to You\" Brother Brian Davis",
@@ -19646,25 +20406,6 @@
    "source": {
     "platform": "youtube",
     "id": "9VHafGAl-Zk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-CMm2FsJ8YMM",
-   "type": "video",
-   "title": "A Great Demonstration of Collegiate Shag from 1937 (Phony Boy)",
-   "artist": "Walter Nelson (Wallywood Pictures)",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 108,
-   "popularity": 29,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "CMm2FsJ8YMM"
    },
    "curated": false
   },
