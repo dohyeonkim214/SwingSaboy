@@ -1,6 +1,348 @@
 {
- "exportedAt": "2026-07-13T18:40:08.245Z",
+ "exportedAt": "2026-07-14T18:32:09.569Z",
  "items": [
+  {
+   "id": "yt-Aac6ZadJX4g",
+   "type": "video",
+   "title": "Boogie Woogie Summons Professional Swing Dance Couple In Public!",
+   "artist": "Jared Nandra",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 167,
+   "popularity": 97,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "Aac6ZadJX4g"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-TbLFzDrikMU",
+   "type": "video",
+   "title": "Danny Mac & Oti Charleston to ‘Puttin’ On The Ritz’ by Gregory Porter - Strictly 2016: Blackpool",
+   "artist": "BBC Strictly Come Dancing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 135,
+   "popularity": 90,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "TbLFzDrikMU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pUt3_ybtxoU",
+   "type": "video",
+   "title": "MBSW 2013 - Stephen Sayer & Chanzie Roettig - Shag Performance",
+   "artist": "Vintage Club",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 184,
+   "popularity": 82,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "pUt3_ybtxoU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1Lr5Wh0sRII",
+   "type": "video",
+   "title": "shag routine",
+   "artist": "1mikesmiley",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 203,
+   "popularity": 79,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "1Lr5Wh0sRII"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-G98kJkdAHGw",
+   "type": "video",
+   "title": "Warsaw Collegiate Shag Festival 2016 - Teachers Introduction",
+   "artist": "Warsaw Collegiate Shag Festival",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 296,
+   "popularity": 77,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "G98kJkdAHGw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-0cao4K1AsqA",
+   "type": "video",
+   "title": "Whiteys Lindy Hoppers dancing to Cootie Williams and his Orchestra 1943",
+   "artist": "Savoy Hop",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 133,
+   "popularity": 67,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "0cao4K1AsqA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Lwn_eOW1dMc",
+   "type": "video",
+   "title": "RTSF 2013 Juan & Sharon - Lindy Hop Showcase",
+   "artist": "RockThatSwing",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 205,
+   "popularity": 66,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "Lwn_eOW1dMc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1pBDG9gaa4c",
+   "type": "video",
+   "title": "Jump Charleston - Vernacular Jazz Dance Explained for Lindy Hop & Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 280,
+   "popularity": 62,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "1pBDG9gaa4c"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gfCDGBWLQkM",
+   "type": "tutorial",
+   "title": "3 Ways to Improve Your Solo Jazz - Syncopated City Sneak Peek & Tutorial",
+   "artist": "Syncopated City",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 536,
+   "popularity": 56,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "gfCDGBWLQkM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8j4Y7f7fhdk",
+   "type": "video",
+   "title": "Advanced I Balboa Ballroom Dance",
+   "artist": "Dance Vision Syllabus - Learn to Ballroom Dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 250,
+   "popularity": 52,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "8j4Y7f7fhdk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-r5Zf9lUPlQg",
+   "type": "video",
+   "title": "(1/4) Swing Dance Balboa Masters featuring Anne Mills",
+   "artist": "Swing Dancing San Diego",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 684,
+   "popularity": 49,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "r5Zf9lUPlQg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-LlAkGqBLrDs",
+   "type": "tutorial",
+   "title": "Beginner Balboa Toss Outs: Class Recap",
+   "artist": "Lainey Silver",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 59,
+   "popularity": 45,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "LlAkGqBLrDs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-O3qF2dKGfsw",
+   "type": "video",
+   "title": "Charleston Jazz Solo Dance of the 20-s #shorts #dance #dancer #danceshorts #jazz #jazzdance #solo",
+   "artist": "ALEXANDER LYUTINSKIY VIDEO",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 60,
+   "popularity": 45,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "O3qF2dKGfsw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-i1F3D1Xn0_I",
+   "type": "video",
+   "title": "ILHC 2016 - Solo Jazz / Charleston Prelims",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 725,
+   "popularity": 43,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "i1F3D1Xn0_I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-b5M4V1bwZMo",
+   "type": "video",
+   "title": "Intro to Swing Dancing: Balboa - Week 1 (7/16/19)",
+   "artist": "RVAswing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 318,
+   "popularity": 40,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "b5M4V1bwZMo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-PyA8TzOmIng",
+   "type": "video",
+   "title": "Smooth Sailing - Solo Jazz Routine",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 185,
+   "popularity": 40,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "PyA8TzOmIng"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-O5SejAOWHWA",
+   "type": "video",
+   "title": "Balboa Lisboa Workshop - Int/Adv day 1",
+   "artist": "Let It Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 90,
+   "popularity": 37,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "O5SejAOWHWA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-k6z2N1tjCcA",
+   "type": "video",
+   "title": "St Louis Shag Recap at Shag and Drag Festival 2017",
+   "artist": "Lainey Silver",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 138,
+   "popularity": 30,
+   "addedAt": "2026-07-14",
+   "source": {
+    "platform": "youtube",
+    "id": "k6z2N1tjCcA"
+   },
+   "curated": false
+  },
   {
    "id": "yt-zpeUnWrteQM",
    "type": "video",
@@ -411,7 +753,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 82,
-   "popularity": 25,
+   "popularity": 26,
    "addedAt": "2026-07-13",
    "source": {
     "platform": "youtube",
@@ -1133,7 +1475,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 138,
-   "popularity": 18,
+   "popularity": 19,
    "addedAt": "2026-07-12",
    "source": {
     "platform": "youtube",
@@ -5503,7 +5845,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 3526,
-   "popularity": 47,
+   "popularity": 48,
    "addedAt": "2026-07-06",
    "source": {
     "platform": "youtube",
@@ -6681,7 +7023,8 @@
    "title": "RTSF 2019 – Dietmar & Nellia – Never Stop Jiving",
    "artist": "RockThatSwing",
    "styles": [
-    "lindy"
+    "lindy",
+    "charleston"
    ],
    "bpm": null,
    "year": 2019,
@@ -7108,7 +7451,8 @@
    "title": "RTSF 2020 Rock That Swing Ball (Saturday) – Killer Boogie",
    "artist": "RockThatSwing",
    "styles": [
-    "lindy"
+    "lindy",
+    "charleston"
    ],
    "bpm": null,
    "year": 2020,
@@ -7222,7 +7566,8 @@
    "title": "RTSF 2016 - The Nitty Gritty - Chanzie & Stephen",
    "artist": "RockThatSwing",
    "styles": [
-    "lindy"
+    "lindy",
+    "charleston"
    ],
    "bpm": null,
    "year": 2016,
@@ -7413,7 +7758,8 @@
    "title": "Rock That Swing Festival 2020 - Tanya Solo Performance",
    "artist": "Sondre & Tanya",
    "styles": [
-    "charleston"
+    "charleston",
+    "lindy"
    ],
    "bpm": null,
    "year": 2020,
@@ -7732,6 +8078,25 @@
    "curated": false
   },
   {
+   "id": "yt-W02njc9B3Hs",
+   "type": "video",
+   "title": "Savannah How: The basic steps to shag dancing",
+   "artist": "Savannah Morning News & savannahnow.com",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 253,
+   "popularity": 86,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "W02njc9B3Hs"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-m34eD21QzUw",
    "type": "video",
    "title": "Frankie Manning Tribute Video",
@@ -7785,25 +8150,6 @@
    "source": {
     "platform": "youtube",
     "id": "dtdhfAXKA9M"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-W02njc9B3Hs",
-   "type": "video",
-   "title": "Savannah How: The basic steps to shag dancing",
-   "artist": "Savannah Morning News & savannahnow.com",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2015,
-   "durationSec": 253,
-   "popularity": 85,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "W02njc9B3Hs"
    },
    "curated": false
   },
@@ -19194,6 +19540,25 @@
    "curated": false
   },
   {
+   "id": "yt-QMnP8-PFzfw",
+   "type": "video",
+   "title": "PIS 2025 - Balboa strictly final",
+   "artist": "Policoro in Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 412,
+   "popularity": 40,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "QMnP8-PFzfw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-SmA1phDbM-M",
    "type": "video",
    "title": "Lindy Hop Performance - Savoy Blip",
@@ -19228,25 +19593,6 @@
    "source": {
     "platform": "youtube",
     "id": "mbJFaS4Gmqs"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-QMnP8-PFzfw",
-   "type": "video",
-   "title": "PIS 2025 - Balboa strictly final",
-   "artist": "Policoro in Swing",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 412,
-   "popularity": 39,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "QMnP8-PFzfw"
    },
    "curated": false
   },
