@@ -1,6 +1,215 @@
 {
- "exportedAt": "2026-07-14T18:32:09.569Z",
+ "exportedAt": "2026-07-15T18:32:37.654Z",
  "items": [
+  {
+   "id": "yt-_owoRJON-Yk",
+   "type": "tutorial",
+   "title": "Country Swing Dancing **THE BASICS** Tutorial!",
+   "artist": "Grant & Shalee - King & Queen of Country Swing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 541,
+   "popularity": 88,
+   "addedAt": "2026-07-15",
+   "source": {
+    "platform": "youtube",
+    "id": "_owoRJON-Yk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QQR-YI15dnY",
+   "type": "video",
+   "title": "Our Best Wedding Dance Swing Lindy Hop & Charleston",
+   "artist": "Matej Miklanek",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 224,
+   "popularity": 77,
+   "addedAt": "2026-07-15",
+   "source": {
+    "platform": "youtube",
+    "id": "QQR-YI15dnY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dATuXw7bLAE",
+   "type": "video",
+   "title": "SM 2021 Lindy Hop Showcase Heat 3, Nils Andrén & Bianca Locatelli",
+   "artist": "Tomas Blom",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 116,
+   "popularity": 70,
+   "addedAt": "2026-07-15",
+   "source": {
+    "platform": "youtube",
+    "id": "dATuXw7bLAE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-A9wzOgG3kB4",
+   "type": "video",
+   "title": "Abbreviated Charleston History - Lindy Hop and Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 201,
+   "popularity": 62,
+   "addedAt": "2026-07-15",
+   "source": {
+    "platform": "youtube",
+    "id": "A9wzOgG3kB4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nz3jbApmofw",
+   "type": "video",
+   "title": "Bal-Swing in Darmstadt with Ali and Katja.avi",
+   "artist": "aliandkatja",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 73,
+   "popularity": 54,
+   "addedAt": "2026-07-15",
+   "source": {
+    "platform": "youtube",
+    "id": "nz3jbApmofw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Jdkto2OwLGc",
+   "type": "video",
+   "title": "Strictly Throwdown Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 735,
+   "popularity": 35,
+   "addedAt": "2026-07-15",
+   "source": {
+    "platform": "youtube",
+    "id": "Jdkto2OwLGc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7WBnQbnIp80",
+   "type": "video",
+   "title": "Strictly Throwdown - Top 16 Battles - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 2080,
+   "popularity": 34,
+   "addedAt": "2026-07-15",
+   "source": {
+    "platform": "youtube",
+    "id": "7WBnQbnIp80"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_G_2j9v8Ciw",
+   "type": "video",
+   "title": "Lindy Hop Performance Showcase 2017- New Jersey Lindy Hoppers",
+   "artist": "Nissreen Almazouni",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 220,
+   "popularity": 33,
+   "addedAt": "2026-07-15",
+   "source": {
+    "platform": "youtube",
+    "id": "_G_2j9v8Ciw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-00WhHTfhVck",
+   "type": "video",
+   "title": "Strictly Throwdown - Top 8 Battles - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1256,
+   "popularity": 29,
+   "addedAt": "2026-07-15",
+   "source": {
+    "platform": "youtube",
+    "id": "00WhHTfhVck"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-goWk-23orcY",
+   "type": "video",
+   "title": "Strictly Throwdown - Top 4 Battles - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 680,
+   "popularity": 26,
+   "addedAt": "2026-07-15",
+   "source": {
+    "platform": "youtube",
+    "id": "goWk-23orcY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-yQrC7c0R2xw",
+   "type": "video",
+   "title": "Prague Lindy Hop Weekend | Swing Move Showcase",
+   "artist": "Swing Move",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 169,
+   "popularity": 21,
+   "addedAt": "2026-07-15",
+   "source": {
+    "platform": "youtube",
+    "id": "yQrC7c0R2xw"
+   },
+   "curated": false
+  },
   {
    "id": "yt-Aac6ZadJX4g",
    "type": "video",
@@ -6087,7 +6296,8 @@
    "title": "The way the crowd went oooOOOH 😆 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
-    "lindy"
+    "lindy",
+    "charleston"
    ],
    "bpm": null,
    "year": 2025,
@@ -16386,6 +16596,25 @@
    "curated": false
   },
   {
+   "id": "yt-bCPj2BUPIRU",
+   "type": "video",
+   "title": "Explore Creative Movement in Pure Balboa",
+   "artist": "Justin Montgomery",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 60,
+   "popularity": 50,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "bCPj2BUPIRU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-hWZrL7mX9BI",
    "type": "video",
    "title": "Swing It Seattle - Frankie Manning Lindy Hop Performance 1992",
@@ -16496,25 +16725,6 @@
    "source": {
     "platform": "youtube",
     "id": "5IritsADddQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-bCPj2BUPIRU",
-   "type": "video",
-   "title": "Explore Creative Movement in Pure Balboa",
-   "artist": "Justin Montgomery",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2023,
-   "durationSec": 60,
-   "popularity": 49,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "bCPj2BUPIRU"
    },
    "curated": false
   },
