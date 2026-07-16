@@ -1,6 +1,101 @@
 {
- "exportedAt": "2026-07-15T18:32:37.654Z",
+ "exportedAt": "2026-07-16T18:32:50.569Z",
  "items": [
+  {
+   "id": "yt-D7t50NGOXTc",
+   "type": "video",
+   "title": "¿Qué es el Balboa? | Bailes Swing",
+   "artist": "EstiloSwing: Baile y cultura Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 55,
+   "popularity": 52,
+   "addedAt": "2026-07-16",
+   "source": {
+    "platform": "youtube",
+    "id": "D7t50NGOXTc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-04WJj9YsoFE",
+   "type": "video",
+   "title": "🔥 LA Shag NJC Open Team Brings the House Down! Camp Hollywood 2025 💃🕺⚡#dancevideo",
+   "artist": "Ellie Adventure",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 51,
+   "popularity": 43,
+   "addedAt": "2026-07-16",
+   "source": {
+    "platform": "youtube",
+    "id": "04WJj9YsoFE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-JFGRNd9yEDU",
+   "type": "video",
+   "title": "Lindy Hop Frankie chorus routine - by Savoy Benimaclet",
+   "artist": "Savoy Benimaclet",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 178,
+   "popularity": 40,
+   "addedAt": "2026-07-16",
+   "source": {
+    "platform": "youtube",
+    "id": "JFGRNd9yEDU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-I-R9_e9FW4o",
+   "type": "video",
+   "title": "NORMAlizer Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 690,
+   "popularity": 34,
+   "addedAt": "2026-07-16",
+   "source": {
+    "platform": "youtube",
+    "id": "I-R9_e9FW4o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-oNrK-B5Q_1I",
+   "type": "video",
+   "title": "Alpine Jitterbugs - Shag ‘n’ Bal 2026 | Competition Finals",
+   "artist": "Alpine Jitterbugs Innsbruck",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 465,
+   "popularity": 30,
+   "addedAt": "2026-07-16",
+   "source": {
+    "platform": "youtube",
+    "id": "oNrK-B5Q_1I"
+   },
+   "curated": false
+  },
   {
    "id": "yt-_owoRJON-Yk",
    "type": "tutorial",
@@ -107,7 +202,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 735,
-   "popularity": 35,
+   "popularity": 47,
    "addedAt": "2026-07-15",
    "source": {
     "platform": "youtube",
@@ -126,7 +221,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 2080,
-   "popularity": 34,
+   "popularity": 45,
    "addedAt": "2026-07-15",
    "source": {
     "platform": "youtube",
@@ -13612,6 +13707,25 @@
    "curated": false
   },
   {
+   "id": "yt-nUSR7JVV9VA",
+   "type": "tutorial",
+   "title": "CalBal Classic 2025 - The Open Classic - Irina & Jacob",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 118,
+   "popularity": 60,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "nUSR7JVV9VA"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-sCJW4k91Bx4",
    "type": "video",
    "title": "Open Lindy Hop Final – Unforgettable Partner Lifts | Camp Hollywood 2024",
@@ -13741,25 +13855,6 @@
    "source": {
     "platform": "youtube",
     "id": "qAxK4IZmr0s"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-nUSR7JVV9VA",
-   "type": "tutorial",
-   "title": "CalBal Classic 2025 - The Open Classic - Irina & Jacob",
-   "artist": "California Balboa Classic",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 118,
-   "popularity": 59,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "nUSR7JVV9VA"
    },
    "curated": false
   },
@@ -14962,6 +15057,25 @@
    "curated": false
   },
   {
+   "id": "yt-sguXLqmahno",
+   "type": "video",
+   "title": "1930s Collegiate Shag",
+   "artist": "uptownswingvideo",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 53,
+   "popularity": 56,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "sguXLqmahno"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-dP8jiwmcV9U",
    "type": "tutorial",
    "title": "Difference between Lindy Hop and Charleston | Online Swing Dance Lessons | Street Smart Swing",
@@ -15190,25 +15304,6 @@
    "curated": false
   },
   {
-   "id": "yt-sguXLqmahno",
-   "type": "video",
-   "title": "1930s Collegiate Shag",
-   "artist": "uptownswingvideo",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2011,
-   "durationSec": 53,
-   "popularity": 55,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "sguXLqmahno"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-oStr286PDBs",
    "type": "tutorial",
    "title": "CalBal Classic 2026 - The Open Classic COMPLETE CONTEST",
@@ -15380,6 +15475,25 @@
    "curated": false
   },
   {
+   "id": "yt-oju1SlxAD-k",
+   "type": "video",
+   "title": "Olga Marina & Andreas Olsson - Balboa improvisation",
+   "artist": "Policoro in Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 196,
+   "popularity": 54,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "oju1SlxAD-k"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-UE74TadiFbg",
    "type": "video",
    "title": "Legendary Open Lindy Hop Final | Camp Hollywood 2025 (SIDE VIEW)",
@@ -15414,25 +15528,6 @@
    "source": {
     "platform": "youtube",
     "id": "JHSLcvF_Fdg"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-oju1SlxAD-k",
-   "type": "video",
-   "title": "Olga Marina & Andreas Olsson - Balboa improvisation",
-   "artist": "Policoro in Swing",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 196,
-   "popularity": 53,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "oju1SlxAD-k"
    },
    "curated": false
   },
@@ -17223,6 +17318,25 @@
    "curated": false
   },
   {
+   "id": "yt-aHE7Ww_qvmY",
+   "type": "tutorial",
+   "title": "Balboa: L.A. Style | Peter & Katja – Lesson 1 \"Fakie Inside Turn With Redirection\"",
+   "artist": "Summer Jamboree Dance Academy",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 312,
+   "popularity": 48,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "aHE7Ww_qvmY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Y3MedRSWEfI",
    "type": "video",
    "title": "A Short Explanation of Bal-Swing",
@@ -17276,25 +17390,6 @@
    "source": {
     "platform": "youtube",
     "id": "apJDGmKSxOY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-aHE7Ww_qvmY",
-   "type": "tutorial",
-   "title": "Balboa: L.A. Style | Peter & Katja – Lesson 1 \"Fakie Inside Turn With Redirection\"",
-   "artist": "Summer Jamboree Dance Academy",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 312,
-   "popularity": 47,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "aHE7Ww_qvmY"
    },
    "curated": false
   },
