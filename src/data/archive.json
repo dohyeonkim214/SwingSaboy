@@ -1,6 +1,253 @@
 {
- "exportedAt": "2026-07-16T18:32:50.569Z",
+ "exportedAt": "2026-07-17T18:29:33.780Z",
  "items": [
+  {
+   "id": "yt-TOPSETBUgvQ",
+   "type": "video",
+   "title": "Louis Prima - Sing,Sing,Sing (With a Swing)",
+   "artist": "Tolis Delta",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 306,
+   "popularity": 100,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "TOPSETBUgvQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-I9zHYkKoL4A",
+   "type": "video",
+   "title": "Swing Out! 1940s Dancing",
+   "artist": "1940GlamourGirl",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 114,
+   "popularity": 85,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "I9zHYkKoL4A"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-0NTa1CXQS6w",
+   "type": "tutorial",
+   "title": "Easy Swing Dance Steps for Beginners - The Jitterbug",
+   "artist": "Social Dance Online",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 887,
+   "popularity": 79,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "0NTa1CXQS6w"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Rdl-nk2pzsA",
+   "type": "video",
+   "title": "Intro Solo Jazz Warmup 2",
+   "artist": "Laura Glaess",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 195,
+   "popularity": 69,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "Rdl-nk2pzsA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--FmUQ329O9I",
+   "type": "tutorial",
+   "title": "Balboa Triple Steps: Intermediate Balboa. Class Recap",
+   "artist": "Lainey Silver",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 101,
+   "popularity": 57,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "-FmUQ329O9I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--3poF8oabws",
+   "type": "video",
+   "title": "Lindy Focus VIII - Collegiate Shag Crash Course Recap by Patrick and Natasha",
+   "artist": "PatrickAndNatasha",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 374,
+   "popularity": 53,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "-3poF8oabws"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-GM3jLlhrmWY",
+   "type": "video",
+   "title": "Texas Collegiate Shag",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 197,
+   "popularity": 48,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "GM3jLlhrmWY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-fHhPr7GCmJM",
+   "type": "video",
+   "title": "Swingin' Denver - Slow Balboa (promenades & exits, to catch and dip)",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 68,
+   "popularity": 43,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "fHhPr7GCmJM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-NFf-t3MoITk",
+   "type": "video",
+   "title": "Collegiate Shag - intermediate level day 2 🤩",
+   "artist": "Let It Swing",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 108,
+   "popularity": 43,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "NFf-t3MoITk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-BduX_wdwG6s",
+   "type": "tutorial",
+   "title": "2nd Place: Bianca & Nils - World Finals Classic - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 185,
+   "popularity": 38,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "BduX_wdwG6s"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-0aRa8RaN7c0",
+   "type": "tutorial",
+   "title": "1st Place: Frida & Skye - World Finals Classic - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 186,
+   "popularity": 37,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "0aRa8RaN7c0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-KZ10Npcj2Vw",
+   "type": "video",
+   "title": "HRH 2026 - Amateur Balboa Strictly Finals - Dina & Aleksandr",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 120,
+   "popularity": 33,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "KZ10Npcj2Vw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-mG2cGdTCX74",
+   "type": "video",
+   "title": "HRH 2023: Advanced Collegiate Shag Mix & Match - Cami & Jeremy",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 102,
+   "popularity": 31,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "mG2cGdTCX74"
+   },
+   "curated": false
+  },
   {
    "id": "yt-D7t50NGOXTc",
    "type": "video",
@@ -202,7 +449,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 735,
-   "popularity": 47,
+   "popularity": 51,
    "addedAt": "2026-07-15",
    "source": {
     "platform": "youtube",
@@ -1779,7 +2026,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 138,
-   "popularity": 19,
+   "popularity": 21,
    "addedAt": "2026-07-12",
    "source": {
     "platform": "youtube",
@@ -4230,7 +4477,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 117,
-   "popularity": 49,
+   "popularity": 50,
    "addedAt": "2026-07-08",
    "source": {
     "platform": "youtube",
@@ -11178,6 +11425,25 @@
    "curated": false
   },
   {
+   "id": "yt-rszKfjnRpdo",
+   "type": "tutorial",
+   "title": "COWBOY CHARLESTON -- Line Dance TUTORIAL",
+   "artist": "Line Dancing with Lynn",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 210,
+   "popularity": 70,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "rszKfjnRpdo"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-H9E4Aq4K_p8",
    "type": "video",
    "title": "Early Savoy Lindy Hop",
@@ -11212,25 +11478,6 @@
    "source": {
     "platform": "youtube",
     "id": "YixRGU8wk_U"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-rszKfjnRpdo",
-   "type": "tutorial",
-   "title": "COWBOY CHARLESTON -- Line Dance TUTORIAL",
-   "artist": "Line Dancing with Lynn",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 210,
-   "popularity": 69,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "rszKfjnRpdo"
    },
    "curated": false
   },
