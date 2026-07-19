@@ -1,6 +1,291 @@
 {
- "exportedAt": "2026-07-18T18:25:23.984Z",
+ "exportedAt": "2026-07-19T18:25:11.290Z",
  "items": [
+  {
+   "id": "yt-lqXRnEcTPmY",
+   "type": "video",
+   "title": "RTSF 2020 Jamboree Ball (Sunday) – Boogie Woogie – Sophie & Thomas",
+   "artist": "RockThatSwing",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 159,
+   "popularity": 92,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "lqXRnEcTPmY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ZWZuvvCq4bY",
+   "type": "video",
+   "title": "The Great Gatsby Charleston Swing Party - DJ Electro Swingable Mix",
+   "artist": "ElectroSwingable",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 105,
+   "popularity": 91,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "ZWZuvvCq4bY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-JOdRkqcvius",
+   "type": "video",
+   "title": "Leapin' Lindy 2024: Show Nils & Bianca",
+   "artist": "Leapin' Lindy",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 144,
+   "popularity": 83,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "JOdRkqcvius"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-qvozAcpt69A",
+   "type": "video",
+   "title": "Lindy Hop Charleston Dance! - Sondre & Tanya",
+   "artist": "Sondre & Tanya",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 141,
+   "popularity": 79,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "qvozAcpt69A"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-NyzRNmvQys8",
+   "type": "video",
+   "title": "Ksenia Parkhatskaya doing the Charleston at The Snowball 2013 contest",
+   "artist": "Ksenia Parkhatskaya",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 79,
+   "popularity": 74,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "NyzRNmvQys8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-HL8HQdo9Hk4",
+   "type": "video",
+   "title": "1984 - National Shag Dance Championships - Jackie McGee & Charlie Womble",
+   "artist": "Michael Browne",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 193,
+   "popularity": 69,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "HL8HQdo9Hk4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-iKUeZPvAPVM",
+   "type": "video",
+   "title": "Frankie Manning and Erin Stevens 1989",
+   "artist": "EastlakeZoo",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 160,
+   "popularity": 66,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "iKUeZPvAPVM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-mW4PVelqnz0",
+   "type": "tutorial",
+   "title": "What is the difference between WCS and Lindy Hop? | Online Swing Dance Lessons | Street Smart Swing",
+   "artist": "Street Smart Swing",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 162,
+   "popularity": 60,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "mW4PVelqnz0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-asmOk5J1JJ8",
+   "type": "video",
+   "title": "Balboa Toss Outs 🏅",
+   "artist": "Let It Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 130,
+   "popularity": 58,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "asmOk5J1JJ8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nnxAZQvDFUw",
+   "type": "video",
+   "title": "Lindy Focus XVI: Competition - Balboa Finals",
+   "artist": "Lindy Focus",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 775,
+   "popularity": 54,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "nnxAZQvDFUw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FpA0Ge4vp4U",
+   "type": "video",
+   "title": "1st place: Ella's Fellas - LINDY HOP TEAM - ILHC EUROPE 2025",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 179,
+   "popularity": 49,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "FpA0Ge4vp4U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9Wv5s1bdnbM",
+   "type": "video",
+   "title": "1st Place: Bianca & Remy - Invitational Draw - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 127,
+   "popularity": 41,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "9Wv5s1bdnbM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pruwdjzlZsQ",
+   "type": "video",
+   "title": "3rd Place: Frida & Felix - Invitational Draw - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 127,
+   "popularity": 36,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "pruwdjzlZsQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IzsWqMABG14",
+   "type": "video",
+   "title": "2nd Place: Naomi & Skye - Invitational Draw - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 131,
+   "popularity": 35,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "IzsWqMABG14"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-E_YzWEuEmfU",
+   "type": "tutorial",
+   "title": "How to do a Come Around from an Uphold Basic in Balboa #Balboathe dance #learnbalboa #Balboabasics",
+   "artist": "Balboa the dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 259,
+   "popularity": 35,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "E_YzWEuEmfU"
+   },
+   "curated": false
+  },
   {
    "id": "yt-E0qmZrVRRw8",
    "type": "video",
@@ -1275,25 +1560,6 @@
    "curated": false
   },
   {
-   "id": "yt--3poF8oabws",
-   "type": "video",
-   "title": "Lindy Focus VIII - Collegiate Shag Crash Course Recap by Patrick and Natasha",
-   "artist": "PatrickAndNatasha",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2010,
-   "durationSec": 374,
-   "popularity": 53,
-   "addedAt": "2026-07-17",
-   "source": {
-    "platform": "youtube",
-    "id": "-3poF8oabws"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-BduX_wdwG6s",
    "type": "tutorial",
    "title": "2nd Place: Bianca & Nils - World Finals Classic - ILHC 2026",
@@ -1304,7 +1570,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 185,
-   "popularity": 51,
+   "popularity": 57,
    "addedAt": "2026-07-17",
    "source": {
     "platform": "youtube",
@@ -1323,11 +1589,30 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 186,
-   "popularity": 51,
+   "popularity": 55,
    "addedAt": "2026-07-17",
    "source": {
     "platform": "youtube",
     "id": "0aRa8RaN7c0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--3poF8oabws",
+   "type": "video",
+   "title": "Lindy Focus VIII - Collegiate Shag Crash Course Recap by Patrick and Natasha",
+   "artist": "PatrickAndNatasha",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 374,
+   "popularity": 53,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "-3poF8oabws"
    },
    "curated": false
   },
@@ -3204,7 +3489,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 138,
-   "popularity": 21,
+   "popularity": 22,
    "addedAt": "2026-07-12",
    "source": {
     "platform": "youtube",
