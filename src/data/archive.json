@@ -1,6 +1,82 @@
 {
- "exportedAt": "2026-07-19T18:25:11.290Z",
+ "exportedAt": "2026-07-20T18:44:47.501Z",
  "items": [
+  {
+   "id": "yt-ABZTshHengc",
+   "type": "video",
+   "title": "CHALLENGED DRAW FINALS - ILHC EUROPE 2025",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 841,
+   "popularity": 62,
+   "addedAt": "2026-07-20",
+   "source": {
+    "platform": "youtube",
+    "id": "ABZTshHengc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zuX6eixmwAc",
+   "type": "tutorial",
+   "title": "Cowboy Charleston - L2/3 Line Dance Lesson & Dance Along - Music @ 4:48 to Redneck Woman",
+   "artist": "Kari - Kari's Line Dancing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 512,
+   "popularity": 61,
+   "addedAt": "2026-07-20",
+   "source": {
+    "platform": "youtube",
+    "id": "zuX6eixmwAc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--_lnxQSJZYs",
+   "type": "video",
+   "title": "Showcase Solo Swing / Charleston and Hip Hop - Jean-Philippe and Franck",
+   "artist": "Jean-Philippe Delort",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 171,
+   "popularity": 56,
+   "addedAt": "2026-07-20",
+   "source": {
+    "platform": "youtube",
+    "id": "-_lnxQSJZYs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-OHx4-mjKWgQ",
+   "type": "video",
+   "title": "Invitational Draw - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1400,
+   "popularity": 37,
+   "addedAt": "2026-07-20",
+   "source": {
+    "platform": "youtube",
+    "id": "OHx4-mjKWgQ"
+   },
+   "curated": false
+  },
   {
    "id": "yt-lqXRnEcTPmY",
    "type": "video",
@@ -192,6 +268,44 @@
    "curated": false
   },
   {
+   "id": "yt-9Wv5s1bdnbM",
+   "type": "video",
+   "title": "1st Place: Bianca & Remy - Invitational Draw - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 127,
+   "popularity": 53,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "9Wv5s1bdnbM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IzsWqMABG14",
+   "type": "video",
+   "title": "2nd Place: Naomi & Skye - Invitational Draw - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 131,
+   "popularity": 50,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "IzsWqMABG14"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-FpA0Ge4vp4U",
    "type": "video",
    "title": "1st place: Ella's Fellas - LINDY HOP TEAM - ILHC EUROPE 2025",
@@ -211,25 +325,6 @@
    "curated": false
   },
   {
-   "id": "yt-9Wv5s1bdnbM",
-   "type": "video",
-   "title": "1st Place: Bianca & Remy - Invitational Draw - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 127,
-   "popularity": 41,
-   "addedAt": "2026-07-19",
-   "source": {
-    "platform": "youtube",
-    "id": "9Wv5s1bdnbM"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-pruwdjzlZsQ",
    "type": "video",
    "title": "3rd Place: Frida & Felix - Invitational Draw - ILHC 2026",
@@ -245,25 +340,6 @@
    "source": {
     "platform": "youtube",
     "id": "pruwdjzlZsQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-IzsWqMABG14",
-   "type": "video",
-   "title": "2nd Place: Naomi & Skye - Invitational Draw - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 131,
-   "popularity": 35,
-   "addedAt": "2026-07-19",
-   "source": {
-    "platform": "youtube",
-    "id": "IzsWqMABG14"
    },
    "curated": false
   },
@@ -392,7 +468,7 @@
    "bpm": null,
    "year": 2022,
    "durationSec": 1154,
-   "popularity": 80,
+   "popularity": 81,
    "addedAt": "2026-07-18",
    "source": {
     "platform": "youtube",
@@ -1541,6 +1617,25 @@
    "curated": false
   },
   {
+   "id": "yt-BduX_wdwG6s",
+   "type": "tutorial",
+   "title": "2nd Place: Bianca & Nils - World Finals Classic - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 185,
+   "popularity": 60,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "BduX_wdwG6s"
+   },
+   "curated": false
+  },
+  {
    "id": "yt--FmUQ329O9I",
    "type": "tutorial",
    "title": "Balboa Triple Steps: Intermediate Balboa. Class Recap",
@@ -1556,25 +1651,6 @@
    "source": {
     "platform": "youtube",
     "id": "-FmUQ329O9I"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-BduX_wdwG6s",
-   "type": "tutorial",
-   "title": "2nd Place: Bianca & Nils - World Finals Classic - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 185,
-   "popularity": 57,
-   "addedAt": "2026-07-17",
-   "source": {
-    "platform": "youtube",
-    "id": "BduX_wdwG6s"
    },
    "curated": false
   },
@@ -1893,7 +1969,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 735,
-   "popularity": 55,
+   "popularity": 57,
    "addedAt": "2026-07-15",
    "source": {
     "platform": "youtube",
@@ -1931,7 +2007,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 2080,
-   "popularity": 50,
+   "popularity": 53,
    "addedAt": "2026-07-15",
    "source": {
     "platform": "youtube",
