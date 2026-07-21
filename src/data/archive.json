@@ -1,6 +1,139 @@
 {
- "exportedAt": "2026-07-20T18:44:47.501Z",
+ "exportedAt": "2026-07-21T18:37:11.917Z",
  "items": [
+  {
+   "id": "yt-HaoDElHUIqw",
+   "type": "video",
+   "title": "Georgia May Foote & Giovanni Pernice Charleston to 'Hot Honey Rag' - Strictly Come Dancing: 2015",
+   "artist": "BBC Strictly Come Dancing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 116,
+   "popularity": 96,
+   "addedAt": "2026-07-21",
+   "source": {
+    "platform": "youtube",
+    "id": "HaoDElHUIqw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Rz0OkE21xJ8",
+   "type": "video",
+   "title": "SWING OHNE SENF 2025 - Nils and Bianca",
+   "artist": "Nils and Bianca",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 183,
+   "popularity": 74,
+   "addedAt": "2026-07-21",
+   "source": {
+    "platform": "youtube",
+    "id": "Rz0OkE21xJ8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4uEbgpvxjfY",
+   "type": "video",
+   "title": "Venice Beach Swing Dancers (\"LA Swing\" / Bal-Swing / Shag) (September, 1938)",
+   "artist": "Robert White",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 253,
+   "popularity": 71,
+   "addedAt": "2026-07-21",
+   "source": {
+    "platform": "youtube",
+    "id": "4uEbgpvxjfY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-mnPtCUgawT0",
+   "type": "video",
+   "title": "RTSF 2020 Rock That Swing Ball (Saturday) – Slow Balboa – Anna-Maria & Mickey",
+   "artist": "RockThatSwing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 206,
+   "popularity": 65,
+   "addedAt": "2026-07-21",
+   "source": {
+    "platform": "youtube",
+    "id": "mnPtCUgawT0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-AaU4CePLw-A",
+   "type": "video",
+   "title": "1920s Partner Charleston Dance Routine 'I'll Always be in Love with you''",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 91,
+   "popularity": 52,
+   "addedAt": "2026-07-21",
+   "source": {
+    "platform": "youtube",
+    "id": "AaU4CePLw-A"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-blUTd9otFbs",
+   "type": "tutorial",
+   "title": "Swingin' Denver - Balboa Basics (walking, up/down/shuffle holds, partnering)",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 134,
+   "popularity": 40,
+   "addedAt": "2026-07-21",
+   "source": {
+    "platform": "youtube",
+    "id": "blUTd9otFbs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Qtx-fkVTYrk",
+   "type": "video",
+   "title": "Veta's birthday dance (Balboa / Bal Swing)",
+   "artist": "Nick Litvinov",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 199,
+   "popularity": 29,
+   "addedAt": "2026-07-21",
+   "source": {
+    "platform": "youtube",
+    "id": "Qtx-fkVTYrk"
+   },
+   "curated": false
+  },
   {
    "id": "yt-ABZTshHengc",
    "type": "video",
@@ -69,7 +202,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1400,
-   "popularity": 37,
+   "popularity": 48,
    "addedAt": "2026-07-20",
    "source": {
     "platform": "youtube",
@@ -249,6 +382,25 @@
    "curated": false
   },
   {
+   "id": "yt-9Wv5s1bdnbM",
+   "type": "video",
+   "title": "1st Place: Bianca & Remy - Invitational Draw - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 127,
+   "popularity": 57,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "9Wv5s1bdnbM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-nnxAZQvDFUw",
    "type": "video",
    "title": "Lindy Focus XVI: Competition - Balboa Finals",
@@ -268,25 +420,6 @@
    "curated": false
   },
   {
-   "id": "yt-9Wv5s1bdnbM",
-   "type": "video",
-   "title": "1st Place: Bianca & Remy - Invitational Draw - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 127,
-   "popularity": 53,
-   "addedAt": "2026-07-19",
-   "source": {
-    "platform": "youtube",
-    "id": "9Wv5s1bdnbM"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-IzsWqMABG14",
    "type": "video",
    "title": "2nd Place: Naomi & Skye - Invitational Draw - ILHC 2026",
@@ -297,7 +430,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 131,
-   "popularity": 50,
+   "popularity": 53,
    "addedAt": "2026-07-19",
    "source": {
     "platform": "youtube",
@@ -1627,11 +1760,30 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 185,
-   "popularity": 60,
+   "popularity": 61,
    "addedAt": "2026-07-17",
    "source": {
     "platform": "youtube",
     "id": "BduX_wdwG6s"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-0aRa8RaN7c0",
+   "type": "tutorial",
+   "title": "1st Place: Frida & Skye - World Finals Classic - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 186,
+   "popularity": 58,
+   "addedAt": "2026-07-17",
+   "source": {
+    "platform": "youtube",
+    "id": "0aRa8RaN7c0"
    },
    "curated": false
   },
@@ -1651,25 +1803,6 @@
    "source": {
     "platform": "youtube",
     "id": "-FmUQ329O9I"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-0aRa8RaN7c0",
-   "type": "tutorial",
-   "title": "1st Place: Frida & Skye - World Finals Classic - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 186,
-   "popularity": 55,
-   "addedAt": "2026-07-17",
-   "source": {
-    "platform": "youtube",
-    "id": "0aRa8RaN7c0"
    },
    "curated": false
   },
@@ -3565,7 +3698,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 138,
-   "popularity": 22,
+   "popularity": 24,
    "addedAt": "2026-07-12",
    "source": {
     "platform": "youtube",
@@ -7745,7 +7878,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 361,
-   "popularity": 65,
+   "popularity": 66,
    "addedAt": "2026-07-06",
    "source": {
     "platform": "youtube",
@@ -15523,7 +15656,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 334,
-   "popularity": 59,
+   "popularity": 60,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
@@ -15837,6 +15970,25 @@
    "curated": false
   },
   {
+   "id": "yt-vSIMgO848XI",
+   "type": "video",
+   "title": "CharlestonMania: Couple Charleston Finals One Spot 5",
+   "artist": "Школа джазовых танцев МСДК",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 88,
+   "popularity": 59,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "vSIMgO848XI"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-VWNQpsC4tvE",
    "type": "video",
    "title": "2nd Place: Frida & Remy - Invitational Draw - ILHC 2024",
@@ -15928,25 +16080,6 @@
    "source": {
     "platform": "youtube",
     "id": "uKGqsn89Prk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-vSIMgO848XI",
-   "type": "video",
-   "title": "CharlestonMania: Couple Charleston Finals One Spot 5",
-   "artist": "Школа джазовых танцев МСДК",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2016,
-   "durationSec": 88,
-   "popularity": 58,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "vSIMgO848XI"
    },
    "curated": false
   },
@@ -16308,6 +16441,25 @@
    "source": {
     "platform": "youtube",
     "id": "HC0BaPh3nAg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-45eMp_QmgBM",
+   "type": "video",
+   "title": "2026 Professional Champions - Autumn Jones & Grayson Free",
+   "artist": "Stages Video Productions",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 189,
+   "popularity": 57,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "45eMp_QmgBM"
    },
    "curated": false
   },
@@ -16802,25 +16954,6 @@
    "source": {
     "platform": "youtube",
     "id": "2P1NeP_qSLE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-45eMp_QmgBM",
-   "type": "video",
-   "title": "2026 Professional Champions - Autumn Jones & Grayson Free",
-   "artist": "Stages Video Productions",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 189,
-   "popularity": 56,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "45eMp_QmgBM"
    },
    "curated": false
   },
@@ -19134,7 +19267,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 181,
-   "popularity": 47,
+   "popularity": 48,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
@@ -19153,7 +19286,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 55,
-   "popularity": 47,
+   "popularity": 48,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
