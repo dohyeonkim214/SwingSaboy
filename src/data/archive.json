@@ -1,6 +1,519 @@
 {
- "exportedAt": "2026-07-21T18:37:11.917Z",
+ "exportedAt": "2026-07-22T18:33:23.757Z",
  "items": [
+  {
+   "id": "yt-ONnx63NAyMc",
+   "type": "video",
+   "title": "Sharon Davis & Juan Villafañe | Bill Bailey - Lindy Hop & Authentic Jazz Choreography (ILHC 2013)",
+   "artist": "Sharon Davis",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 242,
+   "popularity": 72,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "ONnx63NAyMc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-bsVUsSnbGqE",
+   "type": "tutorial",
+   "title": "Running Man, Double Running Man, Polly Pocket, Charleston Tutorial (BEGINNER SHUFFLE)",
+   "artist": "Christina and Anna",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 88,
+   "popularity": 72,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "bsVUsSnbGqE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-bMBzJ8BaBr4",
+   "type": "video",
+   "title": "Willie Desatoff & Ann Mills, Hal & Marge Takier Balboa Demo",
+   "artist": "A-Town Agency",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2006,
+   "durationSec": 92,
+   "popularity": 67,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "bMBzJ8BaBr4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Jsx-Sy3yzNo",
+   "type": "video",
+   "title": "Fall Migration 2021 SOS Pros Contest OD Arcade - Shag Destinations",
+   "artist": "MGA Travel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 1523,
+   "popularity": 66,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "Jsx-Sy3yzNo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-WakkauZV8Z0",
+   "type": "video",
+   "title": "HRH 2024 - Balboa Invitational COMPLETE CONTEST",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 1156,
+   "popularity": 63,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "WakkauZV8Z0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gp31K_a_q8Q",
+   "type": "video",
+   "title": "Bal-Swing-outside-inside-turn",
+   "artist": "Easy Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 249,
+   "popularity": 58,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "gp31K_a_q8Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ugl2bTD-5A8",
+   "type": "video",
+   "title": "RTSF 2020 Jamboree Ball (Sunday) – Balboa & Bal-Swing – Marina & Sasha, Natasha & Olivier",
+   "artist": "RockThatSwing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 169,
+   "popularity": 56,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "ugl2bTD-5A8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zEhEP-5xGnE",
+   "type": "video",
+   "title": "ILHC 2018 - Open Strictly Balboa Finals - Vincenzo Fesi & Moe Sakan (Italy & Japan)",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 121,
+   "popularity": 54,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "zEhEP-5xGnE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_HgpRN9gOB8",
+   "type": "video",
+   "title": "2010 ILHC - Jack & Jill Balboa Finals - Andreas & Dominique",
+   "artist": "David Soltysik",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 107,
+   "popularity": 53,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "_HgpRN9gOB8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_6pKyVh2kNM",
+   "type": "video",
+   "title": "ILHC 2015 - Open Strictly Balboa Finals - Todd Yannacone & Laura Keat (USA)",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 123,
+   "popularity": 53,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "_6pKyVh2kNM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9lM_X5hpp6A",
+   "type": "video",
+   "title": "1st Place: Interstate Eight - Lindy Hop Team - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 208,
+   "popularity": 52,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "9lM_X5hpp6A"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-rV_oYgeAiEU",
+   "type": "video",
+   "title": "2022-05-14 Balboa Swing Dance Fundamentals Workshop Recap with Rob & Emma",
+   "artist": "Brisbane Balboa Swing Dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 422,
+   "popularity": 51,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "rV_oYgeAiEU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Ys5o3PH3PY0",
+   "type": "video",
+   "title": "ILHC 2016 - Balboa Jack & Jill Finals - Rafal Pustelny & Mia Halloran US",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 111,
+   "popularity": 51,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "Ys5o3PH3PY0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dqfd7lAlaNs",
+   "type": "video",
+   "title": "ILHC 2017 Open Balboa Draw Finals Adam Brozowski & Lana Sedlmayr",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 124,
+   "popularity": 49,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "dqfd7lAlaNs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7Dk9KBCdhLs",
+   "type": "video",
+   "title": "Balboa Rendezvous - International Balboa Competition Finals (2012)",
+   "artist": "Swing Dancing San Diego",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 900,
+   "popularity": 46,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "7Dk9KBCdhLs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wPm9B1iKt2w",
+   "type": "video",
+   "title": "ILHC 2015 - Open Strictly Balboa Finals - Matthew Mitchell & Jennifer Lee (USA)",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 122,
+   "popularity": 45,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "wPm9B1iKt2w"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QBv8u4GbPmo",
+   "type": "video",
+   "title": "1Apr13 bunny hops, cuddles, sliding doors -- collegiate shag.",
+   "artist": "Tony Fraser",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 168,
+   "popularity": 45,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "QBv8u4GbPmo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-z-vLjWYblVQ",
+   "type": "video",
+   "title": "John Bedrosian & Jenny Shirar, St. Louis Shag Demo at The Nevermore Jazz Ball",
+   "artist": "Lindy Hop St. Louis",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 108,
+   "popularity": 43,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "z-vLjWYblVQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-6GeQ2GYUgBs",
+   "type": "video",
+   "title": "Herrang 2025 - Balboa Strictly Competition",
+   "artist": "Herrang Dance Camp",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 186,
+   "popularity": 42,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "6GeQ2GYUgBs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-YEhsb4GRgmc",
+   "type": "tutorial",
+   "title": "2nd Place: Classic Convoy - Lindy Hop Team - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 240,
+   "popularity": 41,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "YEhsb4GRgmc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-AB3lHfOz8kM",
+   "type": "video",
+   "title": "HRH 2023: Triple Threat Finals - Collegiate Shag Round",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 533,
+   "popularity": 39,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "AB3lHfOz8kM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-OwaZycvZM10",
+   "type": "video",
+   "title": "3rd Place: Les Ambassadeurs - Lindy Hop Team - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 233,
+   "popularity": 36,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "OwaZycvZM10"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Fldd-NEGz-g",
+   "type": "video",
+   "title": "Bristol Shag Fiesta 2016 - Jedi Shag competition",
+   "artist": "Collegiate Shag Bristol",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 730,
+   "popularity": 36,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "Fldd-NEGz-g"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-TxqSsQ95PFQ",
+   "type": "video",
+   "title": "Joel Plys competes at All Balboa Weekend 2003",
+   "artist": "Swing Dancing San Diego",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 116,
+   "popularity": 35,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "TxqSsQ95PFQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-36qioq_DPWU",
+   "type": "video",
+   "title": "Gem City Swing Partner Charleston Week 3",
+   "artist": "Gem City Swing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 134,
+   "popularity": 23,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "36qioq_DPWU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-UUDn_83I7uQ",
+   "type": "video",
+   "title": "Level 2 - Bal Swing Expansion - Week 2 - 7/14/26",
+   "artist": "Twin Cities Balboa Connection",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 94,
+   "popularity": 22,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "UUDn_83I7uQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-h2WrkM_xbmU",
+   "type": "video",
+   "title": "Gem City Swing Partner Charleston Week 2",
+   "artist": "Gem City Swing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 150,
+   "popularity": 20,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "h2WrkM_xbmU"
+   },
+   "curated": false
+  },
   {
    "id": "yt-HaoDElHUIqw",
    "type": "video",
@@ -202,7 +715,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1400,
-   "popularity": 48,
+   "popularity": 50,
    "addedAt": "2026-07-20",
    "source": {
     "platform": "youtube",
@@ -363,6 +876,63 @@
    "curated": false
   },
   {
+   "id": "yt-9Wv5s1bdnbM",
+   "type": "video",
+   "title": "1st Place: Bianca & Remy - Invitational Draw - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 127,
+   "popularity": 60,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "9Wv5s1bdnbM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IzsWqMABG14",
+   "type": "video",
+   "title": "2nd Place: Naomi & Skye - Invitational Draw - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 131,
+   "popularity": 60,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "IzsWqMABG14"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pruwdjzlZsQ",
+   "type": "video",
+   "title": "3rd Place: Frida & Felix - Invitational Draw - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 127,
+   "popularity": 59,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "pruwdjzlZsQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-asmOk5J1JJ8",
    "type": "video",
    "title": "Balboa Toss Outs 🏅",
@@ -378,25 +948,6 @@
    "source": {
     "platform": "youtube",
     "id": "asmOk5J1JJ8"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-9Wv5s1bdnbM",
-   "type": "video",
-   "title": "1st Place: Bianca & Remy - Invitational Draw - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 127,
-   "popularity": 57,
-   "addedAt": "2026-07-19",
-   "source": {
-    "platform": "youtube",
-    "id": "9Wv5s1bdnbM"
    },
    "curated": false
   },
@@ -420,25 +971,6 @@
    "curated": false
   },
   {
-   "id": "yt-IzsWqMABG14",
-   "type": "video",
-   "title": "2nd Place: Naomi & Skye - Invitational Draw - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 131,
-   "popularity": 53,
-   "addedAt": "2026-07-19",
-   "source": {
-    "platform": "youtube",
-    "id": "IzsWqMABG14"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-FpA0Ge4vp4U",
    "type": "video",
    "title": "1st place: Ella's Fellas - LINDY HOP TEAM - ILHC EUROPE 2025",
@@ -454,25 +986,6 @@
    "source": {
     "platform": "youtube",
     "id": "FpA0Ge4vp4U"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-pruwdjzlZsQ",
-   "type": "video",
-   "title": "3rd Place: Frida & Felix - Invitational Draw - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 127,
-   "popularity": 36,
-   "addedAt": "2026-07-19",
-   "source": {
-    "platform": "youtube",
-    "id": "pruwdjzlZsQ"
    },
    "curated": false
   },
@@ -1000,7 +1513,7 @@
    "bpm": null,
    "year": 2022,
    "durationSec": 1026,
-   "popularity": 57,
+   "popularity": 58,
    "addedAt": "2026-07-18",
    "source": {
     "platform": "youtube",
@@ -1760,7 +2273,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 185,
-   "popularity": 61,
+   "popularity": 62,
    "addedAt": "2026-07-17",
    "source": {
     "platform": "youtube",
@@ -2102,7 +2615,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 735,
-   "popularity": 57,
+   "popularity": 59,
    "addedAt": "2026-07-15",
    "source": {
     "platform": "youtube",
@@ -9114,7 +9627,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 126,
-   "popularity": 31,
+   "popularity": 32,
    "addedAt": "2026-07-05",
    "source": {
     "platform": "youtube",
@@ -15665,6 +16178,25 @@
    "curated": false
   },
   {
+   "id": "yt-TlN0wJqUeRo",
+   "type": "tutorial",
+   "title": "Beginner Shuffle Tutorial | Learn the Charleston in under 5 minutes!",
+   "artist": "Tori Nishino",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 242,
+   "popularity": 60,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "TlN0wJqUeRo"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-DK4-ph2ehYA",
    "type": "tutorial",
    "title": "2nd Place: Alice & Remy - World Finals Classic - ILHC 2024",
@@ -15852,25 +16384,6 @@
    "source": {
     "platform": "youtube",
     "id": "3GQIbyG_kBk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-TlN0wJqUeRo",
-   "type": "tutorial",
-   "title": "Beginner Shuffle Tutorial | Learn the Charleston in under 5 minutes!",
-   "artist": "Tori Nishino",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 242,
-   "popularity": 59,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "TlN0wJqUeRo"
    },
    "curated": false
   },
@@ -16464,6 +16977,25 @@
    "curated": false
   },
   {
+   "id": "yt-htuCkVEh04s",
+   "type": "video",
+   "title": "Savoy Cup 2025 - Balboa Contest Final with Martin Burguez & His Rhythm Combo",
+   "artist": "Savoy Cup",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 478,
+   "popularity": 57,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "htuCkVEh04s"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-sgN7ajsMU20",
    "type": "video",
    "title": "Lindy Hop, Savoy Style! Feb Wk 3",
@@ -16574,25 +17106,6 @@
    "source": {
     "platform": "youtube",
     "id": "kMajL304c-Y"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-htuCkVEh04s",
-   "type": "video",
-   "title": "Savoy Cup 2025 - Balboa Contest Final with Martin Burguez & His Rhythm Combo",
-   "artist": "Savoy Cup",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 478,
-   "popularity": 56,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "htuCkVEh04s"
    },
    "curated": false
   },
@@ -17780,7 +18293,8 @@
    "title": "Learn The Jump Charleston with Tyedric Hill | #IfCitiesCouldDance",
    "artist": "KQED Arts",
    "styles": [
-    "lindy"
+    "lindy",
+    "charleston"
    ],
    "bpm": null,
    "year": 2022,
@@ -19865,6 +20379,25 @@
    "curated": false
   },
   {
+   "id": "yt-FUjld8kXPjc",
+   "type": "video",
+   "title": "Bal-Swing FunDamentals Recap with Josh & Emma - Bandits and Bal 2025 #dance #balboa #santafeswing",
+   "artist": "Santa Fe Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 70,
+   "popularity": 46,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "FUjld8kXPjc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-I2i0IJwJy64",
    "type": "video",
    "title": "Swing It Seattle - Frankie Manning, Norma Miller, & the Savoy Ballroom",
@@ -20127,25 +20660,6 @@
    "source": {
     "platform": "youtube",
     "id": "PmVEn4953CQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-FUjld8kXPjc",
-   "type": "video",
-   "title": "Bal-Swing FunDamentals Recap with Josh & Emma - Bandits and Bal 2025 #dance #balboa #santafeswing",
-   "artist": "Santa Fe Swing",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 70,
-   "popularity": 45,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "FUjld8kXPjc"
    },
    "curated": false
   },
@@ -22962,6 +23476,25 @@
    "curated": false
   },
   {
+   "id": "yt-BWw47aB1Ql0",
+   "type": "video",
+   "title": "HRH 2023: Advanced Collegiate Shag Strictly Finals - Sarah & Jeremy",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 115,
+   "popularity": 34,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "BWw47aB1Ql0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-SaLtS3-41yo",
    "type": "tutorial",
    "title": "Class Summary - Irina & Nalla (Connection & Rhythm) #balboa #Balswing #swingdance ",
@@ -22996,25 +23529,6 @@
    "source": {
     "platform": "youtube",
     "id": "mG4wQkgybDY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-BWw47aB1Ql0",
-   "type": "video",
-   "title": "HRH 2023: Advanced Collegiate Shag Strictly Finals - Sarah & Jeremy",
-   "artist": "Hot Rhythm Foundation",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2023,
-   "durationSec": 115,
-   "popularity": 33,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "BWw47aB1Ql0"
    },
    "curated": false
   },
