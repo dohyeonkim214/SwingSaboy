@@ -1,6 +1,158 @@
 {
- "exportedAt": "2026-07-22T18:33:23.757Z",
+ "exportedAt": "2026-07-23T18:34:50.708Z",
  "items": [
+  {
+   "id": "yt-4Ikc0Q1gQ8s",
+   "type": "video",
+   "title": "The Carioca - St. Louis Shag in Basel",
+   "artist": "Basel Jitterbugs",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 86,
+   "popularity": 55,
+   "addedAt": "2026-07-23",
+   "source": {
+    "platform": "youtube",
+    "id": "4Ikc0Q1gQ8s"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zTTFgg8lIA0",
+   "type": "video",
+   "title": "Al Minns & Frankie Manning demo at the Swedish Swing Society",
+   "artist": "The American Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 184,
+   "popularity": 53,
+   "addedAt": "2026-07-23",
+   "source": {
+    "platform": "youtube",
+    "id": "zTTFgg8lIA0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9n83W0sMics",
+   "type": "video",
+   "title": "Balboa with Mickey Fortanasce and Catarina Pinto ⭐️",
+   "artist": "Let It Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 358,
+   "popularity": 53,
+   "addedAt": "2026-07-23",
+   "source": {
+    "platform": "youtube",
+    "id": "9n83W0sMics"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Yrw-QXiWUXc",
+   "type": "video",
+   "title": "🦋Balboa Demo at SBF #dance #shorts",
+   "artist": "Natasha Shevchenko",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 74,
+   "popularity": 51,
+   "addedAt": "2026-07-23",
+   "source": {
+    "platform": "youtube",
+    "id": "Yrw-QXiWUXc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-RVtcm1iYpc0",
+   "type": "video",
+   "title": "SWING EN CHILE: ST. LOUIS SHAG (Louis Prima - Pennies From Heaven) - one take short demo series",
+   "artist": "Groove That Swing",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 51,
+   "popularity": 49,
+   "addedAt": "2026-07-23",
+   "source": {
+    "platform": "youtube",
+    "id": "RVtcm1iYpc0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zzsGxsBgRgE",
+   "type": "video",
+   "title": "Bcn Shag Festival 2022 - St Louis Shag Contest",
+   "artist": "Shag BCN",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 459,
+   "popularity": 45,
+   "addedAt": "2026-07-23",
+   "source": {
+    "platform": "youtube",
+    "id": "zzsGxsBgRgE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nsPHFr_oKNk",
+   "type": "video",
+   "title": "Balboa: Crosses & No Crosses",
+   "artist": "heirloomdance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 493,
+   "popularity": 43,
+   "addedAt": "2026-07-23",
+   "source": {
+    "platform": "youtube",
+    "id": "nsPHFr_oKNk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4vVDV3E8aYo",
+   "type": "video",
+   "title": "St Louis Shag 🌹 (int/adv) - day 1",
+   "artist": "Let It Swing",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 107,
+   "popularity": 43,
+   "addedAt": "2026-07-23",
+   "source": {
+    "platform": "youtube",
+    "id": "4vVDV3E8aYo"
+   },
+   "curated": false
+  },
   {
    "id": "yt-ONnx63NAyMc",
    "type": "video",
@@ -116,6 +268,25 @@
    "curated": false
   },
   {
+   "id": "yt-9lM_X5hpp6A",
+   "type": "video",
+   "title": "1st Place: Interstate Eight - Lindy Hop Team - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 208,
+   "popularity": 58,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "9lM_X5hpp6A"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-ugl2bTD-5A8",
    "type": "video",
    "title": "RTSF 2020 Jamboree Ball (Sunday) – Balboa & Bal-Swing – Marina & Sasha, Natasha & Olivier",
@@ -188,25 +359,6 @@
    "source": {
     "platform": "youtube",
     "id": "_6pKyVh2kNM"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-9lM_X5hpp6A",
-   "type": "video",
-   "title": "1st Place: Interstate Eight - Lindy Hop Team - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 208,
-   "popularity": 52,
-   "addedAt": "2026-07-22",
-   "source": {
-    "platform": "youtube",
-    "id": "9lM_X5hpp6A"
    },
    "curated": false
   },
@@ -715,7 +867,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1400,
-   "popularity": 50,
+   "popularity": 51,
    "addedAt": "2026-07-20",
    "source": {
     "platform": "youtube",
@@ -857,6 +1009,25 @@
    "curated": false
   },
   {
+   "id": "yt-IzsWqMABG14",
+   "type": "video",
+   "title": "2nd Place: Naomi & Skye - Invitational Draw - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 131,
+   "popularity": 61,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "IzsWqMABG14"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-mW4PVelqnz0",
    "type": "tutorial",
    "title": "What is the difference between WCS and Lindy Hop? | Online Swing Dance Lessons | Street Smart Swing",
@@ -895,25 +1066,6 @@
    "curated": false
   },
   {
-   "id": "yt-IzsWqMABG14",
-   "type": "video",
-   "title": "2nd Place: Naomi & Skye - Invitational Draw - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 131,
-   "popularity": 60,
-   "addedAt": "2026-07-19",
-   "source": {
-    "platform": "youtube",
-    "id": "IzsWqMABG14"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-pruwdjzlZsQ",
    "type": "video",
    "title": "3rd Place: Frida & Felix - Invitational Draw - ILHC 2026",
@@ -924,7 +1076,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 127,
-   "popularity": 59,
+   "popularity": 60,
    "addedAt": "2026-07-19",
    "source": {
     "platform": "youtube",
@@ -2273,7 +2425,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 185,
-   "popularity": 62,
+   "popularity": 63,
    "addedAt": "2026-07-17",
    "source": {
     "platform": "youtube",
@@ -2292,7 +2444,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 186,
-   "popularity": 58,
+   "popularity": 59,
    "addedAt": "2026-07-17",
    "source": {
     "platform": "youtube",
@@ -4211,7 +4363,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 138,
-   "popularity": 24,
+   "popularity": 25,
    "addedAt": "2026-07-12",
    "source": {
     "platform": "youtube",
