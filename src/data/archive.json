@@ -1,6 +1,272 @@
 {
- "exportedAt": "2026-07-23T18:34:50.708Z",
+ "exportedAt": "2026-07-24T18:38:17.734Z",
  "items": [
+  {
+   "id": "yt-RVqo4HGcojE",
+   "type": "video",
+   "title": "The Roaring Twenties Dance Craze",
+   "artist": "skeever",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 134,
+   "popularity": 72,
+   "addedAt": "2026-07-24",
+   "source": {
+    "platform": "youtube",
+    "id": "RVqo4HGcojE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IiZMV8xuKNw",
+   "type": "video",
+   "title": "NYC Balboa Weekend Dance Competition Finals",
+   "artist": "ScotAF",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2007,
+   "durationSec": 74,
+   "popularity": 69,
+   "addedAt": "2026-07-24",
+   "source": {
+    "platform": "youtube",
+    "id": "IiZMV8xuKNw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-rCxPN1PZk8k",
+   "type": "video",
+   "title": "Balboa débutant 2013",
+   "artist": "Studio Swing Cat",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 77,
+   "popularity": 61,
+   "addedAt": "2026-07-24",
+   "source": {
+    "platform": "youtube",
+    "id": "rCxPN1PZk8k"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zV-2HUEG29k",
+   "type": "video",
+   "title": "3/20/16 - Intermediate Balboa (tossout, ftwork variation, L2L tossout, the copper leaf, head loops)",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 111,
+   "popularity": 61,
+   "addedAt": "2026-07-24",
+   "source": {
+    "platform": "youtube",
+    "id": "zV-2HUEG29k"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Z7KCjRCgcts",
+   "type": "video",
+   "title": "The African-American Roots of the Charleston Dance",
+   "artist": "Christian Frommelt",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 158,
+   "popularity": 58,
+   "addedAt": "2026-07-24",
+   "source": {
+    "platform": "youtube",
+    "id": "Z7KCjRCgcts"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tvBvHgSeuCY",
+   "type": "video",
+   "title": "Balboa: tutti i passi base spiegati | Fabio Lancini e Mara Fradella – Nonsolocharleston",
+   "artist": "Quell* di Nonsolocharleston",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 125,
+   "popularity": 50,
+   "addedAt": "2026-07-24",
+   "source": {
+    "platform": "youtube",
+    "id": "tvBvHgSeuCY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Y1deKETIZXE",
+   "type": "video",
+   "title": "Bal-Swing stuff | Balboa recap with Abeth & Martynas",
+   "artist": "Martynas Stonys",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 148,
+   "popularity": 49,
+   "addedAt": "2026-07-24",
+   "source": {
+    "platform": "youtube",
+    "id": "Y1deKETIZXE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-mg1SAfaEbdQ",
+   "type": "video",
+   "title": "Swing for Balboa: Twist Till Hips Hurt",
+   "artist": "Relaxing Rhythms Ch",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 3860,
+   "popularity": 46,
+   "addedAt": "2026-07-24",
+   "source": {
+    "platform": "youtube",
+    "id": "mg1SAfaEbdQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-PsGXMYYnRP0",
+   "type": "tutorial",
+   "title": "The Toss Out-Balboa the dance- from Downhold Basic-Demo #shorts #shorts #how to do Balboa #Bal-Swing",
+   "artist": "Balboa the dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 45,
+   "popularity": 46,
+   "addedAt": "2026-07-24",
+   "source": {
+    "platform": "youtube",
+    "id": "PsGXMYYnRP0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-68y1Y2RXzjA",
+   "type": "video",
+   "title": "Balboa BalSwing 🤩",
+   "artist": "Let It Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 152,
+   "popularity": 44,
+   "addedAt": "2026-07-24",
+   "source": {
+    "platform": "youtube",
+    "id": "68y1Y2RXzjA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--VhFkVH59iY",
+   "type": "video",
+   "title": "Fall 2013 Charleston /Solo Jazz I Review Routine: Boilermakers Charleston",
+   "artist": "Swing with UofC",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 105,
+   "popularity": 42,
+   "addedAt": "2026-07-24",
+   "source": {
+    "platform": "youtube",
+    "id": "-VhFkVH59iY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-o5ZidmSaa4c",
+   "type": "video",
+   "title": "Camp Hollywood 2017 - Collegiate Shag Mix & Match Finals",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 485,
+   "popularity": 42,
+   "addedAt": "2026-07-24",
+   "source": {
+    "platform": "youtube",
+    "id": "o5ZidmSaa4c"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-g5zglyxj0XU",
+   "type": "video",
+   "title": "HRH 2023: Advanced Collegiate Shag Mix & Match - Isabella & Ian",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 108,
+   "popularity": 35,
+   "addedAt": "2026-07-24",
+   "source": {
+    "platform": "youtube",
+    "id": "g5zglyxj0XU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hgX-9zAlsPQ",
+   "type": "video",
+   "title": "Breezy Balboa Weekend 2026 – Teachers’ Demo",
+   "artist": "Breezy Balboa",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 192,
+   "popularity": 34,
+   "addedAt": "2026-07-24",
+   "source": {
+    "platform": "youtube",
+    "id": "hgX-9zAlsPQ"
+   },
+   "curated": false
+  },
   {
    "id": "yt-4Ikc0Q1gQ8s",
    "type": "video",
@@ -249,6 +515,25 @@
    "curated": false
   },
   {
+   "id": "yt-9lM_X5hpp6A",
+   "type": "video",
+   "title": "1st Place: Interstate Eight - Lindy Hop Team - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 208,
+   "popularity": 60,
+   "addedAt": "2026-07-22",
+   "source": {
+    "platform": "youtube",
+    "id": "9lM_X5hpp6A"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-gp31K_a_q8Q",
    "type": "video",
    "title": "Bal-Swing-outside-inside-turn",
@@ -264,25 +549,6 @@
    "source": {
     "platform": "youtube",
     "id": "gp31K_a_q8Q"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-9lM_X5hpp6A",
-   "type": "video",
-   "title": "1st Place: Interstate Eight - Lindy Hop Team - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 208,
-   "popularity": 58,
-   "addedAt": "2026-07-22",
-   "source": {
-    "platform": "youtube",
-    "id": "9lM_X5hpp6A"
    },
    "curated": false
   },
@@ -867,7 +1133,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1400,
-   "popularity": 51,
+   "popularity": 52,
    "addedAt": "2026-07-20",
    "source": {
     "platform": "youtube",
@@ -1076,7 +1342,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 127,
-   "popularity": 60,
+   "popularity": 59,
    "addedAt": "2026-07-19",
    "source": {
     "platform": "youtube",
@@ -2425,7 +2691,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 185,
-   "popularity": 63,
+   "popularity": 64,
    "addedAt": "2026-07-17",
    "source": {
     "platform": "youtube",
@@ -9971,7 +10237,8 @@
    "title": "🧊🧊👶 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
-    "lindy"
+    "lindy",
+    "balboa"
    ],
    "bpm": null,
    "year": 2024,
@@ -13382,6 +13649,25 @@
    "curated": false
   },
   {
+   "id": "yt-NscfXRaGl-w",
+   "type": "video",
+   "title": "1920s Party Music: Roaring 20s Jazz, Swing & Charleston Dance Songs Playlist",
+   "artist": "Dream State Audio",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 3695,
+   "popularity": 71,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "NscfXRaGl-w"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-F3X7Lla3daQ",
    "type": "tutorial",
    "title": "Learn the California Routine | Lindy Hop Swing Dance | Level 6 Lesson 3 | Shauna Marble",
@@ -13511,25 +13797,6 @@
    "source": {
     "platform": "youtube",
     "id": "ROHcKfMo_-Q"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-NscfXRaGl-w",
-   "type": "video",
-   "title": "1920s Party Music: Roaring 20s Jazz, Swing & Charleston Dance Songs Playlist",
-   "artist": "Dream State Audio",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 3695,
-   "popularity": 70,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "NscfXRaGl-w"
    },
    "curated": false
   },
@@ -14210,7 +14477,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 132,
-   "popularity": 67,
+   "popularity": 68,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
@@ -20949,6 +21216,25 @@
    "curated": false
   },
   {
+   "id": "yt-FkxySGIPZpY",
+   "type": "video",
+   "title": "Bal-Swing Toss Out Mania Recap with Josh & Emma - Bandits & Balboa 2025 #santafeswing #balboa #dance",
+   "artist": "Santa Fe Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 47,
+   "popularity": 45,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "FkxySGIPZpY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-gkRHgHsnkBU",
    "type": "video",
    "title": "Lindy Hop Social Dance - Rachel McMullin & Kevin Clark",
@@ -21287,25 +21573,6 @@
    "source": {
     "platform": "youtube",
     "id": "eMPHUPDJA60"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-FkxySGIPZpY",
-   "type": "video",
-   "title": "Bal-Swing Toss Out Mania Recap with Josh & Emma - Bandits & Balboa 2025 #santafeswing #balboa #dance",
-   "artist": "Santa Fe Swing",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 47,
-   "popularity": 44,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "FkxySGIPZpY"
    },
    "curated": false
   },
