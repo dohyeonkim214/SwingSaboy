@@ -1,6 +1,120 @@
 {
- "exportedAt": "2026-07-24T18:38:17.734Z",
+ "exportedAt": "2026-07-26T18:28:16.720Z",
  "items": [
+  {
+   "id": "yt-ZyrThPJsgFY",
+   "type": "video",
+   "title": "6 simple eights / Combo to learn and follow / Solo Jazz",
+   "artist": "Solo Jazz Power",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 318,
+   "popularity": 60,
+   "addedAt": "2026-07-26",
+   "source": {
+    "platform": "youtube",
+    "id": "ZyrThPJsgFY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-RHPXYL3ExCs",
+   "type": "tutorial",
+   "title": "CalBal Classic 2025 - Invitational Mixed Couples COMPLETE CONTEST",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 1786,
+   "popularity": 57,
+   "addedAt": "2026-07-26",
+   "source": {
+    "platform": "youtube",
+    "id": "RHPXYL3ExCs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-fm8NPbE0Zak",
+   "type": "video",
+   "title": "Cassie Mae + Issac Lopez - Collegiate Shag Fever",
+   "artist": "Swing Dancing Phoenix",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 59,
+   "popularity": 53,
+   "addedAt": "2026-07-26",
+   "source": {
+    "platform": "youtube",
+    "id": "fm8NPbE0Zak"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pLpAt1Iku2Q",
+   "type": "video",
+   "title": "Learn the Carolina Shag: Basic Steps & Feel the Rhythm!",
+   "artist": "Swing Dancing Phoenix",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 107,
+   "popularity": 52,
+   "addedAt": "2026-07-26",
+   "source": {
+    "platform": "youtube",
+    "id": "pLpAt1Iku2Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hOpKWJDczpc",
+   "type": "video",
+   "title": "1937 Harvest Moon Ball newsreel containing Waltz, Collegiate Shag, and Lindy Hop",
+   "artist": "Forrest Outman Phoenix (DanceHistorian.com)",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 75,
+   "popularity": 46,
+   "addedAt": "2026-07-26",
+   "source": {
+    "platform": "youtube",
+    "id": "hOpKWJDczpc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-WcGtXggMmes",
+   "type": "video",
+   "title": "Krak The Shag ¡Hola Balboa! 2026 - Teachers Show",
+   "artist": "JazzLikeThatKrk",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 230,
+   "popularity": 35,
+   "addedAt": "2026-07-26",
+   "source": {
+    "platform": "youtube",
+    "id": "WcGtXggMmes"
+   },
+   "curated": false
+  },
   {
    "id": "yt-RVqo4HGcojE",
    "type": "video",
@@ -1294,6 +1408,25 @@
    "curated": false
   },
   {
+   "id": "yt-9Wv5s1bdnbM",
+   "type": "video",
+   "title": "1st Place: Bianca & Remy - Invitational Draw - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 127,
+   "popularity": 61,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "9Wv5s1bdnbM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-mW4PVelqnz0",
    "type": "tutorial",
    "title": "What is the difference between WCS and Lindy Hop? | Online Swing Dance Lessons | Street Smart Swing",
@@ -1309,25 +1442,6 @@
    "source": {
     "platform": "youtube",
     "id": "mW4PVelqnz0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-9Wv5s1bdnbM",
-   "type": "video",
-   "title": "1st Place: Bianca & Remy - Invitational Draw - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 127,
-   "popularity": 60,
-   "addedAt": "2026-07-19",
-   "source": {
-    "platform": "youtube",
-    "id": "9Wv5s1bdnbM"
    },
    "curated": false
   },
@@ -2691,7 +2805,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 185,
-   "popularity": 64,
+   "popularity": 65,
    "addedAt": "2026-07-17",
    "source": {
     "platform": "youtube",
@@ -2710,7 +2824,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 186,
-   "popularity": 59,
+   "popularity": 60,
    "addedAt": "2026-07-17",
    "source": {
     "platform": "youtube",
@@ -7004,7 +7118,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 45,
-   "popularity": 58,
+   "popularity": 59,
    "addedAt": "2026-07-08",
    "source": {
     "platform": "youtube",
@@ -16616,6 +16730,25 @@
    "curated": false
   },
   {
+   "id": "yt-h1zY2ZMPLnM",
+   "type": "tutorial",
+   "title": "CalBal Classic 2025 - The Open Classic - Alice & Blake",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 117,
+   "popularity": 60,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "h1zY2ZMPLnM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-DK4-ph2ehYA",
    "type": "tutorial",
    "title": "2nd Place: Alice & Remy - World Finals Classic - ILHC 2024",
@@ -16746,25 +16879,6 @@
    "source": {
     "platform": "youtube",
     "id": "Y6JvHBM-3MY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-h1zY2ZMPLnM",
-   "type": "tutorial",
-   "title": "CalBal Classic 2025 - The Open Classic - Alice & Blake",
-   "artist": "California Balboa Classic",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 117,
-   "popularity": 59,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "h1zY2ZMPLnM"
    },
    "curated": false
   },
@@ -17928,6 +18042,25 @@
    "curated": false
   },
   {
+   "id": "yt-B6gfVF4DFPg",
+   "type": "video",
+   "title": "HRH 2025 - Invitational Balboa Mix & Match COMPLETE CONTEST",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 1103,
+   "popularity": 56,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "B6gfVF4DFPg"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-dP8jiwmcV9U",
    "type": "tutorial",
    "title": "Difference between Lindy Hop and Charleston | Online Swing Dance Lessons | Street Smart Swing",
@@ -17981,25 +18114,6 @@
    "source": {
     "platform": "youtube",
     "id": "wf_fQpq0VF0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-B6gfVF4DFPg",
-   "type": "video",
-   "title": "HRH 2025 - Invitational Balboa Mix & Match COMPLETE CONTEST",
-   "artist": "Hot Rhythm Foundation",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 1103,
-   "popularity": 55,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "B6gfVF4DFPg"
    },
    "curated": false
   },
@@ -18498,6 +18612,25 @@
    "curated": false
   },
   {
+   "id": "yt-vu7r9E3zfJs",
+   "type": "video",
+   "title": "RTSF 2025 – Collegiate Shag Choreography by Arnas & Egle",
+   "artist": "RockThatSwing",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 194,
+   "popularity": 53,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "vu7r9E3zfJs"
+   },
+   "curated": false
+  },
+  {
    "id": "yt--eEJtxcZ-_o",
    "type": "video",
    "title": "OPEN LINDY FINAL 2025 Camp Hollywood and the National Jitterbug Championships",
@@ -18646,25 +18779,6 @@
    "source": {
     "platform": "youtube",
     "id": "8DY-0d29fuU"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-vu7r9E3zfJs",
-   "type": "video",
-   "title": "RTSF 2025 – Collegiate Shag Choreography by Arnas & Egle",
-   "artist": "RockThatSwing",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 194,
-   "popularity": 52,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "vu7r9E3zfJs"
    },
    "curated": false
   },
@@ -20437,6 +20551,25 @@
    "curated": false
   },
   {
+   "id": "yt-CIdssQOLMlg",
+   "type": "video",
+   "title": "Shageriai - Collegiate Shag",
+   "artist": "What a Jazz dance studio",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 53,
+   "popularity": 47,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "CIdssQOLMlg"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-XvdN7HReFD4",
    "type": "video",
    "title": "Open Mix & Match Finals | Lindy Hop Competition – Sofia Swing Dance Festival 2025",
@@ -20775,25 +20908,6 @@
    "source": {
     "platform": "youtube",
     "id": "gb_ZCiKF8yo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-CIdssQOLMlg",
-   "type": "video",
-   "title": "Shageriai - Collegiate Shag",
-   "artist": "What a Jazz dance studio",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 53,
-   "popularity": 46,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "CIdssQOLMlg"
    },
    "curated": false
   },
