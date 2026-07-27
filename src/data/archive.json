@@ -1,6 +1,139 @@
 {
- "exportedAt": "2026-07-26T18:28:16.720Z",
+ "exportedAt": "2026-07-27T18:39:33.770Z",
  "items": [
+  {
+   "id": "yt-fGAred2AGWQ",
+   "type": "video",
+   "title": "Nils and Bianca - Lindy Hop Invitational | The Snowball 2025",
+   "artist": "Slava Bogatov",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 110,
+   "popularity": 80,
+   "addedAt": "2026-07-27",
+   "source": {
+    "platform": "youtube",
+    "id": "fGAred2AGWQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-iWlKd1qzmmE",
+   "type": "video",
+   "title": "Danser le Charleston facilement (Tutoriel Débutant)",
+   "artist": "Kostas Markadas",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 503,
+   "popularity": 76,
+   "addedAt": "2026-07-27",
+   "source": {
+    "platform": "youtube",
+    "id": "iWlKd1qzmmE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Zh6Dy9RaBeQ",
+   "type": "video",
+   "title": "Collegiate Shag Demo  - Tony Fraser and Jaime Shannon",
+   "artist": "Tony Fraser",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 146,
+   "popularity": 69,
+   "addedAt": "2026-07-27",
+   "source": {
+    "platform": "youtube",
+    "id": "Zh6Dy9RaBeQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1epTT-iXDOA",
+   "type": "video",
+   "title": "[트리플크라운 스윙댄스학원] 소셜댄스 / 린디합 / Social Dance - Lindy Hop (171010)",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 119,
+   "popularity": 60,
+   "addedAt": "2026-07-27",
+   "source": {
+    "platform": "youtube",
+    "id": "1epTT-iXDOA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-NQ1RPcD8UKg",
+   "type": "video",
+   "title": "Jenny Shirar and Christian Frommelt - St. Louis Shag and Swing",
+   "artist": "Christian Frommelt",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 167,
+   "popularity": 46,
+   "addedAt": "2026-07-27",
+   "source": {
+    "platform": "youtube",
+    "id": "NQ1RPcD8UKg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4eevXd1E_dQ",
+   "type": "tutorial",
+   "title": "2009 Southern Fried Swing, Day 03, Intermediate Class 01: Partner Charleston",
+   "artist": "itsaboutmomentum",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 59,
+   "popularity": 45,
+   "addedAt": "2026-07-27",
+   "source": {
+    "platform": "youtube",
+    "id": "4eevXd1E_dQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9xxr6Mmi_hw",
+   "type": "video",
+   "title": "HRH 2023: Collegiate Shag Invitational - Tabitha & Nick",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 113,
+   "popularity": 38,
+   "addedAt": "2026-07-27",
+   "source": {
+    "platform": "youtube",
+    "id": "9xxr6Mmi_hw"
+   },
+   "curated": false
+  },
   {
    "id": "yt-ZyrThPJsgFY",
    "type": "video",
