@@ -1,6 +1,310 @@
 {
- "exportedAt": "2026-07-27T18:39:33.770Z",
+ "exportedAt": "2026-07-28T18:37:12.663Z",
  "items": [
+  {
+   "id": "yt-oRIhIIXN94s",
+   "type": "tutorial",
+   "title": "CalBal Classic 2019: The Classic Finals - Fast Round",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 581,
+   "popularity": 68,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "oRIhIIXN94s"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-O65KqT0Vby8",
+   "type": "tutorial",
+   "title": "CalBal Classic 2015: Competition - Pure Balboa Classic Finals",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 390,
+   "popularity": 65,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "O65KqT0Vby8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-6nLf9MaJ3dQ",
+   "type": "video",
+   "title": "Balorado 2023 - Blake & Grace - Balboa Switch Contest",
+   "artist": "redreef1",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 82,
+   "popularity": 51,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "6nLf9MaJ3dQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-yD4A-8u6Uo0",
+   "type": "video",
+   "title": "Swingin' Denver - Intermediate Balboa (The Willie Slide)",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 70,
+   "popularity": 49,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "yD4A-8u6Uo0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_IgzKwGsXWs",
+   "type": "video",
+   "title": "Invitational Shuffle COMPLETE CONTEST - Great Lakes Balboa Escape 2025",
+   "artist": "Great Lakes Balboa Escape",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 1601,
+   "popularity": 46,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "_IgzKwGsXWs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-HLIY_D3Vva4",
+   "type": "tutorial",
+   "title": "CalBal Classic 2017 - Competition - Pure Balboa Prelims",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 572,
+   "popularity": 44,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "HLIY_D3Vva4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--HuiU3-xVzU",
+   "type": "video",
+   "title": "MyCharleston: 'Walkin Blues' Charleston and Solo Jazz Routine",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 138,
+   "popularity": 44,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "-HuiU3-xVzU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IneVX7qMT2I",
+   "type": "video",
+   "title": "BadAZ Balboa Swing Dance Contest - Round 3 - 2025",
+   "artist": "Swing Dancing Phoenix",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 189,
+   "popularity": 43,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "IneVX7qMT2I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tY2An8a50xI",
+   "type": "video",
+   "title": "B&B2017 : Pure Balboa Final 1st Place",
+   "artist": "Korea Balboa",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 207,
+   "popularity": 43,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "tY2An8a50xI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-JsIaf823abk",
+   "type": "video",
+   "title": "Shanghai Balboa Weekend 2023 - Sylvia Sykes & Nick Williams",
+   "artist": "Shanghai Balboa Weekend",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 109,
+   "popularity": 36,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "JsIaf823abk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Ad_ipT1_W1o",
+   "type": "video",
+   "title": "B&B2018 : Pure Balboa Strictly - 3rd Place Youngbo Shim & Tracy",
+   "artist": "Korea Balboa",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 96,
+   "popularity": 32,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "Ad_ipT1_W1o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9bdzRf1u6OM",
+   "type": "video",
+   "title": "B&B2018 : Pure Balboa Strictly - 2nd Place Swingchip & MJ",
+   "artist": "Korea Balboa",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 94,
+   "popularity": 32,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "9bdzRf1u6OM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-RuEMquv92iU",
+   "type": "video",
+   "title": "Jazz Throwdown - Top 8 Battles - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1326,
+   "popularity": 31,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "RuEMquv92iU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-WRRmqsB-Dsk",
+   "type": "tutorial",
+   "title": "Pure Balboa Lesson 1 Recap",
+   "artist": "Vintage Dance Company",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 334,
+   "popularity": 31,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "WRRmqsB-Dsk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Zxi-4PREPYo",
+   "type": "tutorial",
+   "title": "Whole C Class Solo Jazz Routine - Mama's Stew",
+   "artist": "Portland Swing Project",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 133,
+   "popularity": 31,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "Zxi-4PREPYo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-6Mjc_44J7eA",
+   "type": "video",
+   "title": "B&B2017 : Pure Balboa Final All Skate",
+   "artist": "Korea Balboa",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 207,
+   "popularity": 15,
+   "addedAt": "2026-07-28",
+   "source": {
+    "platform": "youtube",
+    "id": "6Mjc_44J7eA"
+   },
+   "curated": false
+  },
   {
    "id": "yt-fGAred2AGWQ",
    "type": "video",
@@ -1522,6 +1826,25 @@
    "curated": false
   },
   {
+   "id": "yt-9Wv5s1bdnbM",
+   "type": "video",
+   "title": "1st Place: Bianca & Remy - Invitational Draw - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 127,
+   "popularity": 62,
+   "addedAt": "2026-07-19",
+   "source": {
+    "platform": "youtube",
+    "id": "9Wv5s1bdnbM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-IzsWqMABG14",
    "type": "video",
    "title": "2nd Place: Naomi & Skye - Invitational Draw - ILHC 2026",
@@ -1537,25 +1860,6 @@
    "source": {
     "platform": "youtube",
     "id": "IzsWqMABG14"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-9Wv5s1bdnbM",
-   "type": "video",
-   "title": "1st Place: Bianca & Remy - Invitational Draw - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 127,
-   "popularity": 61,
-   "addedAt": "2026-07-19",
-   "source": {
-    "platform": "youtube",
-    "id": "9Wv5s1bdnbM"
    },
    "curated": false
   },
@@ -2938,7 +3242,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 185,
-   "popularity": 65,
+   "popularity": 66,
    "addedAt": "2026-07-17",
    "source": {
     "platform": "youtube",
@@ -5650,7 +5954,8 @@
    "title": "Shag vs. Balboa Competition - Atomic Ballroom",
    "artist": "Live Collegiate Shag",
    "styles": [
-    "shag"
+    "shag",
+    "balboa"
    ],
    "bpm": null,
    "year": 2018,
@@ -6177,6 +6482,25 @@
    "curated": false
   },
   {
+   "id": "yt-OJLCUEWHeZU",
+   "type": "tutorial",
+   "title": "Balboa Dance Basic Steps for Beginners | Day 1 of 4",
+   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 91,
+   "popularity": 31,
+   "addedAt": "2026-07-10",
+   "source": {
+    "platform": "youtube",
+    "id": "OJLCUEWHeZU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-cLAfapGCTS0",
    "type": "video",
    "title": "Boulder Swing Dance: St. Louis Shag week 2 recap",
@@ -6192,25 +6516,6 @@
    "source": {
     "platform": "youtube",
     "id": "cLAfapGCTS0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-OJLCUEWHeZU",
-   "type": "tutorial",
-   "title": "Balboa Dance Basic Steps for Beginners | Day 1 of 4",
-   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 91,
-   "popularity": 30,
-   "addedAt": "2026-07-10",
-   "source": {
-    "platform": "youtube",
-    "id": "OJLCUEWHeZU"
    },
    "curated": false
   },
@@ -10273,7 +10578,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 176,
-   "popularity": 32,
+   "popularity": 33,
    "addedAt": "2026-07-05",
    "source": {
     "platform": "youtube",
