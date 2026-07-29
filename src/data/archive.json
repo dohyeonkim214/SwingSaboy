@@ -1,6 +1,842 @@
 {
- "exportedAt": "2026-07-28T18:37:12.663Z",
+ "exportedAt": "2026-07-29T18:27:57.360Z",
  "items": [
+  {
+   "id": "yt-3tRFL4q5m7c",
+   "type": "video",
+   "title": "The Jitterbug",
+   "artist": "Savoy Hop",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 156,
+   "popularity": 85,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "3tRFL4q5m7c"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-47L1tR5kLmY",
+   "type": "video",
+   "title": "Swing Dancing & Lindy Hopping Kids - Jimmy Dorsey Orchestra 1942",
+   "artist": "Savoy Hop",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 210,
+   "popularity": 80,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "47L1tR5kLmY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-6cxJo7qNg9U",
+   "type": "tutorial",
+   "title": "How to Do Double Time Swing | Swing Dance",
+   "artist": "Howcast",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 153,
+   "popularity": 74,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "6cxJo7qNg9U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ByEzObz2BDw",
+   "type": "video",
+   "title": "Spirit Moves 2",
+   "artist": "Mikey Pedroza & Nikki Marvin",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2008,
+   "durationSec": 475,
+   "popularity": 72,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "ByEzObz2BDw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-RohnBhx2rOs",
+   "type": "video",
+   "title": "Fun Intermediate Lindy Hop Moves (Frankie Manning I'm Sorry, Dawn Hampton Stare, Jig Kicks)",
+   "artist": "swinginstyle",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 350,
+   "popularity": 72,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "RohnBhx2rOs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wlh4FbKkh5E",
+   "type": "video",
+   "title": "4 Turns and Spins every Follower should practice for Lindy Hop",
+   "artist": "Syncopated City",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 262,
+   "popularity": 62,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "wlh4FbKkh5E"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ohKAWZofS2M",
+   "type": "video",
+   "title": "A Rufus Dustin & Sharon Savoy Dance Performance",
+   "artist": "John Karakis",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 239,
+   "popularity": 57,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "ohKAWZofS2M"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-th6NcTNxVK8",
+   "type": "tutorial",
+   "title": "Bal-Swing Variations: Balboa Footwork Frenzy Workshop Recap, Part 2",
+   "artist": "Lainey Silver",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 165,
+   "popularity": 55,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "th6NcTNxVK8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-mGkw8lvLwmY",
+   "type": "video",
+   "title": "Savoy Cup 2023 - Rhythm & Blues Contest Final - Alessia Ghezzo & Dimitri Masotti",
+   "artist": "Savoy Cup",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 102,
+   "popularity": 54,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "mGkw8lvLwmY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-rsRimztVmTI",
+   "type": "video",
+   "title": "[Eng Sub] Week 1 - Savoy Inspirations (Nalla Kim & Jessica Yoon) @ Vintage Lindy Hop 스윙댄스 린디합",
+   "artist": "스윙댄스 Lindy Explorer ",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 282,
+   "popularity": 54,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "rsRimztVmTI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-fbRtyhCXyqU",
+   "type": "video",
+   "title": "Savoy Ballroom Exhibit - 1939 New York Worlds Fair Lindy Hop (part2)",
+   "artist": "Sonny Watson",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 93,
+   "popularity": 54,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "fbRtyhCXyqU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ehS_rG7ryzM",
+   "type": "video",
+   "title": "Lindy hop, east coast swing (hollywood style), charleston, balboa",
+   "artist": "lomo135135",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 110,
+   "popularity": 51,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "ehS_rG7ryzM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-CpbfHKf1vx4",
+   "type": "video",
+   "title": "Lindy Hop - Radio City Revels 1938",
+   "artist": "Savoy Hop",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 92,
+   "popularity": 51,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "CpbfHKf1vx4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-S8jDGkWUlOI",
+   "type": "video",
+   "title": "Swing Dancing",
+   "artist": "Savoy Hop",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 80,
+   "popularity": 51,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "S8jDGkWUlOI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-z7FWqgFPxhc",
+   "type": "video",
+   "title": "Lindy Hop Scissor Kicks Styling with Frankie Manning Moves",
+   "artist": "Tiffiny Wine",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 136,
+   "popularity": 51,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "z7FWqgFPxhc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FxKplYOPlDI",
+   "type": "video",
+   "title": "Frankie Manning & Norma Miller - The Big Apple",
+   "artist": "Lindy Hop Archive",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 209,
+   "popularity": 50,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "FxKplYOPlDI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-P65A2vykIdI",
+   "type": "video",
+   "title": "Lindy Hop SAVOY 2011.wmv",
+   "artist": "College 66 ",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 162,
+   "popularity": 49,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "P65A2vykIdI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Y3QufWKBjxA",
+   "type": "tutorial",
+   "title": "Beginner Lindy Hop - Happy Steps, Frankie Cha Cha Step w/ Swivels - DowntownSwing",
+   "artist": "swinginstyle",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 79,
+   "popularity": 49,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "Y3QufWKBjxA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ztEwXVT_adM",
+   "type": "video",
+   "title": "The Jive Aces - The Stade Open Space, Rock-a-Nore Road, Hastings Old Town 24.08.14",
+   "artist": "PRAK14",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 319,
+   "popularity": 48,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "ztEwXVT_adM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-SZSncg541vA",
+   "type": "video",
+   "title": "1/26/17 Swing 1 @ The Savoy (Swing Out from open, side-by-side Charleston)",
+   "artist": "swinginstyle",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 155,
+   "popularity": 47,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "SZSncg541vA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4XkhaT4cFXI",
+   "type": "video",
+   "title": "Savoy - Lindy Focus VIII",
+   "artist": "Lindy Focus",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 167,
+   "popularity": 47,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "4XkhaT4cFXI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9fNUE1VDXSw",
+   "type": "video",
+   "title": "Intermediate Lindy Hop Styling - Week 1 in November",
+   "artist": "Tiffiny Wine",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 167,
+   "popularity": 47,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "9fNUE1VDXSw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-AwaYCdv6f_0",
+   "type": "tutorial",
+   "title": "Swingouts, Circle, Frankie Jogs, Minne Dip - Week 4 Beginner Lindy Hop",
+   "artist": "swinginstyle",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 126,
+   "popularity": 47,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "AwaYCdv6f_0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-vYJnIKYiswY",
+   "type": "video",
+   "title": "Lindyfest 2019: Women of Jazz Performance",
+   "artist": "Houston Swing Dance Society - Lindyfest",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 176,
+   "popularity": 46,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "vYJnIKYiswY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-db2KYtwmzQY",
+   "type": "video",
+   "title": "Lindy Hop with Swingin' Denver - Promotion Video",
+   "artist": "swinginstyle",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 48,
+   "popularity": 44,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "db2KYtwmzQY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-LlVOZVTOO-4",
+   "type": "video",
+   "title": "frankie manning on swing and the lindy hop.",
+   "artist": "kilkenny swing",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 49,
+   "popularity": 42,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "LlVOZVTOO-4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-n0LzqiqE3Jo",
+   "type": "tutorial",
+   "title": "Lindy Hop Masters Weekend NYC 2012 - class with Frankie Manning's son, Chazz Young",
+   "artist": "whatsnexttechai",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 64,
+   "popularity": 41,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "n0LzqiqE3Jo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-SQsRHMMOPRk",
+   "type": "video",
+   "title": "Inspired by COLLEGIATE SHAG: Arnas and Eglė",
+   "artist": "Egle Stasiulyte",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 61,
+   "popularity": 41,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "SQsRHMMOPRk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-n6ZoElucX9o",
+   "type": "video",
+   "title": "2/9/17 Swing 2 @ Savoy (California Routine: Barrel Turn, Skim Out, Tango)",
+   "artist": "swinginstyle",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 113,
+   "popularity": 40,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "n6ZoElucX9o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dtjmxXOFquk",
+   "type": "video",
+   "title": "SoD 20220710 Lindy Hop 2 Stop and Go mit Hop Hop Styling und Hand und Platzwechsel",
+   "artist": "DancingSuite Berlin",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 80,
+   "popularity": 39,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "dtjmxXOFquk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-o5TovfCJEiw",
+   "type": "video",
+   "title": "Jerry & Nanassi Lindyhop Social",
+   "artist": "Jerry & Nanassi",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 57,
+   "popularity": 39,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "o5TovfCJEiw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1M_yEyY3TyA",
+   "type": "video",
+   "title": "🎙 #FrankieInHisOwnWords - Lindy Hop Will Never Die",
+   "artist": "Frankie Manning Foundation",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 69,
+   "popularity": 39,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "1M_yEyY3TyA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pvV9rvD9Ho4",
+   "type": "video",
+   "title": "2009 Savoy Swing Jam Strictly Lindy Finals",
+   "artist": "David Soltysik",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 348,
+   "popularity": 36,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "pvV9rvD9Ho4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-U6crSOjWIC8",
+   "type": "video",
+   "title": "Woo Balboa Dance - Toss Out, Momentum, Reverse Texas Tommy, Balswing (w/Belle #42)",
+   "artist": "정우 woo_swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 52,
+   "popularity": 35,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "U6crSOjWIC8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-P4n3PWiFZMQ",
+   "type": "video",
+   "title": "WNH - Swingin' At The Savoy - Lindy Hop Clips",
+   "artist": "Wednesday Night Hop",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 74,
+   "popularity": 33,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "P4n3PWiFZMQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-aHCCobWQ6g4",
+   "type": "video",
+   "title": "Frankie Manning - Ambassador of Lindy Hop",
+   "artist": "DANCEwithMESocial",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 45,
+   "popularity": 33,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "aHCCobWQ6g4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--2vq6iHY4K8",
+   "type": "video",
+   "title": "LINDY SHOW - ACTUACIONES SAVOY 2020",
+   "artist": "Savoy Benimaclet",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 150,
+   "popularity": 32,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "-2vq6iHY4K8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ivu7fuhXPpY",
+   "type": "video",
+   "title": "Lindy Hop: The Dance That Defined the Swing Era",
+   "artist": "Faramel",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 189,
+   "popularity": 32,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "ivu7fuhXPpY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-kQ-frC6-kvA",
+   "type": "video",
+   "title": "Jazz Throwdown - Top 4 Battles - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 699,
+   "popularity": 30,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "kQ-frC6-kvA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IZJQ0u9yEmw",
+   "type": "video",
+   "title": "Frankie Manning, Ambassador of Lindy Hop, bringing back lindy hop",
+   "artist": "Swing Dance Nashville",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 409,
+   "popularity": 28,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "IZJQ0u9yEmw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IeY6ChlVu7U",
+   "type": "video",
+   "title": "[23.6.15] #6thClip #charleston #solojazz #swingdance #flyinghome #swingjazz #danceimprov #My100",
+   "artist": "시.땐.SheDances",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 54,
+   "popularity": 28,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "IeY6ChlVu7U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7YXM0N3RVOQ",
+   "type": "video",
+   "title": "Jazz Throwdown Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 691,
+   "popularity": 27,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "7YXM0N3RVOQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-mmmU0UY7ack",
+   "type": "video",
+   "title": "Teaching the Savoy Madison at The Great British Vintage Tea Dance",
+   "artist": "Savoy Entertainment",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 57,
+   "popularity": 25,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "mmmU0UY7ack"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4dwST-nlV8Y",
+   "type": "video",
+   "title": "2019 SAVOY Lindy cup swing dancers③",
+   "artist": "Amazing DANCE skills channel",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 141,
+   "popularity": 11,
+   "addedAt": "2026-07-29",
+   "source": {
+    "platform": "youtube",
+    "id": "4dwST-nlV8Y"
+   },
+   "curated": false
+  },
   {
    "id": "yt-oRIhIIXN94s",
    "type": "tutorial",
@@ -7252,7 +8088,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 752,
-   "popularity": 40,
+   "popularity": 41,
    "addedAt": "2026-07-09",
    "source": {
     "platform": "youtube",
@@ -10345,7 +11181,8 @@
    "title": "Savoy Kicks - Sugar Foot Stomp, Solo Jazz Routine",
    "artist": "MyCharleston",
    "styles": [
-    "charleston"
+    "charleston",
+    "lindy"
    ],
    "bpm": null,
    "year": 2018,
@@ -11140,7 +11977,8 @@
    "title": "1920s dances featuring the Charleston, the Peabody, Turkey Trot and more",
    "artist": "Savoy Hop",
    "styles": [
-    "charleston"
+    "charleston",
+    "lindy"
    ],
    "bpm": null,
    "year": 2013,
@@ -16084,6 +16922,25 @@
    "curated": false
   },
   {
+   "id": "yt-LLWwVkfPODo",
+   "type": "tutorial",
+   "title": "Balboa class beginners| Downhold basic| Come around| Toss out| Lollies| Mary & Christoffer| Swing",
+   "artist": "Mary & Christoffer",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 3536,
+   "popularity": 64,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "LLWwVkfPODo"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Xzffomp9PsI",
    "type": "video",
    "title": "Five Tips for Leaders (swing dance)",
@@ -16175,25 +17032,6 @@
    "source": {
     "platform": "youtube",
     "id": "hu5yJrfUn_8"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-LLWwVkfPODo",
-   "type": "tutorial",
-   "title": "Balboa class beginners| Downhold basic| Come around| Toss out| Lollies| Mary & Christoffer| Swing",
-   "artist": "Mary & Christoffer",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 3536,
-   "popularity": 63,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "LLWwVkfPODo"
    },
    "curated": false
   },
@@ -19678,6 +20516,25 @@
    "curated": false
   },
   {
+   "id": "yt-0pApX7YxZnk",
+   "type": "tutorial",
+   "title": "CalBal Classic 2026 - The Open Classic - Theresa & Jeremy",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 121,
+   "popularity": 51,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "0pApX7YxZnk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-RAh0DwwUA6o",
    "type": "video",
    "title": "All-Star Strictly Finals - ILHC NORTH AMERICAN QUALIFIER 2025",
@@ -19826,25 +20683,6 @@
    "source": {
     "platform": "youtube",
     "id": "RFc0mMBbrq4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-0pApX7YxZnk",
-   "type": "tutorial",
-   "title": "CalBal Classic 2026 - The Open Classic - Theresa & Jeremy",
-   "artist": "California Balboa Classic",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 121,
-   "popularity": 50,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "0pApX7YxZnk"
    },
    "curated": false
   },
@@ -21787,6 +22625,25 @@
    "curated": false
   },
   {
+   "id": "yt-6etRe-hWALI",
+   "type": "tutorial",
+   "title": "Intro 8 Count: Frankie Manning, Around the World and Points. Class Recap",
+   "artist": "Lainey Silver",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 80,
+   "popularity": 45,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "6etRe-hWALI"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-gkRHgHsnkBU",
    "type": "video",
    "title": "Lindy Hop Social Dance - Rachel McMullin & Kevin Clark",
@@ -21878,25 +22735,6 @@
    "source": {
     "platform": "youtube",
     "id": "NEvIsjg6sgg"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-6etRe-hWALI",
-   "type": "tutorial",
-   "title": "Intro 8 Count: Frankie Manning, Around the World and Points. Class Recap",
-   "artist": "Lainey Silver",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2018,
-   "durationSec": 80,
-   "popularity": 44,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "6etRe-hWALI"
    },
    "curated": false
   },
@@ -24067,6 +24905,25 @@
    "curated": false
   },
   {
+   "id": "yt-WizZ_4C7hhw",
+   "type": "video",
+   "title": "St. Louis Shag Crew",
+   "artist": "Yauhen Karavayeu",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 100,
+   "popularity": 36,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "WizZ_4C7hhw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-XYXcqFQbTvk",
    "type": "tutorial",
    "title": "Pensacola Swing Savoy Style Lindy Hop Lesson",
@@ -24139,25 +24996,6 @@
    "source": {
     "platform": "youtube",
     "id": "iqnSL80vz2c"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-WizZ_4C7hhw",
-   "type": "video",
-   "title": "St. Louis Shag Crew",
-   "artist": "Yauhen Karavayeu",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 100,
-   "popularity": 35,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "WizZ_4C7hhw"
    },
    "curated": false
   },
