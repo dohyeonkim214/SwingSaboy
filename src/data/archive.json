@@ -1,6 +1,139 @@
 {
- "exportedAt": "2026-07-29T18:27:57.360Z",
+ "exportedAt": "2026-07-30T18:38:07.813Z",
  "items": [
+  {
+   "id": "yt-4mD31-bWnvw",
+   "type": "video",
+   "title": "Impara il passo base dello #swing in un minuto ☺️",
+   "artist": "FEEL That SWING - School-Shows-Events-Vintage",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 46,
+   "popularity": 67,
+   "addedAt": "2026-07-30",
+   "source": {
+    "platform": "youtube",
+    "id": "4mD31-bWnvw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-S1iAq5Gj0IU",
+   "type": "video",
+   "title": "Daniel and Åsa Heedman - Social dancing lindy hop in Luleå Sweden",
+   "artist": "Meghan Gilmore",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 325,
+   "popularity": 66,
+   "addedAt": "2026-07-30",
+   "source": {
+    "platform": "youtube",
+    "id": "S1iAq5Gj0IU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1vwKIFJ9Fso",
+   "type": "tutorial",
+   "title": "Swing Dance Lessons in Toronto - Solo Vintage Jazz & Charleston Routine October 5th",
+   "artist": "Mandi Gould",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 78,
+   "popularity": 58,
+   "addedAt": "2026-07-30",
+   "source": {
+    "platform": "youtube",
+    "id": "1vwKIFJ9Fso"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-CMG_Ku60H8I",
+   "type": "video",
+   "title": "Lindy Hop - Savoy kick + fly charleston",
+   "artist": "lomo135135",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 57,
+   "popularity": 54,
+   "addedAt": "2026-07-30",
+   "source": {
+    "platform": "youtube",
+    "id": "CMG_Ku60H8I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-rmGnjSOkfF0",
+   "type": "video",
+   "title": "Collegiate Shag Social Dance - Cailin & Ryan",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 240,
+   "popularity": 45,
+   "addedAt": "2026-07-30",
+   "source": {
+    "platform": "youtube",
+    "id": "rmGnjSOkfF0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-AWD3Ahu1TWQ",
+   "type": "video",
+   "title": "Week 1 - Savoy Inspirations @ Vintage Lindyhop",
+   "artist": "스윙댄스 Lindy Explorer ",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 220,
+   "popularity": 40,
+   "addedAt": "2026-07-30",
+   "source": {
+    "platform": "youtube",
+    "id": "AWD3Ahu1TWQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Rxvih-waffM",
+   "type": "video",
+   "title": "Brian& Sam improvers lindy hop Co savoy",
+   "artist": "Eugene",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 71,
+   "popularity": 31,
+   "addedAt": "2026-07-30",
+   "source": {
+    "platform": "youtube",
+    "id": "Rxvih-waffM"
+   },
+   "curated": false
+  },
   {
    "id": "yt-3tRFL4q5m7c",
    "type": "video",
@@ -5408,7 +5541,7 @@
    "bpm": null,
    "year": 2019,
    "durationSec": 692,
-   "popularity": 74,
+   "popularity": 75,
    "addedAt": "2026-07-12",
    "source": {
     "platform": "youtube",
@@ -5968,6 +6101,25 @@
    "curated": false
   },
   {
+   "id": "yt-UXk89EBVK8w",
+   "type": "video",
+   "title": "Level 2 - Bal Swing Expansion - Week 1 - 7/7/26",
+   "artist": "Twin Cities Balboa Connection",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 138,
+   "popularity": 27,
+   "addedAt": "2026-07-12",
+   "source": {
+    "platform": "youtube",
+    "id": "UXk89EBVK8w"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-G8AXqpXBifQ",
    "type": "video",
    "title": "Shag Republic Prague 2023 - Competition Finals (Collegiate Shag & St. Louis Shag) - Video 2/4",
@@ -6002,25 +6154,6 @@
    "source": {
     "platform": "youtube",
     "id": "mPgfZs9V7tg"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-UXk89EBVK8w",
-   "type": "video",
-   "title": "Level 2 - Bal Swing Expansion - Week 1 - 7/7/26",
-   "artist": "Twin Cities Balboa Connection",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 138,
-   "popularity": 25,
-   "addedAt": "2026-07-12",
-   "source": {
-    "platform": "youtube",
-    "id": "UXk89EBVK8w"
    },
    "curated": false
   },
@@ -20535,6 +20668,25 @@
    "curated": false
   },
   {
+   "id": "yt-PllEX5ci2GE",
+   "type": "tutorial",
+   "title": "CalBal Classic 2026 - The Advanced Classic Finals COMPLETE CONTEST",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1410,
+   "popularity": 51,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "PllEX5ci2GE"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-RAh0DwwUA6o",
    "type": "video",
    "title": "All-Star Strictly Finals - ILHC NORTH AMERICAN QUALIFIER 2025",
@@ -20683,25 +20835,6 @@
    "source": {
     "platform": "youtube",
     "id": "RFc0mMBbrq4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-PllEX5ci2GE",
-   "type": "tutorial",
-   "title": "CalBal Classic 2026 - The Advanced Classic Finals COMPLETE CONTEST",
-   "artist": "California Balboa Classic",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 1410,
-   "popularity": 50,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "PllEX5ci2GE"
    },
    "curated": false
   },
