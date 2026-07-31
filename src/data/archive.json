@@ -1,6 +1,709 @@
 {
- "exportedAt": "2026-07-30T18:38:07.813Z",
+ "exportedAt": "2026-07-31T18:38:32.486Z",
  "items": [
+  {
+   "id": "yt-LQxHfEjBhh0",
+   "type": "video",
+   "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 51,
+   "popularity": 100,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "LQxHfEjBhh0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-2PyDM6B_5_Q",
+   "type": "video",
+   "title": "I guess we really can swing to ANYTHING 😂 West Coast Swing Improv #dance",
+   "artist": "Sean & Alyssa McKeever",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 100,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "2PyDM6B_5_Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-DoAIhu_3XR0",
+   "type": "tutorial",
+   "title": "ESDC 2015 - Advanced Lindy Hop Classic Showcase - Finals - William Mauvais & Maeva Truntzer",
+   "artist": "European Swing Dance Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 217,
+   "popularity": 77,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "DoAIhu_3XR0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-LjDzbx-DRwQ",
+   "type": "video",
+   "title": "Lindy Hop Dance - Sondre & Tanya",
+   "artist": "Sondre & Tanya",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 145,
+   "popularity": 76,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "LjDzbx-DRwQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-LaBUlhQ89Ik",
+   "type": "video",
+   "title": "Basic Swingout",
+   "artist": "LindyHopMoves",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 352,
+   "popularity": 67,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "LaBUlhQ89Ik"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-OmPC3YS_bOE",
+   "type": "video",
+   "title": "RTSF 2013 Michael & Evita - Lindy Hop Showcase",
+   "artist": "RockThatSwing",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 167,
+   "popularity": 65,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "OmPC3YS_bOE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-oILeIiqHysY",
+   "type": "video",
+   "title": "Why is Swing so White? | Uncovering the Black roots of the Lindy Hop",
+   "artist": "Tanita Dee",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 1215,
+   "popularity": 64,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "oILeIiqHysY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-uO3KCoLT5Jw",
+   "type": "video",
+   "title": "Dersler: Solo Jazz Rutin",
+   "artist": "Swing Istanbul",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 64,
+   "popularity": 59,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "uO3KCoLT5Jw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4tHDQQSvI_U",
+   "type": "tutorial",
+   "title": "St. Louis Shag April Class Review",
+   "artist": "Lindy Hop St. Louis",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 103,
+   "popularity": 59,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "4tHDQQSvI_U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-f3Fp60s_lcc",
+   "type": "video",
+   "title": "2009 ILHC - Lindy Hop Showcase: Kenny Nelson & Tiffany Wine",
+   "artist": "David Soltysik",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 178,
+   "popularity": 57,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "f3Fp60s_lcc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-kkQ-sfgdk-U",
+   "type": "video",
+   "title": "2011 ILHC Lindy Hop Showcase - Michael \"Dargoff\" Darigol & Brittany Johnson",
+   "artist": "RetroRhythmz",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 166,
+   "popularity": 56,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "kkQ-sfgdk-U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-kPsdccj-VUU",
+   "type": "video",
+   "title": "Lindy Hop Showcase. Kids.",
+   "artist": "alevtina25",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 211,
+   "popularity": 53,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "kPsdccj-VUU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hRXU8Lpsdpk",
+   "type": "video",
+   "title": "2009 ILHC - Lindy Hop Showcase: Davis Thurber & Claudia Joyal Laplante",
+   "artist": "David Soltysik",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 164,
+   "popularity": 52,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "hRXU8Lpsdpk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nuDeSq0uzog",
+   "type": "video",
+   "title": "2009 ILHC - Lindy Hop Showcase: Patrick Evans and Myriam Baril",
+   "artist": "David Soltysik",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 164,
+   "popularity": 52,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "nuDeSq0uzog"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4Pl7ECyeBrQ",
+   "type": "video",
+   "title": "2010 ILHC - Lindy Hop Showcase - Andrew & Karen",
+   "artist": "David Soltysik",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 370,
+   "popularity": 49,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "4Pl7ECyeBrQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-580Dcu-ttv4",
+   "type": "video",
+   "title": "Dom & Nora - Vintage Swing Festival 2022 - Teachers Showcase - Lindy Hop Charleston - Celje/Slovenia",
+   "artist": "DomandNora Swing AUT",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 197,
+   "popularity": 44,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "580Dcu-ttv4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tIp1WegYQRI",
+   "type": "video",
+   "title": "‘Wham Re Bop’ Solo Jazz and Charleston Dance Routine",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 133,
+   "popularity": 44,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "tIp1WegYQRI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-aC6KtzAt-L0",
+   "type": "video",
+   "title": "Charleston Double Loop to Collegiate Shag (good luck)",
+   "artist": "swinginstyle",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 52,
+   "popularity": 44,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "aC6KtzAt-L0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-W0y4QaKnjT4",
+   "type": "video",
+   "title": "Mix The Hop 2016 - Budapest - Showcase Battle - Lindy Hop performance",
+   "artist": "Mix The Hop Budapest",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 161,
+   "popularity": 42,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "W0y4QaKnjT4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8iti_ax-kRE",
+   "type": "tutorial",
+   "title": "ESDC 2015 - Open Lindy Hop Classic Showcase - Prelims - Marcus Nutzinger & Maria Grabherr",
+   "artist": "European Swing Dance Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 191,
+   "popularity": 41,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "8iti_ax-kRE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-vM1hBEZQC2A",
+   "type": "video",
+   "title": "Fresno Swing Dance Lindy Hop at Curtain Call Showcase",
+   "artist": "fresnoswingdance",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 228,
+   "popularity": 41,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "vM1hBEZQC2A"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-PdxTWFOpmNY",
+   "type": "video",
+   "title": "Lindy Hop- Some of the Vintage Swing movies with Frankie manning & the White's",
+   "artist": "Studio Swing Cat",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 1501,
+   "popularity": 40,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "PdxTWFOpmNY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-uJw3j7114Zo",
+   "type": "video",
+   "title": "Lindy Hop Swing Students Performance Pamela and Billy DiVa Dance Showcase May 2015",
+   "artist": "DiVa Ballroom and Latin Dance Studio",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 134,
+   "popularity": 36,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "uJw3j7114Zo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ypGcWQxhx_I",
+   "type": "tutorial",
+   "title": "Mary & Saira: Ragtag Empire | Beginner Lindy Hop & Balboa aka Swing Dance!",
+   "artist": "Urban Movement Arts Philly",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 54,
+   "popularity": 36,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "ypGcWQxhx_I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FlVJmH-QTxs",
+   "type": "video",
+   "title": "Just a Gigilo - Follow along solo jazz routine (breakdown of steps included)",
+   "artist": "South West Swing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 688,
+   "popularity": 36,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "FlVJmH-QTxs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-leBT41Esf0E",
+   "type": "video",
+   "title": "Virtual Showcase 2020 - Debbie & Adib - Lindy Hop Freestyle",
+   "artist": "Go Dance Studio",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 114,
+   "popularity": 35,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "leBT41Esf0E"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dovgxBXz0og",
+   "type": "video",
+   "title": "B&A's Lindy Hop together-routine 2012 Showcase",
+   "artist": "ambrosebs",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 97,
+   "popularity": 35,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "dovgxBXz0og"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hVRsgRSH5ew",
+   "type": "video",
+   "title": "3/6/19 Intermediate Balboa: Brush Basic",
+   "artist": "Lorelei DeMesa",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 55,
+   "popularity": 34,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "hVRsgRSH5ew"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-b_52nl3GLJc",
+   "type": "video",
+   "title": "Lindy Hop SG - Balboa Showcase @ Singapore Lindy Revolution 2018",
+   "artist": "Lindy Hop Singapore",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 130,
+   "popularity": 33,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "b_52nl3GLJc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-B4SKkEFNBlY",
+   "type": "video",
+   "title": "1st Place: Coline & Mohammad - Advanced Draw Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 103,
+   "popularity": 31,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "B4SKkEFNBlY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nvmAUmxmgdQ",
+   "type": "video",
+   "title": "3rd Place: Ally & Guillaume - Advanced Draw Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 106,
+   "popularity": 27,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "nvmAUmxmgdQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7yGYmnn4jbw",
+   "type": "video",
+   "title": "Solo Jazz Basic Routine_Charleston  (/w Music) (솔로재즈 베이직루틴 _ 카운트_한보)  #lindyhop #solojazz _hanbo",
+   "artist": "lindyhop_dengbo",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 27,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "7yGYmnn4jbw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-YXRlrl-5h2c",
+   "type": "video",
+   "title": "2nd Place: Zoe & Michel - Advanced Draw Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 111,
+   "popularity": 26,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "YXRlrl-5h2c"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-YgaNnp5nOXc",
+   "type": "video",
+   "title": "Jazz It Up 42 Charleston Routine",
+   "artist": "SwingdanceUK",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 3682,
+   "popularity": 23,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "YgaNnp5nOXc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-XWG0Ht_-JAg",
+   "type": "video",
+   "title": "Friends from Helsinki doing a Lindy Hop performance in Tallinn Swing Weekend 2026",
+   "artist": "Black Pepper Swing",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 196,
+   "popularity": 22,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "XWG0Ht_-JAg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-6NoJarmQ7zU",
+   "type": "video",
+   "title": "Level 2 - Bal Swing Expansion - Week 3 - 7/21/26",
+   "artist": "Twin Cities Balboa Connection",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 96,
+   "popularity": 22,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "6NoJarmQ7zU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tbOrXJjEMLI",
+   "type": "video",
+   "title": "Katie and Mike Lindy Hop performance at MSSF 2026",
+   "artist": "Black Pepper Swing",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 110,
+   "popularity": 19,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "tbOrXJjEMLI"
+   },
+   "curated": false
+  },
   {
    "id": "yt-4mD31-bWnvw",
    "type": "video",
@@ -1285,7 +1988,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 110,
-   "popularity": 80,
+   "popularity": 81,
    "addedAt": "2026-07-27",
    "source": {
     "platform": "youtube",
@@ -4230,7 +4933,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 186,
-   "popularity": 60,
+   "popularity": 61,
    "addedAt": "2026-07-17",
    "source": {
     "platform": "youtube",
@@ -18938,6 +19641,25 @@
    "curated": false
   },
   {
+   "id": "yt-dUarTZW1s9M",
+   "type": "tutorial",
+   "title": "Collegiate Shag | Steve & Chanzie – Lesson 1 \"Basic Footowork\"",
+   "artist": "Summer Jamboree Dance Academy",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 775,
+   "popularity": 57,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "dUarTZW1s9M"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-sgN7ajsMU20",
    "type": "video",
    "title": "Lindy Hop, Savoy Style! Feb Wk 3",
@@ -19200,25 +19922,6 @@
    "source": {
     "platform": "youtube",
     "id": "zRyAMzILkBY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-dUarTZW1s9M",
-   "type": "tutorial",
-   "title": "Collegiate Shag | Steve & Chanzie – Lesson 1 \"Basic Footowork\"",
-   "artist": "Summer Jamboree Dance Academy",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 775,
-   "popularity": 56,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "dUarTZW1s9M"
    },
    "curated": false
   },
@@ -20040,6 +20743,26 @@
    "curated": false
   },
   {
+   "id": "yt-D46nUlCys8A",
+   "type": "video",
+   "title": "Learn The Jump Charleston with Tyedric Hill | #IfCitiesCouldDance",
+   "artist": "KQED Arts",
+   "styles": [
+    "lindy",
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 50,
+   "popularity": 53,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "D46nUlCys8A"
+   },
+   "curated": false
+  },
+  {
    "id": "yt--eEJtxcZ-_o",
    "type": "video",
    "title": "OPEN LINDY FINAL 2025 Camp Hollywood and the National Jitterbug Championships",
@@ -20226,26 +20949,6 @@
    "source": {
     "platform": "youtube",
     "id": "hOiUAFZJVuU"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-D46nUlCys8A",
-   "type": "video",
-   "title": "Learn The Jump Charleston with Tyedric Hill | #IfCitiesCouldDance",
-   "artist": "KQED Arts",
-   "styles": [
-    "lindy",
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 50,
-   "popularity": 52,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "D46nUlCys8A"
    },
    "curated": false
   },
@@ -22777,6 +23480,25 @@
    "curated": false
   },
   {
+   "id": "yt-ZNqlBJtYs-c",
+   "type": "video",
+   "title": "Collegiate Shag Finals at The Snowball 2025",
+   "artist": "Slava Bogatov",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 493,
+   "popularity": 45,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "ZNqlBJtYs-c"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-gkRHgHsnkBU",
    "type": "video",
    "title": "Lindy Hop Social Dance - Rachel McMullin & Kevin Clark",
@@ -22963,25 +23685,6 @@
    "source": {
     "platform": "youtube",
     "id": "nRhh8mg-PDo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-ZNqlBJtYs-c",
-   "type": "video",
-   "title": "Collegiate Shag Finals at The Snowball 2025",
-   "artist": "Slava Bogatov",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 493,
-   "popularity": 44,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "ZNqlBJtYs-c"
    },
    "curated": false
   },
