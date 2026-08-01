@@ -1,6 +1,139 @@
 {
- "exportedAt": "2026-07-31T18:38:32.486Z",
+ "exportedAt": "2026-08-01T18:26:37.530Z",
  "items": [
+  {
+   "id": "yt-1Kvb7gWZOcY",
+   "type": "video",
+   "title": "What happens when a swing dancer does The Twist",
+   "artist": "Sharon Davis",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 118,
+   "popularity": 79,
+   "addedAt": "2026-08-01",
+   "source": {
+    "platform": "youtube",
+    "id": "1Kvb7gWZOcY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pUWCdk5kyaU",
+   "type": "video",
+   "title": "The Dapper Flappers Charleston Dance Act",
+   "artist": "I Can Dance Shrewsbury",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 182,
+   "popularity": 75,
+   "addedAt": "2026-08-01",
+   "source": {
+    "platform": "youtube",
+    "id": "pUWCdk5kyaU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-vVIud-_nz3M",
+   "type": "tutorial",
+   "title": "Balboa Workshop - Classes 1 & 2 (up-hold basic, come around, lollies)",
+   "artist": "Groove Juice Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 121,
+   "popularity": 68,
+   "addedAt": "2026-08-01",
+   "source": {
+    "platform": "youtube",
+    "id": "vVIud-_nz3M"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FsjzJ9ew8DA",
+   "type": "video",
+   "title": "Learn the Trickeration move in 6 simple steps / Solo Jazz",
+   "artist": "Solo Jazz Power",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 394,
+   "popularity": 57,
+   "addedAt": "2026-08-01",
+   "source": {
+    "platform": "youtube",
+    "id": "FsjzJ9ew8DA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-TH4gE89nFjk",
+   "type": "tutorial",
+   "title": "How To Dance The 1920s Charleston - Learn To Dance with The Gatsby Girls",
+   "artist": "The Gatsby Girls",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 112,
+   "popularity": 56,
+   "addedAt": "2026-08-01",
+   "source": {
+    "platform": "youtube",
+    "id": "TH4gE89nFjk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Vofp67F3LNU",
+   "type": "video",
+   "title": "Balboa: Come Around with Turns",
+   "artist": "heirloomdance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 433,
+   "popularity": 49,
+   "addedAt": "2026-08-01",
+   "source": {
+    "platform": "youtube",
+    "id": "Vofp67F3LNU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lG1An1ZGUP8",
+   "type": "video",
+   "title": "Lindy Hop Day - 1 #스윙댄스 #dance #swingdance #lindyhop #jazz #dancestudio #balboa #swing #린디합",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 41,
+   "addedAt": "2026-08-01",
+   "source": {
+    "platform": "youtube",
+    "id": "lG1An1ZGUP8"
+   },
+   "curated": false
+  },
   {
    "id": "yt-LQxHfEjBhh0",
    "type": "video",
@@ -230,6 +363,25 @@
    "curated": false
   },
   {
+   "id": "yt-B4SKkEFNBlY",
+   "type": "video",
+   "title": "1st Place: Coline & Mohammad - Advanced Draw Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 103,
+   "popularity": 53,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "B4SKkEFNBlY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-hRXU8Lpsdpk",
    "type": "video",
    "title": "2009 ILHC - Lindy Hop Showcase: Davis Thurber & Claudia Joyal Laplante",
@@ -283,6 +435,44 @@
    "source": {
     "platform": "youtube",
     "id": "4Pl7ECyeBrQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nvmAUmxmgdQ",
+   "type": "video",
+   "title": "3rd Place: Ally & Guillaume - Advanced Draw Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 106,
+   "popularity": 47,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "nvmAUmxmgdQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-YXRlrl-5h2c",
+   "type": "video",
+   "title": "2nd Place: Zoe & Michel - Advanced Draw Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 111,
+   "popularity": 46,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "YXRlrl-5h2c"
    },
    "curated": false
   },
@@ -553,44 +743,6 @@
    "curated": false
   },
   {
-   "id": "yt-B4SKkEFNBlY",
-   "type": "video",
-   "title": "1st Place: Coline & Mohammad - Advanced Draw Finals - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 103,
-   "popularity": 31,
-   "addedAt": "2026-07-31",
-   "source": {
-    "platform": "youtube",
-    "id": "B4SKkEFNBlY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-nvmAUmxmgdQ",
-   "type": "video",
-   "title": "3rd Place: Ally & Guillaume - Advanced Draw Finals - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 106,
-   "popularity": 27,
-   "addedAt": "2026-07-31",
-   "source": {
-    "platform": "youtube",
-    "id": "nvmAUmxmgdQ"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-7yGYmnn4jbw",
    "type": "video",
    "title": "Solo Jazz Basic Routine_Charleston  (/w Music) (솔로재즈 베이직루틴 _ 카운트_한보)  #lindyhop #solojazz _hanbo",
@@ -606,25 +758,6 @@
    "source": {
     "platform": "youtube",
     "id": "7yGYmnn4jbw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-YXRlrl-5h2c",
-   "type": "video",
-   "title": "2nd Place: Zoe & Michel - Advanced Draw Finals - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 111,
-   "popularity": 26,
-   "addedAt": "2026-07-31",
-   "source": {
-    "platform": "youtube",
-    "id": "YXRlrl-5h2c"
    },
    "curated": false
   },
@@ -3641,7 +3774,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 259,
-   "popularity": 35,
+   "popularity": 36,
    "addedAt": "2026-07-19",
    "source": {
     "platform": "youtube",
@@ -23043,6 +23176,25 @@
    "curated": false
   },
   {
+   "id": "yt-PmVEn4953CQ",
+   "type": "tutorial",
+   "title": "Collegiate Shag Practice 2| Solo Class| Cardio Workout| Free Class| Swing Dancing|Mary & Christoffer",
+   "artist": "Mary & Christoffer",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 915,
+   "popularity": 46,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "PmVEn4953CQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-I2i0IJwJy64",
    "type": "video",
    "title": "Swing It Seattle - Frankie Manning, Norma Miller, & the Savoy Ballroom",
@@ -23286,25 +23438,6 @@
    "source": {
     "platform": "youtube",
     "id": "HYbPSkBFTVQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-PmVEn4953CQ",
-   "type": "tutorial",
-   "title": "Collegiate Shag Practice 2| Solo Class| Cardio Workout| Free Class| Swing Dancing|Mary & Christoffer",
-   "artist": "Mary & Christoffer",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 915,
-   "popularity": 45,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "PmVEn4953CQ"
    },
    "curated": false
   },
