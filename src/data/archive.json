@@ -1,6 +1,3054 @@
 {
- "exportedAt": "2026-08-02T18:27:10.931Z",
+ "exportedAt": "2026-08-03T18:42:06.872Z",
  "items": [
+  {
+   "id": "yt-fUWbfjC0Nnc",
+   "type": "video",
+   "title": "Rock Around The Clock Boogie Woogie by Sondre & Tanya",
+   "artist": "Sondre & Tanya",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 131,
+   "popularity": 100,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "fUWbfjC0Nnc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-XkFNWwkeWho",
+   "type": "video",
+   "title": "American Bandstand 1967 -1967 Dance Contest Finalists- You Got To Me, Neil Diamond",
+   "artist": "YouCanDanceToit!",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 433,
+   "popularity": 100,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "XkFNWwkeWho"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-soBV5RboKFs",
+   "type": "video",
+   "title": "Phoenix Swing 2010 champion J&J winners Jordan Frisbee and Jessica Cox",
+   "artist": "thumbsupvideo1",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 241,
+   "popularity": 99,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "soBV5RboKFs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Qr9_aocDqAc",
+   "type": "video",
+   "title": "John Lindo & Victoria Henk - Champions Jack&Jill Finals - Jack&Jill O'Rama 2024",
+   "artist": "Jack & Jill O'Rama",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 287,
+   "popularity": 97,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Qr9_aocDqAc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-BDv7NhMjhg4",
+   "type": "video",
+   "title": "Denver Airport Swing Dance Flash Mob",
+   "artist": "Lark Mervine",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 321,
+   "popularity": 96,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "BDv7NhMjhg4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Zz3iNTJta2A",
+   "type": "video",
+   "title": "Swing Dancers Ryan Boz and Alexis Garrish win FIRST PLACE US OPEN Young Adult",
+   "artist": "Debbie Ramsey Boz",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 214,
+   "popularity": 96,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Zz3iNTJta2A"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Cj4fFsLFItE",
+   "type": "video",
+   "title": "ISDC 2026 - Invitational DFW Swingout Strictly FULL CONTEST",
+   "artist": "International Swing Dance Championships",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1622,
+   "popularity": 91,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Cj4fFsLFItE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-rcGCzXXrd10",
+   "type": "video",
+   "title": "1940 JITTERBUG DANCE In The Mood",
+   "artist": "Dimitri & Alexsia",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 144,
+   "popularity": 89,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "rcGCzXXrd10"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-RGClMegxZ1c",
+   "type": "video",
+   "title": "The most important 3 minutes of our entire career #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 58,
+   "popularity": 89,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "RGClMegxZ1c"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_KNULp-7L6I",
+   "type": "video",
+   "title": "Camp Hollywood XXV - Open Showcase - Chandrae & Stephen",
+   "artist": "camphollywood",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 163,
+   "popularity": 88,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "_KNULp-7L6I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-10rm9HZrzCY",
+   "type": "video",
+   "title": "0 to 💯 IMPROV  - Keerigan and Giulia",
+   "artist": "Keerigan Rudd",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 45,
+   "popularity": 88,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "10rm9HZrzCY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-EDeg7aovHW4",
+   "type": "video",
+   "title": "Brooke Burke & Derek Hough dancing the Jitterbug",
+   "artist": "Daniel Cohen Gindi",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 98,
+   "popularity": 86,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "EDeg7aovHW4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3eepz5h4AJY",
+   "type": "video",
+   "title": "Top 20 Best Swing Dance Scenes in Movies",
+   "artist": "MsMojo",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 1365,
+   "popularity": 85,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "3eepz5h4AJY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-HYVE4SHDZNw",
+   "type": "tutorial",
+   "title": "1st Place Classic 2025 - The Open World Swing Dance Championships - Sean & Alyssa McKeever",
+   "artist": "Sean & Alyssa McKeever",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 256,
+   "popularity": 84,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "HYVE4SHDZNw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-jkI-b5qrgis",
+   "type": "tutorial",
+   "title": "East Coast Swing Basic Steps - Beginner east coast swing",
+   "artist": "Country Dance X",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 755,
+   "popularity": 83,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "jkI-b5qrgis"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-kI3KpdD2X0U",
+   "type": "video",
+   "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
+   "artist": "Keerigan Rudd",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 123,
+   "popularity": 82,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "kI3KpdD2X0U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hCZy7UpIj2c",
+   "type": "tutorial",
+   "title": "How to Jitterbug Single Swing: Center, Rhythm, Movement",
+   "artist": "DrDanceRight",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 746,
+   "popularity": 82,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "hCZy7UpIj2c"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pc0hr0ih35k",
+   "type": "video",
+   "title": "2005 National Jitterbug Championships Showcase FOOTLOOSE",
+   "artist": "Ben Yau",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2008,
+   "durationSec": 197,
+   "popularity": 80,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "pc0hr0ih35k"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-MYfVD9l5x3o",
+   "type": "tutorial",
+   "title": "COUNTRY SWING DANCING | Basic Steps of Country Swing Dance for Beginners",
+   "artist": "Country Dance X",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 802,
+   "popularity": 80,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "MYfVD9l5x3o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-YvIrBXnisRE",
+   "type": "tutorial",
+   "title": "How to Swing Dance for Beginners - Part 2: 6 Count Footwork - Music Training video",
+   "artist": "iLindy",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 177,
+   "popularity": 80,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "YvIrBXnisRE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Fs8tbzUr6cQ",
+   "type": "tutorial",
+   "title": "Jitterbug Lesson 1, Open Basic",
+   "artist": "Brett Long",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 228,
+   "popularity": 79,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Fs8tbzUr6cQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-slWpbHrOxow",
+   "type": "video",
+   "title": "Swing | Awitin Mo At Isasayaw Ko",
+   "artist": "De Guzman Ignacio III P.",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 179,
+   "popularity": 78,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "slWpbHrOxow"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gF7OpI7TtwM",
+   "type": "tutorial",
+   "title": "How to Cajun Two Step",
+   "artist": "Visit Lake Charles - Louisiana's Playground",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 96,
+   "popularity": 77,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "gF7OpI7TtwM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-loAhI3dPAng",
+   "type": "tutorial",
+   "title": "Country Swing Dancing **THE BASICS Pt. 2**",
+   "artist": "Grant & Shalee - King & Queen of Country Swing",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 414,
+   "popularity": 77,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "loAhI3dPAng"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-rbxqTcKj2U8",
+   "type": "video",
+   "title": "Basic 8-count steps for Lindy Hop: Rhythm City Productions",
+   "artist": "Rhythm City Dance",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 130,
+   "popularity": 77,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "rbxqTcKj2U8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-0_mXkNnj9m8",
+   "type": "tutorial",
+   "title": "Beginner jitterbug dance moves",
+   "artist": "Tiffany Angulo",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 143,
+   "popularity": 76,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "0_mXkNnj9m8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-2HrVZiPg6-8",
+   "type": "video",
+   "title": "I Love Lucy Jitterbug",
+   "artist": "gimlola banarry",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 91,
+   "popularity": 76,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "2HrVZiPg6-8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4veppv9jBXc",
+   "type": "tutorial",
+   "title": "East Coast Swing Basic Steps - A Beginners Guide to East Coast Swing!",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug",
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 987,
+   "popularity": 75,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "4veppv9jBXc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Jn4rSi6PZ6E",
+   "type": "tutorial",
+   "title": "Swing Dance Tutorial [PH]",
+   "artist": "Mc Nelson.S",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 367,
+   "popularity": 75,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Jn4rSi6PZ6E"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-MwV1KuJqOpo",
+   "type": "tutorial",
+   "title": "8 count lindy lesson",
+   "artist": "sullybytheshore",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2007,
+   "durationSec": 611,
+   "popularity": 75,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "MwV1KuJqOpo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-kFaVsbjnOB8",
+   "type": "tutorial",
+   "title": "How to Swing Dance for Total Beginners 😊",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 763,
+   "popularity": 74,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "kFaVsbjnOB8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-mcDkNFtiMdU",
+   "type": "video",
+   "title": "Swing - Basic Steps (Social Dance) [PE - PHYSICAL EDUCATION]",
+   "artist": "natttaengoo",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 152,
+   "popularity": 74,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "mcDkNFtiMdU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QPrwZx2uxQA",
+   "type": "video",
+   "title": "balboa dance fun",
+   "artist": "HckyWavz",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 213,
+   "popularity": 74,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "QPrwZx2uxQA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-TcRJfT4Z3lw",
+   "type": "tutorial",
+   "title": "Beginner Swing Dance Routine | Swing Dance Tutorial for Beginners",
+   "artist": "Ballroom Feed",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 96,
+   "popularity": 72,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "TcRJfT4Z3lw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt---RqsXF4XjU",
+   "type": "video",
+   "title": "2004 National Jitterbug Championships: Moses Supposes",
+   "artist": "Ben Yau",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2008,
+   "durationSec": 233,
+   "popularity": 71,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "--RqsXF4XjU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-KM2fPxCl5KY",
+   "type": "video",
+   "title": "Intro to Swing - basic 8-count steps for Lindy hop",
+   "artist": "Rhythm City Dance",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 114,
+   "popularity": 71,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "KM2fPxCl5KY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IVTIBJwkz2Q",
+   "type": "video",
+   "title": "LindyHop 8 count - Grundschritt & Tanzhaltung",
+   "artist": "wild & wunderbar - tanzen!",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 70,
+   "popularity": 71,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "IVTIBJwkz2Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-apA78gskWBk",
+   "type": "video",
+   "title": "Lindy Hop 06: Follower's Swivels in Solo and Swingout",
+   "artist": "utsocialdance",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 71,
+   "popularity": 70,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "apA78gskWBk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-jfwwdVwPiJA",
+   "type": "tutorial",
+   "title": "Swing Dance Fundamentals for Complete Beginners",
+   "artist": "Country Dance X",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 554,
+   "popularity": 69,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "jfwwdVwPiJA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ODzEfFtFsfY",
+   "type": "tutorial",
+   "title": "Learn The Jitterbug Stroll | Routine Breakdown | Level 4 Lesson 12 | Shauna Marble | Lindy Ladder",
+   "artist": "Lindy Ladder",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 707,
+   "popularity": 69,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "ODzEfFtFsfY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-EvY6kEzQick",
+   "type": "tutorial",
+   "title": "HOW TO COUNTRY SWING DANCE - Basics For Beginners",
+   "artist": "Country Dance X",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 285,
+   "popularity": 69,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "EvY6kEzQick"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ON7u-koPVQQ",
+   "type": "video",
+   "title": "Lindy Hop - so unterscheidest du 6-Count vom 8-Count",
+   "artist": "Social Dancing Academy by Conny & Dado",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 198,
+   "popularity": 69,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "ON7u-koPVQQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wQDJta-eUYY",
+   "type": "video",
+   "title": "4 Things to Make Your Swing Out Better (Leader Edition) - for Lindy Hop and Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 544,
+   "popularity": 69,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "wQDJta-eUYY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1wZiSRewbtY",
+   "type": "video",
+   "title": "Camp Hollywood Jitterbug Competition (full)",
+   "artist": "NewsCraft",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 312,
+   "popularity": 68,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "1wZiSRewbtY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-uX7poCyyhdk",
+   "type": "tutorial",
+   "title": "Intro to Swing - Lindy hop 6-count basics",
+   "artist": "Rhythm City Dance",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 105,
+   "popularity": 68,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "uX7poCyyhdk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-sK-M65nrY_8",
+   "type": "video",
+   "title": "Welcome to the course - Introduction to 6 Count Swing",
+   "artist": "iLindy",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 62,
+   "popularity": 68,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "sK-M65nrY_8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nqrjQqEOZ7I",
+   "type": "video",
+   "title": "Do's and Don'ts of Social Swing Dancing",
+   "artist": "khmreant",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 348,
+   "popularity": 67,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "nqrjQqEOZ7I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Ll1fCypqfKk",
+   "type": "video",
+   "title": "6- and 8-Count Clapping Game - Lindy Hop Musicality training",
+   "artist": "Syncopated City",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 428,
+   "popularity": 67,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Ll1fCypqfKk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-P5YR6DW3WrM",
+   "type": "video",
+   "title": "Top 5 Jitterbug Moves to Learn Next!",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 582,
+   "popularity": 66,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "P5YR6DW3WrM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-GrCAQy4irMM",
+   "type": "video",
+   "title": "Learn a Swing Out with an Outside Turn at the Top",
+   "artist": "Syncopated City",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 202,
+   "popularity": 66,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "GrCAQy4irMM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-xYHLE09z6dM",
+   "type": "video",
+   "title": "What's the Difference Between Jive and Swing?",
+   "artist": "Ballroom Feed",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 173,
+   "popularity": 65,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "xYHLE09z6dM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ZwsjyNCIExM",
+   "type": "tutorial",
+   "title": "Learn how to dance the 6-count Tuck Turn - Lindy Hop swing dance moves",
+   "artist": "Syncopated City",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 515,
+   "popularity": 65,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "ZwsjyNCIExM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-5VdLk7bumPA",
+   "type": "video",
+   "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 770,
+   "popularity": 65,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "5VdLk7bumPA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QMuEoB9J61s",
+   "type": "video",
+   "title": "6 Count Variations, A Template - for Lindy Hop & Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 818,
+   "popularity": 64,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "QMuEoB9J61s"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ZgiuZPNTTcs",
+   "type": "video",
+   "title": "What is My Rhythm? - for Lindy Hop and Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 1160,
+   "popularity": 64,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "ZgiuZPNTTcs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Eeyj8w_FtMY",
+   "type": "tutorial",
+   "title": "Jitterbug Jukebox Jam 🎶🕺 | Wild 1950s Jitterbug Swing Dance | Jukebox Classics",
+   "artist": "The Jukebox Classics",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 152,
+   "popularity": 63,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Eeyj8w_FtMY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wzyjQK0Y-eM",
+   "type": "video",
+   "title": "6 Count Circle - Lindy Hop and Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 427,
+   "popularity": 63,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "wzyjQK0Y-eM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-SjSpRKHaKQ8",
+   "type": "tutorial",
+   "title": "Lindy Hop Variations in Six Counts Lesson with Jenna Applegarth and Jon Tigert",
+   "artist": "Gainesville Swing",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 162,
+   "popularity": 63,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "SjSpRKHaKQ8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9M8ygWD35FI",
+   "type": "video",
+   "title": "Michael and Evita teach a Right Side Pass in 8 counts (with a bonus variation)",
+   "artist": "Syncopated City",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 425,
+   "popularity": 63,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "9M8ygWD35FI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-rLiLvDpvcJM",
+   "type": "tutorial",
+   "title": "Advanced Lindy Hop Lesson - Non Swing Out 8 Count Moves",
+   "artist": "Michael Quebec",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 728,
+   "popularity": 63,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "rLiLvDpvcJM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--jeJbGbhgmE",
+   "type": "tutorial",
+   "title": "Jordan Frisbee & Anna Khomyn - WCS Social - Paris Swing Classic 2023",
+   "artist": "Anna Khomyn",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 210,
+   "popularity": 62,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "-jeJbGbhgmE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-MN_z3RYu7Gs",
+   "type": "video",
+   "title": "Jitterbug Dance Moves - INTERMEDIATE",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 934,
+   "popularity": 61,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "MN_z3RYu7Gs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QZMG-NZ4ZgU",
+   "type": "video",
+   "title": "Jitterbug Dance Wizard of Oz Young Performers Edition",
+   "artist": "Alison Werner ",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 72,
+   "popularity": 60,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "QZMG-NZ4ZgU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-RlTrc_pwmxU",
+   "type": "tutorial",
+   "title": "Beginner Swing Dance Jitterbug Class | Basics",
+   "artist": "Lark Mervine",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 193,
+   "popularity": 60,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "RlTrc_pwmxU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-eQeJopjgtdo",
+   "type": "tutorial",
+   "title": "How to Country Swing: Framework, and Basic Step",
+   "artist": "Dirt Road Dancing",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 212,
+   "popularity": 60,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "eQeJopjgtdo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gIF_t43KtXM",
+   "type": "video",
+   "title": "Lindy hop: basic 8-count steps for leads",
+   "artist": "Rhythm City Dance",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 219,
+   "popularity": 60,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "gIF_t43KtXM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ULijjjN17iY",
+   "type": "tutorial",
+   "title": "Lindy Hop introduction lesson : 6 beat & Lindy charleston",
+   "artist": "Easy Swing",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 261,
+   "popularity": 59,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "ULijjjN17iY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-s1Pei9s2peo",
+   "type": "video",
+   "title": "WCS is off phrase! 6 count patterns to 8 count music???",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 365,
+   "popularity": 59,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "s1Pei9s2peo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-P5kO0tnjBq4",
+   "type": "video",
+   "title": "8 Count Lindy Hop Turns with Mike & Elli",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 1025,
+   "popularity": 59,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "P5kO0tnjBq4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hF8Gv3KTww4",
+   "type": "video",
+   "title": "The Difference Between the 6 Count Circle & the 8 Count Circle - for Lindy Hop and Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 388,
+   "popularity": 58,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "hF8Gv3KTww4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-LgLQxZwPSE4",
+   "type": "tutorial",
+   "title": "Beginner 6-Count Lindy Hop | Basic Footwork | Inside and Belt Turns | Point and Shake",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 225,
+   "popularity": 58,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "LgLQxZwPSE4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-X6_bpBO6YOI",
+   "type": "video",
+   "title": "Internal Metronome, Holding the 8 - Rhythm Variations for Lindy Hop & Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 510,
+   "popularity": 58,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "X6_bpBO6YOI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-w4JhPdOKPDw",
+   "type": "video",
+   "title": "lindy hop, 6 count moves, texas tommy, mini-dip, groucho",
+   "artist": "itsaboutmomentum",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 66,
+   "popularity": 57,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "w4JhPdOKPDw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--KHEHlVP9ZY",
+   "type": "tutorial",
+   "title": "#1 Front To Back - Lindy Hop 8-count steps - Beginners",
+   "artist": "Swing Dance Ruse",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 54,
+   "popularity": 57,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "-KHEHlVP9ZY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-we6Lqt3E3Sc",
+   "type": "tutorial",
+   "title": "Country Swing Basics",
+   "artist": "Luke Beckstrand",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 70,
+   "popularity": 56,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "we6Lqt3E3Sc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9vbuS-iGQTQ",
+   "type": "tutorial",
+   "title": "6-Count Rhythm Variation  - Lindy Hop Class w/ Élise & Rija",
+   "artist": "Swing Base",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 560,
+   "popularity": 56,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "9vbuS-iGQTQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-02JuLSLAf2Q",
+   "type": "tutorial",
+   "title": "Swingin' Denver - Beginner Lindy Hop (8 Count Tuck Turn Breakdown)",
+   "artist": "swinginstyle",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 97,
+   "popularity": 56,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "02JuLSLAf2Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-x9M7QO9pIxQ",
+   "type": "video",
+   "title": "Lindy Hop Bases • Mixing 6 and 8 counts in Triple Steps",
+   "artist": "Swing Station",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 60,
+   "popularity": 55,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "x9M7QO9pIxQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-AOfAEPYuZkA",
+   "type": "video",
+   "title": "Transitions from 6- to 8-count - Lindy Hop I, week 2 - 6/12/13",
+   "artist": "Swing Cville",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 94,
+   "popularity": 55,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "AOfAEPYuZkA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7SBW_sW3ruc",
+   "type": "tutorial",
+   "title": "How to Count the East Coast Swing with Music",
+   "artist": "Ballroom Feed",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 262,
+   "popularity": 55,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "7SBW_sW3ruc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-N_9oCsrwkwc",
+   "type": "tutorial",
+   "title": "Beginning Lindy Hop 4 - 6 Count Basics and Circle, Tuck Turn and Neck Dip!",
+   "artist": "Tiffiny Wine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 222,
+   "popularity": 54,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "N_9oCsrwkwc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-bcAkQlZCHNY",
+   "type": "video",
+   "title": "LindyHop 6 count - Grundschritt Herr",
+   "artist": "wild & wunderbar - tanzen!",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 94,
+   "popularity": 54,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "bcAkQlZCHNY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-UXp5bPlJSzs",
+   "type": "video",
+   "title": "Beginning Lindy Hop 6 Count Moves plus the Hip Catch Spin!",
+   "artist": "Tiffiny Wine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 153,
+   "popularity": 54,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "UXp5bPlJSzs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dt2zXR9QZEQ",
+   "type": "video",
+   "title": "Jitterbug Swing Fundamentals | Steps Only",
+   "artist": "DrDanceRight",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 266,
+   "popularity": 53,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "dt2zXR9QZEQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-GBEOxAh1d7M",
+   "type": "tutorial",
+   "title": "Learn to dance lindy hop : 6 count basics",
+   "artist": "Easy Swing",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 363,
+   "popularity": 53,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "GBEOxAh1d7M"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-cB9LpU0FYxE",
+   "type": "tutorial",
+   "title": "Beginning Lindy Hop 6 Count Moves and Basics",
+   "artist": "Tiffiny Wine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 216,
+   "popularity": 53,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "cB9LpU0FYxE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7m3FKi54Nv8",
+   "type": "video",
+   "title": "Lindy Hop 08: Mixing 8-count and 6-count Variations",
+   "artist": "utsocialdance",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 45,
+   "popularity": 53,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "7m3FKi54Nv8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-181zeQKh_vw",
+   "type": "tutorial",
+   "title": "6-Count Lindy Hop for Beginners | Triple Steps",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 266,
+   "popularity": 53,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "181zeQKh_vw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-iVs6_erHR2U",
+   "type": "tutorial",
+   "title": "Lindy Beginners Class 1 - 6 count Open Basic, American Spin, Change Places, Twist Around",
+   "artist": "SwingdanceUK",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 701,
+   "popularity": 53,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "iVs6_erHR2U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-90UIRfb8kAg",
+   "type": "video",
+   "title": "8 Count Rhythm Drills for Lindy Hop",
+   "artist": "swinginstyle",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 108,
+   "popularity": 53,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "90UIRfb8kAg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gvbV-Cy7V_k",
+   "type": "tutorial",
+   "title": "How to Swing Dance: East Coast Swing & Jitterbug for Beginners",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 572,
+   "popularity": 52,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "gvbV-Cy7V_k"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-LACOMA8JuCo",
+   "type": "video",
+   "title": "Jitterbug Couples Dance Basic Steps",
+   "artist": "Decade Dance Diva",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 163,
+   "popularity": 52,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "LACOMA8JuCo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-KFFboyPzGbM",
+   "type": "video",
+   "title": "LindyHop 6 count - Grundschritt Dame",
+   "artist": "wild & wunderbar - tanzen!",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 61,
+   "popularity": 52,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "KFFboyPzGbM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IoICgm5PL_c",
+   "type": "video",
+   "title": "LindyHop 8 count - Grundschritt Herr",
+   "artist": "wild & wunderbar - tanzen!",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 82,
+   "popularity": 52,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "IoICgm5PL_c"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-SRk7GuyEeNY",
+   "type": "video",
+   "title": "6-Count and Lindy Hop | Swing Out & Washing Machine",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 311,
+   "popularity": 50,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "SRk7GuyEeNY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-HlC05XZZdEA",
+   "type": "tutorial",
+   "title": "Lindy Hop - Lead 8 Count Footwork",
+   "artist": "Boston Lindy Hop",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 107,
+   "popularity": 50,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "HlC05XZZdEA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-OHzRzfz53lo",
+   "type": "tutorial",
+   "title": "How to Swing Dance | 6-Count Lindy Hop | Washing Machine",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 258,
+   "popularity": 49,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "OHzRzfz53lo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-uAPPEGW-P3I",
+   "type": "tutorial",
+   "title": "Lindy 8 Count - Beginners Practice Routine 1",
+   "artist": "SwingDance UK",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 139,
+   "popularity": 49,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "uAPPEGW-P3I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QOjYIslvbSk",
+   "type": "video",
+   "title": "Swing 1 5/22/19 swing out from closed,  Lindy circle",
+   "artist": "swinginstyle",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 112,
+   "popularity": 49,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "QOjYIslvbSk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-g0SHvJoa4N8",
+   "type": "video",
+   "title": "2024-02-15 Level 1: Lindy Hop Fundamentals - 6-Count Moves",
+   "artist": "Corner Pocket Swing",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 48,
+   "popularity": 48,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "g0SHvJoa4N8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-kjfaUVE9c40",
+   "type": "video",
+   "title": "Basic 6 Count Lindy Hop Swing, Part 2",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 1199,
+   "popularity": 48,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "kjfaUVE9c40"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_QlxY-CKn3o",
+   "type": "video",
+   "title": "Australian Jitterbug Championships (AJC) 2015 Showcase Charlotte & Jethro",
+   "artist": "Swing Patrol Australia",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 202,
+   "popularity": 47,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "_QlxY-CKn3o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-LYlealTPTqQ",
+   "type": "tutorial",
+   "title": "6-Count Lindy Hop for Beginners | Tuck Turns!",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 231,
+   "popularity": 47,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "LYlealTPTqQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-NvsWA3QZlWs",
+   "type": "tutorial",
+   "title": "A Class Recap 4/8/19 - Beginner 8-Count Lindy Hop",
+   "artist": "Lindy Maine",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 141,
+   "popularity": 47,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "NvsWA3QZlWs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wkCJMmBPJIo",
+   "type": "tutorial",
+   "title": "Intro 8 Count: Circles and Send Outs. Class Recap",
+   "artist": "Lainey Silver",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 130,
+   "popularity": 47,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "wkCJMmBPJIo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Dn8WRrF1XXI",
+   "type": "tutorial",
+   "title": "6-Count Lindy Hop for Beginners | Cross Hand Moves",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 154,
+   "popularity": 46,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Dn8WRrF1XXI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-EOdT6DFNwsU",
+   "type": "video",
+   "title": "LindyHop 8 count - Grundschritt mit einem Kick zur Musik",
+   "artist": "wild & wunderbar - tanzen!",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 46,
+   "popularity": 46,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "EOdT6DFNwsU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ClP3_s8RK6Q",
+   "type": "video",
+   "title": "Prestige Arts Company- Jitterbug",
+   "artist": "Full Out Dance Videos",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 142,
+   "popularity": 45,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "ClP3_s8RK6Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-t5ZbIigPBOs",
+   "type": "tutorial",
+   "title": "Lindy hop basics - play with 8 counts side by side basic",
+   "artist": "Easy Swing",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 159,
+   "popularity": 45,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "t5ZbIigPBOs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Gdd1jpcQSfM",
+   "type": "tutorial",
+   "title": "Lindy Lesson 14 - 8 Count Tuck Turn with double spin",
+   "artist": "SwingDance UK",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 70,
+   "popularity": 45,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Gdd1jpcQSfM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-p7GEYOW-Whc",
+   "type": "video",
+   "title": "Jitterbug: solo actions",
+   "artist": "iPEP",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 58,
+   "popularity": 44,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "p7GEYOW-Whc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-96V0zlIhKkg",
+   "type": "tutorial",
+   "title": "Beginning Lindy Hop - 6 Count Basics, Tuck Turn and Barrel Turn plus K-Dip!",
+   "artist": "Tiffiny Wine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 118,
+   "popularity": 44,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "96V0zlIhKkg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--SqDwFSIm6A",
+   "type": "tutorial",
+   "title": "class recap - 8 count basic, bust out, butterfly, lindy circle",
+   "artist": "Swing Zing",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 102,
+   "popularity": 44,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "-SqDwFSIm6A"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-JUqTMEFk7JE",
+   "type": "tutorial",
+   "title": "Lindy Lesson 5 - Promenade (Lindy 8)",
+   "artist": "SwingDance UK",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 67,
+   "popularity": 44,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "JUqTMEFk7JE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Cuyw02OKe6I",
+   "type": "video",
+   "title": "Balboa Performance Highlights – David Rehm & Kate Hedin | Sendai Balboa Festival 2024",
+   "artist": "Jazz & Dance Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 190,
+   "popularity": 44,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Cuyw02OKe6I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zp2PuM75YNU",
+   "type": "tutorial",
+   "title": "Intro 8 Count: 6 Count VS 8 Count. Class Recap",
+   "artist": "Lainey Silver",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 101,
+   "popularity": 43,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "zp2PuM75YNU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1oOUG0QSNWo",
+   "type": "tutorial",
+   "title": "Lindyhop level A - 6 count basics weeks 1 and 2",
+   "artist": "SwingStreet.nl",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 129,
+   "popularity": 43,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "1oOUG0QSNWo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-OzS7JZM43nM",
+   "type": "tutorial",
+   "title": "How to Swing Dance | 6-Count Lindy Hop | Inside/Outside Turn",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 120,
+   "popularity": 43,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "OzS7JZM43nM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FM_KLlGD73M",
+   "type": "tutorial",
+   "title": "Lesson 4 - 6 Count to Swingout - 5 Seasons Swing",
+   "artist": "5 Seasons Swing",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 112,
+   "popularity": 43,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "FM_KLlGD73M"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4DfCwM99hPI",
+   "type": "tutorial",
+   "title": "6-Count Lindy Hop for Beginners | Pass By & Come Around",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 239,
+   "popularity": 43,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "4DfCwM99hPI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-C2q3qx_h1Qk",
+   "type": "video",
+   "title": "Swing Friends ~ Savoy",
+   "artist": "Nickolas",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 204,
+   "popularity": 43,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "C2q3qx_h1Qk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-5_iPBDtLZ8A",
+   "type": "tutorial",
+   "title": "Lindy Hop - Follow 6 Count Footwork",
+   "artist": "Boston Lindy Hop",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 82,
+   "popularity": 42,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "5_iPBDtLZ8A"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-M42CfWBh15Y",
+   "type": "tutorial",
+   "title": "How to Swing Dance | 6-Count Basics",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 207,
+   "popularity": 42,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "M42CfWBh15Y"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-yRjnVGq4dvA",
+   "type": "tutorial",
+   "title": "Lindy Hop - Lead 6 Count Footwork",
+   "artist": "Boston Lindy Hop",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 98,
+   "popularity": 42,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "yRjnVGq4dvA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-y63dGuNT-_8",
+   "type": "tutorial",
+   "title": "A tutorial on connecting with a partner for the beginner 6 count step of #lindyhop . #dance #jazz",
+   "artist": "Swing Out Social Media",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 88,
+   "popularity": 42,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "y63dGuNT-_8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Du30F4uTwDw",
+   "type": "video",
+   "title": "Send Outs and Circles in 6 & 8 counts",
+   "artist": "Sydnie Kleinhenz",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 51,
+   "popularity": 42,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Du30F4uTwDw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-6Kzp9M1qmFY",
+   "type": "tutorial",
+   "title": "How to Swing Dance | 6-Count Lindy Hop | Turns and Sugar Push",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 198,
+   "popularity": 42,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "6Kzp9M1qmFY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-iH4k-F7n4tw",
+   "type": "tutorial",
+   "title": "8 count moves for beginners Lindy Hop course",
+   "artist": "Portsmouth Lindy Hop",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 47,
+   "popularity": 42,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "iH4k-F7n4tw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FkWDGZ_qJZ0",
+   "type": "tutorial",
+   "title": "Swingin' Denver - Beginner Lindy Hop (6 count, basic, sendout, passby, transitions)",
+   "artist": "swinginstyle",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 68,
+   "popularity": 41,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "FkWDGZ_qJZ0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3Sb0k9AZoe4",
+   "type": "tutorial",
+   "title": "Solo Jazz Recap - A1 Beginner 6-Count Lindy Hop",
+   "artist": "Lindy Maine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 60,
+   "popularity": 41,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "3Sb0k9AZoe4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IIoBQmcKrNY",
+   "type": "video",
+   "title": "6 OR 8 COUNTS? LEARN THE WEST COAST SWING DANCE COUNTS DIFFERENCE AND NEVER MISS AGAIN!",
+   "artist": "e-West Dance",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 420,
+   "popularity": 41,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "IIoBQmcKrNY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3KLR2n31rvM",
+   "type": "video",
+   "title": "Lindy 8 Count Combo - Swing Out from Closed - Heel Dig - Texas Tommy",
+   "artist": "SwingDance UK",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 64,
+   "popularity": 41,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "3KLR2n31rvM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8HpVuRS1Xf0",
+   "type": "tutorial",
+   "title": "8 count footwork drills for beginner Lindy Hop - The Rhythm Lounge. dance Harrisburg, PA",
+   "artist": "The Rhythm Lounge (dot) Dance",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 71,
+   "popularity": 41,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "8HpVuRS1Xf0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-CVuJOUS7R-s",
+   "type": "tutorial",
+   "title": "Swing Dance 101: Lesson 1. Six count basic, tuck turn and a break.",
+   "artist": "Swing Zing",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 101,
+   "popularity": 40,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "CVuJOUS7R-s"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Uq9Mic00pGs",
+   "type": "tutorial",
+   "title": "Intermediate 6-Count Lindy Hop | Basics & Tuck Turn to Closed",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 316,
+   "popularity": 39,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Uq9Mic00pGs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-uT82G2F3VFc",
+   "type": "video",
+   "title": "Army & Navy - Swing Dancing Contest",
+   "artist": "Lindy Hop Archive",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 94,
+   "popularity": 39,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "uT82G2F3VFc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FIcAK7c72bk",
+   "type": "tutorial",
+   "title": "London Swing Cats: Hollywood Style Lindy Hop - 6 Count Basic Footwork for Leads",
+   "artist": "Voodoo Doll Entertainment",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 168,
+   "popularity": 38,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "FIcAK7c72bk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-y6o0K5KQoKo",
+   "type": "tutorial",
+   "title": "6-Count Lindy Hop for Beginners",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 203,
+   "popularity": 38,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "y6o0K5KQoKo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-fV2bL4BdG5o",
+   "type": "tutorial",
+   "title": "6-Count Lindy Hop for Beginners",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 213,
+   "popularity": 38,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "fV2bL4BdG5o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-VPo-ArsWpBk",
+   "type": "tutorial",
+   "title": "Lindy Hop Sequence: Intro 8 Count Class Recap",
+   "artist": "Lainey Silver",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 155,
+   "popularity": 37,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "VPo-ArsWpBk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-cpMcVMm7T04",
+   "type": "tutorial",
+   "title": "Kittery A Class Recap 5/29/19 - Beginner 8-count Lindy Hop",
+   "artist": "Lindy Maine",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 103,
+   "popularity": 37,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "cpMcVMm7T04"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--8R20EVpZSM",
+   "type": "video",
+   "title": "Uptown Swing - Level 1 Lindy Hop 8 count month 1/8/20",
+   "artist": "Uptown Swing",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 122,
+   "popularity": 37,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "-8R20EVpZSM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-f1KJRkZwEDU",
+   "type": "tutorial",
+   "title": "Class Recap of Swing 101. Lesson 6: How to lead 6 and 8 count basics",
+   "artist": "Swing Zing",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 208,
+   "popularity": 36,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "f1KJRkZwEDU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-xNEp9gmxQYo",
+   "type": "video",
+   "title": "Uptown Swing - Level 2 Lindy Hop mixing 6 and 8 count month 2/5/20",
+   "artist": "Uptown Swing",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 52,
+   "popularity": 36,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "xNEp9gmxQYo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wRCJ2MWLV-Y",
+   "type": "tutorial",
+   "title": "Lesson Recap: 6-Count Lindy Hop Lead Turns",
+   "artist": "Topeka Swing Dance",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 205,
+   "popularity": 35,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "wRCJ2MWLV-Y"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-C24O10gyTJU",
+   "type": "tutorial",
+   "title": "London Swing Cats: Hollywood Style Lindy Hop - 6 Count Basic Footwork for Follows",
+   "artist": "Voodoo Doll Entertainment",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 186,
+   "popularity": 33,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "C24O10gyTJU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7FCOE9af1ss",
+   "type": "tutorial",
+   "title": "Kittery A Class Recap 2/26/20 - Beginner 6-Count Lindy Hop",
+   "artist": "Lindy Maine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 52,
+   "popularity": 33,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "7FCOE9af1ss"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7bm_Kv9qLZc",
+   "type": "video",
+   "title": "[RSF in Seoul 2026] Prelim_M&M Allstar Heat 2",
+   "artist": "KyungSung Swing",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 281,
+   "popularity": 31,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "7bm_Kv9qLZc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-HHfmYtor5Dc",
+   "type": "tutorial",
+   "title": "01 Learn Lindy Hop Basics: 6 Count & 8 Count Triple Steps Made Simple",
+   "artist": "Lindy Jazz (Joo-Lee)",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 161,
+   "popularity": 31,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "HHfmYtor5Dc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-CmUNPmcOQ6Y",
+   "type": "video",
+   "title": "Camp Hollywood / National Jitterbug Championships 2003 - Teen and Masters divisions, Awards",
+   "artist": "camphollywood",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 6086,
+   "popularity": 29,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "CmUNPmcOQ6Y"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nvFNga_b2QM",
+   "type": "video",
+   "title": "Camp Hollywood / National Jitterbug Championships 2009 - Pro contests",
+   "artist": "camphollywood",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 5254,
+   "popularity": 28,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "nvFNga_b2QM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8mTkMFig9MI",
+   "type": "video",
+   "title": "Camp Jitterbug Dance Competition (2026)",
+   "artist": "Susy in Seattle ",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 380,
+   "popularity": 28,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "8mTkMFig9MI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-vQimknOLqAg",
+   "type": "video",
+   "title": "July 2026 - Level 1: 6-count Lindy Fundamentals Week 1",
+   "artist": "JumptownSwingMadison",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 294,
+   "popularity": 28,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "vQimknOLqAg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ieMh8LgvHm4",
+   "type": "video",
+   "title": "January 2026 - Level 1: 6-count Lindy Fundamentals Week 3",
+   "artist": "JumptownSwingMadison",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 235,
+   "popularity": 28,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "ieMh8LgvHm4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_Y4ttmch9Mg",
+   "type": "video",
+   "title": "January 2026 - Level 1: 6-count Lindy Fundamentals Week 2",
+   "artist": "JumptownSwingMadison",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 264,
+   "popularity": 27,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "_Y4ttmch9Mg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FhpciLvLX1c",
+   "type": "tutorial",
+   "title": "SP Waterloo 15/01/26 - L1 - 8 Count Lindy Hop basics rotational ",
+   "artist": "SwingPatrol Waterloo",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 53,
+   "popularity": 27,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "FhpciLvLX1c"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-JiNM1yuiTEI",
+   "type": "video",
+   "title": "[RSF in Seoul 2026] Prelim_Strictly Open&Advanced Heat 2",
+   "artist": "KyungSung Swing",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 263,
+   "popularity": 26,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "JiNM1yuiTEI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-L0ZPbpMfQ6w",
+   "type": "video",
+   "title": "May 2026 - Level 1: 6-count Lindy Fundamentals Week 1",
+   "artist": "JumptownSwingMadison",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 181,
+   "popularity": 26,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "L0ZPbpMfQ6w"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-E9w-a88D_VI",
+   "type": "video",
+   "title": "East Coast / 6 Count Lindy Basic Step",
+   "artist": "Hyrum Stallings",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 171,
+   "popularity": 23,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "E9w-a88D_VI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dxfE1NJYQyM",
+   "type": "video",
+   "title": "Fall 2013 Charleston/Solo Jazz I Review Oct 15th",
+   "artist": "Swing with UofC",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 296,
+   "popularity": 22,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "dxfE1NJYQyM"
+   },
+   "curated": false
+  },
   {
    "id": "yt-NCZiLOLoBCA",
    "type": "video",
@@ -444,7 +3492,8 @@
    "title": "Basic Swingout",
    "artist": "LindyHopMoves",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2012,
@@ -496,6 +3545,26 @@
    "curated": false
   },
   {
+   "id": "yt-B4SKkEFNBlY",
+   "type": "video",
+   "title": "1st Place: Coline & Mohammad - Advanced Draw Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 103,
+   "popularity": 61,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "B4SKkEFNBlY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-uO3KCoLT5Jw",
    "type": "video",
    "title": "Dersler: Solo Jazz Rutin",
@@ -534,25 +3603,6 @@
    "curated": false
   },
   {
-   "id": "yt-B4SKkEFNBlY",
-   "type": "video",
-   "title": "1st Place: Coline & Mohammad - Advanced Draw Finals - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 103,
-   "popularity": 58,
-   "addedAt": "2026-07-31",
-   "source": {
-    "platform": "youtube",
-    "id": "B4SKkEFNBlY"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-f3Fp60s_lcc",
    "type": "video",
    "title": "2009 ILHC - Lindy Hop Showcase: Kenny Nelson & Tiffany Wine",
@@ -587,6 +3637,26 @@
    "source": {
     "platform": "youtube",
     "id": "kkQ-sfgdk-U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nvmAUmxmgdQ",
+   "type": "video",
+   "title": "3rd Place: Ally & Guillaume - Advanced Draw Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 106,
+   "popularity": 55,
+   "addedAt": "2026-07-31",
+   "source": {
+    "platform": "youtube",
+    "id": "nvmAUmxmgdQ"
    },
    "curated": false
   },
@@ -663,25 +3733,6 @@
    "source": {
     "platform": "youtube",
     "id": "nuDeSq0uzog"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-nvmAUmxmgdQ",
-   "type": "video",
-   "title": "3rd Place: Ally & Guillaume - Advanced Draw Finals - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 106,
-   "popularity": 51,
-   "addedAt": "2026-07-31",
-   "source": {
-    "platform": "youtube",
-    "id": "nvmAUmxmgdQ"
    },
    "curated": false
   },
@@ -824,7 +3875,8 @@
    "title": "Lindy Hop- Some of the Vintage Swing movies with Frankie manning & the White's",
    "artist": "Studio Swing Cat",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -1128,7 +4180,8 @@
    "title": "Lindy Hop - Savoy kick + fly charleston",
    "artist": "lomo135135",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2010,
@@ -2401,7 +5454,8 @@
    "title": "[트리플크라운 스윙댄스학원] 소셜댄스 / 린디합 / Social Dance - Lindy Hop (171010)",
    "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -3009,7 +6063,8 @@
    "title": "Sharon Davis & Juan Villafañe | Bill Bailey - Lindy Hop & Authentic Jazz Choreography (ILHC 2013)",
    "artist": "Sharon Davis",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2018,
@@ -3104,7 +6159,8 @@
    "title": "1st Place: Interstate Eight - Lindy Hop Team - ILHC 2026",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2026,
@@ -3655,7 +6711,8 @@
    "title": "CHALLENGED DRAW FINALS - ILHC EUROPE 2025",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -3769,7 +6826,8 @@
    "title": "Leapin' Lindy 2024: Show Nils & Bianca",
    "artist": "Leapin' Lindy",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2024,
@@ -3788,7 +6846,8 @@
    "title": "Lindy Hop Charleston Dance! - Sondre & Tanya",
    "artist": "Sondre & Tanya",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -3845,7 +6904,8 @@
    "title": "Frankie Manning and Erin Stevens 1989",
    "artist": "EastlakeZoo",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2009,
@@ -3864,7 +6924,8 @@
    "title": "1st Place: Bianca & Remy - Invitational Draw - ILHC 2026",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2026,
@@ -3883,7 +6944,8 @@
    "title": "2nd Place: Naomi & Skye - Invitational Draw - ILHC 2026",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2026,
@@ -3978,7 +7040,8 @@
    "title": "1st place: Ella's Fellas - LINDY HOP TEAM - ILHC EUROPE 2025",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -4073,7 +7136,8 @@
    "title": "BLHC 2019 - Nils & Bianca - Invitational Strictly lindy hop",
    "artist": "Slava Bogatov",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -4282,7 +7346,8 @@
    "title": "Jo & Felipe - Invitational Draw - ILHC 2022",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2022,
@@ -4339,7 +7404,8 @@
    "title": "The Snowball 2016 - Lindy Hop Jack and Jill Advanced Finals - Spotlights",
    "artist": "The Snowballevent",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -4396,7 +7462,8 @@
    "title": "Felipe Braga, Erin Morris and Declan Forde - Lindy Hop social demo",
    "artist": "Slava Bogatov",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2019,
@@ -4738,7 +7805,8 @@
    "title": "FRANKIE MANNING and ANGELA ANDREW Lindy Hopping in HERRANG 2005",
    "artist": "Peter and Naomi",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -5213,7 +8281,8 @@
    "title": "Swing Out! 1940s Dancing",
    "artist": "1940GlamourGirl",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2013,
@@ -5232,7 +8301,9 @@
    "title": "Easy Swing Dance Steps for Beginners - The Jitterbug",
    "artist": "Social Dance Online",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2023,
@@ -5270,7 +8341,8 @@
    "title": "2nd Place: Bianca & Nils - World Finals Classic - ILHC 2026",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2026,
@@ -5289,7 +8361,8 @@
    "title": "1st Place: Frida & Skye - World Finals Classic - ILHC 2026",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2026,
@@ -5536,7 +8609,8 @@
    "title": "Country Swing Dancing **THE BASICS** Tutorial!",
    "artist": "Grant & Shalee - King & Queen of Country Swing",
    "styles": [
-    "charleston"
+    "charleston",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2020,
@@ -5612,7 +8686,8 @@
    "title": "Strictly Throwdown Finals - ILHC 2026",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2026,
@@ -5669,7 +8744,8 @@
    "title": "Lindy Hop Performance Showcase 2017- New Jersey Lindy Hoppers",
    "artist": "Nissreen Almazouni",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2019,
@@ -5859,7 +8935,8 @@
    "title": "RTSF 2013 Juan & Sharon - Lindy Hop Showcase",
    "artist": "RockThatSwing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2013,
@@ -6087,7 +9164,9 @@
    "title": "Jazz Roots 2015 - Teachers Battle Outro",
    "artist": "Eric Esquivel",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2015,
@@ -6125,7 +9204,8 @@
    "title": "Jig Walks, The Lost Basic - Lindy Hop & Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2023,
@@ -6144,7 +9224,8 @@
    "title": "Advanced Strictly Finals - ILHC 2024",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2024,
@@ -6163,7 +9244,8 @@
    "title": "Frankie 6s - For Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2026,
@@ -6220,7 +9302,8 @@
    "title": "Learn how to Swing Out with Chester Whitmore",
    "artist": "iLindy",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -6239,7 +9322,8 @@
    "title": "ILHC Legacy Series - Frankie Manning",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -6258,7 +9342,8 @@
    "title": "Frankie Manning on Lindy Hop History & Evolution - Herräng Dance Camp, 1990",
    "artist": "Herrang Dance Camp",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2022,
@@ -6562,7 +9647,8 @@
    "title": "Thibault Ramirez & Emeline Rochefeuille - 1st place Strictly Open Finals - Global Grand Prix 2022",
    "artist": "Global Grand Prix - West Coast Swing Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2023,
@@ -6809,7 +9895,8 @@
    "title": "How to prepare for Lindy Hop Jack and Jill competitions 2022 | Lindy Hop and Swing Dance",
    "artist": "Street Smart Swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2022,
@@ -6961,7 +10048,8 @@
    "title": "Amateur Lindy Hop Finals – Uplifting Performances | Camp Hollywood 2025",
    "artist": "Swing Dancing Phoenix",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -7303,7 +10391,8 @@
    "title": "Learn to Lindy Hop from the Ground Up - 6 Count Vocabulary",
    "artist": "Laura Glaess",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2021,
@@ -7588,7 +10677,8 @@
    "title": "ESDC 2012 - Classic Lindy Hop Showcase Dax Hock & Sarah Breck",
    "artist": "European Swing Dance Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2012,
@@ -7626,7 +10716,8 @@
    "title": "8 Count Circle - Lindy Hop & Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2022,
@@ -8330,12 +11421,13 @@
    "title": "PSSF 2026 / Strictly Lindy Hop / Finals",
    "artist": "Zig-Zag tap&swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2026,
    "durationSec": 396,
-   "popularity": 38,
+   "popularity": 39,
    "addedAt": "2026-07-10",
    "source": {
     "platform": "youtube",
@@ -8824,7 +11916,8 @@
    "title": "5 Things to Make Your Swing Out Better (Follow Edition) - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -9223,7 +12316,8 @@
    "title": "Cowtown Jamborama - Hollywood Style (sugarpushes & quickstops)",
    "artist": "swinginstyle",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -9641,7 +12735,8 @@
    "title": "Keith Phillips & Stacy Yokoyama - Savoy Swing 2",
    "artist": "Swango1cars",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2008,
@@ -10078,7 +13173,8 @@
    "title": "ILHC 2019: Showcase Throwdown Finals - Nils & Bianca",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2019,
@@ -10135,7 +13231,8 @@
    "title": "Lindy Hop VS Boogie Woogie #swingdance #dancing #battle",
    "artist": "Ludo & Stacy",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -10249,7 +13346,8 @@
    "title": "Skye Humphries and Alice Mei - Social Lindy Hop",
    "artist": "Slava Bogatov",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -10287,7 +13385,8 @@
    "title": "Peter Kertz and Katja Završnik - Social Lindy Hop",
    "artist": "Slava Bogatov",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -10306,7 +13405,8 @@
    "title": "Peter Strom and Jo Hoffberg - Social Lindy Hop",
    "artist": "Slava Bogatov",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -10520,7 +13620,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 66,
-   "popularity": 51,
+   "popularity": 52,
    "addedAt": "2026-07-07",
    "source": {
     "platform": "youtube",
@@ -10534,7 +13634,8 @@
    "title": "FANTASTIC SHOES for Lindy Hop, Balboa and other dancers (CCs) #danceshoes #fordancers #tanzschuhe",
    "artist": "JOY of DANCE",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2023,
@@ -10871,6 +13972,25 @@
    "curated": false
   },
   {
+   "id": "yt-6876-IC0BKs",
+   "type": "video",
+   "title": "VBF26 - Pure Balboa Competition",
+   "artist": "Valencia Balboa Festival",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 398,
+   "popularity": 40,
+   "addedAt": "2026-07-07",
+   "source": {
+    "platform": "youtube",
+    "id": "6876-IC0BKs"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-8rbYxsWQuRU",
    "type": "video",
    "title": "Lindy hop social with live music - having fun 🥰 #swing #danceimprovisation #socialdance #livemusic",
@@ -10966,25 +14086,6 @@
    "curated": false
   },
   {
-   "id": "yt-6876-IC0BKs",
-   "type": "video",
-   "title": "VBF26 - Pure Balboa Competition",
-   "artist": "Valencia Balboa Festival",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 398,
-   "popularity": 38,
-   "addedAt": "2026-07-07",
-   "source": {
-    "platform": "youtube",
-    "id": "6876-IC0BKs"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-NPpJiDYKxGk",
    "type": "video",
    "title": "Lindyhop Savoy Style #20s #lindyhop #savoy #roaring20s",
@@ -11047,7 +14148,8 @@
    "title": "Swing Dancing For Beginners Savoy Style Demonstration of Lindy Hop, Charleston, Jitterbug, and Lifts",
    "artist": "The Fun Fosters",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2018,
@@ -11389,7 +14491,9 @@
    "title": "Different Types of Swing Dance Styles",
    "artist": "West Coast Swing Online",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -11807,7 +14911,8 @@
    "title": "Final - Boogie-Woogie World Championship 2012 - Fauske Norway",
    "artist": "TheWRRC",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2012,
@@ -11865,7 +14970,8 @@
    "title": "Swing Riot Invitational Battle Part 3 - Crossover & Finale - Montreal Swing Riot 2015",
    "artist": "montrealswingriot",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2015,
@@ -11941,7 +15047,8 @@
    "title": "2nd Place: Laura & Remy - Invitational Draw - ILHC 2022",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2022,
@@ -11998,7 +15105,8 @@
    "title": "Lindy Hop Basics - Grundschritte und Tanzhaltung in nur 5 Minuten lernen! (FIGUREN-SNACK #7)",
    "artist": "dancebuddy - So geht tanzen lernen heute!",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2022,
@@ -12036,7 +15144,8 @@
    "title": "Invitational Draw FULL CONTEST - ILHC 2023",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2023,
@@ -12207,7 +15316,8 @@
    "title": "Frankie 6s Monday Night Swing Recap from World Lindy Hop Day 2025 - Happy Birthday Frankie Manning!",
    "artist": "Santa Fe Swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -12569,7 +15679,8 @@
    "title": "Balboa Social Finals - Camp Jitterbug 2026",
    "artist": "Camp Jitterbug",
    "styles": [
-    "balboa"
+    "balboa",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2026,
@@ -12666,7 +15777,9 @@
    "styles": [
     "lindy",
     "balboa",
-    "charleston"
+    "charleston",
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -12685,7 +15798,9 @@
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2018,
@@ -12705,7 +15820,9 @@
    "artist": "Black Pepper Swing",
    "styles": [
     "lindy",
-    "charleston"
+    "charleston",
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -12726,7 +15843,8 @@
    "styles": [
     "lindy",
     "balboa",
-    "charleston"
+    "charleston",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2017,
@@ -12745,7 +15863,9 @@
    "title": "Jason Colacino and Katie Boyle - Honky Tonk",
    "artist": "itsmektb",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2011,
@@ -12765,7 +15885,8 @@
    "artist": "RockThatSwing",
    "styles": [
     "lindy",
-    "charleston"
+    "charleston",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2019,
@@ -12785,7 +15906,8 @@
    "artist": "Bruce Gleason",
    "styles": [
     "lindy",
-    "charleston"
+    "charleston",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2017,
@@ -12804,7 +15926,8 @@
    "title": "Fast Swing Dancing - ULHS 2006",
    "artist": "lindyhop411",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2006,
@@ -12903,7 +16026,8 @@
    "styles": [
     "balboa",
     "charleston",
-    "lindy"
+    "lindy",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2021,
@@ -12979,7 +16103,9 @@
    "title": "10 Lindy Hop- \"In The Mood\"- Marine & Guillaume",
    "artist": "Caroline Sabatier",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2014,
@@ -12998,7 +16124,8 @@
    "title": "ILHC 2013 - Invitational Strictly Lindy Hop Finals",
    "artist": "Alain Wong",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2013,
@@ -13018,7 +16145,9 @@
    "artist": "RockThatSwing",
    "styles": [
     "lindy",
-    "balboa"
+    "balboa",
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -13038,7 +16167,9 @@
    "artist": "Global Swing Broadcast",
    "styles": [
     "balboa",
-    "lindy"
+    "lindy",
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -13057,7 +16188,8 @@
    "title": "Mr and Mrs Smooth demonstrating the art of Simply Smooth Swagger - Watch! Be Cool",
    "artist": "Joe N Dancer",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2025,
@@ -13076,7 +16208,8 @@
    "title": "Whiteys Lindy Hoppers .. Hellzapoppin.",
    "artist": "docludi2",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2010,
@@ -13117,7 +16250,10 @@
     "lindy",
     "balboa",
     "charleston",
-    "shag"
+    "shag",
+    "jitterbug",
+    "lindy6",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2023,
@@ -13136,7 +16272,8 @@
    "title": "Lindy Hop JnJ Finals. MXDC 2018",
    "artist": "Xmas Camp",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2018,
@@ -13214,7 +16351,9 @@
    "title": "Open Showcase - Karine & Stephen - Camp Hollywood 2024",
    "artist": "camphollywood",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2024,
@@ -13310,7 +16449,8 @@
    "artist": "RockThatSwing",
    "styles": [
     "lindy",
-    "charleston"
+    "charleston",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2016,
@@ -13330,7 +16470,8 @@
    "artist": "Turner Classic Movies",
    "styles": [
     "lindy",
-    "charleston"
+    "charleston",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2018,
@@ -13444,7 +16585,8 @@
    "title": "ILHC 2011 - Champions Strictly Lindy - Finals - Spotlights",
    "artist": "PatrickAndNatasha",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2011,
@@ -13482,7 +16624,8 @@
    "title": "OUR FIRST DANCE (Lindy Hop)",
    "artist": "The FamLee Life",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2019,
@@ -13731,7 +16874,9 @@
    "title": "1st Place: Bianca & Felix - Invitational Draw - ILHC 2022",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2022,
@@ -13750,7 +16895,8 @@
    "title": "How to Swing Dance for Beginners  - Part 1: 6 Count Footwork",
    "artist": "iLindy",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2018,
@@ -13845,7 +16991,8 @@
    "title": "Frankie Manning Tribute Video",
    "artist": "swingbud",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2010,
@@ -13902,7 +17049,8 @@
    "title": "RTSF 2016 - Lindy Hop Performance - Laura & Felipe",
    "artist": "RockThatSwing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -13921,7 +17069,8 @@
    "title": "Throwback Video! Lindy Hop combos with Anna, Slava, Jean, and Ali",
    "artist": "SwingStepTV",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -13959,7 +17108,8 @@
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -13978,7 +17128,8 @@
    "title": "Lindyfest 2016 - Shim Sham",
    "artist": "Houston Swing Dance Society - Lindyfest",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -13997,7 +17148,8 @@
    "title": "Jerry Lewis  Does The Lindy Hop - Jitterbug",
    "artist": "Rusty Frank",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -14016,7 +17168,8 @@
    "title": "Hellzapoppin' (1941) - Whitey's Lindy Hoppers w/ Dancers' Names - Harlem Congaroos",
    "artist": "SwingcatVB",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2012,
@@ -14054,7 +17207,9 @@
    "title": "Learn To Lindy Hop In A Day (fwd/back, popout, promenade, circle, charleston, dip)",
    "artist": "swinginstyle",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy6",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -14073,7 +17228,10 @@
    "title": "Lindy hop basic footwork",
    "artist": "Lindybeige",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug",
+    "lindy6",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -14092,7 +17250,9 @@
    "title": "RTSF 2025 – Introduction of the Teachers with Jive Aces",
    "artist": "RockThatSwing",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -14111,7 +17271,8 @@
    "title": "RTSF 2015 - Nils & Bianca - Lindy Hop Showcase",
    "artist": "RockThatSwing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2015,
@@ -14283,7 +17444,8 @@
    "title": "Normalizer - ILHC 2024",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2024,
@@ -14340,7 +17502,9 @@
    "title": "Savoy Cup 2022 - Champions Cup 1/4 Final - Bianca & Nils VS Astrid & Sander",
    "artist": "Savoy Cup",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2022,
@@ -14435,7 +17599,8 @@
    "title": "How to Do the Lindy Swing Out | Swing Dance",
    "artist": "Howcast",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2012,
@@ -14454,7 +17619,8 @@
    "title": "Lindy Hop Figuren, die alle Lindy Hopper kennen müssen!",
    "artist": "Social Dancing Academy by Conny & Dado",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -14492,7 +17658,8 @@
    "title": "Lindy Hop Swingout with Swivels Lesson with Frankie Manning and Erin Stevens",
    "artist": "Gainesville Swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -14587,7 +17754,8 @@
    "title": "SWING'N'MILAN- Nils and Bianca social demo- Hornsgatan Ramblers",
    "artist": "Nils and Bianca",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -14625,7 +17793,9 @@
    "title": "6 Count Basic - Learn to Lindy Hop from the Ground Up",
    "artist": "Laura Glaess",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy6",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -14644,7 +17814,8 @@
    "title": "The Lindy-Hop-A-Thon Group Dance - BBC Strictly 2018",
    "artist": "BBC Strictly Come Dancing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2018,
@@ -14663,7 +17834,8 @@
    "title": "Hellzapoppin (Lindy Hop, Featuring Frankie Manning 1941 Gatti's Cut)",
    "artist": "Korzhitskie",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2010,
@@ -14739,7 +17911,8 @@
    "title": "How to do the Lindy turn, or 'swing out'",
    "artist": "Lindybeige",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -14758,7 +17931,8 @@
    "title": "Shim Sham Shimmy featuring Frankie Manning & Erin Stevens",
    "artist": "SwingcatVB",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2014,
@@ -14834,7 +18008,8 @@
    "title": "Lindy Hop Swing Dance Scene in \"Malcolm X\" 1992",
    "artist": "SwingcatVB",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2010,
@@ -14967,7 +18142,8 @@
    "title": "SWINGOUT EXERCISES. Learn swing out. Lindy hop lesson. Свингаут",
    "artist": "Egor Rudometkin",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2012,
@@ -15005,7 +18181,8 @@
    "title": "Irina & Anthony - social lindy hop demo at Havelhop 2023",
    "artist": "Slava Bogatov",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2023,
@@ -15024,7 +18201,8 @@
    "title": "Strictly Throwdown - ILHC 2024",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2024,
@@ -15214,7 +18392,8 @@
    "title": "Class Recap: Intermediate Swingouts 1",
    "artist": "Lindy Hop St. Louis",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2015,
@@ -15252,7 +18431,8 @@
    "title": "ELECTRO SWING LINDY HOP DANCE - Sondre & Tanya",
    "artist": "Sondre & Tanya",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2024,
@@ -15328,7 +18508,9 @@
    "title": "Lindy Hop Teil 1 Grundschritt, Haltung",
    "artist": "Easy Wedding Dances",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy6",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -15366,7 +18548,8 @@
    "title": "ILHC 2011 - Showcase - Max Pitruzzella & Annie Trudeau",
    "artist": "PatrickAndNatasha",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2011,
@@ -15405,7 +18588,8 @@
    "title": "Shim Sham - Frankie Manning & Erin Stevens (1995)",
    "artist": "Lindy Hop Archive",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -15614,7 +18798,8 @@
    "title": "Intro to Swing - basic patterns in 8-count for Lindy hop",
    "artist": "Rhythm City Dance",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -15652,7 +18837,8 @@
    "title": "Swing Out - Learn to Lindy Hop from the Ground Up",
    "artist": "Laura Glaess",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2022,
@@ -15690,7 +18876,9 @@
    "title": "Rhythm Practice for Lindy Hop & Swing Dance - 6 & 8 Count",
    "artist": "Laura Glaess",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy6",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -15804,7 +18992,8 @@
    "title": "Learn a \"Forward\" Swing Out - Lindy Hop Lesson",
    "artist": "Syncopated City",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -15975,7 +19164,8 @@
    "title": "Lindy Hop Level 1 - Frankie Manning & Erin Stevens (1995)",
    "artist": "Lindy Hop Archive",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -15994,7 +19184,9 @@
    "title": "SWING DANCE CLASS - Lindy Hop 1",
    "artist": "Dimitri & Alexsia",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy6",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -16070,7 +19262,8 @@
    "title": "Frankie Manning and Dawn Hampton :: Lindyfest 2008",
    "artist": "Houston Swing Dance Society - Lindyfest",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2008,
@@ -16260,7 +19453,8 @@
    "title": "Learn the California Routine | Lindy Hop Swing Dance | Level 6 Lesson 3 | Shauna Marble",
    "artist": "Lindy Ladder",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2014,
@@ -16317,7 +19511,8 @@
    "title": "Amazing dancers : lindy hoppers at the Savoy Ballroom in the 1950",
    "artist": "Easy Swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -16641,7 +19836,8 @@
    "title": "Early Savoy Lindy Hop",
    "artist": "Richard Powers",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2015,
@@ -16717,7 +19913,8 @@
    "title": "1st Place: Frida & Skye - Invitational Draw - ILHC 2023",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2023,
@@ -16736,7 +19933,8 @@
    "title": "Pamela & Todd - Invitational Draw - ILHC 2022",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2022,
@@ -16755,7 +19953,8 @@
    "title": "Declutter Your Swing Dancing Basics! Learn 11 Lindy Hop Moves That Define Our Foundation & Style.",
    "artist": "rhythmjuice",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2019,
@@ -16793,7 +19992,8 @@
    "title": "Frankie Manning dancing Lindy Hop at the Savoy (Late 1930s?)",
    "artist": "Robert White",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2012,
@@ -16831,7 +20031,8 @@
    "title": "Lindy Hop Level 2 - Frankie Manning & Erin Stevens (1995)",
    "artist": "Lindy Hop Archive",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -16850,7 +20051,8 @@
    "title": "Frankie Manning - Never Stop Swinging!",
    "artist": "Frankie Shimsham",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2015,
@@ -16983,7 +20185,8 @@
    "title": "Followers Swivel preparation in Lindy Hop",
    "artist": "SwingStepTV",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -17002,7 +20205,8 @@
    "title": "Learn Frankie Manning's Mini Dip | Lindy Hop lesson w/ Michael and Evita",
    "artist": "Syncopated City",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -17059,7 +20263,9 @@
    "title": "1st Place: Bianca & Peter - Invitational Draw - ILHC 2024",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2024,
@@ -17078,7 +20284,8 @@
    "title": "Midwest Lindyfest 2013 - Social Lindy Hop - Ryan Calloway & Ann Mony",
    "artist": "Alain Wong",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2013,
@@ -17344,7 +20551,8 @@
    "title": "Lindy Hop Level 3 - Frankie Manning & Erin Stevens (1995)",
    "artist": "Lindy Hop Archive",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -17363,7 +20571,8 @@
    "title": "Frankie's 95th Birthday Festival (Frankie95) - Silver Shadows - Tribute to Frankie Manning",
    "artist": "LindyLibrary",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2009,
@@ -17686,7 +20895,8 @@
    "title": "Felipe Braga and Pamela Gaizutyte #1 - Social Lindy Hop",
    "artist": "Slava Bogatov",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2018,
@@ -17724,7 +20934,8 @@
    "title": "Swing Lindy Hop Dance Lessons with Frankie Manning Level 2",
    "artist": "Swing Dance Montreal",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2014,
@@ -17743,7 +20954,8 @@
    "title": "Learn to Swing Dance Lindy Hop | Level 6 Lesson 6 (Frankie Manning Favorites) | Shauna Marble",
    "artist": "Lindy Ladder",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2015,
@@ -17762,7 +20974,8 @@
    "title": "Frankie Manning - Lindy Chorus Routine",
    "artist": "kibblewhite",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -18181,7 +21394,8 @@
    "title": "Frankie Manning's Moves",
    "artist": "vincefry100",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2014,
@@ -18372,7 +21586,8 @@
    "title": "Lindy Hop beginner class - 8 Count, basics and send outs 🎪",
    "artist": "Let It Swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2023,
@@ -18619,7 +21834,8 @@
    "title": "ALL-STAR CLASSIC ROUTINE - ILHC EUROPE 2024",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2024,
@@ -18638,7 +21854,8 @@
    "title": "Frankie Manning dancing with Judy Pritchett 1992",
    "artist": "Frankie Manning Foundation",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2019,
@@ -18657,7 +21874,8 @@
    "title": "The Big Apple Contest with Frankie Manning and Whitey's Lindy Hoppers ♫ Audio Resynced",
    "artist": "All Things Swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -18904,7 +22122,8 @@
    "title": "Norma Miller and Frankie Manning - The Savoy",
    "artist": "Savoy Hop",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2014,
@@ -19170,7 +22389,8 @@
    "title": "Open Lindy Hop Final – Unforgettable Partner Lifts | Camp Hollywood 2024",
    "artist": "Swing Dancing Phoenix",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2024,
@@ -19246,7 +22466,8 @@
    "title": "Sweet Swingouts Lindy Hop Saturday Social Dance (part 6)",
    "artist": "Gainesville Swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -19265,7 +22486,8 @@
    "title": "How to Savoy Twist #lindyhop  #swingdance #dancebreakdown",
    "artist": "Laura Glaess",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2024,
@@ -19284,7 +22506,8 @@
    "title": "Savoy Lindyhoppers - George Lloyd, Frankie Manning (and Tom Lewis) with Margaret Batiuchok  스윙댄스 린디합",
    "artist": "스윙댄스 Lindy Explorer ",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2019,
@@ -19322,7 +22545,8 @@
    "title": "Lindy Hop nos anos 1980 com Frankie Manning e Norma Miller",
    "artist": "1941 Vintage",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -19513,7 +22737,8 @@
    "title": "2nd Place: Frida & Remy - Invitational Draw - ILHC 2024",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2024,
@@ -19532,7 +22757,8 @@
    "title": "Kris and Ali Lindy hop social dancing to It's Only a Paper Moon",
    "artist": "SwingStepTV",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2019,
@@ -19551,7 +22777,8 @@
    "title": "Rebecca Phillips & Morgan Taggart - Savoy Swing 1",
    "artist": "Swango1cars",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2008,
@@ -19684,7 +22911,8 @@
    "title": "3/2/16 Next Level Lindy Hop (swingout, swivels/windup, rockstep, staying level, balance)",
    "artist": "swinginstyle",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -19774,12 +23002,52 @@
    "curated": false
   },
   {
+   "id": "yt--N7fHNJNFyw",
+   "type": "tutorial",
+   "title": "Lindy Hop | Remy & Moe – Lesson 1 \"Six Counts Basic Moves\"",
+   "artist": "Summer Jamboree Dance Academy",
+   "styles": [
+    "lindy",
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 641,
+   "popularity": 58,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "-N7fHNJNFyw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-45eMp_QmgBM",
+   "type": "video",
+   "title": "2026 Professional Champions - Autumn Jones & Grayson Free",
+   "artist": "Stages Video Productions",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 189,
+   "popularity": 58,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "45eMp_QmgBM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-6D8HQfUgK48",
    "type": "video",
    "title": "Lindyfest 2025: Invitational Lindy Draw - Laura & Anthony",
    "artist": "Houston Swing Dance Society - Lindyfest",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -19798,7 +23066,8 @@
    "title": "Remy Kouakou Kouame and Laura Glaess - Social Lindy Hop",
    "artist": "Slava Bogatov",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -19812,31 +23081,13 @@
    "curated": false
   },
   {
-   "id": "yt--N7fHNJNFyw",
-   "type": "tutorial",
-   "title": "Lindy Hop | Remy & Moe – Lesson 1 \"Six Counts Basic Moves\"",
-   "artist": "Summer Jamboree Dance Academy",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 641,
-   "popularity": 57,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "-N7fHNJNFyw"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-dkFLgUSrT9o",
    "type": "tutorial",
    "title": "Pensacola Swing Savoy Style Lindy Hop Lesson",
    "artist": "Pensacola Swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2013,
@@ -19855,7 +23106,8 @@
    "title": "3/16/17 Swing 2 @ Savoy (Swing out footwork variations)",
    "artist": "swinginstyle",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -19893,7 +23145,8 @@
    "title": "Savoy Cup 2024 - Rhythm & Blues Contest Final - Alex McCormack & Jill Demuelenaere",
    "artist": "Savoy Cup",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2024,
@@ -19964,25 +23217,6 @@
    "curated": false
   },
   {
-   "id": "yt-45eMp_QmgBM",
-   "type": "video",
-   "title": "2026 Professional Champions - Autumn Jones & Grayson Free",
-   "artist": "Stages Video Productions",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 189,
-   "popularity": 57,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "45eMp_QmgBM"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-htuCkVEh04s",
    "type": "video",
    "title": "Savoy Cup 2025 - Balboa Contest Final with Martin Burguez & His Rhythm Combo",
@@ -20026,7 +23260,8 @@
    "title": "Lindy Hop, Savoy Style! Feb Wk 3",
    "artist": "Swing Dance with Mike & Elli",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -20045,7 +23280,8 @@
    "title": "The Spirit Moves Excerpts (3rd Generation Savoy Lindy Hoppers)",
    "artist": "Swungover",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2022,
@@ -20102,7 +23338,8 @@
    "title": "Frankie Manning: El bailarín de Lindy Hop. De 1914 a 1955 (1/2) | La historia de Frankie Manning",
    "artist": "EstiloSwing: Baile y cultura Swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2019,
@@ -20121,7 +23358,8 @@
    "title": "Frankie Manning dancing lindy hop in 1991 with Cinthya Millman at the \"boogie 91\" event",
    "artist": "slidenow",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2014,
@@ -20368,7 +23606,8 @@
    "title": "(AERIALS) THE BEST LINDYHOPPERS COMPETE,  2024 CAMP HOLLYWOOD OPEN LINDY",
    "artist": "Joe N Dancer",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2024,
@@ -20482,7 +23721,8 @@
    "title": "5 - Learn to Lindy Hop - Swing Out From Closed",
    "artist": "Midtown Stomp",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2018,
@@ -20938,7 +24178,8 @@
    "title": "Legendary Open Lindy Hop Final | Camp Hollywood 2025 (SIDE VIEW)",
    "artist": "Swing Dancing Phoenix",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -20957,7 +24198,8 @@
    "title": "THE STRICTLY CHALLENGE FINALS - ILHC EUROPE 2025",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -21033,7 +24275,8 @@
    "title": "'Savoy' Lindy Hop with Eight Beat Jive",
    "artist": "Dave Fairbairn",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -21071,7 +24314,8 @@
    "title": "Strictly Lindy Final | Lindy Hop Competition – Sofia Swing Dance Festival 2025",
    "artist": "Lindy Hop Bulgaria",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -21124,12 +24368,32 @@
    "curated": false
   },
   {
+   "id": "yt-L6hfm8zmgBI",
+   "type": "video",
+   "title": "A Short Explanation of Pure Balboa",
+   "artist": "Swungover",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 169,
+   "popularity": 53,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "L6hfm8zmgBI"
+   },
+   "curated": false
+  },
+  {
    "id": "yt--eEJtxcZ-_o",
    "type": "video",
    "title": "OPEN LINDY FINAL 2025 Camp Hollywood and the National Jitterbug Championships",
    "artist": "Joe N Dancer",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2025,
@@ -21148,7 +24412,8 @@
    "title": "Lindy Level Intermediate - Week 4 - Savoy Swing out / Double handed Swing out + turn",
    "artist": "SwingStreet.nl",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2018,
@@ -21167,7 +24432,8 @@
    "title": "Boulder Swing Dance Savoy Style Lindy Hop Week 1",
    "artist": "kshalm",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2014,
@@ -21196,25 +24462,6 @@
    "source": {
     "platform": "youtube",
     "id": "Vb6PGQ0yZuE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-L6hfm8zmgBI",
-   "type": "video",
-   "title": "A Short Explanation of Pure Balboa",
-   "artist": "Swungover",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 169,
-   "popularity": 52,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "L6hfm8zmgBI"
    },
    "curated": false
   },
@@ -21433,7 +24680,8 @@
    "title": "Smooth Style Lindy Hop:  Catapult,  Savoy Kicks, and Turns off The Switches",
    "artist": "Michael Quebec",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -21452,7 +24700,8 @@
    "title": "Frankie Manning & Erin Stevens Teach Lindy Hop Part 2",
    "artist": "Track Town Swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -21642,7 +24891,8 @@
    "title": "FRANKIE MANNING and HANNA LUNDMARK teaching CLASSIC LINDY HOP in Herräng 2004",
    "artist": "Peter and Naomi",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -21756,7 +25006,8 @@
    "title": "All-Star Strictly Finals - ILHC NORTH AMERICAN QUALIFIER 2025",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -21775,7 +25026,8 @@
    "title": "Advanced Mix & Match Finals | Lindy Hop Competition – Sofia Swing Dance Festival 2025",
    "artist": "Lindy Hop Bulgaria",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -21813,7 +25065,8 @@
    "title": "FRANKIE MANNING tells the story of HOW LINDY HOP GOT IT'S NAME",
    "artist": "Peter and Naomi",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -22155,7 +25408,8 @@
    "title": "Swing It Seattle - Frankie Manning Lindy Hop Performance 1992",
    "artist": "Swing It Seattle",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -22459,7 +25713,8 @@
    "title": "Savoy Ballroom Exhibit - 1939 NY Worlds Fair (Lindy Hop)  Part1",
    "artist": "Sonny Watson",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2012,
@@ -23048,7 +26303,8 @@
    "title": "Open Mix & Match Finals | Lindy Hop Competition – Sofia Swing Dance Festival 2025",
    "artist": "Lindy Hop Bulgaria",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -23428,7 +26684,8 @@
    "title": "Swing It Seattle - Frankie Manning, Norma Miller, & the Savoy Ballroom",
    "artist": "Swing It Seattle",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -23694,7 +26951,8 @@
    "title": "3/2/17 Swing 2 @ Savoy (Lindy Hop Turns, Kickaway, Hand to Hand Charleston)",
    "artist": "swinginstyle",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -23865,7 +27123,8 @@
    "title": "Lindy Hop Social Dance - Rachel McMullin & Kevin Clark",
    "artist": "Rachel McMullin",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -23884,7 +27143,8 @@
    "title": "Savoy Kicks, Flying Swingouts: Lindy Hop Patterns and Rhythm Class Recap",
    "artist": "Lainey Silver",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -23922,7 +27182,8 @@
    "title": "Frankie Manning interviewed by Good Morning America featuring Lindy Hop dancers ( Part 1/3)",
    "artist": "Savoy Hop",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2013,
@@ -24150,7 +27411,8 @@
    "title": "Lindy Hop | Social Dance Rejection: | by Jamin Jackson",
    "artist": "Street Smart Swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2018,
@@ -24245,7 +27507,8 @@
    "title": "Lindy Hop Montage",
    "artist": "Lindy Hop Archive",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -24264,7 +27527,8 @@
    "title": "Intermediate I Lindy Smooth Style",
    "artist": "Dance Vision Syllabus - Learn to Ballroom Dance",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2012,
@@ -24644,7 +27908,8 @@
    "title": "9/29/16 - Beg. Lindy Hop @ Savoy (swingout technique, charleston, stomp step, party hallway)",
    "artist": "swinginstyle",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -24891,7 +28156,8 @@
    "title": "Hellzapoppin' Hoopla - Harlem vs Hollywood (fwd swingout, Frankie & Willa Mae, switches)",
    "artist": "swinginstyle",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2015,
@@ -25081,7 +28347,8 @@
    "title": "9/1/16 - Beginner 8ct Lindy Hop @ The Savoy (rocksteps, triples, pop out, promenade, pecking)",
    "artist": "swinginstyle",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -25309,7 +28576,8 @@
    "title": "Lindy Hop Performance - Savoy Blip",
    "artist": "Swing Planet",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2023,
@@ -25328,7 +28596,8 @@
    "title": "\"Savoy Ballroom Swing Spectacle: Lindy Hop and Rhythmic Bliss with Lionel Hampton And His Orchestra\"",
    "artist": "Timeless Hub",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2023,
@@ -26145,7 +29414,8 @@
    "title": "Lindy Hop At The Savoy  1950's",
    "artist": "Diáspora & Samba Rock",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -26297,7 +29567,8 @@
    "title": "Early Savoy Lindy Hop",
    "artist": "Swing Dancing San Diego",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2015,
@@ -26544,7 +29815,8 @@
    "title": "The Savoy Bearcats",
    "artist": "SVC Swing Dance Club",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2018,
@@ -26867,7 +30139,8 @@
    "title": "SAVOY STYLE SWING \"It Could Happen to You\" Brother Brian Davis",
    "artist": "Mr. Taptastic (Brian Davis)",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -26943,7 +30216,8 @@
    "title": "[Theme Class] Swing Out Styles & Variations - Savoy Style and flow",
    "artist": "Switch Taipei",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
