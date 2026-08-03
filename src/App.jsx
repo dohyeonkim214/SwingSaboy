@@ -14,7 +14,7 @@ import EmptyState from './components/EmptyState'
  */
 export default function App() {
   const [items, setItems] = useState([])
-  const [tab, setTab] = useState('all') // 'all' | 'favorites'
+  const [tab, setTab] = useState('music') // 'music' | 'all' | 'favorites'
   const [playing, setPlaying] = useState(null) // 모달에서 재생 중인 항목
 
   const { favoriteIds, toggleFavorite } = useFavorites()
@@ -26,11 +26,19 @@ export default function App() {
     fetchContent().then(setItems)
   }, [])
 
-  // 탭에 따라 필터 결과에서 즐겨찾기만 추려낸다
-  const visible = useMemo(
-    () => (tab === 'favorites' ? results.filter((it) => favoriteIds.has(it.id)) : results),
-    [tab, results, favoriteIds],
-  )
+  // 첫 진입 경험을 '유명 음악 바로 듣기'에 맞춰 인기순으로 시작
+  // (음악/영상 구분은 filters가 아니라 탭이 담당 — Archive 탭은 항상 전체를 보여준다)
+  useEffect(() => {
+    setSortBy('popular')
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
+
+  // 탭에 따라 필터 결과를 다시 좁힌다: 음악 탭은 음악만, 플레이리스트 탭은 즐겨찾기만
+  const visible = useMemo(() => {
+    if (tab === 'music') return results.filter((it) => it.type === 'music')
+    if (tab === 'favorites') return results.filter((it) => favoriteIds.has(it.id))
+    return results
+  }, [tab, results, favoriteIds])
 
   const playlistEmpty = tab === 'favorites' && favoriteIds.size === 0
 

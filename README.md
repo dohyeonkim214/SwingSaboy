@@ -1,7 +1,9 @@
 # 🎷 Savoy Archive
 
 스윙 댄서를 위한 음악·영상 큐레이션 아카이브.
-Lindy Hop, Balboa, Charleston, Collegiate Shag 콘텐츠를 스타일·템포(BPM)·연대별로 탐색하고, 사이트 안에서 바로 재생할 수 있습니다.
+Jitterbug, Lindy Hop(6-count/8-count), Balboa, Collegiate Shag 중심 콘텐츠를 스타일·템포(BPM)·연대별로 탐색하고, 사이트 안에서 바로 재생할 수 있습니다.
+
+앱 첫 화면은 유명 스윙 음악(큐레이션)을 인기순으로 바로 들을 수 있게 기본 설정되어 있습니다.
 
 ## 실행
 
@@ -107,7 +109,7 @@ src/
 | `id` | string | 고유 슬러그 (즐겨찾기 저장 키) |
 | `type` | `music` \| `video` \| `tutorial` | 콘텐츠 타입 |
 | `title` / `artist` | string | 제목 / 아티스트·밴드·댄서 |
-| `styles` | string[] | `lindy` \| `balboa` \| `charleston` \| `shag` (복수 가능) |
+| `styles` | string[] | `jitterbug` \| `lindy6` \| `lindy8` \| `balboa` \| `shag` (복수 가능, `charleston`/`lindy`는 레거시 호환) |
 | `bpm` | number | 템포 (근사치) |
 | `year` | number | 녹음·촬영 연도 (연대 필터에 사용) |
 | `durationSec` | number | 길이(초) |

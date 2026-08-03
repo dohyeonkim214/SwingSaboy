@@ -26,8 +26,20 @@ function buildStatsBlock() {
   )
 
   const count = (pred) => items.filter(pred).length
-  const styleCounts = ['lindy', 'balboa', 'charleston', 'shag']
-    .map((s) => `${s[0].toUpperCase()}${s.slice(1)} ${count((it) => it.styles.includes(s))}`)
+  const styleCounts = [
+    ['jitterbug', 'Jitterbug'],
+    ['lindy6', 'Lindy 6'],
+    ['lindy8', 'Lindy 8'],
+    ['balboa', 'Balboa'],
+    ['shag', 'Shag'],
+  ]
+    .map(([id, label]) => {
+      const n =
+        id === 'lindy8'
+          ? count((it) => it.styles.includes('lindy8') || it.styles.includes('lindy'))
+          : count((it) => it.styles.includes(id))
+      return `${label} ${n}`
+    })
     .join(' · ')
   const typeCounts = [
     ['video', '영상'],

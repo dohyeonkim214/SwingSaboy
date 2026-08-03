@@ -8,6 +8,45 @@
  * UI 컴포넌트는 데이터 출처를 전혀 몰라도 되도록 async 인터페이스로 통일.
  */
 import fallback from '../data/archive.json'
+import famous from '../data/famousSwingMusic.json'
+
+const JITTERBUG_RE = /\bjitterbug\b/i
+const LINDY6_RE = /\b(6\s*-?\s*count|six\s+count|east\s+coast\s+swing)\b/i
+const LINDY8_RE = /\b(8\s*-?\s*count|eight\s+count|swing\s*out)\b/i
+
+/**
+ * 기존 스냅샷의 'lindy' 태그를 신규 플레이리스트 체계로 호환 매핑한다.
+ * - 과거 데이터는 대부분 lindy 단일 태그라 8-count로 기본 이관
+ * - 제목 키워드가 있으면 jitterbug/6-count 태그를 추가
+ */
+function normalizeStyles(item) {
+  const next = new Set(item.styles)
+  const text = `${item.title} ${item.artist}`
+
+  if (next.has('lindy')) {
+    next.add('lindy8')
+  }
+  if (JITTERBUG_RE.test(text)) {
+    next.add('jitterbug')
+  }
+  if (LINDY6_RE.test(text)) {
+    next.add('lindy6')
+  }
+  if (LINDY8_RE.test(text)) {
+    next.add('lindy8')
+  }
+
+  return { ...item, styles: [...next] }
+}
+
+/** 유명 스윙 음악 큐레이션을 기존 목록에 병합 (id 중복 시 큐레이션 우선) */
+function mergeWithFamous(baseItems) {
+  const map = new Map(baseItems.map((it) => [it.id, it]))
+  for (const item of famous.items) {
+    map.set(item.id, item)
+  }
+  return [...map.values()]
+}
 
 /**
  * 전체 콘텐츠 목록을 가져온다.
@@ -18,22 +57,23 @@ import fallback from '../data/archive.json'
  * @property {'music'|'video'|'tutorial'} type - 콘텐츠 타입
  * @property {string}   title
  * @property {string}   artist      - 아티스트/밴드/댄서 (자동 수집분은 채널명)
- * @property {string[]} styles      - 'lindy' | 'balboa' | 'charleston' | 'shag'
+ * @property {string[]} styles      - 'jitterbug' | 'lindy6' | 'lindy8' | 'balboa' | 'charleston' | 'shag' | 'lindy(legacy)'
  * @property {number|null} bpm      - 템포 (자동 수집분은 null — 측정 불가)
  * @property {number}   year        - 녹음/촬영/업로드 연도
  * @property {number}   durationSec - 길이(초)
  * @property {number}   popularity  - 0~100 인기 점수 (정렬용)
  * @property {string}   addedAt     - 아카이브 등록일 (ISO, '최신순' 정렬용)
- * @property {{platform:'youtube'|'spotify'|'soundcloud', id:string, url?:string}} source
+ * @property {{platform:'youtube'|'spotify'|'soundcloud', id:string, url?:string, query?:string}} source
+ * @property {string} [spotifyQuery] - 큐레이션 음악의 Spotify 검색어 (트랙 ID 없이도 "Spotify에서 열기" 링크 제공)
  */
 export async function fetchContent() {
   try {
     const res = await fetch('/api/content', { signal: AbortSignal.timeout(4000) })
     if (!res.ok) throw new Error(`API ${res.status}`)
     const { items } = await res.json()
-    return items
+    return mergeWithFamous(items).map(normalizeStyles)
   } catch {
     // 백엔드 미기동/정적 배포 — 번들에 포함된 큐레이션 데이터로 폴백
-    return fallback.items
+    return mergeWithFamous(fallback.items).map(normalizeStyles)
   }
 }

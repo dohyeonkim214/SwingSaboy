@@ -24,13 +24,32 @@ export const COLLECT_INTERVAL_HOURS = Number(process.env.COLLECT_INTERVAL_HOURS 
  */
 export const STYLE_QUERIES = [
   {
-    styleId: 'lindy',
+    styleId: 'jitterbug',
     queries: [
-      'lindy hop dance',
-      'lindy hop competition',
+      'jitterbug dance social',
+      'jitterbug swing dance',
+      'jitterbug dance competition',
+      'jitterbug dance tutorial',
+    ],
+  },
+  {
+    styleId: 'lindy6',
+    queries: [
+      'lindy hop 6 count basic',
+      'lindy hop 6 count social dance',
+      'lindy hop six count tutorial',
+      'east coast swing 6 count lindy',
+    ],
+  },
+  {
+    styleId: 'lindy8',
+    queries: [
+      'lindy hop 8 count basic',
+      'lindy hop eight count tutorial',
+      'lindy hop swing out',
       'lindy hop social dance',
+      'lindy hop competition',
       'lindy hop performance showcase',
-      'lindy hop tutorial',
       'savoy style lindy hop',
       'frankie manning lindy hop',
     ],

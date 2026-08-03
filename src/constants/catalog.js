@@ -5,10 +5,21 @@
 
 /** 댄스 스타일 태그 */
 export const STYLES = [
-  { id: 'lindy', label: 'Lindy Hop' },
+  { id: 'jitterbug', label: 'Jitterbug' },
+  { id: 'lindy6', label: 'Lindy Hop 6-Count' },
+  { id: 'lindy8', label: 'Lindy Hop 8-Count' },
   { id: 'balboa', label: 'Balboa' },
   { id: 'charleston', label: 'Charleston' },
   { id: 'shag', label: 'Collegiate Shag' },
+]
+
+/** 스타일 플레이리스트 프리셋 (요청 우선순위) */
+export const PLAYLIST_PRESETS = [
+  { id: 'jitterbug', label: 'Jitterbug' },
+  { id: 'lindy6', label: 'Lindy 6-Count' },
+  { id: 'lindy8', label: 'Lindy 8-Count' },
+  { id: 'balboa', label: 'Balboa' },
+  { id: 'shag', label: 'Shag' },
 ]
 
 /** 콘텐츠 타입 — labelKey는 i18n/strings.js의 키 (렌더 시 t[labelKey]로 번역) */

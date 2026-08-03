@@ -1,4 +1,4 @@
-import { STYLES, TYPES, SORT_OPTIONS } from '../constants/catalog'
+import { STYLES, TYPES, SORT_OPTIONS, PLAYLIST_PRESETS } from '../constants/catalog'
 import { useI18n } from '../i18n/LanguageContext'
 import BpmRangeSlider from './BpmRangeSlider'
 
@@ -34,6 +34,28 @@ export default function FilterBar({
       aria-label={t.filterAria}
     >
       <div className="border border-night-600 bg-night-900/70 p-5 shadow-lg shadow-black/40 backdrop-blur">
+        {/* 요청 스타일 플레이리스트 빠른 선택 */}
+        <div className="mb-5">
+          <p className="mb-2 text-[11px] tracking-[0.2em] uppercase text-cream-500">
+            {t.dancePlaylists}
+          </p>
+          <div className="flex flex-wrap gap-2">
+            {PLAYLIST_PRESETS.map((preset) => (
+              <Chip
+                key={preset.id}
+                active={filters.styles.length === 1 && filters.styles[0] === preset.id}
+                onClick={() =>
+                  actions.setStyles(
+                    filters.styles.length === 1 && filters.styles[0] === preset.id ? [] : [preset.id],
+                  )
+                }
+              >
+                {preset.label}
+              </Chip>
+            ))}
+          </div>
+        </div>
+
         {/* 1행: 검색 + 정렬 */}
         <div className="flex flex-col gap-3 sm:flex-row">
           <div className="relative flex-1">

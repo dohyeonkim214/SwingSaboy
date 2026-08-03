@@ -26,6 +26,8 @@ export function useContentFilters(items) {
   /** 개별 필터 업데이트 액션들 */
   const actions = {
     setQuery: (query) => setFilters((f) => ({ ...f, query })),
+    setStyles: (styles) => setFilters((f) => ({ ...f, styles })),
+    setTypes: (types) => setFilters((f) => ({ ...f, types })),
     toggleStyle: (id) => setFilters((f) => ({ ...f, styles: toggleInArray(f.styles, id) })),
     toggleType: (id) => setFilters((f) => ({ ...f, types: toggleInArray(f.types, id) })),
     setDecade: (decade) => setFilters((f) => ({ ...f, decade })),

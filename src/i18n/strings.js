@@ -6,6 +6,7 @@
 export const STRINGS = {
   ko: {
     // Header
+    tabMusic: '뮤직 플레이리스트',
     tabArchive: '아카이브',
     tabPlaylist: '내 플레이리스트',
     tabsAria: '콘텐츠 탭',
@@ -18,6 +19,7 @@ export const STRINGS = {
     sortPopular: '인기순',
     sortBpmAsc: 'BPM 낮은순',
     sortBpmDesc: 'BPM 높은순',
+    dancePlaylists: '댄스 플레이리스트',
     typeMusic: '음악',
     typeVideo: '영상',
     typeTutorial: '튜토리얼',
@@ -44,6 +46,7 @@ export const STRINGS = {
 
   en: {
     // Header
+    tabMusic: 'Music Playlist',
     tabArchive: 'Archive',
     tabPlaylist: 'My Playlist',
     tabsAria: 'Content tabs',
@@ -56,6 +59,7 @@ export const STRINGS = {
     sortPopular: 'Most popular',
     sortBpmAsc: 'BPM: low to high',
     sortBpmDesc: 'BPM: high to low',
+    dancePlaylists: 'Dance Playlists',
     typeMusic: 'Music',
     typeVideo: 'Video',
     typeTutorial: 'Tutorial',

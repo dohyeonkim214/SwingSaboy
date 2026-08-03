@@ -8,6 +8,7 @@ export default function Header({ tab, onTabChange, favoriteCount }) {
   const { lang, setLang, t } = useI18n()
 
   const tabs = [
+    { id: 'music', label: t.tabMusic },
     { id: 'all', label: t.tabArchive },
     { id: 'favorites', label: `${t.tabPlaylist}${favoriteCount ? ` (${favoriteCount})` : ''}` },
   ]

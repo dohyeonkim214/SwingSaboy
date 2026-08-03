@@ -14,15 +14,20 @@ export function formatDuration(sec) {
  * 카드에서 아르데코 스타일 placeholder를 그리게 한다.
  */
 export function getThumbnailUrl({ platform, id }) {
-  if (platform === 'youtube') return `https://i.ytimg.com/vi/${id}/hqdefault.jpg`
+  if (platform === 'youtube' && /^[a-zA-Z0-9_-]{11}$/.test(id ?? '')) {
+    return `https://i.ytimg.com/vi/${id}/hqdefault.jpg`
+  }
   return null
 }
 
 /** 임베드 플레이어 iframe src */
-export function getEmbedUrl({ platform, id, url }) {
+export function getEmbedUrl({ platform, id, url, query }) {
   switch (platform) {
     case 'youtube':
       // youtube-nocookie: 개인정보 보호 강화 도메인
+      if (query) {
+        return `https://www.youtube-nocookie.com/embed?listType=search&list=${encodeURIComponent(query)}&autoplay=1&rel=0`
+      }
       return `https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0`
     case 'spotify':
       return `https://open.spotify.com/embed/track/${id}?theme=0`
@@ -35,9 +40,12 @@ export function getEmbedUrl({ platform, id, url }) {
 }
 
 /** 원본 페이지 링크 (새 탭으로 열기용) */
-export function getSourceUrl({ platform, id, url }) {
+export function getSourceUrl({ platform, id, url, query }) {
   switch (platform) {
     case 'youtube':
+      if (query) {
+        return `https://www.youtube.com/results?search_query=${encodeURIComponent(query)}`
+      }
       return `https://www.youtube.com/watch?v=${id}`
     case 'spotify':
       return `https://open.spotify.com/track/${id}`
@@ -46,4 +54,9 @@ export function getSourceUrl({ platform, id, url }) {
     default:
       return '#'
   }
+}
+
+/** Spotify 트랙 ID가 없는 항목(큐레이션 데이터)을 위한 검색 링크 */
+export function getSpotifySearchUrl(query) {
+  return `https://open.spotify.com/search/${encodeURIComponent(query)}`
 }

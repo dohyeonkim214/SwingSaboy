@@ -1,7 +1,7 @@
 import { useEffect } from 'react'
 import { PLATFORMS } from '../constants/catalog'
 import { useI18n } from '../i18n/LanguageContext'
-import { getEmbedUrl, getSourceUrl } from '../utils/format'
+import { getEmbedUrl, getSourceUrl, getSpotifySearchUrl } from '../utils/format'
 import TagBadge from './TagBadge'
 
 /**
@@ -80,14 +80,27 @@ export default function PlayerModal({ item, onClose }) {
               <TagBadge key={s} styleId={s} />
             ))}
           </div>
-          <a
-            href={getSourceUrl(item.source)}
-            target="_blank"
-            rel="noreferrer"
-            className="text-xs tracking-wider text-cream-500 underline-offset-4 hover:text-gold-300 hover:underline"
-          >
-            {t.openOn(PLATFORMS[item.source.platform]?.label)}
-          </a>
+          <div className="flex items-center gap-4">
+            {/* 큐레이션 음악은 기본 소스가 YouTube라도 Spotify 검색 링크를 별도로 제공 */}
+            {item.spotifyQuery && item.source.platform !== 'spotify' && (
+              <a
+                href={getSpotifySearchUrl(item.spotifyQuery)}
+                target="_blank"
+                rel="noreferrer"
+                className="text-xs tracking-wider text-cream-500 underline-offset-4 hover:text-gold-300 hover:underline"
+              >
+                {t.openOn(PLATFORMS.spotify.label)}
+              </a>
+            )}
+            <a
+              href={getSourceUrl(item.source)}
+              target="_blank"
+              rel="noreferrer"
+              className="text-xs tracking-wider text-cream-500 underline-offset-4 hover:text-gold-300 hover:underline"
+            >
+              {t.openOn(PLATFORMS[item.source.platform]?.label)}
+            </a>
+          </div>
         </div>
       </div>
     </div>
