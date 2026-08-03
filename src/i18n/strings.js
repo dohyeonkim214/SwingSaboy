@@ -36,6 +36,7 @@ export const STRINGS = {
     playerAria: (title) => `${title} 플레이어`,
     close: '닫기',
     openOn: (platform) => `${platform}에서 열기 ↗`,
+    videoUnavailable: '이 영상은 유튜브에서 재생할 수 없습니다',
 
     // 빈 상태
     emptyTitle: '조건에 맞는 콘텐츠가 없습니다',
@@ -76,6 +77,7 @@ export const STRINGS = {
     playerAria: (title) => `${title} player`,
     close: 'Close',
     openOn: (platform) => `Open on ${platform} ↗`,
+    videoUnavailable: "This video can't be played on YouTube",
 
     // Empty states
     emptyTitle: 'No content matches your filters',

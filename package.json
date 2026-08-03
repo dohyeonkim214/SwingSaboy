@@ -12,7 +12,8 @@
     "server:watch": "node --watch server/index.js",
     "export": "node server/export.js",
     "snapshot": "node server/snapshot.js",
-    "docs:sync": "node server/docs-sync.js"
+    "docs:sync": "node server/docs-sync.js",
+    "resolve-music": "node server/resolveCuratedMusic.js"
   },
   "dependencies": {
     "express": "^5.1.0",

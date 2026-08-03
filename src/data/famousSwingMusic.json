@@ -12,7 +12,7 @@
       "durationSec": 520,
       "popularity": 100,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Benny Goodman Sing Sing Sing" },
+      "source": { "platform": "youtube", "id": "u_E0UVNtJ9Y" },
       "curated": true,
       "spotifyQuery": "Benny Goodman Orchestra Sing, Sing, Sing"
     },
@@ -27,7 +27,7 @@
       "durationSec": 220,
       "popularity": 99,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Glenn Miller In The Mood" },
+      "source": { "platform": "youtube", "id": "aME0qvhZ37o" },
       "curated": true,
       "spotifyQuery": "Glenn Miller Orchestra In the Mood"
     },
@@ -42,7 +42,7 @@
       "durationSec": 190,
       "popularity": 97,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Count Basie One O'Clock Jump" },
+      "source": { "platform": "youtube", "id": "aT5NKGgKjyo" },
       "curated": true,
       "spotifyQuery": "Count Basie Orchestra One O'Clock Jump"
     },
@@ -57,7 +57,7 @@
       "durationSec": 200,
       "popularity": 96,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Benny Goodman Stompin at the Savoy" },
+      "source": { "platform": "youtube", "id": "C4bKdQA-KL0" },
       "curated": true,
       "spotifyQuery": "Benny Goodman Orchestra Stompin' at the Savoy"
     },
@@ -72,7 +72,7 @@
       "durationSec": 180,
       "popularity": 95,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Duke Ellington Take The A Train" },
+      "source": { "platform": "youtube", "id": "cb2w2m1JmCY" },
       "curated": true,
       "spotifyQuery": "Duke Ellington Orchestra Take the A Train"
     },
@@ -87,7 +87,7 @@
       "durationSec": 190,
       "popularity": 95,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Duke Ellington It Don't Mean a Thing" },
+      "source": { "platform": "youtube", "id": "myRc-3oF1d0" },
       "curated": true,
       "spotifyQuery": "Duke Ellington It Don't Mean a Thing"
     },
@@ -102,7 +102,7 @@
       "durationSec": 190,
       "popularity": 94,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Count Basie Jumpin at the Woodside" },
+      "source": { "platform": "youtube", "id": "eLFj-J54l3g" },
       "curated": true,
       "spotifyQuery": "Count Basie Orchestra Jumpin' at the Woodside"
     },
@@ -117,7 +117,7 @@
       "durationSec": 180,
       "popularity": 93,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Lionel Hampton Flying Home" },
+      "source": { "platform": "youtube", "id": "R_rTICMVXQQ" },
       "curated": true,
       "spotifyQuery": "Lionel Hampton Flying Home"
     },
@@ -132,7 +132,7 @@
       "durationSec": 195,
       "popularity": 92,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Django Reinhardt Minor Swing" },
+      "source": { "platform": "youtube", "id": "gcE1avXFJb4" },
       "curated": true,
       "spotifyQuery": "Django Reinhardt & Stephane Grappelli Minor Swing"
     },
@@ -147,7 +147,7 @@
       "durationSec": 230,
       "popularity": 91,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Count Basie Shiny Stockings" },
+      "source": { "platform": "youtube", "id": "MV5apkGSkfM" },
       "curated": true,
       "spotifyQuery": "Count Basie Orchestra Shiny Stockings"
     },
@@ -162,7 +162,7 @@
       "durationSec": 190,
       "popularity": 90,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Count Basie Lester Leaps In" },
+      "source": { "platform": "youtube", "id": "f60JYoHdfVM" },
       "curated": true,
       "spotifyQuery": "Count Basie Orchestra Lester Leaps In"
     },
@@ -177,7 +177,7 @@
       "durationSec": 176,
       "popularity": 90,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Fats Waller Honeysuckle Rose" },
+      "source": { "platform": "youtube", "id": "-7zm8v9reDo" },
       "curated": true,
       "spotifyQuery": "Fats Waller Honeysuckle Rose"
     },
@@ -192,7 +192,7 @@
       "durationSec": 200,
       "popularity": 89,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Fats Waller Ain't Misbehavin" },
+      "source": { "platform": "youtube", "id": "pZ8fWP6a3Q4" },
       "curated": true,
       "spotifyQuery": "Fats Waller Ain't Misbehavin'"
     },
@@ -207,7 +207,7 @@
       "durationSec": 190,
       "popularity": 89,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Andrews Sisters Bei Mir Bistu Shein" },
+      "source": { "platform": "youtube", "id": "Xe2UXccid40" },
       "curated": true,
       "spotifyQuery": "The Andrews Sisters Bei Mir Bistu Shein"
     },
@@ -222,7 +222,7 @@
       "durationSec": 165,
       "popularity": 88,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Andrews Sisters Boogie Woogie Bugle Boy" },
+      "source": { "platform": "youtube", "id": "8of3uhG1tCI" },
       "curated": true,
       "spotifyQuery": "The Andrews Sisters Boogie Woogie Bugle Boy"
     },
@@ -237,7 +237,7 @@
       "durationSec": 185,
       "popularity": 88,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Billie Holiday All of Me" },
+      "source": { "platform": "youtube", "id": "5J18k5Sx3Dw" },
       "curated": true,
       "spotifyQuery": "Billie Holiday All of Me"
     },
@@ -252,7 +252,7 @@
       "durationSec": 195,
       "popularity": 87,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Billie Holiday Swing Brother Swing" },
+      "source": { "platform": "youtube", "id": "jMGmkRB21YY" },
       "curated": true,
       "spotifyQuery": "Billie Holiday Swing Brother Swing"
     },
@@ -267,7 +267,7 @@
       "durationSec": 210,
       "popularity": 87,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Ella Fitzgerald Blue Skies" },
+      "source": { "platform": "youtube", "id": "SAa4teWb0rU" },
       "curated": true,
       "spotifyQuery": "Ella Fitzgerald Blue Skies"
     },
@@ -282,7 +282,7 @@
       "durationSec": 190,
       "popularity": 86,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Ella Fitzgerald All of Me" },
+      "source": { "platform": "youtube", "id": "Sr_EX9Ppfjw" },
       "curated": true,
       "spotifyQuery": "Ella Fitzgerald All of Me"
     },
@@ -297,7 +297,7 @@
       "durationSec": 195,
       "popularity": 85,
       "addedAt": "2026-08-02",
-      "source": { "platform": "youtube", "query": "Erskine Hawkins Tuxedo Junction" },
+      "source": { "platform": "youtube", "id": "oYbj47JnLdA" },
       "curated": true,
       "spotifyQuery": "Erskine Hawkins Orchestra Tuxedo Junction"
     },
@@ -312,7 +312,7 @@
       "durationSec": 190,
       "popularity": 94,
       "addedAt": "2026-08-03",
-      "source": { "platform": "youtube", "query": "Jimmie Lunceford Tain't What You Do" },
+      "source": { "platform": "youtube", "id": "1SkoD2CIakQ" },
       "curated": true,
       "spotifyQuery": "Jimmie Lunceford Tain't What You Do"
     }
