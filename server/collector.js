@@ -4,8 +4,10 @@
  */
 import {
   STYLE_QUERIES,
+  MUSIC_QUERIES,
   SEARCH_PAGES_PER_QUERY,
   MIN_DURATION_SEC,
+  MAX_MUSIC_DURATION_SEC,
   DAILY_QUOTA_BUDGET,
   QUOTA_COST,
   YOUTUBE_API_KEY,
@@ -31,6 +33,25 @@ function toContentItem(video, styleId) {
     artist: video.channelTitle,
     styles: [styleId],
     bpm: null, // 자동 수집분은 BPM을 알 수 없음 — 프론트에서 null 허용
+    year: new Date(video.publishedAt).getFullYear(),
+    durationSec: video.durationSec,
+    popularity: popularityOf(video.viewCount),
+    addedAt: new Date().toISOString().slice(0, 10),
+    source: { platform: 'youtube', id: video.id },
+    viewCount: video.viewCount,
+    curated: false,
+  }
+}
+
+/** 유튜브 영상 상세 → 음악 ContentItem — 댄스 스타일 검색이 아니므로 styles는 비워둔다 */
+function toMusicContentItem(video) {
+  return {
+    id: `yt-${video.id}`,
+    type: 'music',
+    title: video.title,
+    artist: video.channelTitle,
+    styles: [],
+    bpm: null,
     year: new Date(video.publishedAt).getFullYear(),
     durationSec: video.durationSec,
     popularity: popularityOf(video.viewCount),
@@ -118,6 +139,49 @@ async function runCollection() {
       // 한 스타일 실패가 나머지 수집을 막지 않도록 기록만 하고 계속
       summary.styles[styleId] = `실패: ${err.message}`
       console.error(`[collector] ${styleId} 수집 실패:`, err.message)
+    }
+  }
+
+  // 4) 음악(오디오) 수집 — 댄스 영상과 별개로, 스타일에 묶지 않고 스윙 음악 자체를 찾는다
+  try {
+    const idSet = new Set()
+    musicSearch: for (const query of MUSIC_QUERIES) {
+      let pageToken
+      for (let page = 0; page < SEARCH_PAGES_PER_QUERY; page++) {
+        if (!hasBudget(QUOTA_COST.search)) break musicSearch
+        const { ids, nextPageToken } = await searchVideoIds(query, pageToken)
+        addQuotaUsed(QUOTA_COST.search)
+        summary.quotaUsed += QUOTA_COST.search
+        for (const id of ids) idSet.add(id)
+        pageToken = nextPageToken
+        if (!pageToken) break
+      }
+    }
+
+    const detailCost = Math.ceil(idSet.size / 50) * QUOTA_COST.videos
+    if (hasBudget(detailCost)) {
+      const { videos, apiCalls } = await fetchVideoDetails([...idSet])
+      addQuotaUsed(apiCalls * QUOTA_COST.videos)
+      summary.quotaUsed += apiCalls * QUOTA_COST.videos
+
+      let collected = 0
+      for (const video of videos) {
+        if (video.durationSec < MIN_DURATION_SEC || video.durationSec > MAX_MUSIC_DURATION_SEC) {
+          summary.skipped++
+          continue
+        }
+        upsertItem(toMusicContentItem(video))
+        collected++
+      }
+      summary.collected += collected
+      summary.styles.music = collected
+    }
+  } catch (err) {
+    if (err instanceof QuotaExceededError) {
+      summary.stoppedEarly = err.message
+    } else {
+      summary.styles.music = `실패: ${err.message}`
+      console.error('[collector] 음악 수집 실패:', err.message)
     }
   }
 

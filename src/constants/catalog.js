@@ -11,6 +11,7 @@ export const STYLES = [
   { id: 'balboa', label: 'Balboa' },
   { id: 'charleston', label: 'Charleston' },
   { id: 'shag', label: 'Collegiate Shag' },
+  { id: 'wcs', label: 'West Coast Swing' },
 ]
 
 /** 스타일 플레이리스트 프리셋 (요청 우선순위) */
@@ -20,6 +21,7 @@ export const PLAYLIST_PRESETS = [
   { id: 'lindy8', label: 'Lindy 8-Count' },
   { id: 'balboa', label: 'Balboa' },
   { id: 'shag', label: 'Shag' },
+  { id: 'wcs', label: 'West Coast Swing' },
 ]
 
 /** 콘텐츠 타입 — labelKey는 i18n/strings.js의 키 (렌더 시 t[labelKey]로 번역) */

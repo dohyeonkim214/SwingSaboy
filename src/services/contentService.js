@@ -13,15 +13,25 @@ import famous from '../data/famousSwingMusic.json'
 const JITTERBUG_RE = /\bjitterbug\b/i
 const LINDY6_RE = /\b(6\s*-?\s*count|six\s+count|east\s+coast\s+swing)\b/i
 const LINDY8_RE = /\b(8\s*-?\s*count|eight\s+count|swing\s*out)\b/i
+const WCS_RE = /\bwest\s*coast\s*swing\b|\bwcs\b/i
 
 /**
  * 기존 스냅샷의 'lindy' 태그를 신규 플레이리스트 체계로 호환 매핑한다.
  * - 과거 데이터는 대부분 lindy 단일 태그라 8-count로 기본 이관
  * - 제목 키워드가 있으면 jitterbug/6-count 태그를 추가
+ * - 단, 제목에 West Coast Swing이 명시된 항목은 린디합이 아니라 별개 스타일이므로
+ *   레거시 lindy 태그를 걷어내고 wcs로만 분류한다 (수집 초기엔 전용 검색어가 없어
+ *   전부 lindy로 뭉뚱그려졌던 항목들)
  */
 function normalizeStyles(item) {
   const next = new Set(item.styles)
   const text = `${item.title} ${item.artist}`
+
+  if (WCS_RE.test(text)) {
+    next.add('wcs')
+    next.delete('lindy')
+    return { ...item, styles: [...next] }
+  }
 
   if (next.has('lindy')) {
     next.add('lindy8')
@@ -57,7 +67,7 @@ function mergeWithFamous(baseItems) {
  * @property {'music'|'video'|'tutorial'} type - 콘텐츠 타입
  * @property {string}   title
  * @property {string}   artist      - 아티스트/밴드/댄서 (자동 수집분은 채널명)
- * @property {string[]} styles      - 'jitterbug' | 'lindy6' | 'lindy8' | 'balboa' | 'charleston' | 'shag' | 'lindy(legacy)'
+ * @property {string[]} styles      - 'jitterbug' | 'lindy6' | 'lindy8' | 'balboa' | 'charleston' | 'shag' | 'wcs' | 'lindy(legacy)'
  * @property {number|null} bpm      - 템포 (자동 수집분은 null — 측정 불가)
  * @property {number}   year        - 녹음/촬영/업로드 연도
  * @property {number}   durationSec - 길이(초)

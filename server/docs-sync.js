@@ -31,7 +31,9 @@ function buildStatsBlock() {
     ['lindy6', 'Lindy 6'],
     ['lindy8', 'Lindy 8'],
     ['balboa', 'Balboa'],
+    ['charleston', 'Charleston'],
     ['shag', 'Shag'],
+    ['wcs', 'WCS'],
   ]
     .map(([id, label]) => {
       const n =
