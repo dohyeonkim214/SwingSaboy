@@ -1,6 +1,698 @@
 {
- "exportedAt": "2026-08-05T18:39:15.565Z",
+ "exportedAt": "2026-08-07T18:22:30.313Z",
  "items": [
+  {
+   "id": "yt-NTJhHn-TuDY",
+   "type": "music",
+   "title": "Oscar Peterson - C Jam Blues",
+   "artist": "dgbailey777",
+   "styles": [],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 547,
+   "popularity": 100,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "NTJhHn-TuDY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-U-Ko2DSn3q4",
+   "type": "music",
+   "title": "Fly me to the moon - Jazz com Bossa",
+   "artist": "cassiovieiramusica",
+   "styles": [],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 217,
+   "popularity": 100,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "U-Ko2DSn3q4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-cTyg2lE95XE",
+   "type": "video",
+   "title": "Improv West Coast Swing - Ben Morris & Tessa Cunningham",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 275,
+   "popularity": 95,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "cTyg2lE95XE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-xNrI0CokwaE",
+   "type": "video",
+   "title": "IMPROV EXPLAINED 😍 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 95,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "xNrI0CokwaE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-UAK_g-zQRPU",
+   "type": "music",
+   "title": "Sunny (115 bpm) : Backing Track",
+   "artist": "Guitare Improvisation",
+   "styles": [],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 310,
+   "popularity": 94,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "UAK_g-zQRPU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Bk8quIWC7jw",
+   "type": "video",
+   "title": "🤣 BABY SHARK ATTACK! 🦈👶 Nicole and Thibault killed it 😂ps. when friends pick a song for you #wcs",
+   "artist": "WCS.AroundTheWorld",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 93,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "Bk8quIWC7jw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Mss0u20GmBo",
+   "type": "music",
+   "title": "Jazz Guitar Backing Track 2 - 5 - 1 | C Major (Medium Swing)",
+   "artist": "Etienne de Loriol - Guitar Lessons",
+   "styles": [],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 325,
+   "popularity": 88,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "Mss0u20GmBo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Z3iQMfDZNUU",
+   "type": "video",
+   "title": "He is hilarious 🤣🤣🤣 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 87,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "Z3iQMfDZNUU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-WSMwjeyzv6o",
+   "type": "music",
+   "title": "All Of Me - Backing Track Tempo 120 (Aun Chatchai)",
+   "artist": "Aun Chatchai",
+   "styles": [],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 722,
+   "popularity": 86,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "WSMwjeyzv6o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-UQP6-JvZhk0",
+   "type": "music",
+   "title": "New Jazz Backing Track BESAME MUCHO D minor Bossanova Jazz Standard LIVE Play Along Jazzing mp3",
+   "artist": "Jazzing",
+   "styles": [],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 252,
+   "popularity": 84,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "UQP6-JvZhk0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-mPdRmk50XrI",
+   "type": "video",
+   "title": "1st Place Leo Lorenzoo and Anna Wallace 🔥🔥 💯 Improv! #dance #shorts #wcs @ml855",
+   "artist": "MLSdance journey Marilyn Lim",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 59,
+   "popularity": 82,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "mPdRmk50XrI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-OE02wXUOubQ",
+   "type": "music",
+   "title": "Luigi's Mansion Theme - Classic Big Band Swing Version (The 8-Bit Big Band)",
+   "artist": "The 8-Bit Big Band",
+   "styles": [],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 201,
+   "popularity": 82,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "OE02wXUOubQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dYQta6rBDHA",
+   "type": "video",
+   "title": "Genius 🧠🤣 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 57,
+   "popularity": 78,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "dYQta6rBDHA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tGRrwjRQeRc",
+   "type": "video",
+   "title": "Thibault Ramirez & Maria Elizarova - Champions Jack&Jill ProShow - SwingVester 2023/24",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 142,
+   "popularity": 77,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "tGRrwjRQeRc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1-6dKms9D6Q",
+   "type": "music",
+   "title": "Fly Me To The Moon Backing Track For Bass (Swing Style BPM 120)",
+   "artist": "BaBoSound",
+   "styles": [],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 396,
+   "popularity": 77,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "1-6dKms9D6Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FFhVfj22LG4",
+   "type": "music",
+   "title": "TOP 57 GREATEST JAZZ STANDARDS",
+   "artist": "Open Studio",
+   "styles": [],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 486,
+   "popularity": 76,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "FFhVfj22LG4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--AcjrrC8VVM",
+   "type": "music",
+   "title": "“Sing, Sing, Sing” Jazz Standard Cover by Robyn Adele Anderson",
+   "artist": "Robyn Adele Anderson",
+   "styles": [],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 160,
+   "popularity": 74,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "-AcjrrC8VVM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-cjqweYsSSxM",
+   "type": "music",
+   "title": "Cherokee (Jazz/Swing feel) 280 bpm : Backing Track",
+   "artist": "Guitare Improvisation",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 344,
+   "popularity": 74,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "cjqweYsSSxM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-jIxwTb0fTws",
+   "type": "music",
+   "title": "NO BASS - Blue Bossa - Jazz Standard Backing Track - 120bpm (bassless)",
+   "artist": "Live Backing Track",
+   "styles": [],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 395,
+   "popularity": 72,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "jIxwTb0fTws"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-bJ6IsmarIbs",
+   "type": "music",
+   "title": "Beautiful Love /Jazz Backing Track / bpm 160 /For Guitar",
+   "artist": "Hatsumi's Backing Track",
+   "styles": [],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 298,
+   "popularity": 72,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "bJ6IsmarIbs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ASjtPFMPXjQ",
+   "type": "music",
+   "title": "Fly Me To The Moon - Jazz Drumless Backing Track - Composer: Bart Howard",
+   "artist": "Jazz Drumless Backing Tracks",
+   "styles": [],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 430,
+   "popularity": 71,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "ASjtPFMPXjQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ijNCP7bxcDU",
+   "type": "video",
+   "title": "WCS SuperStars ✨ Leo Lorenzo & Lauren Jones 🤩 Is it a kiss or sth else? 🤫🤐 #wcs #wcsdance",
+   "artist": "WCS.AroundTheWorld",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 70,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "ijNCP7bxcDU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-R_h6uR7iMdY",
+   "type": "video",
+   "title": "👑 WCS ROYALTY!  Nicole Ramirez 👸 & Maxence Martin 🤴 with a powerful improv! PART 1 #wcs Warsaw",
+   "artist": "WCS.AroundTheWorld",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 61,
+   "popularity": 63,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "R_h6uR7iMdY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-aNswSbAUIf8",
+   "type": "video",
+   "title": "Kyle Redd & Tara Trafzer - All Star/Champions Strictly Swing Finals - Jack&Jill O'Rama 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 216,
+   "popularity": 60,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "aNswSbAUIf8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-MYH15vT3bgc",
+   "type": "video",
+   "title": "3 Drills to Improve your WCS",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 49,
+   "popularity": 58,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "MYH15vT3bgc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-G8MaDC2DpUI",
+   "type": "video",
+   "title": "Lindy Hop: Eight and Six Count Minnie Dips",
+   "artist": "Dancing Heart",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 102,
+   "popularity": 55,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "G8MaDC2DpUI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wCy3u6nB7Kg",
+   "type": "music",
+   "title": "Big Band Swing Music - Money Troubles – Original 1940s Swing & Jazz Song with Crooner Vibes",
+   "artist": "Jazz Through The Ages",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 163,
+   "popularity": 54,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "wCy3u6nB7Kg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-OxYfJLdONqw",
+   "type": "video",
+   "title": "2nd Place: Marion & Brandon - All-Star Draw Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 116,
+   "popularity": 53,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "OxYfJLdONqw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-X90U8ng_wog",
+   "type": "video",
+   "title": "Beginning Lindy - Understanding 6 count vs. 8 count",
+   "artist": "Tiffiny Wine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 192,
+   "popularity": 52,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "X90U8ng_wog"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-oupsOSI0tqo",
+   "type": "tutorial",
+   "title": "Dance Tutorial | West Coast Swing | How Do I Keep My Spins on Time?",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 268,
+   "popularity": 52,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "oupsOSI0tqo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-UnEUcRAeHKM",
+   "type": "tutorial",
+   "title": "Beginning West Coast Swing with Sean & Alyssa McKeever - Lesson 1",
+   "artist": "Sean & Alyssa McKeever",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1427,
+   "popularity": 52,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "UnEUcRAeHKM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IPywHsclmPQ",
+   "type": "tutorial",
+   "title": "Lindy Hop six count lesson recap Sept 29",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 48,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "IPywHsclmPQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nGU7E-sN7_U",
+   "type": "tutorial",
+   "title": "Learn West Coast Swing Basic Steps – (5-Minute Beginner Guide)",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 366,
+   "popularity": 48,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "nGU7E-sN7_U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-w2InWsEUPig",
+   "type": "video",
+   "title": "Learn2LindyHop, Ch. 16 - Overrotating Swingout",
+   "artist": "Doug Silton",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 147,
+   "popularity": 42,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "w2InWsEUPig"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-WTfGeri1dpI",
+   "type": "video",
+   "title": "HRH 2025 - Invitational Balboa Mix & Match - Carissa & Matt",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 109,
+   "popularity": 38,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "WTfGeri1dpI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-txoPssBEEic",
+   "type": "tutorial",
+   "title": "Bal-Swing Class Review Nov. - Dec.",
+   "artist": "Gottaswing DC, VA, MD",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 328,
+   "popularity": 35,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "txoPssBEEic"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-LG0isf3QX5U",
+   "type": "video",
+   "title": "Florian Hamm & Irina Puzanova, Demo Part 3 at Warsaw Summer Nights Westival #wcs",
+   "artist": "Irina Puzanova",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 34,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "LG0isf3QX5U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-fHhUTVzXxbI",
+   "type": "video",
+   "title": "A Short Explanation of Pure Balboa Values",
+   "artist": "Swungover",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 169,
+   "popularity": 32,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "fHhUTVzXxbI"
+   },
+   "curated": false
+  },
   {
    "id": "yt-MggQSspSGU8",
    "type": "video",
@@ -2288,6 +2980,23 @@
    "curated": false
   },
   {
+   "id": "yt-FZpHCjCY-9w",
+   "type": "music",
+   "title": "[BackingTrack] Jazz Swing ii-V-i A minor BPM180",
+   "artist": "Studio Closet",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 733,
+   "popularity": 80,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "FZpHCjCY-9w"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-DtexnJUibB0",
    "type": "video",
    "title": "Liberty Swing 2025 Johnvitational KP Rutland & Alexis Garrish   4K",
@@ -2341,23 +3050,6 @@
    "source": {
     "platform": "youtube",
     "id": "tNM-vsw3z9s"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-FZpHCjCY-9w",
-   "type": "music",
-   "title": "[BackingTrack] Jazz Swing ii-V-i A minor BPM180",
-   "artist": "Studio Closet",
-   "styles": [],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 733,
-   "popularity": 79,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "FZpHCjCY-9w"
    },
    "curated": false
   },
@@ -2483,7 +3175,7 @@
    "bpm": null,
    "year": 2022,
    "durationSec": 218,
-   "popularity": 77,
+   "popularity": 78,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -2535,7 +3227,8 @@
    "title": "West Coast Swing vs East Coast Swing | How To Swing Dance",
    "artist": "West Coast Swing Online",
    "styles": [
-    "wcs"
+    "wcs",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2016,
@@ -2678,6 +3371,25 @@
    "curated": false
   },
   {
+   "id": "yt-UMRN1yiRTgw",
+   "type": "video",
+   "title": "Thibault and Nicole Ramirez - \"Vampire\" 1st Place Showcase - The Open 2025",
+   "artist": "Thibault and Nicole Ramirez",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 249,
+   "popularity": 76,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "UMRN1yiRTgw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Xle5eWTFTJ0",
    "type": "video",
    "title": "GGP 2023 - J&J CHAMPIONS - Nicole RAMIREZ & Joao PARADA - 1st place - Sponsored by Westy Nantes",
@@ -2693,25 +3405,6 @@
    "source": {
     "platform": "youtube",
     "id": "Xle5eWTFTJ0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-UMRN1yiRTgw",
-   "type": "video",
-   "title": "Thibault and Nicole Ramirez - \"Vampire\" 1st Place Showcase - The Open 2025",
-   "artist": "Thibault and Nicole Ramirez",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 249,
-   "popularity": 75,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "UMRN1yiRTgw"
    },
    "curated": false
   },
@@ -3004,6 +3697,23 @@
    "curated": false
   },
   {
+   "id": "yt-x3qMQxJdH9o",
+   "type": "music",
+   "title": "Cute // DR Big Band (Live)",
+   "artist": "DR Koncerthuset",
+   "styles": [],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 200,
+   "popularity": 73,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "x3qMQxJdH9o"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-sV7QV7T5i4A",
    "type": "video",
    "title": "Benji Schwimmer & Victoria Henk - 1st place Champions Jack&Jill Finals - Jack&Jill O'Rama 2023",
@@ -3019,23 +3729,6 @@
    "source": {
     "platform": "youtube",
     "id": "sV7QV7T5i4A"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-x3qMQxJdH9o",
-   "type": "music",
-   "title": "Cute // DR Big Band (Live)",
-   "artist": "DR Koncerthuset",
-   "styles": [],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 200,
-   "popularity": 72,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "x3qMQxJdH9o"
    },
    "curated": false
   },
@@ -3496,7 +4189,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 2694,
-   "popularity": 65,
+   "popularity": 66,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -3717,7 +4410,8 @@
    "title": "How To Dance The Lindy Hop : Six & Eight Counts in the Lindy Hop",
    "artist": "ExpertVillage Leaf Group",
    "styles": [
-    "lindy6"
+    "lindy6",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2008,
@@ -5398,7 +6092,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 104,
-   "popularity": 12,
+   "popularity": 15,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -7638,7 +8332,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 572,
-   "popularity": 52,
+   "popularity": 53,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -8389,6 +9083,26 @@
    "curated": false
   },
   {
+   "id": "yt-Du30F4uTwDw",
+   "type": "video",
+   "title": "Send Outs and Circles in 6 & 8 counts",
+   "artist": "Sydnie Kleinhenz",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 51,
+   "popularity": 43,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Du30F4uTwDw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-5_iPBDtLZ8A",
    "type": "tutorial",
    "title": "Lindy Hop - Follow 6 Count Footwork",
@@ -8423,26 +9137,6 @@
    "source": {
     "platform": "youtube",
     "id": "M42CfWBh15Y"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Du30F4uTwDw",
-   "type": "video",
-   "title": "Send Outs and Circles in 6 & 8 counts",
-   "artist": "Sydnie Kleinhenz",
-   "styles": [
-    "lindy6",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2018,
-   "durationSec": 51,
-   "popularity": 42,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "Du30F4uTwDw"
    },
    "curated": false
   },
@@ -8542,6 +9236,25 @@
    "curated": false
   },
   {
+   "id": "yt-3KLR2n31rvM",
+   "type": "video",
+   "title": "Lindy 8 Count Combo - Swing Out from Closed - Heel Dig - Texas Tommy",
+   "artist": "SwingDance UK",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 64,
+   "popularity": 42,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "3KLR2n31rvM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-3Sb0k9AZoe4",
    "type": "tutorial",
    "title": "Solo Jazz Recap - A1 Beginner 6-Count Lindy Hop",
@@ -8595,25 +9308,6 @@
    "source": {
     "platform": "youtube",
     "id": "FkWDGZ_qJZ0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-3KLR2n31rvM",
-   "type": "video",
-   "title": "Lindy 8 Count Combo - Swing Out from Closed - Heel Dig - Texas Tommy",
-   "artist": "SwingDance UK",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2018,
-   "durationSec": 64,
-   "popularity": 41,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "3KLR2n31rvM"
    },
    "curated": false
   },
@@ -9048,7 +9742,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 294,
-   "popularity": 28,
+   "popularity": 29,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -9969,7 +10663,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 96,
-   "popularity": 25,
+   "popularity": 26,
    "addedAt": "2026-07-31",
    "source": {
     "platform": "youtube",
@@ -10059,7 +10753,8 @@
    "title": "Daniel and Åsa Heedman - Social dancing lindy hop in Luleå Sweden",
    "artist": "Meghan Gilmore",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -11817,7 +12512,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 192,
-   "popularity": 34,
+   "popularity": 35,
    "addedAt": "2026-07-24",
    "source": {
     "platform": "youtube",
@@ -14203,7 +14898,7 @@
   },
   {
    "id": "yt-I9zHYkKoL4A",
-   "type": "music",
+   "type": "video",
    "title": "Swing Out! 1940s Dancing",
    "artist": "1940GlamourGirl",
    "styles": [
@@ -14748,7 +15443,8 @@
    "title": "Boogie Woogie Summons Professional Swing Dance Couple In Public!",
    "artist": "Jared Nandra",
    "styles": [
-    "charleston"
+    "charleston",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2022,
@@ -16480,7 +17176,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 126,
-   "popularity": 50,
+   "popularity": 51,
    "addedAt": "2026-07-11",
    "source": {
     "platform": "youtube",
@@ -17244,7 +17940,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 600,
-   "popularity": 43,
+   "popularity": 44,
    "addedAt": "2026-07-10",
    "source": {
     "platform": "youtube",
@@ -17348,6 +18044,25 @@
    "curated": false
   },
   {
+   "id": "yt-9uey3KTLKiY",
+   "type": "video",
+   "title": "HRH 2026 - Amateur Balboa Mix & Match Finals - Yuelin & Maurice",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 118,
+   "popularity": 39,
+   "addedAt": "2026-07-10",
+   "source": {
+    "platform": "youtube",
+    "id": "9uey3KTLKiY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Fv7aJA3texw",
    "type": "video",
    "title": "PSSF 2026 / Strictly Lindy Hop / Finals",
@@ -17363,25 +18078,6 @@
    "source": {
     "platform": "youtube",
     "id": "Fv7aJA3texw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-9uey3KTLKiY",
-   "type": "video",
-   "title": "HRH 2026 - Amateur Balboa Mix & Match Finals - Yuelin & Maurice",
-   "artist": "Hot Rhythm Foundation",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 118,
-   "popularity": 38,
-   "addedAt": "2026-07-10",
-   "source": {
-    "platform": "youtube",
-    "id": "9uey3KTLKiY"
    },
    "curated": false
   },
@@ -18443,7 +19139,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 801,
-   "popularity": 35,
+   "popularity": 36,
    "addedAt": "2026-07-09",
    "source": {
     "platform": "youtube",
@@ -20410,7 +21106,8 @@
    "title": "Learn Swing Dance! Lindy Hop for Beginners: Triple Step Rhythm (Class 1 of 6)",
    "artist": "SwingStepTV",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2023,
@@ -20866,7 +21563,7 @@
   },
   {
    "id": "yt-rb7rp9FhD64",
-   "type": "video",
+   "type": "music",
    "title": "The way the crowd went oooOOOH 😆 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -20892,7 +21589,8 @@
    "artist": "Tutu Boogie",
    "styles": [
     "lindy",
-    "jitterbug"
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -21339,7 +22037,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1302,
-   "popularity": 47,
+   "popularity": 48,
    "addedAt": "2026-07-05",
    "source": {
     "platform": "youtube",
@@ -21735,7 +22433,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -23172,7 +23870,8 @@
    "artist": "swinginstyle",
    "styles": [
     "lindy",
-    "lindy8"
+    "lindy8",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2016,
@@ -25807,7 +26506,7 @@
   },
   {
    "id": "yt-H9E4Aq4K_p8",
-   "type": "music",
+   "type": "video",
    "title": "Early Savoy Lindy Hop",
    "artist": "Richard Powers",
    "styles": [
@@ -26935,7 +27634,8 @@
    "artist": "Lindy Ladder",
    "styles": [
     "lindy",
-    "lindy8"
+    "lindy8",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2015,
@@ -29764,6 +30464,25 @@
    "curated": false
   },
   {
+   "id": "yt-wf_fQpq0VF0",
+   "type": "tutorial",
+   "title": "Balboa Basics: The Most Important Steps To Learn First",
+   "artist": "Swing Dancing Phoenix",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 287,
+   "popularity": 56,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "wf_fQpq0VF0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-dP8jiwmcV9U",
    "type": "tutorial",
    "title": "Difference between Lindy Hop and Charleston | Online Swing Dance Lessons | Street Smart Swing",
@@ -29798,25 +30517,6 @@
    "source": {
     "platform": "youtube",
     "id": "O9U1mBr84Uk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-wf_fQpq0VF0",
-   "type": "tutorial",
-   "title": "Balboa Basics: The Most Important Steps To Learn First",
-   "artist": "Swing Dancing Phoenix",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 287,
-   "popularity": 55,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "wf_fQpq0VF0"
    },
    "curated": false
   },
@@ -30174,7 +30874,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 331,
-   "popularity": 53,
+   "popularity": 54,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
@@ -30373,6 +31073,25 @@
    "source": {
     "platform": "youtube",
     "id": "L6hfm8zmgBI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_UP7r6g8Fwc",
+   "type": "tutorial",
+   "title": "Beginners Balboa 5",
+   "artist": "SwingdanceUK",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 3146,
+   "popularity": 53,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "_UP7r6g8Fwc"
    },
    "curated": false
   },
@@ -30586,25 +31305,6 @@
    "source": {
     "platform": "youtube",
     "id": "5EqeXKEkiHo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-_UP7r6g8Fwc",
-   "type": "tutorial",
-   "title": "Beginners Balboa 5",
-   "artist": "SwingdanceUK",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 3146,
-   "popularity": 52,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "_UP7r6g8Fwc"
    },
    "curated": false
   },
@@ -33768,7 +34468,8 @@
    "title": "5/25/16 - Next Level Lindy Hop (Frankie Moves: Grouchos, Jig Kicks, Back-it-Ups)",
    "artist": "swinginstyle",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
