@@ -1,6 +1,412 @@
 {
- "exportedAt": "2026-08-12T18:24:20.780Z",
+ "exportedAt": "2026-08-13T18:25:13.223Z",
  "items": [
+  {
+   "id": "yt-ylXk1LBvIqU",
+   "type": "music",
+   "title": "Miles Davis - So What (Audio) (Official Audio)",
+   "artist": "MilesDavisVEVO",
+   "styles": [],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 564,
+   "popularity": 100,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "ylXk1LBvIqU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-NBMa97en5_Q",
+   "type": "tutorial",
+   "title": "Grand Nationals 2017 Carolina Classic  1st place winners",
+   "artist": "Bruce Gleason",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 235,
+   "popularity": 99,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "NBMa97en5_Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-UC5n_UuYHLo",
+   "type": "music",
+   "title": "50 Jazz Standards - The Songs You Need To Know",
+   "artist": "Jens Larsen",
+   "styles": [],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 571,
+   "popularity": 72,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "UC5n_UuYHLo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-PZ-lLZeT0Fg",
+   "type": "music",
+   "title": "But Not For Me (Jazz/Swing feel) - 160 bpm : Backing Track",
+   "artist": "Guitare Improvisation",
+   "styles": [],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 345,
+   "popularity": 71,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "PZ-lLZeT0Fg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-j3jvB2Aos5w",
+   "type": "music",
+   "title": "5 Amazing Jazz Piano Songs for Beginners",
+   "artist": "Jazzmentl",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 554,
+   "popularity": 62,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "j3jvB2Aos5w"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ntVvCB5hp-Y",
+   "type": "music",
+   "title": "[JAZZ STANDARD] Invitation (Cm, 250bpm, Swing) I Jazz Backing Track",
+   "artist": "JAMMATES",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 242,
+   "popularity": 60,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "ntVvCB5hp-Y"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-HXKqQWy3NMY",
+   "type": "video",
+   "title": "Balboa Finals at Russian Swing Dance Championship 2015",
+   "artist": "tantsklass",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 567,
+   "popularity": 57,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "HXKqQWy3NMY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-BWKT6NO8_HU",
+   "type": "video",
+   "title": "NYC Balboa Weekend Dance Competition Finals",
+   "artist": "ScotAF",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2007,
+   "durationSec": 69,
+   "popularity": 57,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "BWKT6NO8_HU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QHuPp42vZ14",
+   "type": "tutorial",
+   "title": "Frankie Manning's Lindy Hop Classics - Lindyfest 2008",
+   "artist": "David Holmes",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2008,
+   "durationSec": 154,
+   "popularity": 56,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "QHuPp42vZ14"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4ZNIAAGpATo",
+   "type": "video",
+   "title": "NYC Balboa Weekend Dance Competition Finals",
+   "artist": "ScotAF",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2007,
+   "durationSec": 76,
+   "popularity": 55,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "4ZNIAAGpATo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-MzxPvXo1zdQ",
+   "type": "video",
+   "title": "Balboa Open Strictly Finals - Russian Swing Dance Championship 2014",
+   "artist": "MoscowLindy",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 871,
+   "popularity": 49,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "MzxPvXo1zdQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-F8aGtKHRH-M",
+   "type": "video",
+   "title": "Adam & Pat Canadian Balboa Championships Champions 2009",
+   "artist": "Swing Dance Montreal",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 97,
+   "popularity": 49,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "F8aGtKHRH-M"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-TsUY0g72Bws",
+   "type": "music",
+   "title": "Blue Seven (Medium Swing) | Jazz Standard Practice Backing Track",
+   "artist": "PRACTICE JAZZ",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 282,
+   "popularity": 49,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "TsUY0g72Bws"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-NUAyEVdAY5Q",
+   "type": "video",
+   "title": "[트리플크라운 스윙댄스학원] Balboa Routine / Taps Miller #shorts #스윙댄스 #swingdance #balboa",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 52,
+   "popularity": 48,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "NUAyEVdAY5Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-uxSTfjN5bnY",
+   "type": "video",
+   "title": "Frankie Manning Tribute",
+   "artist": "torontolindyhop",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 521,
+   "popularity": 44,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "uxSTfjN5bnY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-V6sKCV-jAgU",
+   "type": "tutorial",
+   "title": "6 count turns for beginners + 4 count free spin #lindyhop #swingdance",
+   "artist": "Bswinglindy Singapore",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 49,
+   "popularity": 43,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "V6sKCV-jAgU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-J6l6sYA3tts",
+   "type": "video",
+   "title": "When The Saints Solo Jazz & Charleston Dance",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 137,
+   "popularity": 43,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "J6l6sYA3tts"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-LxsxA0Ozbxk",
+   "type": "video",
+   "title": "FRANKIE MANNING LINDY CHA CHA, FAIRFIELD 9 07",
+   "artist": "Hilda Ostby",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 314,
+   "popularity": 39,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "LxsxA0Ozbxk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-C7uJy3M_eNs",
+   "type": "tutorial",
+   "title": "Lindy Hop Dance Lessons Frankie Manning Level 2",
+   "artist": "Danzas",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 1919,
+   "popularity": 39,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "C7uJy3M_eNs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--Wt_zLgXpto",
+   "type": "tutorial",
+   "title": "How to Swing Dance | Lindy Hop | Frankie Jogs",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 142,
+   "popularity": 36,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "-Wt_zLgXpto"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-WC8eyWTFk_A",
+   "type": "video",
+   "title": "The Snowball 2025 - Balboa Strictly prelims heat 1",
+   "artist": "Slava Bogatov",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 299,
+   "popularity": 36,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "WC8eyWTFk_A"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-6xRJ3fF18jw",
+   "type": "video",
+   "title": "niko & audrey - Balboa Swing Dance",
+   "artist": "Niko Pacaswing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 172,
+   "popularity": 30,
+   "addedAt": "2026-08-13",
+   "source": {
+    "platform": "youtube",
+    "id": "6xRJ3fF18jw"
+   },
+   "curated": false
+  },
   {
    "id": "yt-ryA6eHZNnXY",
    "type": "music",
@@ -1769,6 +2175,25 @@
    "curated": false
   },
   {
+   "id": "yt-NoWQnGArmnA",
+   "type": "video",
+   "title": "Daniel Romero & Haley Hauglum - Sophisticated Jack&Jill Finals - Jack&Jill O'Rama 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 117,
+   "popularity": 62,
+   "addedAt": "2026-08-09",
+   "source": {
+    "platform": "youtube",
+    "id": "NoWQnGArmnA"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-jx9vKElNUj4",
    "type": "video",
    "title": "East Coast Swing Swing Dance Moves Intermediate - East Coast Swing Intermediate Moves",
@@ -1784,25 +2209,6 @@
    "source": {
     "platform": "youtube",
     "id": "jx9vKElNUj4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-NoWQnGArmnA",
-   "type": "video",
-   "title": "Daniel Romero & Haley Hauglum - Sophisticated Jack&Jill Finals - Jack&Jill O'Rama 2026",
-   "artist": "West Coast Swing",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 117,
-   "popularity": 59,
-   "addedAt": "2026-08-09",
-   "source": {
-    "platform": "youtube",
-    "id": "NoWQnGArmnA"
    },
    "curated": false
   },
@@ -4741,7 +5147,7 @@
   },
   {
    "id": "yt-qW51suNmHkE",
-   "type": "music",
+   "type": "video",
    "title": "Ben Morris & Brandi Guild \"Shivers\" Ed Sheeran - Invitational Jack&Jill - TAP The After Party 2021",
    "artist": "The After Party: A West Coast Swing Experience",
    "styles": [
@@ -7628,6 +8034,25 @@
    "curated": false
   },
   {
+   "id": "yt-we6Lqt3E3Sc",
+   "type": "tutorial",
+   "title": "Country Swing Basics",
+   "artist": "Luke Beckstrand",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 70,
+   "popularity": 57,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "we6Lqt3E3Sc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-a9aGmiAF9bc",
    "type": "video",
    "title": "Lindy hop: basic 8-count steps for follows",
@@ -7662,25 +8087,6 @@
    "source": {
     "platform": "youtube",
     "id": "c0aXpdB6T3w"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-we6Lqt3E3Sc",
-   "type": "tutorial",
-   "title": "Country Swing Basics",
-   "artist": "Luke Beckstrand",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 70,
-   "popularity": 56,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "we6Lqt3E3Sc"
    },
    "curated": false
   },
@@ -10492,7 +10898,7 @@
    "bpm": null,
    "year": 2022,
    "durationSec": 388,
-   "popularity": 58,
+   "popularity": 59,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -13759,7 +14165,8 @@
    "title": "Frankie Manning & Norma Miller - The Big Apple",
    "artist": "Lindy Hop Archive",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -13892,7 +14299,8 @@
    "title": "Swingouts, Circle, Frankie Jogs, Minne Dip - Week 4 Beginner Lindy Hop",
    "artist": "swinginstyle",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2022,
@@ -13949,7 +14357,8 @@
    "title": "frankie manning on swing and the lindy hop.",
    "artist": "kilkenny swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2011,
@@ -16468,7 +16877,7 @@
   },
   {
    "id": "yt-A740izaUHh0",
-   "type": "music",
+   "type": "video",
    "title": "Lindy Hop Invitational - Slow (The Snowball 2019)",
    "artist": "Stanislav Lotsmanov",
    "styles": [
@@ -17090,7 +17499,7 @@
    "bpm": null,
    "year": 2014,
    "durationSec": 388,
-   "popularity": 45,
+   "popularity": 46,
    "addedAt": "2026-07-18",
    "source": {
     "platform": "youtube",
@@ -18262,7 +18671,7 @@
    "bpm": null,
    "year": 2015,
    "durationSec": 59,
-   "popularity": 45,
+   "popularity": 46,
    "addedAt": "2026-07-14",
    "source": {
     "platform": "youtube",
@@ -18411,7 +18820,8 @@
    "title": "Frankie Manning! • Lindy Hop in the 1980's in New York!",
    "artist": "Dan Conner",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2006,
@@ -18588,7 +18998,8 @@
    "title": "World Lindy Hop Day - Frankie Manning's Birthday - May 26",
    "artist": "David Ljung Madison Stellar",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2014,
@@ -18626,7 +19037,8 @@
    "title": "Students’ Performance of the Lindy Chorus | A Tribute to Lindy Hop Legend Frankie Manning",
    "artist": "Swing Planet",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -19718,7 +20130,8 @@
    "title": "Frankie Manning Media Archive Village Gate, \"A Night at the Savoy\"",
    "artist": "Frankie Manning Foundation",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2018,
@@ -25829,7 +26242,8 @@
    "title": "Brennar and Autumn Carolina Shag, Grand Nationals 2014",
    "artist": "Bruce Gleason",
    "styles": [
-    "shag"
+    "shag",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2014,
@@ -28460,6 +28874,27 @@
    "curated": false
   },
   {
+   "id": "yt-_OL81O0ZkB0",
+   "type": "tutorial",
+   "title": "SWING DANCE CLASS - Lindy Hop 1",
+   "artist": "Dimitri & Alexsia",
+   "styles": [
+    "lindy",
+    "lindy8",
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 556,
+   "popularity": 72,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "_OL81O0ZkB0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-5VqSDEN2A5w",
    "type": "video",
    "title": "Lindy Hop Level 1 - Frankie Manning & Erin Stevens (1995)",
@@ -28476,27 +28911,6 @@
    "source": {
     "platform": "youtube",
     "id": "5VqSDEN2A5w"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-_OL81O0ZkB0",
-   "type": "tutorial",
-   "title": "SWING DANCE CLASS - Lindy Hop 1",
-   "artist": "Dimitri & Alexsia",
-   "styles": [
-    "lindy",
-    "lindy8",
-    "lindy6"
-   ],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 556,
-   "popularity": 71,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "_OL81O0ZkB0"
    },
    "curated": false
   },
@@ -29116,7 +29530,7 @@
   },
   {
    "id": "yt-H9E4Aq4K_p8",
-   "type": "music",
+   "type": "video",
    "title": "Early Savoy Lindy Hop",
    "artist": "Richard Powers",
    "styles": [
@@ -29212,13 +29626,33 @@
    "curated": false
   },
   {
+   "id": "yt-NAu0Krqh-3k",
+   "type": "video",
+   "title": "Chanzie & Sailor Mike - Smooth Style Collegiate Shag",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 57,
+   "popularity": 69,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "NAu0Krqh-3k"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-e_tI30quxvQ",
    "type": "video",
    "title": "1st Place: Frida & Skye - Invitational Draw - ILHC 2023",
    "artist": "The International Lindy Hop Championships",
    "styles": [
     "lindy",
-    "lindy8"
+    "lindy8",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2023,
@@ -29405,25 +29839,6 @@
    "source": {
     "platform": "youtube",
     "id": "Ht9bMqTZkNA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-NAu0Krqh-3k",
-   "type": "video",
-   "title": "Chanzie & Sailor Mike - Smooth Style Collegiate Shag",
-   "artist": "The Collegiate Shag Channel",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 57,
-   "popularity": 68,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "NAu0Krqh-3k"
    },
    "curated": false
   },
@@ -33773,7 +34188,8 @@
    "title": "5/4/16 Next Level Lindy Hop (Frankie Moves: Tuck Turn with Hold, Heel Pops, Glide to the Side)",
    "artist": "swinginstyle",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -34718,7 +35134,7 @@
    "bpm": null,
    "year": 2021,
    "durationSec": 55,
-   "popularity": 49,
+   "popularity": 50,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
@@ -36389,7 +36805,8 @@
    "title": "Intro 8 Count: Frankie Manning, Around the World and Points. Class Recap",
    "artist": "Lainey Silver",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2018,
