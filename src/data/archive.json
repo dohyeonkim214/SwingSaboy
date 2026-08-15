@@ -1,6 +1,247 @@
 {
- "exportedAt": "2026-08-14T18:23:34.911Z",
+ "exportedAt": "2026-08-15T18:08:48.052Z",
  "items": [
+  {
+   "id": "yt-G-EIjsp_Wp4",
+   "type": "music",
+   "title": "Namadingo Ft. Giddes Chalamanda - Linny Hoo (Beautiful Music From Africa) Legend Giddes",
+   "artist": "WMJ STUDIO - CHIPMUNKS",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 510,
+   "popularity": 100,
+   "addedAt": "2026-08-15",
+   "source": {
+    "platform": "youtube",
+    "id": "G-EIjsp_Wp4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-iP0tHmoc1rs",
+   "type": "music",
+   "title": "It's Been a Long, Long Time",
+   "artist": "Kitty Kallen - Topic",
+   "styles": [],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 206,
+   "popularity": 100,
+   "addedAt": "2026-08-15",
+   "source": {
+    "platform": "youtube",
+    "id": "iP0tHmoc1rs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Qhj9t2z_HXc",
+   "type": "tutorial",
+   "title": "Vintage Hair For Beginners - How to Create a Retro Look",
+   "artist": "Live Collegiate Shag",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 1273,
+   "popularity": 74,
+   "addedAt": "2026-08-15",
+   "source": {
+    "platform": "youtube",
+    "id": "Qhj9t2z_HXc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-0WOwd75L8Bw",
+   "type": "music",
+   "title": "Milano Swing Team - Big Apple Routine",
+   "artist": "Milano Swing Team",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 183,
+   "popularity": 73,
+   "addedAt": "2026-08-15",
+   "source": {
+    "platform": "youtube",
+    "id": "0WOwd75L8Bw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ROTsX2EMh_4",
+   "type": "tutorial",
+   "title": "ESDC 2015 - Advanced Lindy Hop Classic Showcase - Finals - Nils Andrén & Bianca Locatelli",
+   "artist": "European Swing Dance Championships",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 175,
+   "popularity": 69,
+   "addedAt": "2026-08-15",
+   "source": {
+    "platform": "youtube",
+    "id": "ROTsX2EMh_4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-JKsN4bECF08",
+   "type": "tutorial",
+   "title": "ESDC 2015 - Open Lindy Hop Classic Showcase - Finals - Ik Du Lee & Tae Yeon Kim",
+   "artist": "European Swing Dance Championships",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 217,
+   "popularity": 56,
+   "addedAt": "2026-08-15",
+   "source": {
+    "platform": "youtube",
+    "id": "JKsN4bECF08"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-avkHfwB8750",
+   "type": "tutorial",
+   "title": "8/8/19 Wk 1 Beginner Balboa (pure bal basic, out-and-ins, come around)",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 126,
+   "popularity": 50,
+   "addedAt": "2026-08-15",
+   "source": {
+    "platform": "youtube",
+    "id": "avkHfwB8750"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-WgbGTViVI_0",
+   "type": "video",
+   "title": "Lindy Swing Out From Closed and Open",
+   "artist": "Tiffiny Wine",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 174,
+   "popularity": 48,
+   "addedAt": "2026-08-15",
+   "source": {
+    "platform": "youtube",
+    "id": "WgbGTViVI_0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-05OOB8qqM90",
+   "type": "video",
+   "title": "1st Place: Vince & Nika - Novice Draw Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 116,
+   "popularity": 48,
+   "addedAt": "2026-08-15",
+   "source": {
+    "platform": "youtube",
+    "id": "05OOB8qqM90"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pKMwwatZqUw",
+   "type": "tutorial",
+   "title": "lindy Hop #swingdance #dance #스윙댄스 #lindyhop #swing #danceclass #balboa #dancer #린디합",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 44,
+   "addedAt": "2026-08-15",
+   "source": {
+    "platform": "youtube",
+    "id": "pKMwwatZqUw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-xTNuWL1BKXI",
+   "type": "tutorial",
+   "title": "Fall 2023 Intermediate Swing and Shag Lesson Recap #motivation #danceworkshop #danceform",
+   "artist": "Underhill's Swing and Shag Dance Collective",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 49,
+   "popularity": 38,
+   "addedAt": "2026-08-15",
+   "source": {
+    "platform": "youtube",
+    "id": "xTNuWL1BKXI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-90Nrvhwwil8",
+   "type": "video",
+   "title": "Herrang 2026 - Week 2 - Balboa Strictly Competition",
+   "artist": "Herrang Dance Camp",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 140,
+   "popularity": 35,
+   "addedAt": "2026-08-15",
+   "source": {
+    "platform": "youtube",
+    "id": "90Nrvhwwil8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_QD8Gu3P8fU",
+   "type": "video",
+   "title": "Level 3D - Vocabulary - Week 2",
+   "artist": "920Special",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 62,
+   "popularity": 31,
+   "addedAt": "2026-08-15",
+   "source": {
+    "platform": "youtube",
+    "id": "_QD8Gu3P8fU"
+   },
+   "curated": false
+  },
   {
    "id": "yt-i2MMLaSOXzE",
    "type": "video",
@@ -1766,6 +2007,25 @@
    "curated": false
   },
   {
+   "id": "yt-h-V0ip_izH8",
+   "type": "video",
+   "title": "2026 Swingin' by the Sound  - Advanced Collegiate Shag Mix & Match Finals",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 498,
+   "popularity": 32,
+   "addedAt": "2026-08-11",
+   "source": {
+    "platform": "youtube",
+    "id": "h-V0ip_izH8"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Cf5rvSHVQis",
    "type": "video",
    "title": "2026 Swingin' by the Sound  - Amateur Collegiate Shag Mix & Match Finals",
@@ -1781,25 +2041,6 @@
    "source": {
     "platform": "youtube",
     "id": "Cf5rvSHVQis"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-h-V0ip_izH8",
-   "type": "video",
-   "title": "2026 Swingin' by the Sound  - Advanced Collegiate Shag Mix & Match Finals",
-   "artist": "The Collegiate Shag Channel",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 498,
-   "popularity": 31,
-   "addedAt": "2026-08-11",
-   "source": {
-    "platform": "youtube",
-    "id": "h-V0ip_izH8"
    },
    "curated": false
   },
@@ -4311,7 +4552,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 366,
-   "popularity": 49,
+   "popularity": 50,
    "addedAt": "2026-08-07",
    "source": {
     "platform": "youtube",
@@ -8270,7 +8511,8 @@
    "title": "How to REALLY DANCE West Coast Swing!",
    "artist": "West Coast Swing Online",
    "styles": [
-    "wcs"
+    "wcs",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2024,
@@ -8472,6 +8714,25 @@
    "curated": false
   },
   {
+   "id": "yt-AFFGOpA7nnk",
+   "type": "video",
+   "title": "5 TRENDS That Will DOMINATE The Industry This Year",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 835,
+   "popularity": 61,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "AFFGOpA7nnk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-3phT3UqL5i8",
    "type": "video",
    "title": "Improve your TRIPLE STEP for East Coast Swing!",
@@ -8488,25 +8749,6 @@
    "source": {
     "platform": "youtube",
     "id": "3phT3UqL5i8"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-AFFGOpA7nnk",
-   "type": "video",
-   "title": "5 TRENDS That Will DOMINATE The Industry This Year",
-   "artist": "West Coast Swing Online",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 835,
-   "popularity": 60,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "AFFGOpA7nnk"
    },
    "curated": false
   },
@@ -11191,7 +11433,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "music",
+   "type": "video",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -11592,6 +11834,25 @@
    "curated": false
   },
   {
+   "id": "yt-s1Pei9s2peo",
+   "type": "video",
+   "title": "WCS is off phrase! 6 count patterns to 8 count music???",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 365,
+   "popularity": 60,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "s1Pei9s2peo"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-ULijjjN17iY",
    "type": "tutorial",
    "title": "Lindy Hop introduction lesson : 6 beat & Lindy charleston",
@@ -11607,25 +11868,6 @@
    "source": {
     "platform": "youtube",
     "id": "ULijjjN17iY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-s1Pei9s2peo",
-   "type": "video",
-   "title": "WCS is off phrase! 6 count patterns to 8 count music???",
-   "artist": "West Coast Swing Online",
-   "styles": [
-    "lindy6"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 365,
-   "popularity": 59,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "s1Pei9s2peo"
    },
    "curated": false
   },
@@ -13793,7 +14035,8 @@
    "styles": [
     "lindy",
     "wcs",
-    "jitterbug"
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -18654,7 +18897,7 @@
   },
   {
    "id": "yt-I9zHYkKoL4A",
-   "type": "music",
+   "type": "video",
    "title": "Swing Out! 1940s Dancing",
    "artist": "1940GlamourGirl",
    "styles": [
@@ -21988,7 +22231,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 91,
-   "popularity": 32,
+   "popularity": 33,
    "addedAt": "2026-07-10",
    "source": {
     "platform": "youtube",
@@ -23407,7 +23650,7 @@
   },
   {
    "id": "yt-IoMbeDhG9fU",
-   "type": "video",
+   "type": "music",
    "title": "Stormy Weather in color - The Nicholas Brothers and Cab Calloway | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -25822,7 +26065,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1318,
-   "popularity": 46,
+   "popularity": 47,
    "addedAt": "2026-07-05",
    "source": {
     "platform": "youtube",
@@ -26200,7 +26443,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -26311,7 +26554,7 @@
   },
   {
    "id": "yt-ZP3DM8_hiLg",
-   "type": "video",
+   "type": "music",
    "title": "Grand Nationals 2017 Champion Swing  1st place winners",
    "artist": "Bruce Gleason",
    "styles": [
@@ -26376,7 +26619,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "music",
+   "type": "video",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -26444,7 +26687,8 @@
     "balboa",
     "charleston",
     "lindy",
-    "jitterbug"
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -26602,7 +26846,7 @@
   },
   {
    "id": "yt-JdRin5YUORk",
-   "type": "music",
+   "type": "video",
    "title": "Mr and Mrs Smooth demonstrating the art of Simply Smooth Swagger - Watch! Be Cool",
    "artist": "Joe N Dancer",
    "styles": [
@@ -26688,7 +26932,7 @@
   },
   {
    "id": "yt-VmvKrPUo97E",
-   "type": "video",
+   "type": "music",
    "title": "Lindy Hop JnJ Finals. MXDC 2018",
    "artist": "Xmas Camp",
    "styles": [
@@ -27536,7 +27780,7 @@
   },
   {
    "id": "yt-egopcBsOPIU",
-   "type": "music",
+   "type": "video",
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -28444,7 +28688,7 @@
   },
   {
    "id": "yt-OapkoQEzQS0",
-   "type": "music",
+   "type": "video",
    "title": "Lindy Hop Swing Dance Scene in \"Malcolm X\" 1992",
    "artist": "SwingcatVB",
    "styles": [
@@ -31623,7 +31867,8 @@
    "title": "12  Lindy hop drills you can do by yourself",
    "artist": "Swing Zing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2018,
@@ -33721,6 +33966,25 @@
    "curated": false
   },
   {
+   "id": "yt-2P1NeP_qSLE",
+   "type": "video",
+   "title": "Balboa: Out and Ins Practice Drill",
+   "artist": "Lainey Silver",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 228,
+   "popularity": 57,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "2P1NeP_qSLE"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-sgN7ajsMU20",
    "type": "video",
    "title": "Lindy Hop, Savoy Style! Feb Wk 3",
@@ -34160,25 +34424,6 @@
    "source": {
     "platform": "youtube",
     "id": "BiCeAlJIgic"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-2P1NeP_qSLE",
-   "type": "video",
-   "title": "Balboa: Out and Ins Practice Drill",
-   "artist": "Lainey Silver",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2020,
-   "durationSec": 228,
-   "popularity": 56,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "2P1NeP_qSLE"
    },
    "curated": false
   },
