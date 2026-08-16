@@ -1,6 +1,272 @@
 {
- "exportedAt": "2026-08-15T18:08:48.052Z",
+ "exportedAt": "2026-08-16T18:08:41.280Z",
  "items": [
+  {
+   "id": "yt-N6t8hwKp71g",
+   "type": "tutorial",
+   "title": "How To Find The Counts Of Any Dance Song Like A Pro | STEEZY.CO",
+   "artist": "STEEZY",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 484,
+   "popularity": 84,
+   "addedAt": "2026-08-16",
+   "source": {
+    "platform": "youtube",
+    "id": "N6t8hwKp71g"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zW_T9f0hDgs",
+   "type": "tutorial",
+   "title": "the Pretzel Tutorial - Country Swing Dance Moves - How to do the Pretzel - Learn to Country Dance",
+   "artist": "Redneckeder",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 285,
+   "popularity": 73,
+   "addedAt": "2026-08-16",
+   "source": {
+    "platform": "youtube",
+    "id": "zW_T9f0hDgs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-am5RH1WxHEc",
+   "type": "video",
+   "title": "Lindy Hop: 7 Geheimtipps für einen perfekten Swingout (#6 verpassen alle)",
+   "artist": "Social Dancing Academy by Conny & Dado",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 714,
+   "popularity": 67,
+   "addedAt": "2026-08-16",
+   "source": {
+    "platform": "youtube",
+    "id": "am5RH1WxHEc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nbx0mKJxUEI",
+   "type": "video",
+   "title": "I Collegiate Shag Vienna 2015",
+   "artist": "Collegiate Shag Vienna",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 269,
+   "popularity": 62,
+   "addedAt": "2026-08-16",
+   "source": {
+    "platform": "youtube",
+    "id": "nbx0mKJxUEI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9L7Loqq4Tk0",
+   "type": "video",
+   "title": "Jitterbug Mania ! (1939)",
+   "artist": "British Pathé",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 80,
+   "popularity": 57,
+   "addedAt": "2026-08-16",
+   "source": {
+    "platform": "youtube",
+    "id": "9L7Loqq4Tk0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-j0SQQ-c8TnQ",
+   "type": "tutorial",
+   "title": "California Balboa Classic - Pure Balboa Finals",
+   "artist": "lindberghsjump",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 589,
+   "popularity": 55,
+   "addedAt": "2026-08-16",
+   "source": {
+    "platform": "youtube",
+    "id": "j0SQQ-c8TnQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7g_L4Z3iwvQ",
+   "type": "tutorial",
+   "title": "Cal Bal Classic 2019 - Pure Balboa Competition",
+   "artist": "Swing 2 Places",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 371,
+   "popularity": 53,
+   "addedAt": "2026-08-16",
+   "source": {
+    "platform": "youtube",
+    "id": "7g_L4Z3iwvQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Y_oM2C6k0Bo",
+   "type": "video",
+   "title": "Camp Hollywood 1999 Collegiate Shag Finals",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 505,
+   "popularity": 52,
+   "addedAt": "2026-08-16",
+   "source": {
+    "platform": "youtube",
+    "id": "Y_oM2C6k0Bo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-omtrhaSR8kc",
+   "type": "video",
+   "title": "10/22/19 Pure Balboa, Week 4, Paddles",
+   "artist": "Lorelei DeMesa",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 96,
+   "popularity": 47,
+   "addedAt": "2026-08-16",
+   "source": {
+    "platform": "youtube",
+    "id": "omtrhaSR8kc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pIhUECGrRW8",
+   "type": "video",
+   "title": "BAL WEEK's Pure Balboa Championship 2023",
+   "artist": "Bal Swing Pro",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 819,
+   "popularity": 47,
+   "addedAt": "2026-08-16",
+   "source": {
+    "platform": "youtube",
+    "id": "pIhUECGrRW8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zZGaT5ruKhM",
+   "type": "video",
+   "title": "Ionut & Liane at the Herrang Moon Ball comp prelims #swingdance #lindyhop #charleston #shorts",
+   "artist": "Ionut Bajescu",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 59,
+   "popularity": 44,
+   "addedAt": "2026-08-16",
+   "source": {
+    "platform": "youtube",
+    "id": "zZGaT5ruKhM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-s7ARoWAi3z0",
+   "type": "video",
+   "title": "Everybody Loves My Baby, Dick Cary (improvised Pure Balboa dance - PJ cut)",
+   "artist": "Karim Ahmed",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 287,
+   "popularity": 43,
+   "addedAt": "2026-08-16",
+   "source": {
+    "platform": "youtube",
+    "id": "s7ARoWAi3z0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lDrgfpIwvOo",
+   "type": "video",
+   "title": "Pure Balboa GS Promo",
+   "artist": "Amy & Alex Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 53,
+   "popularity": 31,
+   "addedAt": "2026-08-16",
+   "source": {
+    "platform": "youtube",
+    "id": "lDrgfpIwvOo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Zbv56ECeqY4",
+   "type": "tutorial",
+   "title": "West Coast Swing Lessons: 5 Moves Any Partner Can Follow",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 317,
+   "popularity": 25,
+   "addedAt": "2026-08-16",
+   "source": {
+    "platform": "youtube",
+    "id": "Zbv56ECeqY4"
+   },
+   "curated": false
+  },
   {
    "id": "yt-G-EIjsp_Wp4",
    "type": "music",
@@ -1393,7 +1659,7 @@
    "id": "yt-ryA6eHZNnXY",
    "type": "music",
    "title": "Take Five",
-   "artist": "The Dave Brubeck Quartet - Topic",
+   "artist": "Dave Brubeck Quartet - Topic",
    "styles": [],
    "bpm": null,
    "year": 2017,
@@ -2007,6 +2273,25 @@
    "curated": false
   },
   {
+   "id": "yt-Cf5rvSHVQis",
+   "type": "video",
+   "title": "2026 Swingin' by the Sound  - Amateur Collegiate Shag Mix & Match Finals",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 525,
+   "popularity": 34,
+   "addedAt": "2026-08-11",
+   "source": {
+    "platform": "youtube",
+    "id": "Cf5rvSHVQis"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-h-V0ip_izH8",
    "type": "video",
    "title": "2026 Swingin' by the Sound  - Advanced Collegiate Shag Mix & Match Finals",
@@ -2026,25 +2311,6 @@
    "curated": false
   },
   {
-   "id": "yt-Cf5rvSHVQis",
-   "type": "video",
-   "title": "2026 Swingin' by the Sound  - Amateur Collegiate Shag Mix & Match Finals",
-   "artist": "The Collegiate Shag Channel",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 525,
-   "popularity": 31,
-   "addedAt": "2026-08-11",
-   "source": {
-    "platform": "youtube",
-    "id": "Cf5rvSHVQis"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-4-HugxP-rDc",
    "type": "tutorial",
    "title": "Collegiate Shag | Steve & Chanzie – Lesson 1 \"Double Kick Basics and Hitches\"",
@@ -2055,7 +2321,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 178,
-   "popularity": 16,
+   "popularity": 27,
    "addedAt": "2026-08-11",
    "source": {
     "platform": "youtube",
@@ -2074,7 +2340,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 180,
-   "popularity": 14,
+   "popularity": 26,
    "addedAt": "2026-08-11",
    "source": {
     "platform": "youtube",
@@ -2419,7 +2685,7 @@
    "bpm": null,
    "year": 2020,
    "durationSec": 542,
-   "popularity": 61,
+   "popularity": 62,
    "addedAt": "2026-08-10",
    "source": {
     "platform": "youtube",
@@ -7605,7 +7871,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 630,
-   "popularity": 73,
+   "popularity": 74,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -9225,6 +9491,25 @@
    "curated": false
   },
   {
+   "id": "yt-OGSAVeaJAgE",
+   "type": "video",
+   "title": "Liberty Swing 2026 Champions Strictly Swing Robert Royston & Alexis Garrish   4K",
+   "artist": "Liberty Swing Dance Championships",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 115,
+   "popularity": 52,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "OGSAVeaJAgE"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Gu10DGuDNCs",
    "type": "video",
    "title": "Jitterbug Single Time Swing Kick Variations",
@@ -9240,25 +9525,6 @@
    "source": {
     "platform": "youtube",
     "id": "Gu10DGuDNCs"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-OGSAVeaJAgE",
-   "type": "video",
-   "title": "Liberty Swing 2026 Champions Strictly Swing Robert Royston & Alexis Garrish   4K",
-   "artist": "Liberty Swing Dance Championships",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 115,
-   "popularity": 51,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "OGSAVeaJAgE"
    },
    "curated": false
   },
@@ -9395,6 +9661,25 @@
    "curated": false
   },
   {
+   "id": "yt-2nvGwbyRjJk",
+   "type": "video",
+   "title": "The Complete Guide to the West Coast Swing Whip",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 816,
+   "popularity": 50,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "2nvGwbyRjJk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-DIKqyr3XeYw",
    "type": "video",
    "title": "MADjam 2026 Allstar Strictly Swing Final",
@@ -9429,25 +9714,6 @@
    "source": {
     "platform": "youtube",
     "id": "OHzRzfz53lo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-2nvGwbyRjJk",
-   "type": "video",
-   "title": "The Complete Guide to the West Coast Swing Whip",
-   "artist": "West Coast Swing Online",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 816,
-   "popularity": 49,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "2nvGwbyRjJk"
    },
    "curated": false
   },
@@ -11433,7 +11699,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "video",
+   "type": "music",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -12206,7 +12472,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 266,
-   "popularity": 53,
+   "popularity": 54,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -18897,7 +19163,7 @@
   },
   {
    "id": "yt-I9zHYkKoL4A",
-   "type": "video",
+   "type": "music",
    "title": "Swing Out! 1940s Dancing",
    "artist": "1940GlamourGirl",
    "styles": [
@@ -19874,7 +20140,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 618,
-   "popularity": 57,
+   "popularity": 58,
    "addedAt": "2026-07-13",
    "source": {
     "platform": "youtube",
@@ -21813,7 +22079,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 60,
-   "popularity": 48,
+   "popularity": 49,
    "addedAt": "2026-07-10",
    "source": {
     "platform": "youtube",
@@ -26443,7 +26709,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -26554,7 +26820,7 @@
   },
   {
    "id": "yt-ZP3DM8_hiLg",
-   "type": "music",
+   "type": "video",
    "title": "Grand Nationals 2017 Champion Swing  1st place winners",
    "artist": "Bruce Gleason",
    "styles": [
@@ -27131,7 +27397,7 @@
   },
   {
    "id": "yt-06RlwN0nddQ",
-   "type": "music",
+   "type": "video",
    "title": "SWING TIME ('36): “Pick Yourself Up”",
    "artist": "Turner Classic Movies",
    "styles": [
@@ -27549,7 +27815,8 @@
     "lindy",
     "jitterbug",
     "lindy8",
-    "wcs"
+    "wcs",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2022,
@@ -27780,7 +28047,7 @@
   },
   {
    "id": "yt-egopcBsOPIU",
-   "type": "video",
+   "type": "music",
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -28688,7 +28955,7 @@
   },
   {
    "id": "yt-OapkoQEzQS0",
-   "type": "video",
+   "type": "music",
    "title": "Lindy Hop Swing Dance Scene in \"Malcolm X\" 1992",
    "artist": "SwingcatVB",
    "styles": [
@@ -31554,7 +31821,8 @@
    "title": "[BEST OF] ILHC 2016 - Invitational Jack & Jill (Draw) FULL CONTEST",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2022,
@@ -33457,6 +33725,25 @@
    "curated": false
   },
   {
+   "id": "yt-45eMp_QmgBM",
+   "type": "video",
+   "title": "2026 Professional Champions - Autumn Jones & Grayson Free",
+   "artist": "Stages Video Productions",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 189,
+   "popularity": 59,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "45eMp_QmgBM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-VWNQpsC4tvE",
    "type": "video",
    "title": "2nd Place: Frida & Remy - Invitational Draw - ILHC 2024",
@@ -33747,25 +34034,6 @@
    "source": {
     "platform": "youtube",
     "id": "1bG8VPkz4W0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-45eMp_QmgBM",
-   "type": "video",
-   "title": "2026 Professional Champions - Autumn Jones & Grayson Free",
-   "artist": "Stages Video Productions",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 189,
-   "popularity": 58,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "45eMp_QmgBM"
    },
    "curated": false
   },
