@@ -1,6 +1,653 @@
 {
- "exportedAt": "2026-08-16T18:08:41.280Z",
+ "exportedAt": "2026-08-17T18:12:59.645Z",
  "items": [
+  {
+   "id": "yt-cb2w2m1JmCY",
+   "type": "music",
+   "title": "Duke Ellington, \"Take the A Train\"",
+   "artist": "morrisoncoursevids",
+   "styles": [],
+   "bpm": null,
+   "year": 2008,
+   "durationSec": 194,
+   "popularity": 100,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "cb2w2m1JmCY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ZDhLJeU455w",
+   "type": "music",
+   "title": "Swing Girls (スウィングガールズ)",
+   "artist": "NudeAvenger",
+   "styles": [],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 568,
+   "popularity": 100,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "ZDhLJeU455w"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_ZdMxFiUf9Q",
+   "type": "music",
+   "title": "Tuba Skinny - Jubilee Stomp - Royal Street II",
+   "artist": "TheWsm",
+   "styles": [],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 232,
+   "popularity": 99,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "_ZdMxFiUf9Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-2X5o0mIa12M",
+   "type": "music",
+   "title": "Pennsylvania 6-5000 -  Adios - Little Brown Jug",
+   "artist": "Thomas Nilsson",
+   "styles": [],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 600,
+   "popularity": 97,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "2X5o0mIa12M"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-liwurdWzEgw",
+   "type": "video",
+   "title": "Emeline Rochefeuille & Thibault Ramirez - Strictly Swing 1st Place - GGP 2022",
+   "artist": "Emeline Rochefeuille",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 133,
+   "popularity": 96,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "liwurdWzEgw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-TYLbrZAko7E",
+   "type": "music",
+   "title": "COUNT BASIE Swingin' the Blues, 1941 HOT big band swing jazz",
+   "artist": "that1940sguy",
+   "styles": [],
+   "bpm": null,
+   "year": 2008,
+   "durationSec": 209,
+   "popularity": 91,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "TYLbrZAko7E"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wD_540RQXXk",
+   "type": "music",
+   "title": "Richard Cheese \"Creep (Big Band Version)\" from the album \"The Sunny Side Of The Moon\" (2006)",
+   "artist": "Richard Cheese",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 154,
+   "popularity": 86,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "wD_540RQXXk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-cBsxSN7ypAM",
+   "type": "video",
+   "title": "Swing Dance Moves",
+   "artist": "Passion4dancing",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 651,
+   "popularity": 85,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "cBsxSN7ypAM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hor86zF3hpI",
+   "type": "tutorial",
+   "title": "Swing dance lessons for beginners with Brian Fortuna",
+   "artist": "DanceClassVideo",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 610,
+   "popularity": 84,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "hor86zF3hpI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Sz57fKCw5Hs",
+   "type": "tutorial",
+   "title": "How to dance the Jitterbug - 1940s style",
+   "artist": "Melinda Brewer",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 476,
+   "popularity": 84,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "Sz57fKCw5Hs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hCYSITp-qhg",
+   "type": "tutorial",
+   "title": "SWING DANCE CLASS - Boogie Woogie 1",
+   "artist": "Dimitri & Alexsia",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 525,
+   "popularity": 80,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "hCYSITp-qhg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Q5mxUbCQyvA",
+   "type": "video",
+   "title": "Solo Charleston 1920s 1 of 2",
+   "artist": "SimonAndTash",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 452,
+   "popularity": 77,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "Q5mxUbCQyvA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-kSlRDkMpqGc",
+   "type": "tutorial",
+   "title": "How to: 50's Jitterbug",
+   "artist": "Lyndi Kern",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 265,
+   "popularity": 65,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "kSlRDkMpqGc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-TghJrFZd3jk",
+   "type": "tutorial",
+   "title": "Traveling Swing Partner Dance Lesson",
+   "artist": "Mishnockbarn",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 359,
+   "popularity": 64,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "TghJrFZd3jk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-XJkjwZw4Mmc",
+   "type": "video",
+   "title": "RTSF 2020 Jamboree Ball (Sunday) – Solo Charleston Challenge – Finals",
+   "artist": "RockThatSwing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 302,
+   "popularity": 62,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "XJkjwZw4Mmc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-K79WoLnmXlc",
+   "type": "tutorial",
+   "title": "How to dance Frankie Manning's Trickeration Step - Solo Jazz / Swing Dance Moves",
+   "artist": "Syncopated City",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 304,
+   "popularity": 61,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "K79WoLnmXlc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-NoHHEeLINg4",
+   "type": "video",
+   "title": "When we spun together 😎",
+   "artist": "Keerigan Rudd",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 50,
+   "popularity": 61,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "NoHHEeLINg4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Alm5PCodGKA",
+   "type": "tutorial",
+   "title": "CalBal Classic 2023 - Open Classic Finals - Theresa & Jeremy",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 108,
+   "popularity": 58,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "Alm5PCodGKA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-0hwruMhGx9w",
+   "type": "video",
+   "title": "Jordan Frisbee & Tatiana Mollmann - More: Modern West Coast Swing Routine - 2026 Revitalise WCS",
+   "artist": "Revitalise WCS | toniq dance",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 373,
+   "popularity": 58,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "0hwruMhGx9w"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-j-ppCvCCLJ4",
+   "type": "video",
+   "title": "Hot Bath Collegiate Shag routine",
+   "artist": "Susan Mace",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 159,
+   "popularity": 57,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "j-ppCvCCLJ4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ChdhAnpSD30",
+   "type": "video",
+   "title": "Swing out dance practice",
+   "artist": "Kcreates memoriez",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 460,
+   "popularity": 54,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "ChdhAnpSD30"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-L1R61K7HlNw",
+   "type": "tutorial",
+   "title": "“JITTERBUG” - CHOREOGRAPHY: Step By Step Tutorial & Run Through (Wizard Of Oz Jr.)",
+   "artist": "Andrea Esperanza Martinez",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 1079,
+   "popularity": 52,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "L1R61K7HlNw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-u_1m2iUZLCE",
+   "type": "video",
+   "title": "West Coast Swing Rides for Social Dancers",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 452,
+   "popularity": 52,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "u_1m2iUZLCE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--FERYa7u8bs",
+   "type": "video",
+   "title": "Jitterbug Dance competition",
+   "artist": "technohealer",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 48,
+   "popularity": 51,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "-FERYa7u8bs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-53wh_Q5nygU",
+   "type": "tutorial",
+   "title": "Swingin' Denver - Slow Balboa (footwork variations, he/she turns, leg flare into drags)",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 198,
+   "popularity": 49,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "53wh_Q5nygU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1tWwRCAhTOs",
+   "type": "music",
+   "title": "Big Band Swing Music - Swingin’ Under the Mistletoe 🎷 | Vintage 1940s Christmas Jazz Swing Song",
+   "artist": "Jazz Through The Ages",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 178,
+   "popularity": 42,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "1tWwRCAhTOs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-oOukthHh-pA",
+   "type": "video",
+   "title": "Lindy Hop 6 Count, Basic, & Turns + Solo Jazz",
+   "artist": "Swing Patrol Berlin",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 176,
+   "popularity": 41,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "oOukthHh-pA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-JkxEh5VICZg",
+   "type": "tutorial",
+   "title": "Bal-Swing - Lesson Review - 8/8/12",
+   "artist": "Swing Cville",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 64,
+   "popularity": 38,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "JkxEh5VICZg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_SmU2iU6LOQ",
+   "type": "music",
+   "title": "Swingin’ My Heart Away | Original 1930s Jazz-Swing Song (AI Vintage Music)",
+   "artist": "Retro Vibes music",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 184,
+   "popularity": 37,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "_SmU2iU6LOQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-NGna5ScGcsE",
+   "type": "music",
+   "title": "Good Day Coming My Way | Original 1930s Jazz-Swing Song (AI Vintage Music)",
+   "artist": "Retro Vibes music",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 130,
+   "popularity": 35,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "NGna5ScGcsE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9gLmRKt_3Gc",
+   "type": "video",
+   "title": "Agnes Hjelm - Solo Charleston Swing Dance Performance",
+   "artist": "itravel777",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 92,
+   "popularity": 34,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "9gLmRKt_3Gc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8mTkMFig9MI",
+   "type": "video",
+   "title": "Camp Jitterbug Dance Competition (2026)",
+   "artist": "Susy in Seattle ",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 380,
+   "popularity": 30,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "8mTkMFig9MI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-GPyXbRHAhzc",
+   "type": "video",
+   "title": "Nac swing dance: solo Charleston",
+   "artist": "Nac Swing Dance",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 62,
+   "popularity": 30,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "GPyXbRHAhzc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-p3nO8jVic_I",
+   "type": "tutorial",
+   "title": "Collegiate Shag Class Recap - Week 1 | For Swing Dancers New to Shag",
+   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 93,
+   "popularity": 30,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "p3nO8jVic_I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nvFNga_b2QM",
+   "type": "video",
+   "title": "Camp Hollywood / National Jitterbug Championships 2009 - Pro contests",
+   "artist": "camphollywood",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 5254,
+   "popularity": 29,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "nvFNga_b2QM"
+   },
+   "curated": false
+  },
   {
    "id": "yt-N6t8hwKp71g",
    "type": "tutorial",
@@ -481,7 +1128,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 140,
-   "popularity": 35,
+   "popularity": 36,
    "addedAt": "2026-08-15",
    "source": {
     "platform": "youtube",
@@ -2384,10 +3031,12 @@
   },
   {
    "id": "yt-q4M348VHFos",
-   "type": "music",
+   "type": "video",
    "title": "Rockin' Rollin' Rockabilly DANCE - full version (from SeLi6640)",
    "artist": "Сергей Александрович Лихоманов",
-   "styles": [],
+   "styles": [
+    "jitterbug"
+   ],
    "bpm": null,
    "year": 2019,
    "durationSec": 631,
@@ -2865,6 +3514,23 @@
    "curated": false
   },
   {
+   "id": "yt-h-UZtTI2vNQ",
+   "type": "music",
+   "title": "Big Band Swing Beats – Modern Electro Dance",
+   "artist": "Etrusco Music - Topic",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 205,
+   "popularity": 51,
+   "addedAt": "2026-08-10",
+   "source": {
+    "platform": "youtube",
+    "id": "h-UZtTI2vNQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-3-W4KVMumuA",
    "type": "video",
    "title": "1st Place: Grace & Nalla - All-Star Draw Finals - ILHC 2026",
@@ -2880,23 +3546,6 @@
    "source": {
     "platform": "youtube",
     "id": "3-W4KVMumuA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-h-UZtTI2vNQ",
-   "type": "music",
-   "title": "Big Band Swing Beats – Modern Electro Dance",
-   "artist": "Etrusco Music - Topic",
-   "styles": [],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 205,
-   "popularity": 50,
-   "addedAt": "2026-08-10",
-   "source": {
-    "platform": "youtube",
-    "id": "h-UZtTI2vNQ"
    },
    "curated": false
   },
@@ -4903,6 +5552,25 @@
    "curated": false
   },
   {
+   "id": "yt-fHhUTVzXxbI",
+   "type": "video",
+   "title": "A Short Explanation of Pure Balboa Values",
+   "artist": "Swungover",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 169,
+   "popularity": 35,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "fHhUTVzXxbI"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-LG0isf3QX5U",
    "type": "video",
    "title": "Florian Hamm & Irina Puzanova, Demo Part 3 at Warsaw Summer Nights Westival #wcs",
@@ -4918,25 +5586,6 @@
    "source": {
     "platform": "youtube",
     "id": "LG0isf3QX5U"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-fHhUTVzXxbI",
-   "type": "video",
-   "title": "A Short Explanation of Pure Balboa Values",
-   "artist": "Swungover",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 169,
-   "popularity": 34,
-   "addedAt": "2026-08-07",
-   "source": {
-    "platform": "youtube",
-    "id": "fHhUTVzXxbI"
    },
    "curated": false
   },
@@ -6395,7 +7044,7 @@
   },
   {
    "id": "yt-qW51suNmHkE",
-   "type": "music",
+   "type": "video",
    "title": "Ben Morris & Brandi Guild \"Shivers\" Ed Sheeran - Invitational Jack&Jill - TAP The After Party 2021",
    "artist": "The After Party: A West Coast Swing Experience",
    "styles": [
@@ -9182,7 +9831,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 324,
-   "popularity": 58,
+   "popularity": 59,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -10345,7 +10994,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 104,
-   "popularity": 21,
+   "popularity": 22,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -39718,7 +40367,8 @@
    "title": "Lindy Hop Returns to the Savoy Denver, a Symbolic Step for the City’s Swing Scene",
    "artist": "5280 Magazine",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2022,
@@ -41200,6 +41850,25 @@
    "curated": false
   },
   {
+   "id": "yt-tDy4uvB-WkM",
+   "type": "video",
+   "title": "2026-04-18 Minor Swing Day 2 | Balboa Strictly Finals",
+   "artist": "Grant Wong (Butler Chako)",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 480,
+   "popularity": 27,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "tDy4uvB-WkM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-QES5Px2TV4g",
    "type": "tutorial",
    "title": "[Theme Class] Swing Out Styles & Variations - Savoy Style and flow",
@@ -41273,25 +41942,6 @@
    "source": {
     "platform": "youtube",
     "id": "l-IFX-fwtv0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-tDy4uvB-WkM",
-   "type": "video",
-   "title": "2026-04-18 Minor Swing Day 2 | Balboa Strictly Finals",
-   "artist": "Grant Wong (Butler Chako)",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 480,
-   "popularity": 26,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "tDy4uvB-WkM"
    },
    "curated": false
   },
