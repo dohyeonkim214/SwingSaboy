@@ -1,6 +1,177 @@
 {
- "exportedAt": "2026-08-18T18:12:54.747Z",
+ "exportedAt": "2026-08-19T18:11:47.890Z",
  "items": [
+  {
+   "id": "yt-k0BgxtFZkoM",
+   "type": "video",
+   "title": "Balboa dance demo",
+   "artist": "Fred Viebahn",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 176,
+   "popularity": 82,
+   "addedAt": "2026-08-19",
+   "source": {
+    "platform": "youtube",
+    "id": "k0BgxtFZkoM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-uIQ23ZQ84Mg",
+   "type": "video",
+   "title": "2009 ILHC - Solo Charleston Jam",
+   "artist": "David Soltysik",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 457,
+   "popularity": 78,
+   "addedAt": "2026-08-19",
+   "source": {
+    "platform": "youtube",
+    "id": "uIQ23ZQ84Mg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-bk_8yvgMnmk",
+   "type": "video",
+   "title": "DFW Swingout...Focusing on the Lead...Video 1...Basic Step",
+   "artist": "Smooth Flava Dance, Gainesville FL",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 189,
+   "popularity": 66,
+   "addedAt": "2026-08-19",
+   "source": {
+    "platform": "youtube",
+    "id": "bk_8yvgMnmk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-yqiBlir8ZJw",
+   "type": "tutorial",
+   "title": "WCS DANCE LESSONS | Wrap In and Out - West Coast Dance Secrets",
+   "artist": "Country Dance X",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 866,
+   "popularity": 64,
+   "addedAt": "2026-08-19",
+   "source": {
+    "platform": "youtube",
+    "id": "yqiBlir8ZJw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zTlnB-tcMio",
+   "type": "video",
+   "title": "Changing the Rhythm in Tuck Turns - Lindy Hop & Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 644,
+   "popularity": 63,
+   "addedAt": "2026-08-19",
+   "source": {
+    "platform": "youtube",
+    "id": "zTlnB-tcMio"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Wd22qVvAfFk",
+   "type": "video",
+   "title": "Basic 6 Count Lindy Hop Swing",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 776,
+   "popularity": 50,
+   "addedAt": "2026-08-19",
+   "source": {
+    "platform": "youtube",
+    "id": "Wd22qVvAfFk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-yXrPL-Z0DaI",
+   "type": "video",
+   "title": "Had to be cute for the camera 😜😘 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 55,
+   "popularity": 47,
+   "addedAt": "2026-08-19",
+   "source": {
+    "platform": "youtube",
+    "id": "yXrPL-Z0DaI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7oQRE3Oi9LA",
+   "type": "video",
+   "title": "Pink Skies - Jitterbug Dance Academy - Summit Dance Challenge Regionals 2025",
+   "artist": "Summit Dance Challenge",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 155,
+   "popularity": 37,
+   "addedAt": "2026-08-19",
+   "source": {
+    "platform": "youtube",
+    "id": "7oQRE3Oi9LA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dA3iWS6KBfM",
+   "type": "video",
+   "title": "February 2026 - Level 1: 8-count Lindy Fundamentals Week 1",
+   "artist": "JumptownSwingMadison",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 97,
+   "popularity": 29,
+   "addedAt": "2026-08-19",
+   "source": {
+    "platform": "youtube",
+    "id": "dA3iWS6KBfM"
+   },
+   "curated": false
+  },
   {
    "id": "yt-OOtUIMrJUyc",
    "type": "music",
@@ -189,6 +360,23 @@
    "curated": false
   },
   {
+   "id": "yt-h-7Q978vbcU",
+   "type": "music",
+   "title": "What If “Interstate Love Song” Was A Jazz Standard?",
+   "artist": "Musora",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 360,
+   "popularity": 58,
+   "addedAt": "2026-08-18",
+   "source": {
+    "platform": "youtube",
+    "id": "h-7Q978vbcU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-WDFD0Y7onwE",
    "type": "video",
    "title": "RTSF 2017 - Balboa Competition",
@@ -204,23 +392,6 @@
    "source": {
     "platform": "youtube",
     "id": "WDFD0Y7onwE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-h-7Q978vbcU",
-   "type": "music",
-   "title": "What If “Interstate Love Song” Was A Jazz Standard?",
-   "artist": "Musora",
-   "styles": [],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 360,
-   "popularity": 56,
-   "addedAt": "2026-08-18",
-   "source": {
-    "platform": "youtube",
-    "id": "h-7Q978vbcU"
    },
    "curated": false
   },
@@ -3599,7 +3770,7 @@
    "bpm": null,
    "year": 2012,
    "durationSec": 120,
-   "popularity": 79,
+   "popularity": 80,
    "addedAt": "2026-08-10",
    "source": {
     "platform": "youtube",
@@ -7500,7 +7671,8 @@
    "artist": "Keerigan Rudd",
    "styles": [
     "wcs",
-    "charleston"
+    "charleston",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2023,
@@ -28285,7 +28457,8 @@
    "artist": "Xmas Camp",
    "styles": [
     "lindy",
-    "lindy8"
+    "lindy8",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2018,
@@ -28800,7 +28973,8 @@
    "artist": "Jens Rahnfeld",
    "styles": [
     "lindy",
-    "charleston"
+    "charleston",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2012,
@@ -29250,6 +29424,25 @@
    "curated": false
   },
   {
+   "id": "yt-oZzMytbrOn4",
+   "type": "video",
+   "title": "(The Original) Charleston. With The Gatsby Girls",
+   "artist": "Michael Law / The Piccadilly Dance Orchestra",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 190,
+   "popularity": 84,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "oZzMytbrOn4"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-EjaqRlmVMiQ",
    "type": "video",
    "title": "Learn To Lindy Hop In A Day (fwd/back, popout, promenade, circle, charleston, dip)",
@@ -29366,25 +29559,6 @@
    "source": {
     "platform": "youtube",
     "id": "KZrEaGGIfiU"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-oZzMytbrOn4",
-   "type": "video",
-   "title": "(The Original) Charleston. With The Gatsby Girls",
-   "artist": "Michael Law / The Piccadilly Dance Orchestra",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2018,
-   "durationSec": 190,
-   "popularity": 83,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "oZzMytbrOn4"
    },
    "curated": false
   },
@@ -33642,7 +33816,8 @@
    "artist": "Let It Swing",
    "styles": [
     "lindy",
-    "lindy8"
+    "lindy8",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2023,
@@ -34827,6 +35002,25 @@
    "curated": false
   },
   {
+   "id": "yt-uKGqsn89Prk",
+   "type": "video",
+   "title": "Easy Squat Charleston combo for your practice / Solo Jazz",
+   "artist": "Solo Jazz Power",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 650,
+   "popularity": 59,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "uKGqsn89Prk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-VWNQpsC4tvE",
    "type": "video",
    "title": "2nd Place: Frida & Remy - Invitational Draw - ILHC 2024",
@@ -34903,25 +35097,6 @@
    "source": {
     "platform": "youtube",
     "id": "6dj3tEJHYcU"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-uKGqsn89Prk",
-   "type": "video",
-   "title": "Easy Squat Charleston combo for your practice / Solo Jazz",
-   "artist": "Solo Jazz Power",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2023,
-   "durationSec": 650,
-   "popularity": 58,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "uKGqsn89Prk"
    },
    "curated": false
   },
@@ -41216,6 +41391,25 @@
    "curated": false
   },
   {
+   "id": "yt-Uu2DqBnfSLc",
+   "type": "video",
+   "title": "Uptown Swing Balboa 2 (Bal-Swing) 3/2/2023",
+   "artist": "Uptown Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 161,
+   "popularity": 37,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "Uu2DqBnfSLc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-sVRxu7ZDJJ0",
    "type": "video",
    "title": "[LIVE] ILHC 2026 - Novice Jazz - semi-finals",
@@ -41250,25 +41444,6 @@
    "source": {
     "platform": "youtube",
     "id": "bemZygvf2Vw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Uu2DqBnfSLc",
-   "type": "video",
-   "title": "Uptown Swing Balboa 2 (Bal-Swing) 3/2/2023",
-   "artist": "Uptown Swing",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2023,
-   "durationSec": 161,
-   "popularity": 36,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "Uu2DqBnfSLc"
    },
    "curated": false
   },
