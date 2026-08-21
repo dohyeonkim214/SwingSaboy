@@ -1,6 +1,101 @@
 {
- "exportedAt": "2026-08-20T18:12:59.977Z",
+ "exportedAt": "2026-08-21T18:12:53.264Z",
  "items": [
+  {
+   "id": "yt-WHk1qylcQzQ",
+   "type": "video",
+   "title": "West Coast Swing Basic Steps (Starter Step & Left Side Pass)",
+   "artist": "Passion4dancing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 400,
+   "popularity": 65,
+   "addedAt": "2026-08-21",
+   "source": {
+    "platform": "youtube",
+    "id": "WHk1qylcQzQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FW4Yt7_whts",
+   "type": "video",
+   "title": "Charleston Solo, Jazz Steps, Vernacular Jazz Dance",
+   "artist": "Benjamin Ricard",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 207,
+   "popularity": 49,
+   "addedAt": "2026-08-21",
+   "source": {
+    "platform": "youtube",
+    "id": "FW4Yt7_whts"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7aT2LfJ0QRc",
+   "type": "video",
+   "title": "Exploring each other 🤩",
+   "artist": "Keerigan Rudd",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 49,
+   "addedAt": "2026-08-21",
+   "source": {
+    "platform": "youtube",
+    "id": "7aT2LfJ0QRc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-RrJQQjFJB4M",
+   "type": "video",
+   "title": "This Part Though 😂 # #dance # #improv #wcs #funnymoments #swing #billiejean",
+   "artist": "StuckOnSwing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 63,
+   "popularity": 43,
+   "addedAt": "2026-08-21",
+   "source": {
+    "platform": "youtube",
+    "id": "RrJQQjFJB4M"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-N-cGkKamrB8",
+   "type": "tutorial",
+   "title": "Lindy Hop #swingdance #dance #스윙댄스 #lindyhop #dancestudio #dancer #balboa #jazz #린디합 #dancetutorial",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 46,
+   "popularity": 40,
+   "addedAt": "2026-08-21",
+   "source": {
+    "platform": "youtube",
+    "id": "N-cGkKamrB8"
+   },
+   "curated": false
+  },
   {
    "id": "yt-WqawqSF4xs8",
    "type": "music",
@@ -609,7 +704,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 360,
-   "popularity": 60,
+   "popularity": 61,
    "addedAt": "2026-08-18",
    "source": {
     "platform": "youtube",
@@ -4670,7 +4765,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 165,
-   "popularity": 97,
+   "popularity": 98,
    "addedAt": "2026-08-09",
    "source": {
     "platform": "youtube",
@@ -9026,6 +9121,23 @@
    "curated": false
   },
   {
+   "id": "yt-j_Qc8s0h4gg",
+   "type": "music",
+   "title": "1940s Swing & Boogie-Woogie🎺 \"As Time goes by\"🎶 AI Music-Video + Authentic Song Lyrics from 1931✍️",
+   "artist": "videofab",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 166,
+   "popularity": 77,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "j_Qc8s0h4gg"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-vq6iYMorQIs",
    "type": "tutorial",
    "title": "Beginner West Coast Swing | All You Need To Get Started | Beginner Wcs Patterns",
@@ -9096,23 +9208,6 @@
    "source": {
     "platform": "youtube",
     "id": "DxDY7VTFwmk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-j_Qc8s0h4gg",
-   "type": "music",
-   "title": "1940s Swing & Boogie-Woogie🎺 \"As Time goes by\"🎶 AI Music-Video + Authentic Song Lyrics from 1931✍️",
-   "artist": "videofab",
-   "styles": [],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 166,
-   "popularity": 76,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "j_Qc8s0h4gg"
    },
    "curated": false
   },
@@ -9830,6 +9925,25 @@
    "curated": false
   },
   {
+   "id": "yt-3cCb4qzO6Ek",
+   "type": "video",
+   "title": "West Coast Swing Moves List - Intermediate",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 392,
+   "popularity": 68,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "3cCb4qzO6Ek"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-g7l-Qj-JJmI",
    "type": "video",
    "title": "ILHC 2010 -  Showcase - Andrew Thigpen & Karen Turman",
@@ -9864,25 +9978,6 @@
    "source": {
     "platform": "youtube",
     "id": "-NfM77Rp4rA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-3cCb4qzO6Ek",
-   "type": "video",
-   "title": "West Coast Swing Moves List - Intermediate",
-   "artist": "West Coast Swing Online",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 392,
-   "popularity": 67,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "3cCb4qzO6Ek"
    },
    "curated": false
   },
@@ -14854,6 +14949,25 @@
    "curated": false
   },
   {
+   "id": "yt-iH4k-F7n4tw",
+   "type": "tutorial",
+   "title": "8 count moves for beginners Lindy Hop course",
+   "artist": "Portsmouth Lindy Hop",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 47,
+   "popularity": 43,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "iH4k-F7n4tw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-5_iPBDtLZ8A",
    "type": "tutorial",
    "title": "Lindy Hop - Follow 6 Count Footwork",
@@ -14945,25 +15059,6 @@
    "source": {
     "platform": "youtube",
     "id": "6Kzp9M1qmFY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-iH4k-F7n4tw",
-   "type": "tutorial",
-   "title": "8 count moves for beginners Lindy Hop course",
-   "artist": "Portsmouth Lindy Hop",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 47,
-   "popularity": 42,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "iH4k-F7n4tw"
    },
    "curated": false
   },
@@ -18290,7 +18385,7 @@
    "bpm": null,
    "year": 2022,
    "durationSec": 86,
-   "popularity": 55,
+   "popularity": 56,
    "addedAt": "2026-07-23",
    "source": {
     "platform": "youtube",
@@ -20992,7 +21087,8 @@
    "artist": "Grant & Shalee - King & Queen of Country Swing",
    "styles": [
     "charleston",
-    "jitterbug"
+    "jitterbug",
+    "wcs"
    ],
    "bpm": null,
    "year": 2020,
@@ -28380,7 +28476,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "video",
+   "type": "music",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -28607,7 +28703,7 @@
   },
   {
    "id": "yt-JdRin5YUORk",
-   "type": "music",
+   "type": "video",
    "title": "Mr and Mrs Smooth demonstrating the art of Simply Smooth Swagger - Watch! Be Cool",
    "artist": "Joe N Dancer",
    "styles": [
@@ -29051,7 +29147,7 @@
   },
   {
    "id": "yt-gc5fOmnB1z4",
-   "type": "video",
+   "type": "music",
    "title": "OUR FIRST DANCE (Lindy Hop)",
    "artist": "The FamLee Life",
    "styles": [
@@ -31441,6 +31537,25 @@
    "curated": false
   },
   {
+   "id": "yt-9TyBUAcc5P0",
+   "type": "tutorial",
+   "title": "Balboa Basics Summary Peter and Lorraine",
+   "artist": "Heber F",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 228,
+   "popularity": 73,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "9TyBUAcc5P0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-9LLXqnjFxB0",
    "type": "tutorial",
    "title": "Learn a \"Forward\" Swing Out - Lindy Hop Lesson",
@@ -31476,25 +31591,6 @@
    "source": {
     "platform": "youtube",
     "id": "_ncACnpGxRw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-9TyBUAcc5P0",
-   "type": "tutorial",
-   "title": "Balboa Basics Summary Peter and Lorraine",
-   "artist": "Heber F",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2012,
-   "durationSec": 228,
-   "popularity": 72,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "9TyBUAcc5P0"
    },
    "curated": false
   },
@@ -32510,7 +32606,8 @@
    "title": "Savoy Ballroom   Benny Goodman vs Chick Webb",
    "artist": "Savoy Hop",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2014,
@@ -40830,6 +40927,25 @@
    "curated": false
   },
   {
+   "id": "yt-r9xGQapq1Kk",
+   "type": "video",
+   "title": "Collegiate Shag Trailer | Steve & Chanzie Vol. 1",
+   "artist": "Summer Jamboree Dance Academy",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 49,
+   "popularity": 41,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "r9xGQapq1Kk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-rLIbnibepaM",
    "type": "tutorial",
    "title": "9/1/16 - Beginner 8ct Lindy Hop @ The Savoy (rocksteps, triples, pop out, promenade, pecking)",
@@ -41017,25 +41133,6 @@
    "source": {
     "platform": "youtube",
     "id": "jE1WdXO4wUc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-r9xGQapq1Kk",
-   "type": "video",
-   "title": "Collegiate Shag Trailer | Steve & Chanzie Vol. 1",
-   "artist": "Summer Jamboree Dance Academy",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 49,
-   "popularity": 40,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "r9xGQapq1Kk"
    },
    "curated": false
   },
