@@ -1,6 +1,97 @@
 {
- "exportedAt": "2026-08-21T18:12:53.264Z",
+ "exportedAt": "2026-08-22T18:08:43.941Z",
  "items": [
+  {
+   "id": "yt-qWtWf3REye0",
+   "type": "video",
+   "title": "I can’t believe we did that…😲🔥 #westcoastswing #wcs #improv #dancers #fun #competition #wsdc",
+   "artist": "Mackenzie Keister",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 61,
+   "popularity": 90,
+   "addedAt": "2026-08-22",
+   "source": {
+    "platform": "youtube",
+    "id": "qWtWf3REye0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hae8bYKARr4",
+   "type": "music",
+   "title": "Chattanooga Choo Choo (A Glenn Miller Swing Celebration)",
+   "artist": "3 Roads Communications",
+   "styles": [],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 249,
+   "popularity": 86,
+   "addedAt": "2026-08-22",
+   "source": {
+    "platform": "youtube",
+    "id": "hae8bYKARr4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wvIfr_axU20",
+   "type": "tutorial",
+   "title": "Final – Boogie Woogie Main Class | French National Cup × Swing Family Festival 2025",
+   "artist": "Swing Family Festival",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 969,
+   "popularity": 80,
+   "addedAt": "2026-08-22",
+   "source": {
+    "platform": "youtube",
+    "id": "wvIfr_axU20"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-kBRhKUlWohA",
+   "type": "tutorial",
+   "title": "SWING DANCE: 11 Beginner East Coast Swing Steps!",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 152,
+   "popularity": 57,
+   "addedAt": "2026-08-22",
+   "source": {
+    "platform": "youtube",
+    "id": "kBRhKUlWohA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-jvBinUODRME",
+   "type": "music",
+   "title": "Big Band Swing Music - Hurry Up, Honey – 1940s Swing/Jazz Song Lyrics",
+   "artist": "Jazz Through The Ages",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 192,
+   "popularity": 40,
+   "addedAt": "2026-08-22",
+   "source": {
+    "platform": "youtube",
+    "id": "jvBinUODRME"
+   },
+   "curated": false
+  },
   {
    "id": "yt-WHk1qylcQzQ",
    "type": "video",
@@ -3888,7 +3979,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 498,
-   "popularity": 33,
+   "popularity": 34,
    "addedAt": "2026-08-11",
    "source": {
     "platform": "youtube",
@@ -5828,7 +5919,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 45,
-   "popularity": 22,
+   "popularity": 23,
    "addedAt": "2026-08-08",
    "source": {
     "platform": "youtube",
@@ -6406,7 +6497,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 366,
-   "popularity": 50,
+   "popularity": 51,
    "addedAt": "2026-08-07",
    "source": {
     "platform": "youtube",
@@ -7785,6 +7876,23 @@
    "curated": false
   },
   {
+   "id": "yt-Znx-lecOwJI",
+   "type": "music",
+   "title": "Swing Medley (Can't Take My Eyes Off You/Souvenirs/Memory) on Yamaha Tyros 5",
+   "artist": "artzkieツ",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 542,
+   "popularity": 93,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "Znx-lecOwJI"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-5EMDpKVWB-4",
    "type": "video",
    "title": "Part 2 of our most viral dance 🧊🧊👼 #improv #westcoastswing",
@@ -7817,23 +7925,6 @@
    "source": {
     "platform": "youtube",
     "id": "7mQwJhtotxM"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Znx-lecOwJI",
-   "type": "music",
-   "title": "Swing Medley (Can't Take My Eyes Off You/Souvenirs/Memory) on Yamaha Tyros 5",
-   "artist": "artzkieツ",
-   "styles": [],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 542,
-   "popularity": 92,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "Znx-lecOwJI"
    },
    "curated": false
   },
@@ -7983,7 +8074,7 @@
   },
   {
    "id": "yt-qW51suNmHkE",
-   "type": "video",
+   "type": "music",
    "title": "Ben Morris & Brandi Guild \"Shivers\" Ed Sheeran - Invitational Jack&Jill - TAP The After Party 2021",
    "artist": "The After Party: A West Coast Swing Experience",
    "styles": [
@@ -8343,6 +8434,23 @@
    "curated": false
   },
   {
+   "id": "yt-iiTHZATOMyM",
+   "type": "music",
+   "title": "All Of Me - San Lyon - Swing Jazz",
+   "artist": "San Lyon",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 245,
+   "popularity": 86,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "iiTHZATOMyM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-I4cr_5vTOsw",
    "type": "video",
    "title": "Emeline Rochefeuille & Kenneth Rutland - Champions Jack & Jill 2nd Place - DCS 2023",
@@ -8377,23 +8485,6 @@
    "source": {
     "platform": "youtube",
     "id": "93yPrMIzQUo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-iiTHZATOMyM",
-   "type": "music",
-   "title": "All Of Me - San Lyon - Swing Jazz",
-   "artist": "San Lyon",
-   "styles": [],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 245,
-   "popularity": 85,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "iiTHZATOMyM"
    },
    "curated": false
   },
@@ -9231,6 +9322,23 @@
    "curated": false
   },
   {
+   "id": "yt-GbfCjMe5O24",
+   "type": "music",
+   "title": "Minor Swing (Django Reinhardt) - Playback jazz manouche - Gypsy jazz backing track / play along",
+   "artist": "Clément Reboul",
+   "styles": [],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 252,
+   "popularity": 76,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "GbfCjMe5O24"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Xle5eWTFTJ0",
    "type": "video",
    "title": "GGP 2023 - J&J CHAMPIONS - Nicole RAMIREZ & Joao PARADA - 1st place - Sponsored by Westy Nantes",
@@ -9284,23 +9392,6 @@
    "source": {
     "platform": "youtube",
     "id": "-dF1YsYk_bw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-GbfCjMe5O24",
-   "type": "music",
-   "title": "Minor Swing (Django Reinhardt) - Playback jazz manouche - Gypsy jazz backing track / play along",
-   "artist": "Clément Reboul",
-   "styles": [],
-   "bpm": null,
-   "year": 2020,
-   "durationSec": 252,
-   "popularity": 75,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "GbfCjMe5O24"
    },
    "curated": false
   },
@@ -12352,7 +12443,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "video",
+   "type": "music",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -14196,7 +14287,7 @@
    "bpm": null,
    "year": 2020,
    "durationSec": 163,
-   "popularity": 52,
+   "popularity": 53,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -15864,7 +15955,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "music",
+   "type": "video",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -18337,6 +18428,25 @@
    "curated": false
   },
   {
+   "id": "yt-hgX-9zAlsPQ",
+   "type": "video",
+   "title": "Breezy Balboa Weekend 2026 – Teachers’ Demo",
+   "artist": "Breezy Balboa",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 192,
+   "popularity": 36,
+   "addedAt": "2026-07-24",
+   "source": {
+    "platform": "youtube",
+    "id": "hgX-9zAlsPQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-g5zglyxj0XU",
    "type": "video",
    "title": "HRH 2023: Advanced Collegiate Shag Mix & Match - Isabella & Ian",
@@ -18352,25 +18462,6 @@
    "source": {
     "platform": "youtube",
     "id": "g5zglyxj0XU"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-hgX-9zAlsPQ",
-   "type": "video",
-   "title": "Breezy Balboa Weekend 2026 – Teachers’ Demo",
-   "artist": "Breezy Balboa",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 192,
-   "popularity": 35,
-   "addedAt": "2026-07-24",
-   "source": {
-    "platform": "youtube",
-    "id": "hgX-9zAlsPQ"
    },
    "curated": false
   },
@@ -20844,7 +20935,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 186,
-   "popularity": 61,
+   "popularity": 62,
    "addedAt": "2026-07-17",
    "source": {
     "platform": "youtube",
@@ -28476,7 +28567,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "music",
+   "type": "video",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -28989,7 +29080,7 @@
   },
   {
    "id": "yt-06RlwN0nddQ",
-   "type": "video",
+   "type": "music",
    "title": "SWING TIME ('36): “Pick Yourself Up”",
    "artist": "Turner Classic Movies",
    "styles": [
@@ -29210,7 +29301,8 @@
    "title": "Lindyfest 2014 - Invitational Strictly Lindy Hop Finals",
    "artist": "Alain Wong",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2014,
@@ -29641,7 +29733,7 @@
   },
   {
    "id": "yt-egopcBsOPIU",
-   "type": "music",
+   "type": "video",
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -38290,6 +38382,25 @@
    "curated": false
   },
   {
+   "id": "yt-MrGDS7MjyCk",
+   "type": "video",
+   "title": "Balboa switch with Marina Pereleshina 💜💚",
+   "artist": "Marina Alekseeva ",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 55,
+   "popularity": 49,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "MrGDS7MjyCk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-2FpkXVvVMBc",
    "type": "video",
    "title": "Savoy Ballroom Exhibit - 1939 NY Worlds Fair (Lindy Hop)  Part1",
@@ -38629,25 +38740,6 @@
    "source": {
     "platform": "youtube",
     "id": "Y3MedRSWEfI"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-MrGDS7MjyCk",
-   "type": "video",
-   "title": "Balboa switch with Marina Pereleshina 💜💚",
-   "artist": "Marina Alekseeva ",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 55,
-   "popularity": 48,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "MrGDS7MjyCk"
    },
    "curated": false
   },
