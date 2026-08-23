@@ -1,6 +1,228 @@
 {
- "exportedAt": "2026-08-22T18:08:43.941Z",
+ "exportedAt": "2026-08-23T18:09:00.404Z",
  "items": [
+  {
+   "id": "yt-WZGa9aUwSig",
+   "type": "music",
+   "title": "Mambo Swing",
+   "artist": "Big Bad Voodoo Daddy - Topic",
+   "styles": [],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 308,
+   "popularity": 87,
+   "addedAt": "2026-08-23",
+   "source": {
+    "platform": "youtube",
+    "id": "WZGa9aUwSig"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-w1fP5ABBu5w",
+   "type": "music",
+   "title": "Glenn Miller \"In The Mood\" #glennmiller #swing #dance",
+   "artist": "Classical Tunes",
+   "styles": [],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 47,
+   "popularity": 83,
+   "addedAt": "2026-08-23",
+   "source": {
+    "platform": "youtube",
+    "id": "w1fP5ABBu5w"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1vC981u-1qE",
+   "type": "tutorial",
+   "title": "How to Swing Dance for Beginners - Part 7: 6 Count Pull In",
+   "artist": "iLindy",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 212,
+   "popularity": 69,
+   "addedAt": "2026-08-23",
+   "source": {
+    "platform": "youtube",
+    "id": "1vC981u-1qE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-txyCuwRsLQs",
+   "type": "video",
+   "title": "17 Basic Side Pass Variations #lindyhop #swingdance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 45,
+   "popularity": 63,
+   "addedAt": "2026-08-23",
+   "source": {
+    "platform": "youtube",
+    "id": "txyCuwRsLQs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-E84mWy1_gyI",
+   "type": "video",
+   "title": "5 Country Swing Dance Moves to Learn Next",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 581,
+   "popularity": 62,
+   "addedAt": "2026-08-23",
+   "source": {
+    "platform": "youtube",
+    "id": "E84mWy1_gyI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3JdvD8H9ah8",
+   "type": "video",
+   "title": "St. Louis Shag - Swing Dancing",
+   "artist": "rodandnathalie",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2007,
+   "durationSec": 183,
+   "popularity": 60,
+   "addedAt": "2026-08-23",
+   "source": {
+    "platform": "youtube",
+    "id": "3JdvD8H9ah8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Wxjim_uvIbg",
+   "type": "video",
+   "title": "Lindyfest 2026: Invitational Draw COMPLETE CONTEST",
+   "artist": "Houston Swing Dance Society - Lindyfest",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1299,
+   "popularity": 55,
+   "addedAt": "2026-08-23",
+   "source": {
+    "platform": "youtube",
+    "id": "Wxjim_uvIbg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wX1mVZwj0f8",
+   "type": "video",
+   "title": "El primer swing out del Lindy Hop",
+   "artist": "EstiloSwing: Baile y cultura Swing",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 60,
+   "popularity": 48,
+   "addedAt": "2026-08-23",
+   "source": {
+    "platform": "youtube",
+    "id": "wX1mVZwj0f8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FprCGzzh-kc",
+   "type": "tutorial",
+   "title": "2/23/17 Beginner Balboa Week 2 (out-and-ins, variations, exit, toss-out)",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 124,
+   "popularity": 45,
+   "addedAt": "2026-08-23",
+   "source": {
+    "platform": "youtube",
+    "id": "FprCGzzh-kc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-eMxgvGcEYcI",
+   "type": "music",
+   "title": "Big Band Swing Music - 🎷 Hey, Good Lookin’ | 1940s Swing Jazz Big Band Original 🎺",
+   "artist": "Jazz Through The Ages",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 146,
+   "popularity": 40,
+   "addedAt": "2026-08-23",
+   "source": {
+    "platform": "youtube",
+    "id": "eMxgvGcEYcI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-eD_ldeUVuR4",
+   "type": "video",
+   "title": "Lindy Focus 2019: St. Louis Shag Performance",
+   "artist": "itravel777",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 156,
+   "popularity": 36,
+   "addedAt": "2026-08-23",
+   "source": {
+    "platform": "youtube",
+    "id": "eD_ldeUVuR4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-D3oodajFrz4",
+   "type": "video",
+   "title": "Uptown Swing Level 1 (6-Count) 8/13/2026",
+   "artist": "Uptown Swing",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 30,
+   "addedAt": "2026-08-23",
+   "source": {
+    "platform": "youtube",
+    "id": "D3oodajFrz4"
+   },
+   "curated": false
+  },
   {
    "id": "yt-qWtWf3REye0",
    "type": "video",
@@ -795,7 +1017,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 360,
-   "popularity": 61,
+   "popularity": 62,
    "addedAt": "2026-08-18",
    "source": {
     "platform": "youtube",
@@ -2899,7 +3121,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 265,
-   "popularity": 9,
+   "popularity": 11,
    "addedAt": "2026-08-14",
    "source": {
     "platform": "youtube",
@@ -3960,7 +4182,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 525,
-   "popularity": 34,
+   "popularity": 35,
    "addedAt": "2026-08-11",
    "source": {
     "platform": "youtube",
@@ -8036,7 +8258,7 @@
   },
   {
    "id": "yt-9Ow_k01VfSg",
-   "type": "video",
+   "type": "music",
    "title": "Did not expect the hotel room key move mid-improv 😂 Well done Markus 🙌🏼 #dance #westcoastswing",
    "artist": "Emeline Rochefeuille",
    "styles": [
@@ -8074,7 +8296,7 @@
   },
   {
    "id": "yt-qW51suNmHkE",
-   "type": "music",
+   "type": "video",
    "title": "Ben Morris & Brandi Guild \"Shivers\" Ed Sheeran - Invitational Jack&Jill - TAP The After Party 2021",
    "artist": "The After Party: A West Coast Swing Experience",
    "styles": [
@@ -8461,7 +8683,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 141,
-   "popularity": 85,
+   "popularity": 86,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -8596,7 +8818,7 @@
   },
   {
    "id": "yt-am3PmylTbDg",
-   "type": "video",
+   "type": "music",
    "title": "Thibault and Nicole Ramirez - 1st Place Showcase - The Open Swing Dance Championships 2024",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -8939,7 +9161,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 319,
-   "popularity": 79,
+   "popularity": 80,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -15955,7 +16177,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "video",
+   "type": "music",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -16604,7 +16826,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 96,
-   "popularity": 26,
+   "popularity": 27,
    "addedAt": "2026-07-31",
    "source": {
     "platform": "youtube",
@@ -22224,7 +22446,8 @@
    "styles": [
     "lindy",
     "jitterbug",
-    "wcs"
+    "wcs",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2023,
@@ -28391,7 +28614,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -28772,7 +28995,7 @@
   },
   {
    "id": "yt-26-1t15R_MU",
-   "type": "video",
+   "type": "music",
    "title": "Sofia Swing Dance Festival 2017 - Adv. J&J Competition (Fast)",
    "artist": "Global Swing Broadcast",
    "styles": [
@@ -28794,7 +29017,7 @@
   },
   {
    "id": "yt-JdRin5YUORk",
-   "type": "video",
+   "type": "music",
    "title": "Mr and Mrs Smooth demonstrating the art of Simply Smooth Swagger - Watch! Be Cool",
    "artist": "Joe N Dancer",
    "styles": [
@@ -29733,7 +29956,7 @@
   },
   {
    "id": "yt-egopcBsOPIU",
-   "type": "video",
+   "type": "music",
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -30136,7 +30359,8 @@
    "styles": [
     "lindy",
     "jitterbug",
-    "lindy8"
+    "lindy8",
+    "balboa"
    ],
    "bpm": null,
    "year": 2022,
@@ -30266,6 +30490,25 @@
    "curated": false
   },
   {
+   "id": "yt-PyEmTd7-aG4",
+   "type": "video",
+   "title": "'Sing Sing Sing’ Charleston dance by MyCharleston Hove group",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 145,
+   "popularity": 81,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "PyEmTd7-aG4"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-LsuE7gfH9_0",
    "type": "tutorial",
    "title": "How to Do the Lindy Swing Out | Swing Dance",
@@ -30343,25 +30586,6 @@
    "source": {
     "platform": "youtube",
     "id": "LEmIgdYzy1o"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-PyEmTd7-aG4",
-   "type": "video",
-   "title": "'Sing Sing Sing’ Charleston dance by MyCharleston Hove group",
-   "artist": "MyCharleston",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 145,
-   "popularity": 80,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "PyEmTd7-aG4"
    },
    "curated": false
   },
@@ -31249,7 +31473,8 @@
    "title": "Frankie Manning, Chazz Young perform the Shim Sham",
    "artist": "NOLA.com",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -34240,6 +34465,25 @@
    "curated": false
   },
   {
+   "id": "yt-ve1djNmeUII",
+   "type": "video",
+   "title": "Why is Balboa dangerous?   #balboadance #dance #balboa #dancer #swingdance #swing #jazz #dancing",
+   "artist": "Jennifer Lee",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 45,
+   "popularity": 63,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "ve1djNmeUII"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-9N15bKmo394",
    "type": "tutorial",
    "title": "Lindy Hop beginner class - 8 Count, basics and send outs 🎪",
@@ -34314,25 +34558,6 @@
    "source": {
     "platform": "youtube",
     "id": "qU6qFKhLSuk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-ve1djNmeUII",
-   "type": "video",
-   "title": "Why is Balboa dangerous?   #balboadance #dance #balboa #dancer #swingdance #swing #jazz #dancing",
-   "artist": "Jennifer Lee",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 45,
-   "popularity": 62,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "ve1djNmeUII"
    },
    "curated": false
   },
