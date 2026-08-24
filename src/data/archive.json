@@ -1,6 +1,42 @@
 {
- "exportedAt": "2026-08-23T18:09:00.404Z",
+ "exportedAt": "2026-08-24T18:13:43.630Z",
  "items": [
+  {
+   "id": "yt-UZ2-FfXZlAU",
+   "type": "music",
+   "title": "Jump Up Super Star! - Full Big Band/Strings cover ft. Grace Kelly (The 8-Bit Big Band)",
+   "artist": "The 8-Bit Big Band",
+   "styles": [],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 279,
+   "popularity": 90,
+   "addedAt": "2026-08-24",
+   "source": {
+    "platform": "youtube",
+    "id": "UZ2-FfXZlAU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Zfm--ByjSBc",
+   "type": "video",
+   "title": "Lindy Hop Dance Performance with Surprise Proposal - Anthony Chen & Irina Amzashvili",
+   "artist": "Anthony Chen",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 190,
+   "popularity": 71,
+   "addedAt": "2026-08-24",
+   "source": {
+    "platform": "youtube",
+    "id": "Zfm--ByjSBc"
+   },
+   "curated": false
+  },
   {
    "id": "yt-WZGa9aUwSig",
    "type": "music",
@@ -16177,7 +16213,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "music",
+   "type": "video",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -21137,7 +21173,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 185,
-   "popularity": 68,
+   "popularity": 69,
    "addedAt": "2026-07-17",
    "source": {
     "platform": "youtube",
@@ -21454,6 +21490,26 @@
    "curated": false
   },
   {
+   "id": "yt-Jdkto2OwLGc",
+   "type": "video",
+   "title": "Strictly Throwdown Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 735,
+   "popularity": 63,
+   "addedAt": "2026-07-15",
+   "source": {
+    "platform": "youtube",
+    "id": "Jdkto2OwLGc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-A9wzOgG3kB4",
    "type": "video",
    "title": "Abbreviated Charleston History - Lindy Hop and Swing Dance",
@@ -21469,26 +21525,6 @@
    "source": {
     "platform": "youtube",
     "id": "A9wzOgG3kB4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Jdkto2OwLGc",
-   "type": "video",
-   "title": "Strictly Throwdown Finals - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 735,
-   "popularity": 62,
-   "addedAt": "2026-07-15",
-   "source": {
-    "platform": "youtube",
-    "id": "Jdkto2OwLGc"
    },
    "curated": false
   },
@@ -28702,7 +28738,7 @@
   },
   {
    "id": "yt-qMglBwfhsN4",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2019 – Dietmar & Nellia – Never Stop Jiving",
    "artist": "RockThatSwing",
    "styles": [
@@ -33402,6 +33438,25 @@
    "curated": false
   },
   {
+   "id": "yt-gbK9Ckz2S5w",
+   "type": "video",
+   "title": "CHARLESTON BUMP  ( Western Partner Dance )",
+   "artist": "alsonvideo",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 172,
+   "popularity": 67,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "gbK9Ckz2S5w"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-JkonZbTj2wE",
    "type": "video",
    "title": "Dance through Lindy Hop's Black American Roots  | If Cities Could Dance",
@@ -33514,25 +33569,6 @@
    "source": {
     "platform": "youtube",
     "id": "jLACLiynUXE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-gbK9Ckz2S5w",
-   "type": "video",
-   "title": "CHARLESTON BUMP  ( Western Partner Dance )",
-   "artist": "alsonvideo",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2013,
-   "durationSec": 172,
-   "popularity": 66,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "gbK9Ckz2S5w"
    },
    "curated": false
   },
@@ -38626,6 +38662,25 @@
    "curated": false
   },
   {
+   "id": "yt-9yqE6hRfjqY",
+   "type": "video",
+   "title": "Open Shag Final - Camp Hollywood 2025",
+   "artist": "camphollywood",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 540,
+   "popularity": 49,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "9yqE6hRfjqY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-2FpkXVvVMBc",
    "type": "video",
    "title": "Savoy Ballroom Exhibit - 1939 NY Worlds Fair (Lindy Hop)  Part1",
@@ -38870,25 +38925,6 @@
    "source": {
     "platform": "youtube",
     "id": "XOCXID7u8gE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-9yqE6hRfjqY",
-   "type": "video",
-   "title": "Open Shag Final - Camp Hollywood 2025",
-   "artist": "camphollywood",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 540,
-   "popularity": 48,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "9yqE6hRfjqY"
    },
    "curated": false
   },
