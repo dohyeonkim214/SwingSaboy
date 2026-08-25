@@ -1,6 +1,196 @@
 {
- "exportedAt": "2026-08-24T18:13:43.630Z",
+ "exportedAt": "2026-08-25T18:14:22.722Z",
  "items": [
+  {
+   "id": "yt-1yvw9Z-nRzQ",
+   "type": "video",
+   "title": "Jakub Jakoubek & Torri Zzaoui \"That Don't Impress Me Much\" - Invitational Jack&Jill - Budafest 2023",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 424,
+   "popularity": 90,
+   "addedAt": "2026-08-25",
+   "source": {
+    "platform": "youtube",
+    "id": "1yvw9Z-nRzQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Oy8D9EYXMpA",
+   "type": "video",
+   "title": "Champion Jack & Jill / UK WCS Champs 2025",
+   "artist": "UK WCS Championships",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 1603,
+   "popularity": 72,
+   "addedAt": "2026-08-25",
+   "source": {
+    "platform": "youtube",
+    "id": "Oy8D9EYXMpA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-265w0Pq5GRQ",
+   "type": "video",
+   "title": "Adventures with Collegiate Shag!",
+   "artist": "Live Collegiate Shag",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 158,
+   "popularity": 65,
+   "addedAt": "2026-08-25",
+   "source": {
+    "platform": "youtube",
+    "id": "265w0Pq5GRQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-z9TaTiQLHiw",
+   "type": "video",
+   "title": "Mind Blowing Improv! 🤯 Nicole Ramirez & Ben Morris in action 🔥 📍Budafest Champions Prelims #wcs",
+   "artist": "WCS.AroundTheWorld",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 63,
+   "addedAt": "2026-08-25",
+   "source": {
+    "platform": "youtube",
+    "id": "z9TaTiQLHiw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-B9j1ck4-KQU",
+   "type": "video",
+   "title": "WCS Champion Jack & Jill - Swingtime 2025",
+   "artist": "Tim Wilson - Passion for West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 1232,
+   "popularity": 61,
+   "addedAt": "2026-08-25",
+   "source": {
+    "platform": "youtube",
+    "id": "B9j1ck4-KQU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gIJ7YLWXqXk",
+   "type": "video",
+   "title": "The West Coast Swing Basic Step",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 72,
+   "popularity": 56,
+   "addedAt": "2026-08-25",
+   "source": {
+    "platform": "youtube",
+    "id": "gIJ7YLWXqXk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-KgA9e7YvNxM",
+   "type": "video",
+   "title": "Save the Fast Dance 2026 - Valentina and Vasu Performance",
+   "artist": "Cambridge Swing Dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 190,
+   "popularity": 52,
+   "addedAt": "2026-08-25",
+   "source": {
+    "platform": "youtube",
+    "id": "KgA9e7YvNxM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_zQKgbPBt0o",
+   "type": "video",
+   "title": "Anchors & Posting | West Coast Swing Tips",
+   "artist": "Thibault and Nicole Ramirez",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 412,
+   "popularity": 52,
+   "addedAt": "2026-08-25",
+   "source": {
+    "platform": "youtube",
+    "id": "_zQKgbPBt0o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-EmlvIzns034",
+   "type": "tutorial",
+   "title": "Lindy Hop Footwork Variations - Heel Heel Toe Toe Part 01",
+   "artist": "The Swing Project",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 122,
+   "popularity": 44,
+   "addedAt": "2026-08-25",
+   "source": {
+    "platform": "youtube",
+    "id": "EmlvIzns034"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-HSjm3z4xWAw",
+   "type": "video",
+   "title": "Learn the WCS half-turn drill you need",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 86,
+   "popularity": 30,
+   "addedAt": "2026-08-25",
+   "source": {
+    "platform": "youtube",
+    "id": "HSjm3z4xWAw"
+   },
+   "curated": false
+  },
   {
    "id": "yt-UZ2-FfXZlAU",
    "type": "music",
@@ -2132,7 +2322,8 @@
    "title": "Ionut & Liane at the Herrang Moon Ball comp prelims #swingdance #lindyhop #charleston #shorts",
    "artist": "Ionut Bajescu",
    "styles": [
-    "lindy6"
+    "lindy6",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2023,
@@ -2416,7 +2607,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 140,
-   "popularity": 36,
+   "popularity": 37,
    "addedAt": "2026-08-15",
    "source": {
     "platform": "youtube",
@@ -4376,7 +4567,8 @@
    "title": "Is this really RANDOM!? #dance #westcoastswing",
    "artist": "Sean & Alyssa McKeever",
    "styles": [
-    "wcs"
+    "wcs",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2025,
@@ -6831,7 +7023,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 169,
-   "popularity": 36,
+   "popularity": 37,
    "addedAt": "2026-08-07",
    "source": {
     "platform": "youtube",
@@ -8294,7 +8486,7 @@
   },
   {
    "id": "yt-9Ow_k01VfSg",
-   "type": "music",
+   "type": "video",
    "title": "Did not expect the hotel room key move mid-improv 😂 Well done Markus 🙌🏼 #dance #westcoastswing",
    "artist": "Emeline Rochefeuille",
    "styles": [
@@ -9827,7 +10019,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 282,
-   "popularity": 73,
+   "popularity": 74,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -11528,7 +11720,8 @@
    "title": "Social Dancing | West Coast Swing | 2022 Colorado Country Classic | Colorado Springs, Colorado",
    "artist": "The Average Nomad  |  Dance Videos",
    "styles": [
-    "wcs"
+    "wcs",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2022,
@@ -13638,7 +13831,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "music",
+   "type": "video",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -15460,7 +15653,7 @@
    "bpm": null,
    "year": 2019,
    "durationSec": 60,
-   "popularity": 41,
+   "popularity": 42,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -15850,6 +16043,26 @@
    "curated": false
   },
   {
+   "id": "yt-HHfmYtor5Dc",
+   "type": "tutorial",
+   "title": "01 Learn Lindy Hop Basics: 6 Count & 8 Count Triple Steps Made Simple",
+   "artist": "Lindy Jazz (Joo-Lee)",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 161,
+   "popularity": 33,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "HHfmYtor5Dc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-LyPer0cYAo4",
    "type": "video",
    "title": "Swingtime | Hipnotized 2025",
@@ -15865,26 +16078,6 @@
    "source": {
     "platform": "youtube",
     "id": "LyPer0cYAo4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-HHfmYtor5Dc",
-   "type": "tutorial",
-   "title": "01 Learn Lindy Hop Basics: 6 Count & 8 Count Triple Steps Made Simple",
-   "artist": "Lindy Jazz (Joo-Lee)",
-   "styles": [
-    "lindy6",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 161,
-   "popularity": 32,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "HHfmYtor5Dc"
    },
    "curated": false
   },
@@ -22437,11 +22630,12 @@
   },
   {
    "id": "yt-PyzkLRrZTCQ",
-   "type": "music",
+   "type": "video",
    "title": "Can’t believe we literally just met 😅 #westcoastswing #dance #competition #improv #randomsong",
    "artist": "Keerigan Rudd",
    "styles": [
-    "lindy"
+    "lindy",
+    "wcs"
    ],
    "bpm": null,
    "year": 2023,
@@ -24909,7 +25103,8 @@
    "title": "Lindy Hoppers Vintage Swing Dance Group",
    "artist": "Haluge",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2008,
@@ -28738,7 +28933,7 @@
   },
   {
    "id": "yt-qMglBwfhsN4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2019 – Dietmar & Nellia – Never Stop Jiving",
    "artist": "RockThatSwing",
    "styles": [
@@ -28804,7 +28999,7 @@
   },
   {
    "id": "yt-mw2QbbD5rc8",
-   "type": "music",
+   "type": "video",
    "title": "🧊🧊👶 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -29581,7 +29776,8 @@
    "artist": "Oleg Astakhov",
    "styles": [
     "balboa",
-    "jitterbug"
+    "jitterbug",
+    "wcs"
    ],
    "bpm": null,
    "year": 2020,
@@ -40054,6 +40250,25 @@
    "curated": false
   },
   {
+   "id": "yt-nRhh8mg-PDo",
+   "type": "video",
+   "title": "Learn this Partner Charleston Turning Sequence: MyCharleston",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 163,
+   "popularity": 45,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "nRhh8mg-PDo"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-gkRHgHsnkBU",
    "type": "video",
    "title": "Lindy Hop Social Dance - Rachel McMullin & Kevin Clark",
@@ -40225,25 +40440,6 @@
    "source": {
     "platform": "youtube",
     "id": "19G4BAW6pzg"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-nRhh8mg-PDo",
-   "type": "video",
-   "title": "Learn this Partner Charleston Turning Sequence: MyCharleston",
-   "artist": "MyCharleston",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 163,
-   "popularity": 44,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "nRhh8mg-PDo"
    },
    "curated": false
   },
