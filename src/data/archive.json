@@ -1,6 +1,196 @@
 {
- "exportedAt": "2026-08-25T18:14:22.722Z",
+ "exportedAt": "2026-08-26T18:41:39.164Z",
  "items": [
+  {
+   "id": "yt-FQB7onZ7K54",
+   "type": "video",
+   "title": "Those ticks though 🔥 #westcoastswing #wcs #dance #dancer #dancing #dancecompetition #improv",
+   "artist": "StuckOnSwing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 51,
+   "popularity": 93,
+   "addedAt": "2026-08-26",
+   "source": {
+    "platform": "youtube",
+    "id": "FQB7onZ7K54"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hwSzu6qHfzY",
+   "type": "video",
+   "title": "2nd 🥈 Place Champions JnJ w/ Alyssa 💃 #westcoastswing #dance #improv #modernswing #competition",
+   "artist": "Keerigan Rudd",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 60,
+   "popularity": 89,
+   "addedAt": "2026-08-26",
+   "source": {
+    "platform": "youtube",
+    "id": "hwSzu6qHfzY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dpCBMwAweDI",
+   "type": "video",
+   "title": "The history of African-American social dance - Camille A. Brown",
+   "artist": "TED-Ed",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 293,
+   "popularity": 85,
+   "addedAt": "2026-08-26",
+   "source": {
+    "platform": "youtube",
+    "id": "dpCBMwAweDI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-OZyLHcP1FgY",
+   "type": "video",
+   "title": "Daniil Nikulin and Jo Hoffberg - Social Lindy Hop",
+   "artist": "Slava Bogatov",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 155,
+   "popularity": 57,
+   "addedAt": "2026-08-26",
+   "source": {
+    "platform": "youtube",
+    "id": "OZyLHcP1FgY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FneD_sTVI2k",
+   "type": "video",
+   "title": "HRH 2018 Open Strictly Collegiate Shag Finals",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 529,
+   "popularity": 54,
+   "addedAt": "2026-08-26",
+   "source": {
+    "platform": "youtube",
+    "id": "FneD_sTVI2k"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-bDzKATM9E68",
+   "type": "video",
+   "title": "Basic 8 Count Lindy Hop with Mike & Elli",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 751,
+   "popularity": 49,
+   "addedAt": "2026-08-26",
+   "source": {
+    "platform": "youtube",
+    "id": "bDzKATM9E68"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-sH1mCKqmutw",
+   "type": "video",
+   "title": "HDE 2010 - Dan & Moe Saturday Night Party - Bal Swing",
+   "artist": "Jens Rahnfeld",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 188,
+   "popularity": 45,
+   "addedAt": "2026-08-26",
+   "source": {
+    "platform": "youtube",
+    "id": "sH1mCKqmutw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Uq9Mic00pGs",
+   "type": "tutorial",
+   "title": "Intermediate 6-Count Lindy Hop | Basics & Tuck Turn to Closed",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 316,
+   "popularity": 39,
+   "addedAt": "2026-08-26",
+   "source": {
+    "platform": "youtube",
+    "id": "Uq9Mic00pGs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-qyNI_tGXwMc",
+   "type": "video",
+   "title": "Anything-but 8-count Swingouts - Intermediate Lindy Hop - Feb 27, 2013",
+   "artist": "Swing Cville",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 102,
+   "popularity": 34,
+   "addedAt": "2026-08-26",
+   "source": {
+    "platform": "youtube",
+    "id": "qyNI_tGXwMc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-XeqPWu2hTRk",
+   "type": "video",
+   "title": "HRH 2026 - Advanced Shag Mix & Match Finals - Grace & Ian",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 114,
+   "popularity": 28,
+   "addedAt": "2026-08-26",
+   "source": {
+    "platform": "youtube",
+    "id": "XeqPWu2hTRk"
+   },
+   "curated": false
+  },
   {
    "id": "yt-1yvw9Z-nRzQ",
    "type": "video",
@@ -8413,6 +8603,25 @@
    "curated": false
   },
   {
+   "id": "yt-Cj4fFsLFItE",
+   "type": "video",
+   "title": "ISDC 2026 - Invitational DFW Swingout Strictly FULL CONTEST",
+   "artist": "International Swing Dance Championships",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1622,
+   "popularity": 92,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "Cj4fFsLFItE"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-QBFj_V2lI2E",
    "type": "video",
    "title": "Zydeco & Whiskey River Jitterbug Dancing in Breaux Bridge, LA",
@@ -8428,25 +8637,6 @@
    "source": {
     "platform": "youtube",
     "id": "QBFj_V2lI2E"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Cj4fFsLFItE",
-   "type": "video",
-   "title": "ISDC 2026 - Invitational DFW Swingout Strictly FULL CONTEST",
-   "artist": "International Swing Dance Championships",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 1622,
-   "popularity": 91,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "Cj4fFsLFItE"
    },
    "curated": false
   },
@@ -13816,7 +14006,8 @@
    "title": "Learn how to dance the 6-count Tuck Turn - Lindy Hop swing dance moves",
    "artist": "Syncopated City",
    "styles": [
-    "lindy6"
+    "lindy6",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -13831,7 +14022,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "video",
+   "type": "music",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -15013,6 +15204,25 @@
    "curated": false
   },
   {
+   "id": "yt-wkCJMmBPJIo",
+   "type": "tutorial",
+   "title": "Intro 8 Count: Circles and Send Outs. Class Recap",
+   "artist": "Lainey Silver",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 130,
+   "popularity": 48,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "wkCJMmBPJIo"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-_QlxY-CKn3o",
    "type": "video",
    "title": "Australian Jitterbug Championships (AJC) 2015 Showcase Charlotte & Jethro",
@@ -15067,25 +15277,6 @@
    "source": {
     "platform": "youtube",
     "id": "NvsWA3QZlWs"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-wkCJMmBPJIo",
-   "type": "tutorial",
-   "title": "Intro 8 Count: Circles and Send Outs. Class Recap",
-   "artist": "Lainey Silver",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 130,
-   "popularity": 47,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "wkCJMmBPJIo"
    },
    "curated": false
   },
@@ -19022,7 +19213,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 459,
-   "popularity": 45,
+   "popularity": 46,
    "addedAt": "2026-07-23",
    "source": {
     "platform": "youtube",
@@ -22772,7 +22963,8 @@
    "title": "CALL and RESPONSE in Lindy Hop social dancing. Mercè Garric & Jaume Rosset.",
    "artist": "Swing this Music",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -24632,7 +24824,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 91,
-   "popularity": 33,
+   "popularity": 34,
    "addedAt": "2026-07-10",
    "source": {
     "platform": "youtube",
@@ -32298,6 +32490,25 @@
    "curated": false
   },
   {
+   "id": "yt-yBLKXEo-kHQ",
+   "type": "video",
+   "title": "‘In The Mood’ Solo Jazz and Charleston Dance Routine. Hove, UK | MyCharleston",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 144,
+   "popularity": 72,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "yBLKXEo-kHQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-5VqSDEN2A5w",
    "type": "video",
    "title": "Lindy Hop Level 1 - Frankie Manning & Erin Stevens (1995)",
@@ -32412,25 +32623,6 @@
    "source": {
     "platform": "youtube",
     "id": "B9wSJFhNH1w"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-yBLKXEo-kHQ",
-   "type": "video",
-   "title": "‘In The Mood’ Solo Jazz and Charleston Dance Routine. Hove, UK | MyCharleston",
-   "artist": "MyCharleston",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 144,
-   "popularity": 71,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "yBLKXEo-kHQ"
    },
    "curated": false
   },
@@ -34235,6 +34427,25 @@
    "curated": false
   },
   {
+   "id": "yt-7TXCwjMBP5M",
+   "type": "video",
+   "title": "Charleston Dance Routine - MyCharleston",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 121,
+   "popularity": 65,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "7TXCwjMBP5M"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-enPIXit6LlM",
    "type": "video",
    "title": "Lindy Hop Social Dance by Sondre & Tanya 🤩 #dance #dancevideo #lindyhop #lindy #swingdance",
@@ -34423,25 +34634,6 @@
    "source": {
     "platform": "youtube",
     "id": "dU5DByYhVME"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-7TXCwjMBP5M",
-   "type": "video",
-   "title": "Charleston Dance Routine - MyCharleston",
-   "artist": "MyCharleston",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 121,
-   "popularity": 64,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "7TXCwjMBP5M"
    },
    "curated": false
   },
@@ -35644,7 +35836,8 @@
    "title": "Harlem Congaroos featuring Frankie Manning",
    "artist": "Savoy Hop",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2013,
@@ -37340,6 +37533,26 @@
    "curated": false
   },
   {
+   "id": "yt-yfUSsLMjjIw",
+   "type": "video",
+   "title": "Strictly Lindy Final | Lindy Hop Competition – Sofia Swing Dance Festival 2025",
+   "artist": "Lindy Hop Bulgaria",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 629,
+   "popularity": 54,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "yfUSsLMjjIw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-QKNjMRnFmRQ",
    "type": "video",
    "title": "Open Balboa Final - Camp Hollywood 2025",
@@ -37432,26 +37645,6 @@
    "source": {
     "platform": "youtube",
     "id": "jmTxocFgJ1A"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-yfUSsLMjjIw",
-   "type": "video",
-   "title": "Strictly Lindy Final | Lindy Hop Competition – Sofia Swing Dance Festival 2025",
-   "artist": "Lindy Hop Bulgaria",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 629,
-   "popularity": 53,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "yfUSsLMjjIw"
    },
    "curated": false
   },
@@ -43270,6 +43463,25 @@
    "curated": false
   },
   {
+   "id": "yt-RvV6rrOporQ",
+   "type": "video",
+   "title": "Dom & Kate -- The Balboa Experiment 2024, social dance",
+   "artist": "Kate Hedin",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 208,
+   "popularity": 30,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "RvV6rrOporQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-07z_0eosqE4",
    "type": "video",
    "title": "SAVOY STYLE SWING \"It Could Happen to You\" Brother Brian Davis",
@@ -43324,25 +43536,6 @@
    "source": {
     "platform": "youtube",
     "id": "9VHafGAl-Zk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-RvV6rrOporQ",
-   "type": "video",
-   "title": "Dom & Kate -- The Balboa Experiment 2024, social dance",
-   "artist": "Kate Hedin",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 208,
-   "popularity": 28,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "RvV6rrOporQ"
    },
    "curated": false
   },
