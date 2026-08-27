@@ -1,6 +1,61 @@
 {
- "exportedAt": "2026-08-26T18:41:39.164Z",
+ "exportedAt": "2026-08-27T21:18:39.451Z",
  "items": [
+  {
+   "id": "yt-fy2dR60-q1M",
+   "type": "tutorial",
+   "title": "20 Swing Era Lindy Hoppers Every Beginner Dancer Should Know (Or At Least See Dance)",
+   "artist": "Swungover",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 555,
+   "popularity": 73,
+   "addedAt": "2026-08-27",
+   "source": {
+    "platform": "youtube",
+    "id": "fy2dR60-q1M"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7io8TwC8FMY",
+   "type": "tutorial",
+   "title": "지루박 중급 여성 기초스텝 나비처럼 사뿐~ / Jitterbug, Ballroom Dance, Social Dance / 지르박",
+   "artist": "손영식댄스",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 352,
+   "popularity": 50,
+   "addedAt": "2026-08-27",
+   "source": {
+    "platform": "youtube",
+    "id": "7io8TwC8FMY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gFS_wg5atmM",
+   "type": "music",
+   "title": "Lindy Hop Swing Jazz Dance Music Playlist Old Time Classic Vintage Big Band Era Tunes",
+   "artist": "Swing Jazz Music",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 55,
+   "popularity": 49,
+   "addedAt": "2026-08-27",
+   "source": {
+    "platform": "youtube",
+    "id": "gFS_wg5atmM"
+   },
+   "curated": false
+  },
   {
    "id": "yt-FQB7onZ7K54",
    "type": "video",
@@ -1547,7 +1602,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 61,
-   "popularity": 45,
+   "popularity": 46,
    "addedAt": "2026-08-18",
    "source": {
     "platform": "youtube",
@@ -8714,7 +8769,7 @@
   },
   {
    "id": "yt-qW51suNmHkE",
-   "type": "video",
+   "type": "music",
    "title": "Ben Morris & Brandi Guild \"Shivers\" Ed Sheeran - Invitational Jack&Jill - TAP The After Party 2021",
    "artist": "The After Party: A West Coast Swing Experience",
    "styles": [
@@ -10675,6 +10730,25 @@
    "curated": false
   },
   {
+   "id": "yt-vx1wmjgR124",
+   "type": "video",
+   "title": "The 11 WCS Patterns Everyone Must Know!",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 965,
+   "popularity": 68,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "vx1wmjgR124"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-g7l-Qj-JJmI",
    "type": "video",
    "title": "ILHC 2010 -  Showcase - Andrew Thigpen & Karen Turman",
@@ -10709,25 +10783,6 @@
    "source": {
     "platform": "youtube",
     "id": "-NfM77Rp4rA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-vx1wmjgR124",
-   "type": "video",
-   "title": "The 11 WCS Patterns Everyone Must Know!",
-   "artist": "West Coast Swing Online",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2023,
-   "durationSec": 965,
-   "popularity": 67,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "vx1wmjgR124"
    },
    "curated": false
   },
@@ -19175,7 +19230,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 74,
-   "popularity": 51,
+   "popularity": 52,
    "addedAt": "2026-07-23",
    "source": {
     "platform": "youtube",
@@ -19481,7 +19536,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 422,
-   "popularity": 51,
+   "popularity": 52,
    "addedAt": "2026-07-22",
    "source": {
     "platform": "youtube",
@@ -19914,7 +19969,8 @@
    "title": "CHALLENGED DRAW FINALS - ILHC EUROPE 2025",
    "artist": "The International Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
@@ -20284,7 +20340,8 @@
    "artist": "Ken & Bryn",
    "styles": [
     "lindy",
-    "wcs"
+    "wcs",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2025,
@@ -21471,7 +21528,8 @@
    "artist": "Tolis Delta",
    "styles": [
     "charleston",
-    "jitterbug"
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2012,
@@ -26302,7 +26360,7 @@
   },
   {
    "id": "yt-WFhRquNGQCw",
-   "type": "music",
+   "type": "video",
    "title": "MY GIRL - RTSF 2023 - Nils and Bianca",
    "artist": "Nils and Bianca",
    "styles": [
@@ -29037,7 +29095,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -29125,7 +29183,7 @@
   },
   {
    "id": "yt-qMglBwfhsN4",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2019 – Dietmar & Nellia – Never Stop Jiving",
    "artist": "RockThatSwing",
    "styles": [
@@ -29440,7 +29498,7 @@
   },
   {
    "id": "yt-JdRin5YUORk",
-   "type": "music",
+   "type": "video",
    "title": "Mr and Mrs Smooth demonstrating the art of Simply Smooth Swagger - Watch! Be Cool",
    "artist": "Joe N Dancer",
    "styles": [
@@ -29481,7 +29539,7 @@
   },
   {
    "id": "yt-LlymNcFkj0I",
-   "type": "video",
+   "type": "music",
    "title": "Lindy Hop First Wedding Dance",
    "artist": "Lindsay Stetson",
    "styles": [
@@ -29726,7 +29784,7 @@
   },
   {
    "id": "yt-06RlwN0nddQ",
-   "type": "music",
+   "type": "video",
    "title": "SWING TIME ('36): “Pick Yourself Up”",
    "artist": "Turner Classic Movies",
    "styles": [
@@ -30190,7 +30248,8 @@
    "title": "How to Dance The Lindy Hop Basic",
    "artist": "mahalodotcom",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2010,
@@ -30340,7 +30399,7 @@
   },
   {
    "id": "yt-Q3ew4E_-8Ps",
-   "type": "video",
+   "type": "music",
    "title": "Throwback Video! Lindy Hop combos with Anna, Slava, Jean, and Ali",
    "artist": "SwingStepTV",
    "styles": [
@@ -30380,7 +30439,7 @@
   },
   {
    "id": "yt-egopcBsOPIU",
-   "type": "music",
+   "type": "video",
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -31093,7 +31152,7 @@
   },
   {
    "id": "yt-Xu6Y9cAQqIs",
-   "type": "video",
+   "type": "music",
    "title": "The Lindy-Hop-A-Thon Group Dance - BBC Strictly 2018",
    "artist": "BBC Strictly Come Dancing",
    "styles": [
@@ -31463,7 +31522,7 @@
   },
   {
    "id": "yt-7PBCS3v9B8M",
-   "type": "video",
+   "type": "music",
    "title": "Irina & Anthony - social lindy hop demo at Havelhop 2023",
    "artist": "Slava Bogatov",
    "styles": [
@@ -31832,6 +31891,26 @@
    "curated": false
   },
   {
+   "id": "yt-7_bj_NhchEA",
+   "type": "video",
+   "title": "Shim Sham - Frankie Manning & Erin Stevens (1995)",
+   "artist": "Lindy Hop Archive",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 2530,
+   "popularity": 75,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "7_bj_NhchEA"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Vpd6Atc2Kf8",
    "type": "video",
    "title": "ILHC 2011 - Showcase - Max Pitruzzella & Annie Trudeau",
@@ -31868,26 +31947,6 @@
    "source": {
     "platform": "youtube",
     "id": "Z8Z6cWgqOq4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-7_bj_NhchEA",
-   "type": "video",
-   "title": "Shim Sham - Frankie Manning & Erin Stevens (1995)",
-   "artist": "Lindy Hop Archive",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2020,
-   "durationSec": 2530,
-   "popularity": 74,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "7_bj_NhchEA"
    },
    "curated": false
   },
@@ -32163,7 +32222,7 @@
   },
   {
    "id": "yt-tZbArq08Aw8",
-   "type": "video",
+   "type": "music",
    "title": "Rhythm Practice for Lindy Hop & Swing Dance - 6 & 8 Count",
    "artist": "Laura Glaess",
    "styles": [
@@ -33641,7 +33700,8 @@
    "title": "30's Charleston Footwork Lesson (mirrored) with Frankie Manning and Erin Stevens",
    "artist": "Gainesville Swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -39641,6 +39701,25 @@
    "curated": false
   },
   {
+   "id": "yt-gb_ZCiKF8yo",
+   "type": "video",
+   "title": "HRH 2026 - Advanced Balboa Strictly Finals COMPLETE CONTEST",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1073,
+   "popularity": 47,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "gb_ZCiKF8yo"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-XvdN7HReFD4",
    "type": "video",
    "title": "Open Mix & Match Finals | Lindy Hop Competition – Sofia Swing Dance Festival 2025",
@@ -39942,25 +40021,6 @@
    "source": {
     "platform": "youtube",
     "id": "HqgDVMM9JmQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-gb_ZCiKF8yo",
-   "type": "video",
-   "title": "HRH 2026 - Advanced Balboa Strictly Finals COMPLETE CONTEST",
-   "artist": "Hot Rhythm Foundation",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 1073,
-   "popularity": 46,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "gb_ZCiKF8yo"
    },
    "curated": false
   },
