@@ -1,6 +1,230 @@
 {
- "exportedAt": "2026-08-27T21:18:39.451Z",
+ "exportedAt": "2026-08-28T21:26:56.185Z",
  "items": [
+  {
+   "id": "yt-C6ytevtLsH4",
+   "type": "music",
+   "title": "All Of Me - San Lyon - Swing Jazz",
+   "artist": "Jenna Colombet",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 245,
+   "popularity": 85,
+   "addedAt": "2026-08-28",
+   "source": {
+    "platform": "youtube",
+    "id": "C6ytevtLsH4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ddqc0giU5sE",
+   "type": "music",
+   "title": "On the Sunny Side of the Street",
+   "artist": "Le Dancing Pepa Swing Band - Topic",
+   "styles": [],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 212,
+   "popularity": 63,
+   "addedAt": "2026-08-28",
+   "source": {
+    "platform": "youtube",
+    "id": "ddqc0giU5sE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dcNQiG2jnEI",
+   "type": "video",
+   "title": "Balboa Dancing",
+   "artist": "Christine Simpson",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 225,
+   "popularity": 62,
+   "addedAt": "2026-08-28",
+   "source": {
+    "platform": "youtube",
+    "id": "dcNQiG2jnEI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3x9dNOqr9SA",
+   "type": "video",
+   "title": "Lindyfest 2018 - Open Balboa Battle Finals",
+   "artist": "Houston Swing Dance Society - Lindyfest",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 716,
+   "popularity": 54,
+   "addedAt": "2026-08-28",
+   "source": {
+    "platform": "youtube",
+    "id": "3x9dNOqr9SA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-34iDmCJKKtI",
+   "type": "video",
+   "title": "HRH 2023: Advanced Balboa Strictly Finals - Alice & Jeremy",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 110,
+   "popularity": 53,
+   "addedAt": "2026-08-28",
+   "source": {
+    "platform": "youtube",
+    "id": "34iDmCJKKtI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ENwsQ7ZHHz8",
+   "type": "video",
+   "title": "That FACE 🥴🤣😂 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 53,
+   "addedAt": "2026-08-28",
+   "source": {
+    "platform": "youtube",
+    "id": "ENwsQ7ZHHz8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-yMwNoCaWUpU",
+   "type": "video",
+   "title": "Advanced Draw Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1039,
+   "popularity": 46,
+   "addedAt": "2026-08-28",
+   "source": {
+    "platform": "youtube",
+    "id": "yMwNoCaWUpU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tAbHZz0M7Ao",
+   "type": "video",
+   "title": "2nd Place: Hammer Lu - Open Solo Jazz & Charleston Finals - ILHC 2021",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 82,
+   "popularity": 45,
+   "addedAt": "2026-08-28",
+   "source": {
+    "platform": "youtube",
+    "id": "tAbHZz0M7Ao"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-fXsVQc0d3TU",
+   "type": "video",
+   "title": "Solo jazz #swingdance #dance #스윙댄스 #solojazz #authenticjazz",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 53,
+   "popularity": 40,
+   "addedAt": "2026-08-28",
+   "source": {
+    "platform": "youtube",
+    "id": "fXsVQc0d3TU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-JiFHyeQuQF0",
+   "type": "tutorial",
+   "title": "Why Jitterbug Is Perfect For Beginners",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 72,
+   "popularity": 37,
+   "addedAt": "2026-08-28",
+   "source": {
+    "platform": "youtube",
+    "id": "JiFHyeQuQF0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-vg0pWCT3ATs",
+   "type": "video",
+   "title": "HRH 2026 - Amateur Shag Strictly Finals COMPLETE CONTEST",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 800,
+   "popularity": 36,
+   "addedAt": "2026-08-28",
+   "source": {
+    "platform": "youtube",
+    "id": "vg0pWCT3ATs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-MeMTVVGh0m0",
+   "type": "video",
+   "title": "Advanced Jazz - Top 4 Battles - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 512,
+   "popularity": 22,
+   "addedAt": "2026-08-28",
+   "source": {
+    "platform": "youtube",
+    "id": "MeMTVVGh0m0"
+   },
+   "curated": false
+  },
   {
    "id": "yt-fy2dR60-q1M",
    "type": "tutorial",
@@ -6443,7 +6667,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 397,
-   "popularity": 52,
+   "popularity": 53,
    "addedAt": "2026-08-08",
    "source": {
     "platform": "youtube",
@@ -7416,7 +7640,8 @@
    "artist": "CapitalSwingDancers",
    "styles": [
     "wcs",
-    "jitterbug"
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2015,
@@ -12526,6 +12751,25 @@
    "curated": false
   },
   {
+   "id": "yt-y6o0K5KQoKo",
+   "type": "tutorial",
+   "title": "6-Count Lindy Hop for Beginners",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 203,
+   "popularity": 39,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "y6o0K5KQoKo"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-UWNFmMmYRPY",
    "type": "music",
    "title": "Tuxedo Junction Party. Lindy Hop Mix&Match Open. Prelims. Heat 1, song 1",
@@ -12539,25 +12783,6 @@
    "source": {
     "platform": "youtube",
     "id": "UWNFmMmYRPY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-y6o0K5KQoKo",
-   "type": "tutorial",
-   "title": "6-Count Lindy Hop for Beginners",
-   "artist": "Lark Mervine",
-   "styles": [
-    "lindy6"
-   ],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 203,
-   "popularity": 38,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "y6o0K5KQoKo"
    },
    "curated": false
   },
@@ -13139,7 +13364,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "music",
+   "type": "video",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -14077,7 +14302,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "music",
+   "type": "video",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -14668,6 +14893,25 @@
    "curated": false
   },
   {
+   "id": "yt-7SBW_sW3ruc",
+   "type": "tutorial",
+   "title": "How to Count the East Coast Swing with Music",
+   "artist": "Ballroom Feed",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 262,
+   "popularity": 56,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "7SBW_sW3ruc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-JN5AEYxWWuk",
    "type": "video",
    "title": "Single Time Swing Moves | Swing/Jitterbug Master Demo (1-10)",
@@ -14722,25 +14966,6 @@
    "source": {
     "platform": "youtube",
     "id": "AOfAEPYuZkA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-7SBW_sW3ruc",
-   "type": "tutorial",
-   "title": "How to Count the East Coast Swing with Music",
-   "artist": "Ballroom Feed",
-   "styles": [
-    "lindy6"
-   ],
-   "bpm": null,
-   "year": 2023,
-   "durationSec": 262,
-   "popularity": 55,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "7SBW_sW3ruc"
    },
    "curated": false
   },
@@ -19187,7 +19412,8 @@
    "title": "Al Minns & Frankie Manning demo at the Swedish Swing Society",
    "artist": "The American Lindy Hop Championships",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -24378,6 +24604,25 @@
    "curated": false
   },
   {
+   "id": "yt--RxFTpb4-r4",
+   "type": "video",
+   "title": "Nevermore Jazz Ball 2017 - St. Louis Shag Partner Draw",
+   "artist": "Nevermore Jazz Ball",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 334,
+   "popularity": 52,
+   "addedAt": "2026-07-10",
+   "source": {
+    "platform": "youtube",
+    "id": "-RxFTpb4-r4"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-UsDMqUjUTfY",
    "type": "video",
    "title": "Johnny B. Goode! | 1958 County Fair Rock ’n’ Roll Finale #ai #dance #duet #history #love #freedom",
@@ -24393,25 +24638,6 @@
    "source": {
     "platform": "youtube",
     "id": "UsDMqUjUTfY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt--RxFTpb4-r4",
-   "type": "video",
-   "title": "Nevermore Jazz Ball 2017 - St. Louis Shag Partner Draw",
-   "artist": "Nevermore Jazz Ball",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2017,
-   "durationSec": 334,
-   "popularity": 51,
-   "addedAt": "2026-07-10",
-   "source": {
-    "platform": "youtube",
-    "id": "-RxFTpb4-r4"
    },
    "curated": false
   },
@@ -26514,7 +26740,7 @@
   },
   {
    "id": "yt-rUNgVC-xKJI",
-   "type": "video",
+   "type": "music",
    "title": "Lindy Hop VS Boogie Woogie #swingdance #dancing #battle",
    "artist": "Ludo & Stacy",
    "styles": [
@@ -29095,7 +29321,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -29183,7 +29409,7 @@
   },
   {
    "id": "yt-qMglBwfhsN4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2019 – Dietmar & Nellia – Never Stop Jiving",
    "artist": "RockThatSwing",
    "styles": [
@@ -29249,7 +29475,7 @@
   },
   {
    "id": "yt-mw2QbbD5rc8",
-   "type": "video",
+   "type": "music",
    "title": "🧊🧊👶 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -31152,7 +31378,7 @@
   },
   {
    "id": "yt-Xu6Y9cAQqIs",
-   "type": "music",
+   "type": "video",
    "title": "The Lindy-Hop-A-Thon Group Dance - BBC Strictly 2018",
    "artist": "BBC Strictly Come Dancing",
    "styles": [
@@ -31522,7 +31748,7 @@
   },
   {
    "id": "yt-7PBCS3v9B8M",
-   "type": "music",
+   "type": "video",
    "title": "Irina & Anthony - social lindy hop demo at Havelhop 2023",
    "artist": "Slava Bogatov",
    "styles": [
@@ -32222,7 +32448,7 @@
   },
   {
    "id": "yt-tZbArq08Aw8",
-   "type": "music",
+   "type": "video",
    "title": "Rhythm Practice for Lindy Hop & Swing Dance - 6 & 8 Count",
    "artist": "Laura Glaess",
    "styles": [
@@ -42787,12 +43013,32 @@
    ],
    "bpm": null,
    "year": 2026,
-   "durationSec": 331,
+   "durationSec": 332,
    "popularity": 36,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
     "id": "lLfG_HBpuf0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-VROGdid3-dk",
+   "type": "video",
+   "title": "Lindy Hop At The Savoy  1950's",
+   "artist": "Diáspora & Samba Rock",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 103,
+   "popularity": 36,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "VROGdid3-dk"
    },
    "curated": false
   },
@@ -42813,26 +43059,6 @@
    "source": {
     "platform": "youtube",
     "id": "XYXcqFQbTvk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-VROGdid3-dk",
-   "type": "video",
-   "title": "Lindy Hop At The Savoy  1950's",
-   "artist": "Diáspora & Samba Rock",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2020,
-   "durationSec": 103,
-   "popularity": 35,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "VROGdid3-dk"
    },
    "curated": false
   },
