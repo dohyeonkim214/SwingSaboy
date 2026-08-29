@@ -1,6 +1,173 @@
 {
- "exportedAt": "2026-08-28T21:26:56.185Z",
+ "exportedAt": "2026-08-29T18:20:45.206Z",
  "items": [
+  {
+   "id": "yt-VCTOpdlZJ8U",
+   "type": "music",
+   "title": "Bad Romance - Vintage 1920's Gatsby Style Lady Gaga Cover ft. Ariana Savalas & Sarah Reich",
+   "artist": "PostmodernJukebox",
+   "styles": [],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 276,
+   "popularity": 100,
+   "addedAt": "2026-08-29",
+   "source": {
+    "platform": "youtube",
+    "id": "VCTOpdlZJ8U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-upb2m2JTGGA",
+   "type": "music",
+   "title": "No Surprises - Vintage 1930s Jazz Radiohead Cover ft. Chloe Feoranzo",
+   "artist": "PostmodernJukebox",
+   "styles": [],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 234,
+   "popularity": 95,
+   "addedAt": "2026-08-29",
+   "source": {
+    "platform": "youtube",
+    "id": "upb2m2JTGGA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-l3j7fGCB45o",
+   "type": "video",
+   "title": "100% Improv West Coast Swing. DJ chose the song 😍 Our dance partner anniversary! #competition  #wcs",
+   "artist": "Keerigan Rudd",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 56,
+   "popularity": 80,
+   "addedAt": "2026-08-29",
+   "source": {
+    "platform": "youtube",
+    "id": "l3j7fGCB45o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-JmoNXbHi9pU",
+   "type": "video",
+   "title": "Jitterbug Dancing 1944 Vintage Instructional Movie Video HD",
+   "artist": "FM1156",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 576,
+   "popularity": 74,
+   "addedAt": "2026-08-29",
+   "source": {
+    "platform": "youtube",
+    "id": "JmoNXbHi9pU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-u5PNqhmlRto",
+   "type": "video",
+   "title": "Kenny & Alba - Advanced Balboa (reverse throwout, accelerated tuck turn, elbow catch)",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 89,
+   "popularity": 56,
+   "addedAt": "2026-08-29",
+   "source": {
+    "platform": "youtube",
+    "id": "u5PNqhmlRto"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-G-8sw2BzPTA",
+   "type": "video",
+   "title": "My Favorite Jitterbug Dance Moves",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 54,
+   "popularity": 54,
+   "addedAt": "2026-08-29",
+   "source": {
+    "platform": "youtube",
+    "id": "G-8sw2BzPTA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-abvs6dv0oXQ",
+   "type": "video",
+   "title": "Ouverture de bal swing rock flashmob - Just a gigolo (Louis Prima)",
+   "artist": "Norma Danse",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 175,
+   "popularity": 52,
+   "addedAt": "2026-08-29",
+   "source": {
+    "platform": "youtube",
+    "id": "abvs6dv0oXQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4YEKIQtEehM",
+   "type": "tutorial",
+   "title": "Lindy hop lesson : basics steps 8 counts",
+   "artist": "Easy Swing",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 97,
+   "popularity": 51,
+   "addedAt": "2026-08-29",
+   "source": {
+    "platform": "youtube",
+    "id": "4YEKIQtEehM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QdOLXRzWel4",
+   "type": "video",
+   "title": "Uptown Swing - Level 2 Lindy Hop mixing 6+8 count 2/19/20",
+   "artist": "Uptown Swing",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 57,
+   "popularity": 38,
+   "addedAt": "2026-08-29",
+   "source": {
+    "platform": "youtube",
+    "id": "QdOLXRzWel4"
+   },
+   "curated": false
+  },
   {
    "id": "yt-C6ytevtLsH4",
    "type": "music",
@@ -160,7 +327,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 53,
-   "popularity": 40,
+   "popularity": 45,
    "addedAt": "2026-08-28",
    "source": {
     "platform": "youtube",
@@ -6738,7 +6905,8 @@
    "title": "Uptown Swing - Level 2 Lindy Hop 6 and 8 count month 1/18/17",
    "artist": "Uptown Swing",
    "styles": [
-    "lindy6"
+    "lindy6",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -8955,6 +9123,23 @@
    "curated": false
   },
   {
+   "id": "yt-UGCxrt7Gcb4",
+   "type": "music",
+   "title": "Minor Swing (160 bpm) (Old Style) - Gypsy jazz Backing track / Jazz manouche",
+   "artist": "Guitare Improvisation",
+   "styles": [],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 309,
+   "popularity": 91,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "UGCxrt7Gcb4"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-9Ow_k01VfSg",
    "type": "video",
    "title": "Did not expect the hotel room key move mid-improv 😂 Well done Markus 🙌🏼 #dance #westcoastswing",
@@ -9029,23 +9214,6 @@
    "source": {
     "platform": "youtube",
     "id": "coHjUU28udE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-UGCxrt7Gcb4",
-   "type": "music",
-   "title": "Minor Swing (160 bpm) (Old Style) - Gypsy jazz Backing track / Jazz manouche",
-   "artist": "Guitare Improvisation",
-   "styles": [],
-   "bpm": null,
-   "year": 2016,
-   "durationSec": 309,
-   "popularity": 90,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "UGCxrt7Gcb4"
    },
    "curated": false
   },
@@ -9739,6 +9907,25 @@
    "curated": false
   },
   {
+   "id": "yt-SE0zBTiGB1U",
+   "type": "tutorial",
+   "title": "KP Rutland & Bryn Anderson - The Open 2025 - 2nd Place Classic Division",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 272,
+   "popularity": 81,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "SE0zBTiGB1U"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-L--9LSCG6QQ",
    "type": "video",
    "title": "Surprise dance when Jordan Frisbee draws Tatiana Mollmann | West Coast Swing (Sweden 2017)",
@@ -9809,25 +9996,6 @@
    "source": {
     "platform": "youtube",
     "id": "eNo7n53pRw0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-SE0zBTiGB1U",
-   "type": "tutorial",
-   "title": "KP Rutland & Bryn Anderson - The Open 2025 - 2nd Place Classic Division",
-   "artist": "Ken & Bryn",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 272,
-   "popularity": 80,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "SE0zBTiGB1U"
    },
    "curated": false
   },
@@ -14302,7 +14470,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "video",
+   "type": "music",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -15084,6 +15252,25 @@
    "curated": false
   },
   {
+   "id": "yt-gvbV-Cy7V_k",
+   "type": "tutorial",
+   "title": "How to Swing Dance: East Coast Swing & Jitterbug for Beginners",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 572,
+   "popularity": 54,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "gvbV-Cy7V_k"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-GBEOxAh1d7M",
    "type": "tutorial",
    "title": "Learn to dance lindy hop : 6 count basics",
@@ -15176,25 +15363,6 @@
    "source": {
     "platform": "youtube",
     "id": "9-k1lofb8dA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-gvbV-Cy7V_k",
-   "type": "tutorial",
-   "title": "How to Swing Dance: East Coast Swing & Jitterbug for Beginners",
-   "artist": "Social Dance Online",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 572,
-   "popularity": 53,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "gvbV-Cy7V_k"
    },
    "curated": false
   },
@@ -15503,6 +15671,26 @@
    "curated": false
   },
   {
+   "id": "yt-NvsWA3QZlWs",
+   "type": "tutorial",
+   "title": "A Class Recap 4/8/19 - Beginner 8-Count Lindy Hop",
+   "artist": "Lindy Maine",
+   "styles": [
+    "lindy8",
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 141,
+   "popularity": 48,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "NvsWA3QZlWs"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-_QlxY-CKn3o",
    "type": "video",
    "title": "Australian Jitterbug Championships (AJC) 2015 Showcase Charlotte & Jethro",
@@ -15537,26 +15725,6 @@
    "source": {
     "platform": "youtube",
     "id": "LYlealTPTqQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-NvsWA3QZlWs",
-   "type": "tutorial",
-   "title": "A Class Recap 4/8/19 - Beginner 8-Count Lindy Hop",
-   "artist": "Lindy Maine",
-   "styles": [
-    "lindy8",
-    "lindy6"
-   ],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 141,
-   "popularity": 47,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "NvsWA3QZlWs"
    },
    "curated": false
   },
@@ -20532,7 +20700,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 179,
-   "popularity": 49,
+   "popularity": 50,
    "addedAt": "2026-07-19",
    "source": {
     "platform": "youtube",
@@ -21101,6 +21269,26 @@
    "curated": false
   },
   {
+   "id": "yt-ECewa2qTixQ",
+   "type": "tutorial",
+   "title": "World Finals Classic - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1822,
+   "popularity": 57,
+   "addedAt": "2026-07-18",
+   "source": {
+    "platform": "youtube",
+    "id": "ECewa2qTixQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-sLItrwchoFY",
    "type": "video",
    "title": "Bal Swing - Maxie and Linda",
@@ -21291,6 +21479,25 @@
    "curated": false
   },
   {
+   "id": "yt-VQclrYHUJnQ",
+   "type": "video",
+   "title": "Cours de Solo Jazz Mars 2023 - Charleston",
+   "artist": "Saumur Swing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 53,
+   "popularity": 48,
+   "addedAt": "2026-07-18",
+   "source": {
+    "platform": "youtube",
+    "id": "VQclrYHUJnQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-rW81cKRHk9Q",
    "type": "video",
    "title": "FRANKIE MANNING and ANGELA ANDREW Lindy Hopping in HERRANG 2005",
@@ -21307,25 +21514,6 @@
    "source": {
     "platform": "youtube",
     "id": "rW81cKRHk9Q"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-VQclrYHUJnQ",
-   "type": "video",
-   "title": "Cours de Solo Jazz Mars 2023 - Charleston",
-   "artist": "Saumur Swing",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2023,
-   "durationSec": 53,
-   "popularity": 47,
-   "addedAt": "2026-07-18",
-   "source": {
-    "platform": "youtube",
-    "id": "VQclrYHUJnQ"
    },
    "curated": false
   },
@@ -21592,25 +21780,6 @@
    "source": {
     "platform": "youtube",
     "id": "X_mAkxDDwQw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-ECewa2qTixQ",
-   "type": "tutorial",
-   "title": "World Finals Classic - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 1822,
-   "popularity": 36,
-   "addedAt": "2026-07-18",
-   "source": {
-    "platform": "youtube",
-    "id": "ECewa2qTixQ"
    },
    "curated": false
   },
@@ -22197,6 +22366,26 @@
    "curated": false
   },
   {
+   "id": "yt-7WBnQbnIp80",
+   "type": "video",
+   "title": "Strictly Throwdown - Top 16 Battles - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 2080,
+   "popularity": 60,
+   "addedAt": "2026-07-15",
+   "source": {
+    "platform": "youtube",
+    "id": "7WBnQbnIp80"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-nz3jbApmofw",
    "type": "video",
    "title": "Bal-Swing in Darmstadt with Ali and Katja.avi",
@@ -22212,25 +22401,6 @@
    "source": {
     "platform": "youtube",
     "id": "nz3jbApmofw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-7WBnQbnIp80",
-   "type": "video",
-   "title": "Strictly Throwdown - Top 16 Battles - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 2080,
-   "popularity": 53,
-   "addedAt": "2026-07-15",
-   "source": {
-    "platform": "youtube",
-    "id": "7WBnQbnIp80"
    },
    "curated": false
   },
@@ -24951,12 +25121,13 @@
    "title": "PSSF 2026 / Strictly Lindy Hop / Finals",
    "artist": "Zig-Zag tap&swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2026,
    "durationSec": 396,
-   "popularity": 38,
+   "popularity": 39,
    "addedAt": "2026-07-10",
    "source": {
     "platform": "youtube",
@@ -26586,7 +26757,7 @@
   },
   {
    "id": "yt-WFhRquNGQCw",
-   "type": "video",
+   "type": "music",
    "title": "MY GIRL - RTSF 2023 - Nils and Bianca",
    "artist": "Nils and Bianca",
    "styles": [
@@ -26740,7 +26911,7 @@
   },
   {
    "id": "yt-rUNgVC-xKJI",
-   "type": "music",
+   "type": "video",
    "title": "Lindy Hop VS Boogie Woogie #swingdance #dancing #battle",
    "artist": "Ludo & Stacy",
    "styles": [
@@ -29724,7 +29895,7 @@
   },
   {
    "id": "yt-JdRin5YUORk",
-   "type": "video",
+   "type": "music",
    "title": "Mr and Mrs Smooth demonstrating the art of Simply Smooth Swagger - Watch! Be Cool",
    "artist": "Joe N Dancer",
    "styles": [
@@ -30010,7 +30181,7 @@
   },
   {
    "id": "yt-06RlwN0nddQ",
-   "type": "video",
+   "type": "music",
    "title": "SWING TIME ('36): “Pick Yourself Up”",
    "artist": "Turner Classic Movies",
    "styles": [
@@ -30353,7 +30524,8 @@
    "title": "Learn the CHARLESTON Step-by-Step | Authentic 1920s Jazz Dance",
    "artist": "Secrets of Solo",
    "styles": [
-    "charleston"
+    "charleston",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2020,
@@ -30625,7 +30797,7 @@
   },
   {
    "id": "yt-Q3ew4E_-8Ps",
-   "type": "music",
+   "type": "video",
    "title": "Throwback Video! Lindy Hop combos with Anna, Slava, Jean, and Ali",
    "artist": "SwingStepTV",
    "styles": [
@@ -30665,7 +30837,7 @@
   },
   {
    "id": "yt-egopcBsOPIU",
-   "type": "video",
+   "type": "music",
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -37839,6 +38011,25 @@
    "curated": false
   },
   {
+   "id": "yt-0TOBqXugSmg",
+   "type": "video",
+   "title": "2026 Junior II Champions - Ava Farlow & Billy West",
+   "artist": "Stages Video Productions",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 188,
+   "popularity": 54,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "0TOBqXugSmg"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-QKNjMRnFmRQ",
    "type": "video",
    "title": "Open Balboa Final - Camp Hollywood 2025",
@@ -38226,25 +38417,6 @@
    "curated": false
   },
   {
-   "id": "yt-0TOBqXugSmg",
-   "type": "video",
-   "title": "2026 Junior II Champions - Ava Farlow & Billy West",
-   "artist": "Stages Video Productions",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 188,
-   "popularity": 52,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "0TOBqXugSmg"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-HOkC0B2emNo",
    "type": "video",
    "title": "Partner Charleston Recap",
@@ -38279,6 +38451,25 @@
    "source": {
     "platform": "youtube",
     "id": "sJioi_KblmM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-z5-SLD0TjMA",
+   "type": "video",
+   "title": "Funny Charleston Dance 1920s Film Clip 🎩 #lifeinthe1900snewspapers #1920s #ushistory #oldmovies",
+   "artist": "OLD TIMES IS NOT FORGOTTEN ",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 60,
+   "popularity": 52,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "z5-SLD0TjMA"
    },
    "curated": false
   },
@@ -38971,25 +39162,6 @@
    "source": {
     "platform": "youtube",
     "id": "0DPHwlgqaMY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-z5-SLD0TjMA",
-   "type": "video",
-   "title": "Funny Charleston Dance 1920s Film Clip 🎩 #lifeinthe1900snewspapers #1920s #ushistory #oldmovies",
-   "artist": "OLD TIMES IS NOT FORGOTTEN ",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 60,
-   "popularity": 50,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "z5-SLD0TjMA"
    },
    "curated": false
   },
@@ -39957,7 +40129,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 658,
-   "popularity": 46,
+   "popularity": 47,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
