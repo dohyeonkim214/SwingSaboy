@@ -1,6 +1,154 @@
 {
- "exportedAt": "2026-08-29T18:20:45.206Z",
+ "exportedAt": "2026-08-30T18:20:39.279Z",
  "items": [
+  {
+   "id": "yt-LYfF9VKMp4w",
+   "type": "music",
+   "title": "Tony Bennett, Lady Gaga - It Don't Mean A Thing (If It Ain't Got That Swing) (Studio Video)",
+   "artist": "LadyGagaVEVO",
+   "styles": [],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 138,
+   "popularity": 98,
+   "addedAt": "2026-08-30",
+   "source": {
+    "platform": "youtube",
+    "id": "LYfF9VKMp4w"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IsTkpbXVnzQ",
+   "type": "video",
+   "title": "8 Types of Latin dance",
+   "artist": "Markian",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 52,
+   "popularity": 90,
+   "addedAt": "2026-08-30",
+   "source": {
+    "platform": "youtube",
+    "id": "IsTkpbXVnzQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--6hRE3fzmd8",
+   "type": "video",
+   "title": "George Clarke & Alexis Charleston to We No Speak Americano by Yolanda Be Cool ✨ BBC Strictly 2025",
+   "artist": "BBC Strictly Come Dancing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 109,
+   "popularity": 90,
+   "addedAt": "2026-08-30",
+   "source": {
+    "platform": "youtube",
+    "id": "-6hRE3fzmd8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-OpfNnKf7XVw",
+   "type": "music",
+   "title": "it swings!!! 🐈‍⬛",
+   "artist": "Laufey",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 59,
+   "popularity": 81,
+   "addedAt": "2026-08-30",
+   "source": {
+    "platform": "youtube",
+    "id": "OpfNnKf7XVw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dw2W0PYk4FU",
+   "type": "tutorial",
+   "title": "How To Do The Cuddle Switch: Country Swing Dance Instruction At Peak Nights",
+   "artist": "Peak Dance Nights",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 54,
+   "popularity": 73,
+   "addedAt": "2026-08-30",
+   "source": {
+    "platform": "youtube",
+    "id": "dw2W0PYk4FU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QdoqvOp3xMY",
+   "type": "video",
+   "title": "Jerry Lewis Jitterbug",
+   "artist": "Steve Conrad",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 183,
+   "popularity": 71,
+   "addedAt": "2026-08-30",
+   "source": {
+    "platform": "youtube",
+    "id": "QdoqvOp3xMY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-fHA2KdLjO08",
+   "type": "video",
+   "title": "Scissor Kicks & Kick Away - Swing Out Variation for Lindy Hop & Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 433,
+   "popularity": 67,
+   "addedAt": "2026-08-30",
+   "source": {
+    "platform": "youtube",
+    "id": "fHA2KdLjO08"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-NCMnCpq864s",
+   "type": "video",
+   "title": "Learn Country Swing in 60 seconds!",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 74,
+   "popularity": 62,
+   "addedAt": "2026-08-30",
+   "source": {
+    "platform": "youtube",
+    "id": "NCMnCpq864s"
+   },
+   "curated": false
+  },
   {
    "id": "yt-VCTOpdlZJ8U",
    "type": "music",
@@ -41,7 +189,8 @@
    "title": "100% Improv West Coast Swing. DJ chose the song 😍 Our dance partner anniversary! #competition  #wcs",
    "artist": "Keerigan Rudd",
    "styles": [
-    "lindy8"
+    "lindy8",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2024,
@@ -251,7 +400,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 110,
-   "popularity": 53,
+   "popularity": 54,
    "addedAt": "2026-08-28",
    "source": {
     "platform": "youtube",
@@ -5083,7 +5232,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 178,
-   "popularity": 28,
+   "popularity": 29,
    "addedAt": "2026-08-11",
    "source": {
     "platform": "youtube",
@@ -7584,7 +7733,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 366,
-   "popularity": 51,
+   "popularity": 52,
    "addedAt": "2026-08-07",
    "source": {
     "platform": "youtube",
@@ -7731,7 +7880,8 @@
    "title": "Improvised west coast swing: Macarena 😂 They showed the DJ 👌 Lauren Jones & Tzi Yi Wee #dance",
    "artist": "Affinity Swing",
    "styles": [
-    "wcs"
+    "wcs",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2023,
@@ -7866,7 +8016,8 @@
    "title": "Unbelievable improvised West Coast Swing performance",
    "artist": "The Urban Herald",
    "styles": [
-    "wcs"
+    "wcs",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2025,
@@ -8580,7 +8731,8 @@
    "title": "Improvised Dance Contest ! Random Partner and Song ! Kenneth Rutland & Emeline Rochefeuille at DCS23",
    "artist": "Emeline Rochefeuille",
    "styles": [
-    "wcs"
+    "wcs",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2023,
@@ -9179,7 +9331,7 @@
   },
   {
    "id": "yt-qW51suNmHkE",
-   "type": "music",
+   "type": "video",
    "title": "Ben Morris & Brandi Guild \"Shivers\" Ed Sheeran - Invitational Jack&Jill - TAP The After Party 2021",
    "artist": "The After Party: A West Coast Swing Experience",
    "styles": [
@@ -9491,7 +9643,8 @@
    "title": "IMPROV West Coast Swing @ Jack & Jill O'rama!",
    "artist": "Jack & Jill O'Rama",
    "styles": [
-    "wcs"
+    "wcs",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2025,
@@ -10101,7 +10254,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 298,
-   "popularity": 78,
+   "popularity": 79,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -13222,7 +13375,7 @@
   },
   {
    "id": "yt-Qr9_aocDqAc",
-   "type": "music",
+   "type": "video",
    "title": "John Lindo & Victoria Henk - Champions Jack&Jill Finals - Jack&Jill O'Rama 2024",
    "artist": "Jack & Jill O'Rama",
    "styles": [
@@ -13532,7 +13685,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "video",
+   "type": "music",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -19300,7 +19453,7 @@
    "bpm": null,
    "year": 2013,
    "durationSec": 134,
-   "popularity": 72,
+   "popularity": 73,
    "addedAt": "2026-07-24",
    "source": {
     "platform": "youtube",
@@ -19471,7 +19624,7 @@
    "bpm": null,
    "year": 2020,
    "durationSec": 152,
-   "popularity": 44,
+   "popularity": 45,
    "addedAt": "2026-07-24",
    "source": {
     "platform": "youtube",
@@ -28627,7 +28780,8 @@
     "lindy",
     "charleston",
     "wcs",
-    "lindy8"
+    "lindy8",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2025,
@@ -29580,7 +29734,7 @@
   },
   {
    "id": "yt-qMglBwfhsN4",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2019 – Dietmar & Nellia – Never Stop Jiving",
    "artist": "RockThatSwing",
    "styles": [
@@ -30181,7 +30335,7 @@
   },
   {
    "id": "yt-06RlwN0nddQ",
-   "type": "music",
+   "type": "video",
    "title": "SWING TIME ('36): “Pick Yourself Up”",
    "artist": "Turner Classic Movies",
    "styles": [
@@ -30499,7 +30653,7 @@
   },
   {
    "id": "yt-gisafTmbVd8",
-   "type": "music",
+   "type": "video",
    "title": "Best of LindyHop & Charleston • 2012 ninjammerz max dax sarah alice thomas maeva william swing dance",
    "artist": "Jens Rahnfeld",
    "styles": [
@@ -34949,7 +35103,8 @@
    "artist": "Swing Zing",
    "styles": [
     "lindy",
-    "lindy6"
+    "lindy6",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2018,
@@ -36209,6 +36364,26 @@
    "curated": false
   },
   {
+   "id": "yt-Y6JvHBM-3MY",
+   "type": "video",
+   "title": "Swing: balboa and lindy hop set",
+   "artist": "Alexander Tereshin",
+   "styles": [
+    "balboa",
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 4639,
+   "popularity": 60,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "Y6JvHBM-3MY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-DK4-ph2ehYA",
    "type": "tutorial",
    "title": "2nd Place: Alice & Remy - World Finals Classic - ILHC 2024",
@@ -36325,26 +36500,6 @@
    "source": {
     "platform": "youtube",
     "id": "qAxK4IZmr0s"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Y6JvHBM-3MY",
-   "type": "video",
-   "title": "Swing: balboa and lindy hop set",
-   "artist": "Alexander Tereshin",
-   "styles": [
-    "balboa",
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2020,
-   "durationSec": 4639,
-   "popularity": 59,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "Y6JvHBM-3MY"
    },
    "curated": false
   },
@@ -37049,6 +37204,25 @@
    "curated": false
   },
   {
+   "id": "yt-cibU95iXdwE",
+   "type": "tutorial",
+   "title": "2/16/17 - Beginner Balboa (basic, turning basic, come around, out-and-ins)",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 98,
+   "popularity": 57,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "cibU95iXdwE"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-sgN7ajsMU20",
    "type": "video",
    "title": "Lindy Hop, Savoy Style! Feb Wk 3",
@@ -37183,25 +37357,6 @@
    "source": {
     "platform": "youtube",
     "id": "B8spGG-JCdo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-cibU95iXdwE",
-   "type": "tutorial",
-   "title": "2/16/17 - Beginner Balboa (basic, turning basic, come around, out-and-ins)",
-   "artist": "swinginstyle",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2017,
-   "durationSec": 98,
-   "popularity": 56,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "cibU95iXdwE"
    },
    "curated": false
   },
@@ -39852,6 +40007,25 @@
    "curated": false
   },
   {
+   "id": "yt-DylJNRfsMlQ",
+   "type": "video",
+   "title": "Shag Mix & Match Final (Spotlights) - Camp Hollywood 2025",
+   "artist": "camphollywood",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 705,
+   "popularity": 48,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "DylJNRfsMlQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-apJDGmKSxOY",
    "type": "tutorial",
    "title": "CalBal Classic 2026 - The Amateur Classic COMPLETE CONTEST",
@@ -39924,25 +40098,6 @@
    "source": {
     "platform": "youtube",
     "id": "kauoGwVmaoc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-DylJNRfsMlQ",
-   "type": "video",
-   "title": "Shag Mix & Match Final (Spotlights) - Camp Hollywood 2025",
-   "artist": "camphollywood",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 705,
-   "popularity": 47,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "DylJNRfsMlQ"
    },
    "curated": false
   },
@@ -42616,7 +42771,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1230,
-   "popularity": 38,
+   "popularity": 39,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
@@ -42796,6 +42951,25 @@
    "curated": false
   },
   {
+   "id": "yt-ZZPhKsYhKD8",
+   "type": "tutorial",
+   "title": "Balboa (Bal-Swing) Dance Lesson-Learn how to do the dance move-The LOLLIES",
+   "artist": "Balboa the dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 268,
+   "popularity": 38,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "ZZPhKsYhKD8"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-pszcU7G_qno",
    "type": "video",
    "title": "B&B2018 : Pure Balboa Strictly  - 1st Place Mungoon & Muse",
@@ -42887,25 +43061,6 @@
    "source": {
     "platform": "youtube",
     "id": "kgmA5lvZ6ys"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-ZZPhKsYhKD8",
-   "type": "tutorial",
-   "title": "Balboa (Bal-Swing) Dance Lesson-Learn how to do the dance move-The LOLLIES",
-   "artist": "Balboa the dance",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 268,
-   "popularity": 37,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "ZZPhKsYhKD8"
    },
    "curated": false
   },
