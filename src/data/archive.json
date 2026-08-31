@@ -1,6 +1,175 @@
 {
- "exportedAt": "2026-08-30T18:20:39.279Z",
+ "exportedAt": "2026-08-31T18:24:22.834Z",
  "items": [
+  {
+   "id": "yt-aWr2X6J26Uk",
+   "type": "music",
+   "title": "Benny Goodman Let's Dance - Don't Be That Way",
+   "artist": "crebe44",
+   "styles": [],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 280,
+   "popularity": 93,
+   "addedAt": "2026-08-31",
+   "source": {
+    "platform": "youtube",
+    "id": "aWr2X6J26Uk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nuoHDiHVjt4",
+   "type": "video",
+   "title": "Swing Dance (Awitin mo at isasayaw ko)credit to the owner of the song",
+   "artist": "Mark Kent Esperon",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 182,
+   "popularity": 83,
+   "addedAt": "2026-08-31",
+   "source": {
+    "platform": "youtube",
+    "id": "nuoHDiHVjt4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tl3jjwmVxlQ",
+   "type": "tutorial",
+   "title": "Country Swing Dance Moves for Beginners",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 1302,
+   "popularity": 73,
+   "addedAt": "2026-08-31",
+   "source": {
+    "platform": "youtube",
+    "id": "tl3jjwmVxlQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-N_vMtfCYFH4",
+   "type": "video",
+   "title": "12 Easy Triple Swing Dance Steps",
+   "artist": "JNJ Ballroom",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 277,
+   "popularity": 70,
+   "addedAt": "2026-08-31",
+   "source": {
+    "platform": "youtube",
+    "id": "N_vMtfCYFH4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ppffvRmQZhw",
+   "type": "video",
+   "title": "LINDY HOP DEBUTANTS 1ers pas et rythme en 6 temps",
+   "artist": "Émilie Swing",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 421,
+   "popularity": 65,
+   "addedAt": "2026-08-31",
+   "source": {
+    "platform": "youtube",
+    "id": "ppffvRmQZhw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-XtbClqYpPFw",
+   "type": "video",
+   "title": "5 Cool \"Intermediate\" East Coast Swing Dance Moves",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 338,
+   "popularity": 63,
+   "addedAt": "2026-08-31",
+   "source": {
+    "platform": "youtube",
+    "id": "XtbClqYpPFw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-sIUOwzs7HAw",
+   "type": "tutorial",
+   "title": "8/29/19 Wk 4 Beginner Balboa (Hal’s Kicks; Side Slide)",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 65,
+   "popularity": 49,
+   "addedAt": "2026-08-31",
+   "source": {
+    "platform": "youtube",
+    "id": "sIUOwzs7HAw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ONKX3vEuPf4",
+   "type": "video",
+   "title": "HRH 2023: Amateur Collegiate Shag Strictly Finals - Bianca & Benny",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 113,
+   "popularity": 39,
+   "addedAt": "2026-08-31",
+   "source": {
+    "platform": "youtube",
+    "id": "ONKX3vEuPf4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-x4YK6GAuEhg",
+   "type": "video",
+   "title": "HRH 2023: Advanced Collegiate Shag Mix & Match - Final All-Skate",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 125,
+   "popularity": 37,
+   "addedAt": "2026-08-31",
+   "source": {
+    "platform": "youtube",
+    "id": "x4YK6GAuEhg"
+   },
+   "curated": false
+  },
   {
    "id": "yt-LYfF9VKMp4w",
    "type": "music",
@@ -5213,7 +5382,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 498,
-   "popularity": 34,
+   "popularity": 35,
    "addedAt": "2026-08-11",
    "source": {
     "platform": "youtube",
@@ -6423,7 +6592,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 875,
-   "popularity": 57,
+   "popularity": 58,
    "addedAt": "2026-08-09",
    "source": {
     "platform": "youtube",
@@ -7809,7 +7978,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 169,
-   "popularity": 37,
+   "popularity": 38,
    "addedAt": "2026-08-07",
    "source": {
     "platform": "youtube",
@@ -11476,7 +11645,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 218,
-   "popularity": 64,
+   "popularity": 65,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -14092,7 +14261,8 @@
    "title": "Lindy Hop Lesson : Jig Walks",
    "artist": "Syncopated City",
    "styles": [
-    "lindy8"
+    "lindy8",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2018,
@@ -14623,7 +14793,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "music",
+   "type": "video",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -19586,7 +19756,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 3860,
-   "popularity": 46,
+   "popularity": 47,
    "addedAt": "2026-07-24",
    "source": {
     "platform": "youtube",
@@ -19863,7 +20033,7 @@
   },
   {
    "id": "yt-ONnx63NAyMc",
-   "type": "video",
+   "type": "music",
    "title": "Sharon Davis & Juan Villafañe | Bill Bailey - Lindy Hop & Authentic Jazz Choreography (ILHC 2013)",
    "artist": "Sharon Davis",
    "styles": [
@@ -23729,7 +23899,7 @@
    "bpm": null,
    "year": 2022,
    "durationSec": 218,
-   "popularity": 45,
+   "popularity": 46,
    "addedAt": "2026-07-12",
    "source": {
     "platform": "youtube",
@@ -26910,7 +27080,7 @@
   },
   {
    "id": "yt-WFhRquNGQCw",
-   "type": "music",
+   "type": "video",
    "title": "MY GIRL - RTSF 2023 - Nils and Bianca",
    "artist": "Nils and Bianca",
    "styles": [
@@ -27064,7 +27234,7 @@
   },
   {
    "id": "yt-rUNgVC-xKJI",
-   "type": "video",
+   "type": "music",
    "title": "Lindy Hop VS Boogie Woogie #swingdance #dancing #battle",
    "artist": "Ludo & Stacy",
    "styles": [
@@ -29646,7 +29816,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -29734,7 +29904,7 @@
   },
   {
    "id": "yt-qMglBwfhsN4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2019 – Dietmar & Nellia – Never Stop Jiving",
    "artist": "RockThatSwing",
    "styles": [
@@ -29807,7 +29977,8 @@
     "lindy",
     "balboa",
     "jitterbug",
-    "wcs"
+    "wcs",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2024,
@@ -30334,6 +30505,26 @@
    "curated": false
   },
   {
+   "id": "yt-xh8DrpJDrFg",
+   "type": "video",
+   "title": "Jordan Frisbee & Nicole Ramirez \"Man! I Feel Like A Woman!\" - Invitational Jack&Jill - Budafest 2023",
+   "artist": "West Coast Swing",
+   "styles": [
+    "lindy",
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 364,
+   "popularity": 94,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "xh8DrpJDrFg"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-06RlwN0nddQ",
    "type": "video",
    "title": "SWING TIME ('36): “Pick Yourself Up”",
@@ -30351,26 +30542,6 @@
    "source": {
     "platform": "youtube",
     "id": "06RlwN0nddQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-xh8DrpJDrFg",
-   "type": "video",
-   "title": "Jordan Frisbee & Nicole Ramirez \"Man! I Feel Like A Woman!\" - Invitational Jack&Jill - Budafest 2023",
-   "artist": "West Coast Swing",
-   "styles": [
-    "lindy",
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2023,
-   "durationSec": 364,
-   "popularity": 93,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "xh8DrpJDrFg"
    },
    "curated": false
   },
@@ -30653,7 +30824,7 @@
   },
   {
    "id": "yt-gisafTmbVd8",
-   "type": "video",
+   "type": "music",
    "title": "Best of LindyHop & Charleston • 2012 ninjammerz max dax sarah alice thomas maeva william swing dance",
    "artist": "Jens Rahnfeld",
    "styles": [
@@ -32074,7 +32245,7 @@
   },
   {
    "id": "yt-7PBCS3v9B8M",
-   "type": "video",
+   "type": "music",
    "title": "Irina & Anthony - social lindy hop demo at Havelhop 2023",
    "artist": "Slava Bogatov",
    "styles": [
@@ -38195,7 +38366,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 598,
-   "popularity": 53,
+   "popularity": 54,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
