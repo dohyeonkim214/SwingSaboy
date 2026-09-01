@@ -1,6 +1,177 @@
 {
- "exportedAt": "2026-08-31T18:24:22.834Z",
+ "exportedAt": "2026-09-01T18:24:01.539Z",
  "items": [
+  {
+   "id": "yt-8DwU6-M_FsY",
+   "type": "video",
+   "title": "Camp Jitterbug 2015 - Lindy Hop Couples Finals",
+   "artist": "Camp Jitterbug",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 749,
+   "popularity": 83,
+   "addedAt": "2026-09-01",
+   "source": {
+    "platform": "youtube",
+    "id": "8DwU6-M_FsY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Ry_0SY16AOA",
+   "type": "video",
+   "title": "LINDY HOP DANCE - Sondre & Tanya",
+   "artist": "Sondre & Tanya",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 211,
+   "popularity": 77,
+   "addedAt": "2026-09-01",
+   "source": {
+    "platform": "youtube",
+    "id": "Ry_0SY16AOA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Nr6Qho-b_4s",
+   "type": "tutorial",
+   "title": "How to Swing Dance for Beginners Step by Step | Single Time Swing Dance Steps (1) - Basic",
+   "artist": "Ballroom Feed",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 517,
+   "popularity": 68,
+   "addedAt": "2026-09-01",
+   "source": {
+    "platform": "youtube",
+    "id": "Nr6Qho-b_4s"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-s7wX3QtztHg",
+   "type": "video",
+   "title": "Jitterbug Kick Flick",
+   "artist": "Bob Laughland",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 49,
+   "popularity": 65,
+   "addedAt": "2026-09-01",
+   "source": {
+    "platform": "youtube",
+    "id": "s7wX3QtztHg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-r9dnkXbcB8M",
+   "type": "tutorial",
+   "title": "Learn How To Line Dance- Beginners' Steps: Side Together, Side Touch and Charleston Kick",
+   "artist": "Dance The Line",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 45,
+   "popularity": 62,
+   "addedAt": "2026-09-01",
+   "source": {
+    "platform": "youtube",
+    "id": "r9dnkXbcB8M"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-GoloAwrQ2_U",
+   "type": "video",
+   "title": "Danser chez vous le Balboa niveau débutant",
+   "artist": "Studio 8",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 309,
+   "popularity": 48,
+   "addedAt": "2026-09-01",
+   "source": {
+    "platform": "youtube",
+    "id": "GoloAwrQ2_U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-YKCIojcez0U",
+   "type": "video",
+   "title": "HRH 2024 - Advanced Collegiate Shag Mix & Match Finals - Final All-Skate",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 126,
+   "popularity": 30,
+   "addedAt": "2026-09-01",
+   "source": {
+    "platform": "youtube",
+    "id": "YKCIojcez0U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lcUcQfNVqJ0",
+   "type": "video",
+   "title": "✨Vibin’ 💫 #dance #improv #wcs #partnership #dancing #groove #love",
+   "artist": "StuckOnSwing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 61,
+   "popularity": 29,
+   "addedAt": "2026-09-01",
+   "source": {
+    "platform": "youtube",
+    "id": "lcUcQfNVqJ0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-UxvtxWCnVpM",
+   "type": "video",
+   "title": "Solo Jazz Charleston — 132 BPM - Instrumental 06",
+   "artist": "THE WAY",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 181,
+   "popularity": 4,
+   "addedAt": "2026-09-01",
+   "source": {
+    "platform": "youtube",
+    "id": "UxvtxWCnVpM"
+   },
+   "curated": false
+  },
   {
    "id": "yt-aWr2X6J26Uk",
    "type": "music",
@@ -7835,6 +8006,25 @@
    "curated": false
   },
   {
+   "id": "yt-UnEUcRAeHKM",
+   "type": "tutorial",
+   "title": "Beginning West Coast Swing with Sean & Alyssa McKeever - Lesson 1",
+   "artist": "Sean & Alyssa McKeever",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1427,
+   "popularity": 53,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "UnEUcRAeHKM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-X90U8ng_wog",
    "type": "video",
    "title": "Beginning Lindy - Understanding 6 count vs. 8 count",
@@ -7869,25 +8059,6 @@
    "source": {
     "platform": "youtube",
     "id": "oupsOSI0tqo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-UnEUcRAeHKM",
-   "type": "tutorial",
-   "title": "Beginning West Coast Swing with Sean & Alyssa McKeever - Lesson 1",
-   "artist": "Sean & Alyssa McKeever",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 1427,
-   "popularity": 52,
-   "addedAt": "2026-08-07",
-   "source": {
-    "platform": "youtube",
-    "id": "UnEUcRAeHKM"
    },
    "curated": false
   },
@@ -8026,7 +8197,7 @@
   },
   {
    "id": "yt-MggQSspSGU8",
-   "type": "video",
+   "type": "music",
    "title": "California Jubilee in \"Let's Twist Again\" - Chubby Checker",
    "artist": "Pascal De Maria",
    "styles": [
@@ -14793,7 +14964,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "video",
+   "type": "music",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -15480,6 +15651,25 @@
    "curated": false
   },
   {
+   "id": "yt-dt2zXR9QZEQ",
+   "type": "video",
+   "title": "Jitterbug Swing Fundamentals | Steps Only",
+   "artist": "DrDanceRight",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 266,
+   "popularity": 55,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "dt2zXR9QZEQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-N_9oCsrwkwc",
    "type": "tutorial",
    "title": "Beginning Lindy Hop 4 - 6 Count Basics and Circle, Tuck Turn and Neck Dip!",
@@ -15552,25 +15742,6 @@
    "source": {
     "platform": "youtube",
     "id": "SCAyHWZDdG4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-dt2zXR9QZEQ",
-   "type": "video",
-   "title": "Jitterbug Swing Fundamentals | Steps Only",
-   "artist": "DrDanceRight",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 266,
-   "popularity": 54,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "dt2zXR9QZEQ"
    },
    "curated": false
   },
@@ -20033,7 +20204,7 @@
   },
   {
    "id": "yt-ONnx63NAyMc",
-   "type": "music",
+   "type": "video",
    "title": "Sharon Davis & Juan Villafañe | Bill Bailey - Lindy Hop & Authentic Jazz Choreography (ILHC 2013)",
    "artist": "Sharon Davis",
    "styles": [
@@ -22164,6 +22335,25 @@
    "curated": false
   },
   {
+   "id": "yt-dsEpfnHUtF0",
+   "type": "video",
+   "title": "Collegiate Shag Dance Competition with The Schwings Band – VLN SHG FST 2025",
+   "artist": "What a Shag",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 80,
+   "popularity": 31,
+   "addedAt": "2026-07-18",
+   "source": {
+    "platform": "youtube",
+    "id": "dsEpfnHUtF0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-X84xRr45ahI",
    "type": "video",
    "title": "Balboa Bal-Swing Dance Performance",
@@ -22179,25 +22369,6 @@
    "source": {
     "platform": "youtube",
     "id": "X84xRr45ahI"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-dsEpfnHUtF0",
-   "type": "video",
-   "title": "Collegiate Shag Dance Competition with The Schwings Band – VLN SHG FST 2025",
-   "artist": "What a Shag",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 80,
-   "popularity": 30,
-   "addedAt": "2026-07-18",
-   "source": {
-    "platform": "youtube",
-    "id": "dsEpfnHUtF0"
    },
    "curated": false
   },
@@ -27080,7 +27251,7 @@
   },
   {
    "id": "yt-WFhRquNGQCw",
-   "type": "video",
+   "type": "music",
    "title": "MY GIRL - RTSF 2023 - Nils and Bianca",
    "artist": "Nils and Bianca",
    "styles": [
@@ -27090,7 +27261,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 201,
-   "popularity": 94,
+   "popularity": 95,
    "addedAt": "2026-07-07",
    "source": {
     "platform": "youtube",
@@ -27234,7 +27405,7 @@
   },
   {
    "id": "yt-rUNgVC-xKJI",
-   "type": "music",
+   "type": "video",
    "title": "Lindy Hop VS Boogie Woogie #swingdance #dancing #battle",
    "artist": "Ludo & Stacy",
    "styles": [
@@ -29816,7 +29987,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -30220,7 +30391,7 @@
   },
   {
    "id": "yt-JdRin5YUORk",
-   "type": "music",
+   "type": "video",
    "title": "Mr and Mrs Smooth demonstrating the art of Simply Smooth Swagger - Watch! Be Cool",
    "artist": "Joe N Dancer",
    "styles": [
@@ -30526,7 +30697,7 @@
   },
   {
    "id": "yt-06RlwN0nddQ",
-   "type": "video",
+   "type": "music",
    "title": "SWING TIME ('36): “Pick Yourself Up”",
    "artist": "Turner Classic Movies",
    "styles": [
@@ -32245,7 +32416,7 @@
   },
   {
    "id": "yt-7PBCS3v9B8M",
-   "type": "music",
+   "type": "video",
    "title": "Irina & Anthony - social lindy hop demo at Havelhop 2023",
    "artist": "Slava Bogatov",
    "styles": [
@@ -38529,6 +38700,25 @@
    "curated": false
   },
   {
+   "id": "yt-hOiUAFZJVuU",
+   "type": "video",
+   "title": "Shag Out and Bunny Hops",
+   "artist": "Let It Swing",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 91,
+   "popularity": 53,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "hOiUAFZJVuU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt--eEJtxcZ-_o",
    "type": "video",
    "title": "OPEN LINDY FINAL 2025 Camp Hollywood and the National Jitterbug Championships",
@@ -38682,25 +38872,6 @@
    "source": {
     "platform": "youtube",
     "id": "m4jNEfLmNtY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-hOiUAFZJVuU",
-   "type": "video",
-   "title": "Shag Out and Bunny Hops",
-   "artist": "Let It Swing",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 91,
-   "popularity": 52,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "hOiUAFZJVuU"
    },
    "curated": false
   },
@@ -41246,6 +41417,26 @@
    "curated": false
   },
   {
+   "id": "yt-_aTb3y9bWUY",
+   "type": "tutorial",
+   "title": "Savoy Kicks, Flying Swingouts: Lindy Hop Patterns and Rhythm Class Recap",
+   "artist": "Lainey Silver",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 95,
+   "popularity": 45,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "_aTb3y9bWUY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-gkRHgHsnkBU",
    "type": "video",
    "title": "Lindy Hop Social Dance - Rachel McMullin & Kevin Clark",
@@ -41262,26 +41453,6 @@
    "source": {
     "platform": "youtube",
     "id": "gkRHgHsnkBU"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-_aTb3y9bWUY",
-   "type": "tutorial",
-   "title": "Savoy Kicks, Flying Swingouts: Lindy Hop Patterns and Rhythm Class Recap",
-   "artist": "Lainey Silver",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2016,
-   "durationSec": 95,
-   "popularity": 44,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "_aTb3y9bWUY"
    },
    "curated": false
   },
@@ -43274,6 +43445,25 @@
    "curated": false
   },
   {
+   "id": "yt-bemZygvf2Vw",
+   "type": "tutorial",
+   "title": "How to do the Uphold Basic in Balboa @ednalucero1 #balboadance #Balboadancelesson",
+   "artist": "Balboa the dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 204,
+   "popularity": 37,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "bemZygvf2Vw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-sVRxu7ZDJJ0",
    "type": "video",
    "title": "[LIVE] ILHC 2026 - Novice Jazz - semi-finals",
@@ -43289,25 +43479,6 @@
    "source": {
     "platform": "youtube",
     "id": "sVRxu7ZDJJ0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-bemZygvf2Vw",
-   "type": "tutorial",
-   "title": "How to do the Uphold Basic in Balboa @ednalucero1 #balboadance #Balboadancelesson",
-   "artist": "Balboa the dance",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 204,
-   "popularity": 36,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "bemZygvf2Vw"
    },
    "curated": false
   },
@@ -44277,7 +44448,7 @@
    "bpm": null,
    "year": 2017,
    "durationSec": 61,
-   "popularity": 29,
+   "popularity": 30,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
