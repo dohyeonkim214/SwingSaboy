@@ -1,6 +1,270 @@
 {
- "exportedAt": "2026-09-03T18:24:39.730Z",
+ "exportedAt": "2026-09-04T18:21:59.365Z",
  "items": [
+  {
+   "id": "yt-ygIcyOSITgo",
+   "type": "music",
+   "title": "Jive Bunny And The MasterMixers - Swing The Mood (12\" Version)",
+   "artist": "Gasper LML",
+   "styles": [],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 370,
+   "popularity": 100,
+   "addedAt": "2026-09-04",
+   "source": {
+    "platform": "youtube",
+    "id": "ygIcyOSITgo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-mMQVZYoNWIw",
+   "type": "video",
+   "title": "Cab Calloway's Jitterbug Party (1935)",
+   "artist": "Reelblack One",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 461,
+   "popularity": 81,
+   "addedAt": "2026-09-04",
+   "source": {
+    "platform": "youtube",
+    "id": "mMQVZYoNWIw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-epuXyK0C_bk",
+   "type": "tutorial",
+   "title": "How to Swing Dance for Beginners - Part 3: 6 Count Basic & Jockey",
+   "artist": "iLindy",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 607,
+   "popularity": 77,
+   "addedAt": "2026-09-04",
+   "source": {
+    "platform": "youtube",
+    "id": "epuXyK0C_bk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-P2OL1SVbcvg",
+   "type": "video",
+   "title": "Maxie Dorf Bal-Swing improvisation",
+   "artist": "Nick Williams",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 259,
+   "popularity": 60,
+   "addedAt": "2026-09-04",
+   "source": {
+    "platform": "youtube",
+    "id": "P2OL1SVbcvg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ZwRrFN-IF7s",
+   "type": "video",
+   "title": "Jitterbug Cuddle Dance Variations",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 48,
+   "popularity": 54,
+   "addedAt": "2026-09-04",
+   "source": {
+    "platform": "youtube",
+    "id": "ZwRrFN-IF7s"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tSJ-yZWN6eQ",
+   "type": "tutorial",
+   "title": "Balboa #swingdance #dance #스윙댄스 #jazz #balboa #dancestudio #lindyhop #린디합 #dancetutorial  #발보아",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 53,
+   "popularity": 47,
+   "addedAt": "2026-09-04",
+   "source": {
+    "platform": "youtube",
+    "id": "tSJ-yZWN6eQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-GKmrIaJ7JO4",
+   "type": "video",
+   "title": "Balboa #dance #스윙댄스 #swingdance #jazz #balboa #dancer #발보아",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 55,
+   "popularity": 47,
+   "addedAt": "2026-09-04",
+   "source": {
+    "platform": "youtube",
+    "id": "GKmrIaJ7JO4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-OXDR0c9XC7s",
+   "type": "tutorial",
+   "title": "Class 6 - Bal Swing Moves (Nalla & Jessica) @ Swing Beijing",
+   "artist": "스윙댄스 Lindy Explorer ",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 80,
+   "popularity": 43,
+   "addedAt": "2026-09-04",
+   "source": {
+    "platform": "youtube",
+    "id": "OXDR0c9XC7s"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Sc84dWJv_XY",
+   "type": "tutorial",
+   "title": "Bal-Swing Lesson Review - 8/15/12",
+   "artist": "Swing Cville",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 83,
+   "popularity": 43,
+   "addedAt": "2026-09-04",
+   "source": {
+    "platform": "youtube",
+    "id": "Sc84dWJv_XY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-o_cOLFRszgc",
+   "type": "video",
+   "title": "MSDS Experiment 2012 Balswing Final Jam",
+   "artist": "Sergey Korytnik",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 273,
+   "popularity": 41,
+   "addedAt": "2026-09-04",
+   "source": {
+    "platform": "youtube",
+    "id": "o_cOLFRszgc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hsxS4uGmgeM",
+   "type": "tutorial",
+   "title": "Bal Swing Class 4",
+   "artist": "jazdanceaa",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 148,
+   "popularity": 40,
+   "addedAt": "2026-09-04",
+   "source": {
+    "platform": "youtube",
+    "id": "hsxS4uGmgeM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-v_EyBlrpPfc",
+   "type": "tutorial",
+   "title": "Advanced Beginner Pure Bal & Bal Swing, Oct 5, 2014",
+   "artist": "Vancouver Swing Society",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 274,
+   "popularity": 38,
+   "addedAt": "2026-09-04",
+   "source": {
+    "platform": "youtube",
+    "id": "v_EyBlrpPfc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4g3zJQbzwoc",
+   "type": "video",
+   "title": "Natasha and Roma's dance (Balboa / Bal Swing)",
+   "artist": "Nick Litvinov",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 128,
+   "popularity": 37,
+   "addedAt": "2026-09-04",
+   "source": {
+    "platform": "youtube",
+    "id": "4g3zJQbzwoc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IpSX-FiXmn8",
+   "type": "video",
+   "title": "Dance (Balboa / Bal Swing)",
+   "artist": "Nick Litvinov",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 83,
+   "popularity": 26,
+   "addedAt": "2026-09-04",
+   "source": {
+    "platform": "youtube",
+    "id": "IpSX-FiXmn8"
+   },
+   "curated": false
+  },
   {
    "id": "yt-msjD-ZivCEM",
    "type": "music",
@@ -228,6 +492,25 @@
    "curated": false
   },
   {
+   "id": "yt-LsSS9oHN170",
+   "type": "video",
+   "title": "Maxime Zzaoui & Emeline Rochefeuille - 1st place Champions Jack&Jill Finals - German Open 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 255,
+   "popularity": 53,
+   "addedAt": "2026-09-03",
+   "source": {
+    "platform": "youtube",
+    "id": "LsSS9oHN170"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-o9paYJ4U2iE",
    "type": "video",
    "title": "Frankie Manning Media Archive Big Apple Part 1",
@@ -414,25 +697,6 @@
    "source": {
     "platform": "youtube",
     "id": "0M6_RuAqYe0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-LsSS9oHN170",
-   "type": "video",
-   "title": "Maxime Zzaoui & Emeline Rochefeuille - 1st place Champions Jack&Jill Finals - German Open 2026",
-   "artist": "West Coast Swing",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 255,
-   "popularity": 39,
-   "addedAt": "2026-09-03",
-   "source": {
-    "platform": "youtube",
-    "id": "LsSS9oHN170"
    },
    "curated": false
   },
@@ -14646,6 +14910,25 @@
    "curated": false
   },
   {
+   "id": "yt-3eepz5h4AJY",
+   "type": "video",
+   "title": "Top 20 Best Swing Dance Scenes in Movies",
+   "artist": "MsMojo",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 1365,
+   "popularity": 86,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "3eepz5h4AJY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-w1GaZgLQIv4",
    "type": "video",
    "title": "‘Swing Dance’ - HOPE Performance Task (STEM 11A- Obsidian)",
@@ -14661,25 +14944,6 @@
    "source": {
     "platform": "youtube",
     "id": "w1GaZgLQIv4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-3eepz5h4AJY",
-   "type": "video",
-   "title": "Top 20 Best Swing Dance Scenes in Movies",
-   "artist": "MsMojo",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 1365,
-   "popularity": 85,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "3eepz5h4AJY"
    },
    "curated": false
   },
@@ -14744,7 +15008,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "music",
+   "type": "video",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -14898,7 +15162,7 @@
   },
   {
    "id": "yt-slWpbHrOxow",
-   "type": "music",
+   "type": "video",
    "title": "Swing | Awitin Mo At Isasayaw Ko",
    "artist": "De Guzman Ignacio III P.",
    "styles": [
@@ -15228,7 +15492,8 @@
    "title": "Intro to Swing - basic 8-count steps for Lindy hop",
    "artist": "Rhythm City Dance",
    "styles": [
-    "lindy8"
+    "lindy8",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2016,
@@ -17516,6 +17781,25 @@
    "curated": false
   },
   {
+   "id": "yt-oJWjeLCDnOk",
+   "type": "video",
+   "title": "Learn2LindyHop, Ch. 14 - The Swingout with Inside Turn",
+   "artist": "Doug Silton",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 196,
+   "popularity": 42,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "oJWjeLCDnOk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-IIoBQmcKrNY",
    "type": "video",
    "title": "6 OR 8 COUNTS? LEARN THE WEST COAST SWING DANCE COUNTS DIFFERENCE AND NEVER MISS AGAIN!",
@@ -17550,25 +17834,6 @@
    "source": {
     "platform": "youtube",
     "id": "FkWDGZ_qJZ0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-oJWjeLCDnOk",
-   "type": "video",
-   "title": "Learn2LindyHop, Ch. 14 - The Swingout with Inside Turn",
-   "artist": "Doug Silton",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 196,
-   "popularity": 41,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "oJWjeLCDnOk"
    },
    "curated": false
   },
@@ -17908,7 +18173,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 161,
-   "popularity": 33,
+   "popularity": 34,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -18260,7 +18525,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "video",
+   "type": "music",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -20743,7 +21008,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 192,
-   "popularity": 36,
+   "popularity": 37,
    "addedAt": "2026-07-24",
    "source": {
     "platform": "youtube",
@@ -22432,7 +22697,8 @@
    "title": "Charleston Swing Out Workshop intermediate/advanced 03.09.22",
    "artist": "Let It Swing",
    "styles": [
-    "charleston"
+    "charleston",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2022,
@@ -24491,7 +24757,7 @@
   },
   {
    "id": "yt-PyzkLRrZTCQ",
-   "type": "video",
+   "type": "music",
    "title": "Can’t believe we literally just met 😅 #westcoastswing #dance #competition #improv #randomsong",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -31248,7 +31514,8 @@
    "artist": "Savoy Hop",
    "styles": [
     "charleston",
-    "lindy"
+    "lindy",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2013,
@@ -33160,7 +33427,7 @@
   },
   {
    "id": "yt-7PBCS3v9B8M",
-   "type": "music",
+   "type": "video",
    "title": "Irina & Anthony - social lindy hop demo at Havelhop 2023",
    "artist": "Slava Bogatov",
    "styles": [
@@ -44192,6 +44459,25 @@
    "curated": false
   },
   {
+   "id": "yt-jr0MqdXbf44",
+   "type": "video",
+   "title": "Beijing Balboa Fever 2026  Advanced Mix & Match Final",
+   "artist": "Swing Beasts Studio_Beijing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 778,
+   "popularity": 37,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "jr0MqdXbf44"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-sVRxu7ZDJJ0",
    "type": "video",
    "title": "[LIVE] ILHC 2026 - Novice Jazz - semi-finals",
@@ -44359,25 +44645,6 @@
    "source": {
     "platform": "youtube",
     "id": "6LVnjMGfcYA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-jr0MqdXbf44",
-   "type": "video",
-   "title": "Beijing Balboa Fever 2026  Advanced Mix & Match Final",
-   "artist": "Swing Beasts Studio_Beijing",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 778,
-   "popularity": 36,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "jr0MqdXbf44"
    },
    "curated": false
   },
