@@ -1,6 +1,701 @@
 {
- "exportedAt": "2026-09-05T18:20:28.082Z",
+ "exportedAt": "2026-09-06T18:20:23.681Z",
  "items": [
+  {
+   "id": "yt-UZWmtxLiiFE",
+   "type": "music",
+   "title": "L-O-V-E",
+   "artist": "Nat King Cole Trio - Topic",
+   "styles": [],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 155,
+   "popularity": 100,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "UZWmtxLiiFE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tU8f4U_EZgs",
+   "type": "video",
+   "title": "Perfect WCS Improv by Thibault and Maria to BeeGees. ❤️ #dance #improvisation #shorts @ml855",
+   "artist": "MLSdance journey Marilyn Lim",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 61,
+   "popularity": 94,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "tU8f4U_EZgs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-qSGWoYgrIuk",
+   "type": "music",
+   "title": "Fnaf 2 (It's Been So Long) (Big Band Version)",
+   "artist": "The 8-Bit Big Band - Topic",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 227,
+   "popularity": 92,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "qSGWoYgrIuk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-In-5nN_qBNQ",
+   "type": "video",
+   "title": "Felicia and I are back 😎🥇 #westcoastswing #wcs #improv #dance #competition",
+   "artist": "Keerigan Rudd",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 46,
+   "popularity": 81,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "In-5nN_qBNQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-19xFxPzEGCk",
+   "type": "video",
+   "title": "IMPROV with Lily #westcoastswing #wcs #dance #competition",
+   "artist": "Keerigan Rudd",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 51,
+   "popularity": 79,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "19xFxPzEGCk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-sit2O99tDJQ",
+   "type": "video",
+   "title": "Lovely improv ❤️💃 #westcoastswing #wcs #improv #dance #competition",
+   "artist": "Keerigan Rudd",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 51,
+   "popularity": 78,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "sit2O99tDJQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zlSX2-B0Yp0",
+   "type": "tutorial",
+   "title": "IMPROV TUTORIAL📚#westcoastswing #wcs #improv #modernswing #dancecompetition #howtodance",
+   "artist": "Keerigan Rudd",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 54,
+   "popularity": 74,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "zlSX2-B0Yp0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-rWAwE3Oo_DM",
+   "type": "video",
+   "title": "West Coast Swing Improv with Ben Morris & Brandi Guild!",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 59,
+   "popularity": 73,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "rWAwE3Oo_DM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-vR6pgi18RQc",
+   "type": "video",
+   "title": "West Coast Swing Dance Improv",
+   "artist": "Jack & Jill O'Rama",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 72,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "vR6pgi18RQc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_-skXgspsPc",
+   "type": "music",
+   "title": "Mambo Swing by Scotty Morris/arranged by Roger Holmes",
+   "artist": "Hal Leonard Jazz Ensemble",
+   "styles": [],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 92,
+   "popularity": 71,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "_-skXgspsPc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-cL0KeUIFHqY",
+   "type": "video",
+   "title": "The Charleston | Dancing The Charleston To Yes We Have No Bananas (1923)",
+   "artist": "Parker Edmondson",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 316,
+   "popularity": 70,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "cL0KeUIFHqY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FfZP7c4xgMk",
+   "type": "video",
+   "title": "West Coast Swing Improv Dance by Ben Morris & Karin Kakun",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 55,
+   "popularity": 69,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "FfZP7c4xgMk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FLf2sYsZoC4",
+   "type": "video",
+   "title": "Improv West Coast Swing Dance - Ben Morris & Alyssa Glanville McKeever",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 59,
+   "popularity": 66,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "FLf2sYsZoC4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Brwuf-k5QN8",
+   "type": "video",
+   "title": "Fireball! West Coast Swing Dance Improv!",
+   "artist": "Jack & Jill O'Rama",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 64,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "Brwuf-k5QN8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-jIV3pds5V8g",
+   "type": "video",
+   "title": "🕺West Coast Swing Improv Freestyle Dance by Ben Morris & Lizzy Spann - Song 2",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 64,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "jIV3pds5V8g"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-sGcF9ML8wss",
+   "type": "video",
+   "title": "Improv West Coast Swing Dance with Ben Morris & Victoria Henk",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 62,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "sGcF9ML8wss"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ZEPViwkylUg",
+   "type": "video",
+   "title": "🕺West Coast Swing Improv Freestyle Dance by Ben Morris & Torri Zzaoui",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 62,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "ZEPViwkylUg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IjT9ssaLpWw",
+   "type": "music",
+   "title": "🇬🇧 This Is What the Hits of the 1930s Sounded Like🇺🇸 #shorts",
+   "artist": "The best songs of all ever",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 59,
+   "popularity": 62,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "IjT9ssaLpWw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-HZzedgeDqPo",
+   "type": "video",
+   "title": "West Coast Swing Improv Dance! @ Jack & Jill O'rama! - Thibault & Nicole Ramirez",
+   "artist": "Jack & Jill O'Rama",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 61,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "HZzedgeDqPo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-O0p0f1ygMwk",
+   "type": "video",
+   "title": "🕺West Coast Swing Improv Freestyle Dance by Ben Morris & Tatianna Mollmann",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 61,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "O0p0f1ygMwk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-0GkFvq7V_tU",
+   "type": "video",
+   "title": "West Coast Swing Improv Dance! @ Jack & Jill O'rama! Conor McClure & Karla Catana",
+   "artist": "Jack & Jill O'Rama",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 59,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "0GkFvq7V_tU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--e4XXWaFWNg",
+   "type": "video",
+   "title": "🕺West Coast Swing Improv Freestyle Dance by Ben Morris & Victoria Henk",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 57,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "-e4XXWaFWNg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ippaKCHnI8I",
+   "type": "video",
+   "title": "Heather & Kenny - Intermediate Balboa - Sweet n Hot 2012",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 308,
+   "popularity": 56,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "ippaKCHnI8I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_F2NZpPNLLA",
+   "type": "video",
+   "title": "🕺West Coast Swing Improv Freestyle Dance by Ben Morris & Torri Zzaoui",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 56,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "_F2NZpPNLLA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9vFlHmkIpJU",
+   "type": "video",
+   "title": "Part 1 #wcs #dance #westcoastswingdancing #2024 #dancevideo #improvisation #dancer #barbie",
+   "artist": "Andrei Bires",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 61,
+   "popularity": 56,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "9vFlHmkIpJU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-2aAQHlQv9T0",
+   "type": "video",
+   "title": "Improv West Coast Swing #dance #westie #westcoastswingdancing #wcs #improv",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 56,
+   "popularity": 56,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "2aAQHlQv9T0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-WQGpkJC6PfA",
+   "type": "video",
+   "title": "Baltastic 4  - Game of Thrones (Balboa Dance Routine)",
+   "artist": "Travis William Matte",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 150,
+   "popularity": 53,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "WQGpkJC6PfA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-yuId092ZWbc",
+   "type": "video",
+   "title": "🕺West Coast Swing Improv Freestyle Dance by Ben Morris & Chantelle Pianetta",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 53,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "yuId092ZWbc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-6NEe6KY8ToA",
+   "type": "video",
+   "title": "West Coast Swing Dance Improv with Maxence Martin",
+   "artist": "Larisa Tingle",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 52,
+   "popularity": 52,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "6NEe6KY8ToA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Osogj2IDgkk",
+   "type": "video",
+   "title": "West Coast Swing Improv Dance to Jazz",
+   "artist": "dancecameo",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 58,
+   "popularity": 51,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "Osogj2IDgkk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-VR7dCw0dS68",
+   "type": "video",
+   "title": "West Coast Swing Improv Dance! @ Jack & Jill O'rama! Benji Schwimmer & Cameo McHenry",
+   "artist": "Jack & Jill O'Rama",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 49,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "VR7dCw0dS68"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-RMrj43vSsWs",
+   "type": "video",
+   "title": "ILHC 2011 - Lindy Hop Showcase - Fabien Vrillon & Lisa Clarke",
+   "artist": "LindyLibrary",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 192,
+   "popularity": 48,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "RMrj43vSsWs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lzhYI1tDVic",
+   "type": "video",
+   "title": "RANDOM PARTNER, RANDOM SONG #westcoastswing #wcs #improv #socialdance #finals #dance",
+   "artist": "Shayla Bouise",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 92,
+   "popularity": 47,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "lzhYI1tDVic"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dpXY86VREtI",
+   "type": "video",
+   "title": "West Coast Swing Improv by Bameo! aka Ben & Cameo McHenry! #wcs #dance #dancing #westcoastswing",
+   "artist": "dancecameo",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 46,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "dpXY86VREtI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lIUqPqlQMAM",
+   "type": "video",
+   "title": "[LIVE] NJC Open Balboa Final - Camp Hollywood 2026",
+   "artist": "camphollywood",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 940,
+   "popularity": 42,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "lIUqPqlQMAM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-jFohGM0EGVc",
+   "type": "video",
+   "title": "Level B - Wk 2: 6 & 8 count tuck turn options",
+   "artist": "SwingStreet.nl",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 98,
+   "popularity": 37,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "jFohGM0EGVc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tt5ZZ6xVyr8",
+   "type": "video",
+   "title": "CLIPSESSION 08: [Bal] Marie Fido Bal Performance w/ TENI LOPEZ-CARDENAS",
+   "artist": "Swungover",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 2493,
+   "popularity": 34,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "tt5ZZ6xVyr8"
+   },
+   "curated": false
+  },
   {
    "id": "yt-aLnZ1NQm2uk",
    "type": "music",
@@ -664,7 +1359,8 @@
    "title": "Q&A2 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
-    "lindy6"
+    "lindy6",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2022,
@@ -716,6 +1412,25 @@
    "curated": false
   },
   {
+   "id": "yt-LsSS9oHN170",
+   "type": "video",
+   "title": "Maxime Zzaoui & Emeline Rochefeuille - 1st place Champions Jack&Jill Finals - German Open 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 255,
+   "popularity": 60,
+   "addedAt": "2026-09-03",
+   "source": {
+    "platform": "youtube",
+    "id": "LsSS9oHN170"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-ENrqFFU4P5E",
    "type": "video",
    "title": "FRANKIE MANNING DANCING LINDY at 92",
@@ -731,25 +1446,6 @@
    "source": {
     "platform": "youtube",
     "id": "ENrqFFU4P5E"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-LsSS9oHN170",
-   "type": "video",
-   "title": "Maxime Zzaoui & Emeline Rochefeuille - 1st place Champions Jack&Jill Finals - German Open 2026",
-   "artist": "West Coast Swing",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 255,
-   "popularity": 57,
-   "addedAt": "2026-09-03",
-   "source": {
-    "platform": "youtube",
-    "id": "LsSS9oHN170"
    },
    "curated": false
   },
@@ -1793,7 +2489,8 @@
    "artist": "Keerigan Rudd",
    "styles": [
     "lindy8",
-    "jitterbug"
+    "jitterbug",
+    "wcs"
    ],
    "bpm": null,
    "year": 2024,
@@ -7197,7 +7894,8 @@
    "title": "My Mindset for Following - Technique Talks for Lindy Hop & Swing Dancing",
    "artist": "Laura Glaess",
    "styles": [
-    "jitterbug"
+    "jitterbug",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2020,
@@ -9384,6 +10082,25 @@
    "curated": false
   },
   {
+   "id": "yt-fHhUTVzXxbI",
+   "type": "video",
+   "title": "A Short Explanation of Pure Balboa Values",
+   "artist": "Swungover",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 169,
+   "popularity": 39,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "fHhUTVzXxbI"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-WTfGeri1dpI",
    "type": "video",
    "title": "HRH 2025 - Invitational Balboa Mix & Match - Carissa & Matt",
@@ -9399,25 +10116,6 @@
    "source": {
     "platform": "youtube",
     "id": "WTfGeri1dpI"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-fHhUTVzXxbI",
-   "type": "video",
-   "title": "A Short Explanation of Pure Balboa Values",
-   "artist": "Swungover",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 169,
-   "popularity": 38,
-   "addedAt": "2026-08-07",
-   "source": {
-    "platform": "youtube",
-    "id": "fHhUTVzXxbI"
    },
    "curated": false
   },
@@ -9461,7 +10159,7 @@
   },
   {
    "id": "yt-MggQSspSGU8",
-   "type": "video",
+   "type": "music",
    "title": "California Jubilee in \"Let's Twist Again\" - Chubby Checker",
    "artist": "Pascal De Maria",
    "styles": [
@@ -9523,7 +10221,8 @@
    "title": "Dancing to the BEE GEES?!?!  How'd we do? #westcoastswing",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
-    "wcs"
+    "wcs",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2024,
@@ -11080,6 +11779,23 @@
    "curated": false
   },
   {
+   "id": "yt-KJvFM1uS8ew",
+   "type": "music",
+   "title": "Fly Me To The Moon (Jazz/Swing feel) : Backing Track",
+   "artist": "Guitare Improvisation",
+   "styles": [],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 343,
+   "popularity": 89,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "KJvFM1uS8ew"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-10rm9HZrzCY",
    "type": "video",
    "title": "0 to 💯 IMPROV  - Keerigan and Giulia",
@@ -11115,23 +11831,6 @@
    "source": {
     "platform": "youtube",
     "id": "tSxQpTAdm6Q"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-KJvFM1uS8ew",
-   "type": "music",
-   "title": "Fly Me To The Moon (Jazz/Swing feel) : Backing Track",
-   "artist": "Guitare Improvisation",
-   "styles": [],
-   "bpm": null,
-   "year": 2020,
-   "durationSec": 343,
-   "popularity": 88,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "KJvFM1uS8ew"
    },
    "curated": false
   },
@@ -11223,6 +11922,26 @@
    "curated": false
   },
   {
+   "id": "yt-JMC6NY5n7E4",
+   "type": "video",
+   "title": "IMPROV West Coast Swing @ Jack & Jill O'rama!",
+   "artist": "Jack & Jill O'Rama",
+   "styles": [
+    "wcs",
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 57,
+   "popularity": 87,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "JMC6NY5n7E4"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-cKcamMuk3sA",
    "type": "tutorial",
    "title": "West Coast Swing Basic Steps // Beginner WCS",
@@ -11238,26 +11957,6 @@
    "source": {
     "platform": "youtube",
     "id": "cKcamMuk3sA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-JMC6NY5n7E4",
-   "type": "video",
-   "title": "IMPROV West Coast Swing @ Jack & Jill O'rama!",
-   "artist": "Jack & Jill O'Rama",
-   "styles": [
-    "wcs",
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 57,
-   "popularity": 86,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "JMC6NY5n7E4"
    },
    "curated": false
   },
@@ -16229,7 +16928,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "music",
+   "type": "video",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -22053,7 +22752,7 @@
    "bpm": null,
    "year": 2020,
    "durationSec": 206,
-   "popularity": 65,
+   "popularity": 66,
    "addedAt": "2026-07-21",
    "source": {
     "platform": "youtube",
@@ -22550,7 +23249,7 @@
   },
   {
    "id": "yt-sR6RBuyuI3o",
-   "type": "video",
+   "type": "music",
    "title": "BLHC 2019 - Nils & Bianca - Invitational Strictly lindy hop",
    "artist": "Slava Bogatov",
    "styles": [
@@ -23701,7 +24400,7 @@
   },
   {
    "id": "yt-I9zHYkKoL4A",
-   "type": "music",
+   "type": "video",
    "title": "Swing Out! 1940s Dancing",
    "artist": "1940GlamourGirl",
    "styles": [
@@ -25038,7 +25737,7 @@
   },
   {
    "id": "yt-PyzkLRrZTCQ",
-   "type": "music",
+   "type": "video",
    "title": "Can’t believe we literally just met 😅 #westcoastswing #dance #competition #improv #randomsong",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -30385,7 +31084,7 @@
   },
   {
    "id": "yt-rb7rp9FhD64",
-   "type": "music",
+   "type": "video",
    "title": "The way the crowd went oooOOOH 😆 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -31259,13 +31958,14 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
     "lindy",
     "jitterbug",
-    "lindy8"
+    "lindy8",
+    "charleston"
    ],
    "bpm": null,
    "year": 2018,
@@ -31347,7 +32047,7 @@
   },
   {
    "id": "yt-qMglBwfhsN4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2019 – Dietmar & Nellia – Never Stop Jiving",
    "artist": "RockThatSwing",
    "styles": [
@@ -32769,7 +33469,7 @@
   },
   {
    "id": "yt-VjAoG3fgjkc",
-   "type": "tutorial",
+   "type": "music",
    "title": "Lindy hop basic footwork",
    "artist": "Lindybeige",
    "styles": [
@@ -34392,7 +35092,7 @@
   },
   {
    "id": "yt-tZbArq08Aw8",
-   "type": "music",
+   "type": "video",
    "title": "Rhythm Practice for Lindy Hop & Swing Dance - 6 & 8 Count",
    "artist": "Laura Glaess",
    "styles": [
@@ -44762,6 +45462,25 @@
    "curated": false
   },
   {
+   "id": "yt-lLfG_HBpuf0",
+   "type": "video",
+   "title": "WCSF 2026 - Strictly Shag Finals with The Roaring Cats",
+   "artist": "Warsaw Collegiate Shag Festival",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 332,
+   "popularity": 37,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "lLfG_HBpuf0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-sVRxu7ZDJJ0",
    "type": "video",
    "title": "[LIVE] ILHC 2026 - Novice Jazz - semi-finals",
@@ -44948,25 +45667,6 @@
    "source": {
     "platform": "youtube",
     "id": "WizZ_4C7hhw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-lLfG_HBpuf0",
-   "type": "video",
-   "title": "WCSF 2026 - Strictly Shag Finals with The Roaring Cats",
-   "artist": "Warsaw Collegiate Shag Festival",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 332,
-   "popularity": 36,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "lLfG_HBpuf0"
    },
    "curated": false
   },
