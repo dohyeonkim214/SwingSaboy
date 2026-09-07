@@ -1,6 +1,593 @@
 {
- "exportedAt": "2026-09-06T18:20:23.681Z",
+ "exportedAt": "2026-09-07T18:22:50.800Z",
  "items": [
+  {
+   "id": "yt-gcE1avXFJb4",
+   "type": "music",
+   "title": "Django Reinhardt - Minor Swing - HD *1080p",
+   "artist": "bray hann",
+   "styles": [],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 196,
+   "popularity": 97,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "gcE1avXFJb4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tANshNVHD40",
+   "type": "video",
+   "title": "WILD one 🦁😜 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 45,
+   "popularity": 94,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "tANshNVHD40"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-HTs6Wroe1DY",
+   "type": "video",
+   "title": "RTSF 2016 - Solo Charleston Challenge",
+   "artist": "RockThatSwing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 393,
+   "popularity": 85,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "HTs6Wroe1DY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1wgdXWJAa_Y",
+   "type": "video",
+   "title": "Brought the house down...AGAIN 😜 #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 55,
+   "popularity": 84,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "1wgdXWJAa_Y"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-06raZrgFwq0",
+   "type": "video",
+   "title": "ULHS 2006 Charleston Finals Dance-Off",
+   "artist": "matonski",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2006,
+   "durationSec": 163,
+   "popularity": 82,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "06raZrgFwq0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pvCeWmtNgnw",
+   "type": "tutorial",
+   "title": "solo charleston, some basics",
+   "artist": "itsaboutmomentum",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 99,
+   "popularity": 80,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "pvCeWmtNgnw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-MMHzu6eYCmQ",
+   "type": "video",
+   "title": "London Swing Festival - Solo Charleston Final",
+   "artist": "swingpatrollondon",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 325,
+   "popularity": 73,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "MMHzu6eYCmQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-htLW56LXShM",
+   "type": "video",
+   "title": "30+ Swing Solo moves",
+   "artist": "Miss Mashy",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 272,
+   "popularity": 72,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "htLW56LXShM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ofKVwoCnkqc",
+   "type": "tutorial",
+   "title": "How To Charleston 2 - solo 3",
+   "artist": "jazzswingdance",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 91,
+   "popularity": 70,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "ofKVwoCnkqc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hD2V2-LvEiA",
+   "type": "video",
+   "title": "CharlestonTurns - for Lindy Hop and Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 620,
+   "popularity": 66,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "hD2V2-LvEiA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4bMzScWQ9yw",
+   "type": "video",
+   "title": "Dragon Swing 2017: Solo Charleston Finals",
+   "artist": "KMiTa Swing Cracow",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 783,
+   "popularity": 65,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "4bMzScWQ9yw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wGdv8LBKehc",
+   "type": "video",
+   "title": "Bad Liar | West Coast Swing Improvisation | Thibault & Nicole Ramirez",
+   "artist": "Thibault and Nicole Ramirez",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 228,
+   "popularity": 64,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "wGdv8LBKehc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Eq9i4K_sFo0",
+   "type": "tutorial",
+   "title": "Toronto Swing Dance Lessons - Solo Vintage Jazz & Charleston - September 16th",
+   "artist": "Mandi Gould",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 79,
+   "popularity": 61,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "Eq9i4K_sFo0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_GKOhS1Cfkk",
+   "type": "tutorial",
+   "title": "Lindy Hop Beginners lesson 6 count basics (14/01/13)",
+   "artist": "jitterbugsnz",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 187,
+   "popularity": 58,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "_GKOhS1Cfkk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-uPxVu5qMYQc",
+   "type": "video",
+   "title": "Solo Charleston Routine | Posin'",
+   "artist": "Lark Mervine",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 154,
+   "popularity": 56,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "uPxVu5qMYQc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-TBqwV8wT84Y",
+   "type": "video",
+   "title": "Charleston 20's dance #shorts Solo Jazz by Ksenia Parkhatskaya #dance #dancer #Charleston #Jazz",
+   "artist": "ALEXANDER LYUTINSKIY VIDEO",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 54,
+   "popularity": 55,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "TBqwV8wT84Y"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-b4FsExp93PQ",
+   "type": "video",
+   "title": "Uptown Swing - Solo Charleston 3/25/2014",
+   "artist": "Uptown Swing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 344,
+   "popularity": 55,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "b4FsExp93PQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QwcXvjOvlUA",
+   "type": "video",
+   "title": "RTSF 2020 Jamboree Ball (Sunday) – Solo Charleston – Prelims",
+   "artist": "RockThatSwing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 203,
+   "popularity": 54,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "QwcXvjOvlUA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-g7MI4mM9mQI",
+   "type": "video",
+   "title": "Uptown Swing - Solo Charleston 6/24/14",
+   "artist": "Uptown Swing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 247,
+   "popularity": 54,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "g7MI4mM9mQI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-oYwpTL9rFi0",
+   "type": "video",
+   "title": "Solo Charleston Routine, Week 1",
+   "artist": "SwingNights",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 1028,
+   "popularity": 53,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "oYwpTL9rFi0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FOsC1TBpOOk",
+   "type": "tutorial",
+   "title": "Beginners Swing Dance (Lindy Hop) lesson 6 count variations (12/11/13)",
+   "artist": "jitterbugsnz",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 222,
+   "popularity": 50,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "FOsC1TBpOOk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-D12lAQ0_0Sc",
+   "type": "tutorial",
+   "title": "How to Practice West Coast Swing Alone",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 904,
+   "popularity": 50,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "D12lAQ0_0Sc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-X6c3HsvMgY0",
+   "type": "tutorial",
+   "title": "Beginners Swing Dance (Lindy Hop) lesson, 6 count triple step variations (02/12/13)",
+   "artist": "jitterbugsnz",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 210,
+   "popularity": 48,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "X6c3HsvMgY0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4Xp2L9f2HLw",
+   "type": "video",
+   "title": "RTSF 2015 - Solo Charleston Competition - Dance Off",
+   "artist": "RockThatSwing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 109,
+   "popularity": 48,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "4Xp2L9f2HLw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_MSMrXMqTnk",
+   "type": "video",
+   "title": "Beginning Lindy Hop Moves - Lindy Frame, Circle, Tuck Turn, 6 Count Basic",
+   "artist": "Tiffiny Wine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 132,
+   "popularity": 46,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "_MSMrXMqTnk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-TkMwy2ixGq8",
+   "type": "tutorial",
+   "title": "Basic 6 count Steps for Swing Dance & Lindy hop Beginners Class",
+   "artist": "Bswinglindy Singapore",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 61,
+   "popularity": 44,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "TkMwy2ixGq8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QKzB22l1BtM",
+   "type": "tutorial",
+   "title": "Beginners Swing Dance (Lindy Hop) Class 6 count basics and breaks (15/04/13)",
+   "artist": "jitterbugsnz",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 298,
+   "popularity": 43,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "QKzB22l1BtM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9qk-riA4QvE",
+   "type": "video",
+   "title": "✨It gets better ✨ #dance # #improv #wcs #coupledance #groove #fyp",
+   "artist": "StuckOnSwing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 47,
+   "popularity": 42,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "9qk-riA4QvE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_9gYyre57Oo",
+   "type": "tutorial",
+   "title": "Beginner Swing Dance Class | 6-Count Basics",
+   "artist": "Lark Mervine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 213,
+   "popularity": 41,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "_9gYyre57Oo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-WhNPnAUtMRc",
+   "type": "video",
+   "title": "Level B - 8 count change place variations and Lindy Circle",
+   "artist": "SwingStreet.nl",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 124,
+   "popularity": 40,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "WhNPnAUtMRc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-BRyykIpM_jw",
+   "type": "tutorial",
+   "title": "Beginners Swing Dance (Lindy Hop) class 6 count basics (19/08/13)",
+   "artist": "jitterbugsnz",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 145,
+   "popularity": 36,
+   "addedAt": "2026-09-07",
+   "source": {
+    "platform": "youtube",
+    "id": "BRyykIpM_jw"
+   },
+   "curated": false
+  },
   {
    "id": "yt-UZWmtxLiiFE",
    "type": "music",
@@ -10178,7 +10765,7 @@
   },
   {
    "id": "yt-lolkFAMeifQ",
-   "type": "video",
+   "type": "music",
    "title": "Improvised west coast swing: Macarena 😂 They showed the DJ 👌 Lauren Jones & Tzi Yi Wee #dance",
    "artist": "Affinity Swing",
    "styles": [
@@ -11596,7 +12183,7 @@
   },
   {
    "id": "yt-9Ow_k01VfSg",
-   "type": "video",
+   "type": "music",
    "title": "Did not expect the hotel room key move mid-improv 😂 Well done Markus 🙌🏼 #dance #westcoastswing",
    "artist": "Emeline Rochefeuille",
    "styles": [
@@ -11653,7 +12240,7 @@
   },
   {
    "id": "yt-coHjUU28udE",
-   "type": "video",
+   "type": "music",
    "title": "Two Men, First Place 🥇 #westcoastswing #wcs #improv #modernswing #dance #mendancingwithmen",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -12140,7 +12727,7 @@
   },
   {
    "id": "yt-am3PmylTbDg",
-   "type": "music",
+   "type": "video",
    "title": "Thibault and Nicole Ramirez - 1st Place Showcase - The Open Swing Dance Championships 2024",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -15988,7 +16575,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "music",
+   "type": "video",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -19505,7 +20092,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "video",
+   "type": "music",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -19675,7 +20262,7 @@
    "bpm": null,
    "year": 2019,
    "durationSec": 64,
-   "popularity": 59,
+   "popularity": 60,
    "addedAt": "2026-07-31",
    "source": {
     "platform": "youtube",
@@ -25737,7 +26324,7 @@
   },
   {
    "id": "yt-PyzkLRrZTCQ",
-   "type": "video",
+   "type": "music",
    "title": "Can’t believe we literally just met 😅 #westcoastswing #dance #competition #improv #randomsong",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -27122,6 +27709,25 @@
    "curated": false
   },
   {
+   "id": "yt-FGhwHumFbnc",
+   "type": "video",
+   "title": "Bal-Swing Magic: Josh & Emma at Summer Swing Fest",
+   "artist": "Swing Dancing Phoenix",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 68,
+   "popularity": 55,
+   "addedAt": "2026-07-10",
+   "source": {
+    "platform": "youtube",
+    "id": "FGhwHumFbnc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-qACzXOeaQVU",
    "type": "tutorial",
    "title": "2016-09-19 Rob & Emma Balboa Fundamentals Level 1.5 Flea-hop Hang-man Crab-walk Class Recap",
@@ -27137,25 +27743,6 @@
    "source": {
     "platform": "youtube",
     "id": "qACzXOeaQVU"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-FGhwHumFbnc",
-   "type": "video",
-   "title": "Bal-Swing Magic: Josh & Emma at Summer Swing Fest",
-   "artist": "Swing Dancing Phoenix",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 68,
-   "popularity": 54,
-   "addedAt": "2026-07-10",
-   "source": {
-    "platform": "youtube",
-    "id": "FGhwHumFbnc"
    },
    "curated": false
   },
@@ -28829,7 +29416,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 45,
-   "popularity": 59,
+   "popularity": 60,
    "addedAt": "2026-07-08",
    "source": {
     "platform": "youtube",
@@ -31084,7 +31671,7 @@
   },
   {
    "id": "yt-rb7rp9FhD64",
-   "type": "video",
+   "type": "music",
    "title": "The way the crowd went oooOOOH 😆 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -31958,7 +32545,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -32137,7 +32724,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "video",
+   "type": "music",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -32199,7 +32786,7 @@
   },
   {
    "id": "yt-XBJXSwJtx9o",
-   "type": "video",
+   "type": "music",
    "title": "Fast feet vintage viral \"Paris Jazz Roots Dance Jam\" in 2015 (part)",
    "artist": "Secrets of Solo",
    "styles": [
@@ -33534,7 +34121,8 @@
    "title": "Learn Swing Dance! Lindy Hop for Beginners: Charleston Rhythm (Class 1 of 6)",
    "artist": "SwingStepTV",
    "styles": [
-    "lindy"
+    "lindy",
+    "charleston"
    ],
    "bpm": null,
    "year": 2020,
@@ -42346,6 +42934,25 @@
    "curated": false
   },
   {
+   "id": "yt-1Cr5pWiGMts",
+   "type": "video",
+   "title": "8/2/18 Balboa 1 Wk 6 (pure bal, the ladder, pivots)",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 107,
+   "popularity": 48,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "1Cr5pWiGMts"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-apJDGmKSxOY",
    "type": "tutorial",
    "title": "CalBal Classic 2026 - The Amateur Classic COMPLETE CONTEST",
@@ -42361,25 +42968,6 @@
    "source": {
     "platform": "youtube",
     "id": "apJDGmKSxOY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-1Cr5pWiGMts",
-   "type": "video",
-   "title": "8/2/18 Balboa 1 Wk 6 (pure bal, the ladder, pivots)",
-   "artist": "swinginstyle",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2018,
-   "durationSec": 107,
-   "popularity": 47,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "1Cr5pWiGMts"
    },
    "curated": false
   },
@@ -42632,6 +43220,25 @@
    "curated": false
   },
   {
+   "id": "yt-fPyRCLOPSOE",
+   "type": "video",
+   "title": "Swingin' by the Sound 2025 - Adv. Collegiate Shag Mix & Match",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 598,
+   "popularity": 47,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "fPyRCLOPSOE"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-NHH_byIebDo",
    "type": "video",
    "title": "Lindyhop Social dancing - Nalla & Kelly @ASIABALBOA ABX 2025 #lindyhop #BALBOA #swingdance",
@@ -42723,25 +43330,6 @@
    "source": {
     "platform": "youtube",
     "id": "IX44wCCqp8M"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-fPyRCLOPSOE",
-   "type": "video",
-   "title": "Swingin' by the Sound 2025 - Adv. Collegiate Shag Mix & Match",
-   "artist": "The Collegiate Shag Channel",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 598,
-   "popularity": 46,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "fPyRCLOPSOE"
    },
    "curated": false
   },
@@ -44622,6 +45210,25 @@
    "curated": false
   },
   {
+   "id": "yt-XWnBCyqiDKA",
+   "type": "video",
+   "title": "HRH 2026 - Amateur Balboa Strictly Finals COMPLETE CONTEST",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1031,
+   "popularity": 41,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "XWnBCyqiDKA"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-rLIbnibepaM",
    "type": "tutorial",
    "title": "9/1/16 - Beginner 8ct Lindy Hop @ The Savoy (rocksteps, triples, pop out, promenade, pecking)",
@@ -44847,25 +45454,6 @@
    "source": {
     "platform": "youtube",
     "id": "TMgKgLTKS2o"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-XWnBCyqiDKA",
-   "type": "video",
-   "title": "HRH 2026 - Amateur Balboa Strictly Finals COMPLETE CONTEST",
-   "artist": "Hot Rhythm Foundation",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 1031,
-   "popularity": 40,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "XWnBCyqiDKA"
    },
    "curated": false
   },
