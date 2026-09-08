@@ -1,6 +1,839 @@
 {
- "exportedAt": "2026-09-07T18:22:50.800Z",
+ "exportedAt": "2026-09-08T18:24:36.208Z",
  "items": [
+  {
+   "id": "yt-uvbLjBYyQ3c",
+   "type": "video",
+   "title": "CRAZY ROCK AND ROLL DANCE IN SPAIN",
+   "artist": "Dimitri & Alexsia",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 109,
+   "popularity": 100,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "uvbLjBYyQ3c"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QYVc4v1gfgg",
+   "type": "video",
+   "title": "Pulp Fiction Legendary Dance Scene (John Travolta + Uma Thurman)",
+   "artist": "Boxoffice Movie Scenes",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 210,
+   "popularity": 100,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "QYVc4v1gfgg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-fQ9J8J9WXXc",
+   "type": "video",
+   "title": "BOOGIE WOOGIE DANCE - Sondre, Tanya & the BFF 2024 Artists",
+   "artist": "Sondre & Tanya",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 443,
+   "popularity": 99,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "fQ9J8J9WXXc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Oxck8IsFR9Y",
+   "type": "video",
+   "title": "Champions Boogie Woogie, Laroquebrou 2023",
+   "artist": "Sondre & Tanya",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 236,
+   "popularity": 93,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "Oxck8IsFR9Y"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-2myVykPu33s",
+   "type": "video",
+   "title": "Dance Performance by Sondre & Tanya - Rock That Swing Festival 2024",
+   "artist": "Sondre & Tanya",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 194,
+   "popularity": 87,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "2myVykPu33s"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-WYGUgpKQpno",
+   "type": "video",
+   "title": "You can tell we're dating by his hand placement 🤣 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 49,
+   "popularity": 82,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "WYGUgpKQpno"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-N_9z0LZsGbc",
+   "type": "tutorial",
+   "title": "Beginner-Swing-Lesson02 | Abu Dhabi Filipino Dance Club | Swing | ADFDC | Batch 46 | Ballroom Dance",
+   "artist": "Abu Dhabi Filipino Dance Club",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 73,
+   "popularity": 67,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "N_9z0LZsGbc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Z2bs8A3SYfg",
+   "type": "music",
+   "title": "Swing The Rhythm | Jazz Big Band 1940s Music For Videos",
+   "artist": "Pinegroove Production Music",
+   "styles": [],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 153,
+   "popularity": 66,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "Z2bs8A3SYfg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-GG5ylje-588",
+   "type": "video",
+   "title": "RTSF 2020 Jitterbug Hop (Monday) – Competition – Final",
+   "artist": "RockThatSwing",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 401,
+   "popularity": 61,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "GG5ylje-588"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-AhpLDE6Kzuk",
+   "type": "music",
+   "title": "Secret Love - Twisted Swing Big Band - Dave Wolpe",
+   "artist": "Twisted Swing Big Band",
+   "styles": [],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 226,
+   "popularity": 60,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "AhpLDE6Kzuk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-2_Q3mDybQyE",
+   "type": "video",
+   "title": "Balboa • social swing dancing",
+   "artist": "Bogna Jabłońska-Kwast",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 162,
+   "popularity": 59,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "2_Q3mDybQyE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-fQQKk_jqWKk",
+   "type": "video",
+   "title": "Intermediate Advanced Jitterbug Moves",
+   "artist": "Tiffiny Wine",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 57,
+   "popularity": 58,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "fQQKk_jqWKk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dltXDgntr6Y",
+   "type": "music",
+   "title": "Patti Austin: \"ELLINGTON MEDLEY\" | Frankfurt Radio Big Band | Ella Fitzgerald | Swing | Jazz",
+   "artist": "hr-Bigband – Frankfurt Radio Big Band",
+   "styles": [],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 404,
+   "popularity": 55,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "dltXDgntr6Y"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9u6SoW7ezoE",
+   "type": "music",
+   "title": "Artie Shaw \"Stardust\" #swing #bigband #jazz #vinatge",
+   "artist": "Classical Tunes",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 45,
+   "popularity": 55,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "9u6SoW7ezoE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-verNvruz0LI",
+   "type": "music",
+   "title": "Big Band Swing Music - 1940s Smooth Jazz Instrumental | Ultimate Relaxation & Chill Jazz Music",
+   "artist": "Jazz Through The Ages",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 132,
+   "popularity": 54,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "verNvruz0LI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-fsasq_4vHd0",
+   "type": "music",
+   "title": "Swing Jazz Classics from the 1930s 1940s 🎷 Timeless Big Band Hits for a Vintage Night of Nostalgia",
+   "artist": "Vintage Swing Jazz",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 60,
+   "popularity": 54,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "fsasq_4vHd0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FLw5hFf75kY",
+   "type": "video",
+   "title": "West Coast Swing Social Mixer at @CenturyB in Seattle, WA",
+   "artist": "Rassamy",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 293,
+   "popularity": 50,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "FLw5hFf75kY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wRq_rjFABF8",
+   "type": "tutorial",
+   "title": "Jan6 8 Count Intensive (Beginner Lindy Hop)",
+   "artist": "Tony Fraser",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 280,
+   "popularity": 50,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "wRq_rjFABF8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Y62in_MbJx4",
+   "type": "music",
+   "title": "Big Band Swing Music - Relaxing Retro 1940s Jazz Instrumental – Swing Era Vibes & Big Band Groove",
+   "artist": "Jazz Through The Ages",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 152,
+   "popularity": 49,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "Y62in_MbJx4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Vhv8vYkHKic",
+   "type": "video",
+   "title": "1940's Jive/Jitterbug Swing Dance Demonstration",
+   "artist": "York Vintage Dance Group",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 48,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "Vhv8vYkHKic"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ZPvzqEt82BQ",
+   "type": "tutorial",
+   "title": "Lindy lesson 7 - 8 Count Tuck Turn (Lindy 8)",
+   "artist": "SwingDance UK",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 111,
+   "popularity": 48,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "ZPvzqEt82BQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-cr_Uio_HkiE",
+   "type": "music",
+   "title": "Big Band, Swing Music",
+   "artist": "River Racing Media",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 48,
+   "popularity": 48,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "cr_Uio_HkiE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-f18WL4kuSTA",
+   "type": "video",
+   "title": "Open Balboa Final - Camp Hollywood 2026",
+   "artist": "camphollywood",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 605,
+   "popularity": 47,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "f18WL4kuSTA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3ryfCiKTzpA",
+   "type": "music",
+   "title": "Patti Austin: \"SING ME A SWING SONG\" | Frankfurt Radio Big Band | Ella Fitzgerald | Swing | Jazz",
+   "artist": "hr-Bigband – Frankfurt Radio Big Band",
+   "styles": [],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 222,
+   "popularity": 47,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "3ryfCiKTzpA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ow0tg92wgIE",
+   "type": "video",
+   "title": "[LIVE] NJC Solo Jazz final - Camp Hollywood 2026",
+   "artist": "camphollywood",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1081,
+   "popularity": 45,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "ow0tg92wgIE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-X1g-kgUyapU",
+   "type": "video",
+   "title": "Advanced Jazz Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 551,
+   "popularity": 45,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "X1g-kgUyapU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ky8sswHZhYg",
+   "type": "video",
+   "title": "[LIVE] Amateur Lindy prelim - Camp Hollywood 2026",
+   "artist": "camphollywood",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1553,
+   "popularity": 44,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "ky8sswHZhYg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-uce1wbzHDVE",
+   "type": "video",
+   "title": "[LIVE] NJC Amateur Showcase - Camp Hollywood 2026",
+   "artist": "camphollywood",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 3390,
+   "popularity": 44,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "uce1wbzHDVE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-kflQvGUykro",
+   "type": "video",
+   "title": "3 Swing dance moves from the right shoulder… Easy and fun! 🤩 #swingdance #swing #jitterbug",
+   "artist": "Yaple's Dance Studio",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 61,
+   "popularity": 43,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "kflQvGUykro"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pIDNoYHCb4g",
+   "type": "music",
+   "title": "Big Band Swing Music - You Look Like Trouble – A 1940’s Style Flirty Swing Jazz Love Song",
+   "artist": "Jazz Through The Ages",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 177,
+   "popularity": 43,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "pIDNoYHCb4g"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-f65gpfXKFx0",
+   "type": "video",
+   "title": "Jitterbug dance ☺️",
+   "artist": "Cassandra Charles",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 41,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "f65gpfXKFx0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-DLXlRD03OI4",
+   "type": "video",
+   "title": "[LIVE] The Jonathan Stout Orchestra Set 2 - Camp Hollywood 2026",
+   "artist": "camphollywood",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 3515,
+   "popularity": 41,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "DLXlRD03OI4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1_yjx4eGfwI",
+   "type": "video",
+   "title": "[LIVE] NJC Amateur Mix & Match final - Camp Hollywood 2026",
+   "artist": "camphollywood",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1851,
+   "popularity": 41,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "1_yjx4eGfwI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ES1jqs2Pl3U",
+   "type": "video",
+   "title": "댄스루체  - 바람의전설 & 구름에 달가듯이 ",
+   "artist": "박영재 댄스스포츠 ",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 441,
+   "popularity": 41,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "ES1jqs2Pl3U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-jXY8RpU4IPw",
+   "type": "music",
+   "title": "Big Band Swing Music - I Want You To Want Me – Romantic Swing Jazz Crooner",
+   "artist": "Jazz Through The Ages",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 148,
+   "popularity": 41,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "jXY8RpU4IPw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3Nom2pqZ1cc",
+   "type": "video",
+   "title": "[LIVE] The Jonathan Stout Orchestra set 1 - Camp Hollywood 2026",
+   "artist": "camphollywood",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 3236,
+   "popularity": 40,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "3Nom2pqZ1cc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-sBV9hKqeQcg",
+   "type": "tutorial",
+   "title": "Intermediate Lindy Hop (Swing Dance) lesson - 8-count Rhythms part 1 (31/03/14)",
+   "artist": "jitterbugsnz",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 317,
+   "popularity": 40,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "sBV9hKqeQcg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FpGLgLBge_0",
+   "type": "video",
+   "title": "[LIVE] Triple Threat Final - Camp Hollywood 2026",
+   "artist": "camphollywood",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 995,
+   "popularity": 40,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "FpGLgLBge_0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Y5F7uQHfb28",
+   "type": "video",
+   "title": "St Louis Shag 🤩 (int/adv) - day 2",
+   "artist": "Let It Swing",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 133,
+   "popularity": 40,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "Y5F7uQHfb28"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-CJ9tFZ0nQnU",
+   "type": "video",
+   "title": "[LIVE] The Jonathan Stout Orchestra Set 1 - Camp Hollywood 2026",
+   "artist": "camphollywood",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 2861,
+   "popularity": 39,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "CJ9tFZ0nQnU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-CHf2nfokd-8",
+   "type": "tutorial",
+   "title": "Beginners Swing Dance (Lindy Hop) lesson 8 count lindy basics (16/09/13)",
+   "artist": "jitterbugsnz",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 322,
+   "popularity": 39,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "CHf2nfokd-8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-euEwqt-VAGI",
+   "type": "video",
+   "title": "[LIVE] Amateur Balboa finals - Camp Hollywood 2026",
+   "artist": "camphollywood",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1461,
+   "popularity": 38,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "euEwqt-VAGI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-qeMLBjrCzbg",
+   "type": "video",
+   "title": "[LIVE] Michael Gamble and The Rhythm Serenaders set 1 - Camp Hollywood 2026",
+   "artist": "camphollywood",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 3491,
+   "popularity": 37,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "qeMLBjrCzbg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-eSOjoIntO_0",
+   "type": "video",
+   "title": "[LIVE] Triple Threat Prelim - Camp Hollywood 2026",
+   "artist": "camphollywood",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1235,
+   "popularity": 35,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "eSOjoIntO_0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zi0EcDdb73I",
+   "type": "tutorial",
+   "title": "Intermediate Lindy Hop (Swing Dance) lesson - 8 count Rhythms part 2 (07/04/14)",
+   "artist": "jitterbugsnz",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 372,
+   "popularity": 34,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "zi0EcDdb73I"
+   },
+   "curated": false
+  },
   {
    "id": "yt-gcE1avXFJb4",
    "type": "music",
@@ -4075,7 +4908,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 146,
-   "popularity": 40,
+   "popularity": 41,
    "addedAt": "2026-08-23",
    "source": {
     "platform": "youtube",
@@ -4204,7 +5037,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 192,
-   "popularity": 40,
+   "popularity": 41,
    "addedAt": "2026-08-22",
    "source": {
     "platform": "youtube",
@@ -7781,7 +8614,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 175,
-   "popularity": 41,
+   "popularity": 42,
    "addedAt": "2026-08-12",
    "source": {
     "platform": "youtube",
@@ -8119,7 +8952,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 178,
-   "popularity": 30,
+   "popularity": 31,
    "addedAt": "2026-08-11",
    "source": {
     "platform": "youtube",
@@ -8218,10 +9051,12 @@
   },
   {
    "id": "yt-M1F0lBnsnkE",
-   "type": "music",
+   "type": "video",
    "title": "Old Movie Stars Dance to Uptown Funk",
    "artist": "Nerd Fest UK",
-   "styles": [],
+   "styles": [
+    "jitterbug"
+   ],
    "bpm": null,
    "year": 2015,
    "durationSec": 293,
@@ -10765,7 +11600,7 @@
   },
   {
    "id": "yt-lolkFAMeifQ",
-   "type": "music",
+   "type": "video",
    "title": "Improvised west coast swing: Macarena 😂 They showed the DJ 👌 Lauren Jones & Tzi Yi Wee #dance",
    "artist": "Affinity Swing",
    "styles": [
@@ -11444,7 +12279,8 @@
    "title": "I can’t believe I just met this guy…🫣 #westcoastswing #improv #fun #wcs #competition #dancers",
    "artist": "Mackenzie Keister",
    "styles": [
-    "wcs"
+    "wcs",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2023,
@@ -11834,7 +12670,8 @@
    "title": "Kyle Redd & Nicole Ramirez \"Mamma Mia!\" - Invitational Champions Jack&Jill - Budafest 2022",
    "artist": "West Coast Swing",
    "styles": [
-    "wcs"
+    "wcs",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2022,
@@ -12240,7 +13077,7 @@
   },
   {
    "id": "yt-coHjUU28udE",
-   "type": "music",
+   "type": "video",
    "title": "Two Men, First Place 🥇 #westcoastswing #wcs #improv #modernswing #dance #mendancingwithmen",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -12727,7 +13564,7 @@
   },
   {
    "id": "yt-am3PmylTbDg",
-   "type": "video",
+   "type": "music",
    "title": "Thibault and Nicole Ramirez - 1st Place Showcase - The Open Swing Dance Championships 2024",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -14595,7 +15432,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 57,
-   "popularity": 62,
+   "popularity": 63,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -16575,7 +17412,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "video",
+   "type": "music",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -18318,6 +19155,25 @@
    "curated": false
   },
   {
+   "id": "yt--nWWdW7GqEQ",
+   "type": "tutorial",
+   "title": "6 Count Footwork variations | Lindy Hop recap with Martynas",
+   "artist": "Martynas Stonys",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 100,
+   "popularity": 54,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "-nWWdW7GqEQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-GBEOxAh1d7M",
    "type": "tutorial",
    "title": "Learn to dance lindy hop : 6 count basics",
@@ -18372,25 +19228,6 @@
    "source": {
     "platform": "youtube",
     "id": "90UIRfb8kAg"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt--nWWdW7GqEQ",
-   "type": "tutorial",
-   "title": "6 Count Footwork variations | Lindy Hop recap with Martynas",
-   "artist": "Martynas Stonys",
-   "styles": [
-    "lindy6"
-   ],
-   "bpm": null,
-   "year": 2020,
-   "durationSec": 100,
-   "popularity": 53,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "-nWWdW7GqEQ"
    },
    "curated": false
   },
@@ -19004,6 +19841,25 @@
    "curated": false
   },
   {
+   "id": "yt-iH4k-F7n4tw",
+   "type": "tutorial",
+   "title": "8 count moves for beginners Lindy Hop course",
+   "artist": "Portsmouth Lindy Hop",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 47,
+   "popularity": 44,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "iH4k-F7n4tw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-1oOUG0QSNWo",
    "type": "tutorial",
    "title": "Lindyhop level A - 6 count basics weeks 1 and 2",
@@ -19173,25 +20029,6 @@
    "source": {
     "platform": "youtube",
     "id": "Du30F4uTwDw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-iH4k-F7n4tw",
-   "type": "tutorial",
-   "title": "8 count moves for beginners Lindy Hop course",
-   "artist": "Portsmouth Lindy Hop",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 47,
-   "popularity": 43,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "iH4k-F7n4tw"
    },
    "curated": false
   },
@@ -24709,7 +25546,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 764,
-   "popularity": 40,
+   "popularity": 41,
    "addedAt": "2026-07-18",
    "source": {
     "platform": "youtube",
@@ -26324,7 +27161,7 @@
   },
   {
    "id": "yt-PyzkLRrZTCQ",
-   "type": "music",
+   "type": "video",
    "title": "Can’t believe we literally just met 😅 #westcoastswing #dance #competition #improv #randomsong",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -30309,6 +31146,26 @@
    "curated": false
   },
   {
+   "id": "yt-mFQnbSVjurA",
+   "type": "video",
+   "title": "Social Swing dancing in France 🔥",
+   "artist": "Florent Llamas",
+   "styles": [
+    "lindy",
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 52,
+   "popularity": 53,
+   "addedAt": "2026-07-07",
+   "source": {
+    "platform": "youtube",
+    "id": "mFQnbSVjurA"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-0qp2YoWxDXs",
    "type": "video",
    "title": "Social Lindy Hop 🎷 improvisation and fun 🤩",
@@ -30324,25 +31181,6 @@
    "source": {
     "platform": "youtube",
     "id": "0qp2YoWxDXs"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-mFQnbSVjurA",
-   "type": "video",
-   "title": "Social Swing dancing in France 🔥",
-   "artist": "Florent Llamas",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 52,
-   "popularity": 52,
-   "addedAt": "2026-07-07",
-   "source": {
-    "platform": "youtube",
-    "id": "mFQnbSVjurA"
    },
    "curated": false
   },
@@ -31671,7 +32509,7 @@
   },
   {
    "id": "yt-rb7rp9FhD64",
-   "type": "music",
+   "type": "video",
    "title": "The way the crowd went oooOOOH 😆 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -32724,7 +33562,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "music",
+   "type": "video",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -32786,7 +33624,7 @@
   },
   {
    "id": "yt-XBJXSwJtx9o",
-   "type": "music",
+   "type": "video",
    "title": "Fast feet vintage viral \"Paris Jazz Roots Dance Jam\" in 2015 (part)",
    "artist": "Secrets of Solo",
    "styles": [
@@ -35680,7 +36518,7 @@
   },
   {
    "id": "yt-tZbArq08Aw8",
-   "type": "video",
+   "type": "music",
    "title": "Rhythm Practice for Lindy Hop & Swing Dance - 6 & 8 Count",
    "artist": "Laura Glaess",
    "styles": [
@@ -36806,7 +37644,8 @@
    "styles": [
     "lindy",
     "lindy8",
-    "lindy6"
+    "lindy6",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2019,
@@ -39063,7 +39902,7 @@
   {
    "id": "yt-cH2N7U_rXO0",
    "type": "video",
-   "title": "Upper Body Mobility for Solo Jazz and Charleston | Arms & Shoulders",
+   "title": "8-Minute Arm & Shoulder Warm-Up for Dancers (Solo Jazz & Charleston)",
    "artist": "Secrets of Solo",
    "styles": [
     "charleston"
@@ -40677,7 +41516,8 @@
    "artist": "Street Smart Swing",
    "styles": [
     "lindy",
-    "lindy8"
+    "lindy8",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2020,
@@ -41537,6 +42377,25 @@
    "curated": false
   },
   {
+   "id": "yt-GqgosYJTMds",
+   "type": "tutorial",
+   "title": "CalBal Classic 2026 - The Pure Balboa Classic Finals",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1094,
+   "popularity": 52,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "GqgosYJTMds"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-FOFAMOyGAsE",
    "type": "tutorial",
    "title": "Swing Dancing - Learn how to do a Lindy Hop Tuck Turn",
@@ -41863,25 +42722,6 @@
    "curated": false
   },
   {
-   "id": "yt-GqgosYJTMds",
-   "type": "tutorial",
-   "title": "CalBal Classic 2026 - The Pure Balboa Classic Finals",
-   "artist": "California Balboa Classic",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 1094,
-   "popularity": 51,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "GqgosYJTMds"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-0DPHwlgqaMY",
    "type": "tutorial",
    "title": "Balboa | Todd & Irina – Lesson 1 \"Follower Denise Paulino Lollies Styling\"",
@@ -41920,6 +42760,26 @@
    "curated": false
   },
   {
+   "id": "yt-YIkQbHPuz20",
+   "type": "video",
+   "title": "Advanced Mix & Match Finals | Lindy Hop Competition – Sofia Swing Dance Festival 2025",
+   "artist": "Lindy Hop Bulgaria",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 498,
+   "popularity": 51,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "YIkQbHPuz20"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-RAh0DwwUA6o",
    "type": "video",
    "title": "All-Star Strictly Finals - ILHC NORTH AMERICAN QUALIFIER 2025",
@@ -41936,26 +42796,6 @@
    "source": {
     "platform": "youtube",
     "id": "RAh0DwwUA6o"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-YIkQbHPuz20",
-   "type": "video",
-   "title": "Advanced Mix & Match Finals | Lindy Hop Competition – Sofia Swing Dance Festival 2025",
-   "artist": "Lindy Hop Bulgaria",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 498,
-   "popularity": 50,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "YIkQbHPuz20"
    },
    "curated": false
   },
@@ -46852,6 +47692,25 @@
    "curated": false
   },
   {
+   "id": "yt-ylPnAVzuD9c",
+   "type": "video",
+   "title": "St Louis Shag pt. 1",
+   "artist": "Corvallis Swing",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 185,
+   "popularity": 31,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "ylPnAVzuD9c"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-XWPOmdu2YBs",
    "type": "video",
    "title": "HRH 2026 - Amateur Shag Mix & Match Finals - Laura & Sam",
@@ -46886,25 +47745,6 @@
    "source": {
     "platform": "youtube",
     "id": "gK7bljO3lls"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-ylPnAVzuD9c",
-   "type": "video",
-   "title": "St Louis Shag pt. 1",
-   "artist": "Corvallis Swing",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2023,
-   "durationSec": 185,
-   "popularity": 30,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "ylPnAVzuD9c"
    },
    "curated": false
   },
