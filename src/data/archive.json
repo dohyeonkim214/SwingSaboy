@@ -1,6 +1,519 @@
 {
- "exportedAt": "2026-09-13T18:21:01.007Z",
+ "exportedAt": "2026-09-14T18:22:56.577Z",
  "items": [
+  {
+   "id": "yt-nQ0CObxS7LQ",
+   "type": "video",
+   "title": "Top 10 Best Swing Dance Scenes in Movies",
+   "artist": "MsMojo",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 759,
+   "popularity": 85,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "nQ0CObxS7LQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Eo4yx9FpHzo",
+   "type": "video",
+   "title": "2000's banger 🤩🤩🤩 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 76,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "Eo4yx9FpHzo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lKRbSYKLpho",
+   "type": "tutorial",
+   "title": "Part 1 of our Classic routine at the Open Swing Dance Championships 2023",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 56,
+   "popularity": 68,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "lKRbSYKLpho"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-jkSku4qc454",
+   "type": "video",
+   "title": "[트리플크라운 스윙댄스학원] 발보아 루틴 / Taps Miller #shorts #balboa #swingdance",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 49,
+   "popularity": 59,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "jkSku4qc454"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-n51WKcJgLpI",
+   "type": "video",
+   "title": "Open Lindy Final - Camp Hollywood 2026",
+   "artist": "camphollywood",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 566,
+   "popularity": 57,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "n51WKcJgLpI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--WA-HsqRl9A",
+   "type": "video",
+   "title": "ESDC 2012 - Team - Savoy Lindy Hoppers",
+   "artist": "PatrickAndNatasha",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 207,
+   "popularity": 57,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "-WA-HsqRl9A"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9DufJNXixxU",
+   "type": "video",
+   "title": "RTSF 2014 - Lindy Hop World Cup Showcase - Taras & Lana",
+   "artist": "RockThatSwing",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 215,
+   "popularity": 55,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "9DufJNXixxU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_IDqap8zuOs",
+   "type": "video",
+   "title": "🎷 Step Into Charleston 🔥 1925 Hot Jazz Dance Night 💃",
+   "artist": "Ri_Ya music",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 3910,
+   "popularity": 54,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "_IDqap8zuOs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-aIblco8rdF4",
+   "type": "video",
+   "title": "Lindy Hop Showcase",
+   "artist": "Takajymi",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2007,
+   "durationSec": 542,
+   "popularity": 53,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "aIblco8rdF4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-BfHoyG40jsg",
+   "type": "video",
+   "title": "Balboa Dance - Venice Beach",
+   "artist": "Savoy Hop",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 109,
+   "popularity": 53,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "BfHoyG40jsg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-b-UwsUVZHwE",
+   "type": "video",
+   "title": "Why I Love Balboa, by Bobby White",
+   "artist": "Robert White",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 199,
+   "popularity": 52,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "b-UwsUVZHwE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tn9h1CO1BcU",
+   "type": "video",
+   "title": "I SHAG ST. LOUIS",
+   "artist": "St. Louis Jitterbugs",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 184,
+   "popularity": 52,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "tn9h1CO1BcU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-79TEoMRkux0",
+   "type": "tutorial",
+   "title": "Up-hold and Down-hold Basics - Balboa I - 4/3/13",
+   "artist": "Swing Cville",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 107,
+   "popularity": 50,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "79TEoMRkux0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-YpSBOCBIDvQ",
+   "type": "video",
+   "title": "European Balboa Festival 2019 : Final Pro Strictly Balboa, spotlight Vinnie &  Kat",
+   "artist": "VinnieKatSwing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 101,
+   "popularity": 49,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "YpSBOCBIDvQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8_nUJQw6ubQ",
+   "type": "video",
+   "title": "🌼Slow Balboa | GLBE 2024 #dance #shorts",
+   "artist": "Natasha Shevchenko",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 61,
+   "popularity": 49,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "8_nUJQw6ubQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8eg3Vd63YaY",
+   "type": "tutorial",
+   "title": "Balboa Basics - Slides",
+   "artist": "W2Best Tech",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 257,
+   "popularity": 49,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "8eg3Vd63YaY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-e3kZg_6ULdM",
+   "type": "video",
+   "title": "Savoy Cup 2019 - Open Couple Routine - Giulio Parise & Ana Vesel",
+   "artist": "Savoy Cup",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 174,
+   "popularity": 47,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "e3kZg_6ULdM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-oSah9-tQVoA",
+   "type": "video",
+   "title": "Swing Dance (home footage)",
+   "artist": "Savoy Hop",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 383,
+   "popularity": 45,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "oSah9-tQVoA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-JCxjg9llpZM",
+   "type": "video",
+   "title": "Randy & Kara Balboa BOTP 2013",
+   "artist": "RandyandKara",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 213,
+   "popularity": 43,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "JCxjg9llpZM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-GkRR7AptY2w",
+   "type": "video",
+   "title": "10/19/17 Swing 1 @ Savoy (Swivels, Double Tuck, Outside/Inside Turns)",
+   "artist": "swinginstyle",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 124,
+   "popularity": 41,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "GkRR7AptY2w"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ty2tH4185yI",
+   "type": "video",
+   "title": "#balboa #dance #balboadance #발보아루틴 #swingdance #lindy #튀제이 #깽이 #튀깽무브",
+   "artist": "튀깽발보아",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 61,
+   "popularity": 41,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "ty2tH4185yI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-CGjheb8RkR4",
+   "type": "video",
+   "title": "Slow Balboa & Balboa Dance - Rudolf & Tiphaine - After You're Gone by Joe Venuti, Eddie Lang",
+   "artist": "Some Like It Hot!",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 209,
+   "popularity": 39,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "CGjheb8RkR4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ix34Ms9reuA",
+   "type": "video",
+   "title": "20241002: Mike & Elli October Balboa Series - Week 1",
+   "artist": "Santa Fe Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 60,
+   "popularity": 38,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "ix34Ms9reuA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-UkMaVzGKzyY",
+   "type": "video",
+   "title": "BAL FOR TWO 2025 - Teacher's Show at Milano Balboa weekend",
+   "artist": "Lost In The Shuffle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 506,
+   "popularity": 35,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "UkMaVzGKzyY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-MU9bAjdLFCw",
+   "type": "video",
+   "title": "Studio Hop - Les Profs - Marie & Jean-Philippe - Balboa",
+   "artist": "Studio Hop",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 34,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "MU9bAjdLFCw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-bOTzyGD2s7w",
+   "type": "video",
+   "title": "Collegiate Shag Strictly Final - All Skate - BAL&HOP 2025",
+   "artist": "BAL&HOP",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 101,
+   "popularity": 29,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "bOTzyGD2s7w"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-vIizy2tE3NM",
+   "type": "video",
+   "title": "Balboa Open Final! Camp Hollywood 2026 (SIDE VIEW)",
+   "artist": "Swing Dancing Phoenix",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 405,
+   "popularity": 16,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "vIizy2tE3NM"
+   },
+   "curated": false
+  },
   {
    "id": "yt-_8yGGtVKrD8",
    "type": "music",
@@ -1121,6 +1634,25 @@
    "curated": false
   },
   {
+   "id": "yt-loQcoN3YtE8",
+   "type": "video",
+   "title": "Amateur Balboa Final - Camp Hollywood 2026",
+   "artist": "camphollywood",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 595,
+   "popularity": 42,
+   "addedAt": "2026-09-12",
+   "source": {
+    "platform": "youtube",
+    "id": "loQcoN3YtE8"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-_4G6jgwewKk",
    "type": "video",
    "title": "Balboa Open Strictly Finals: Sergey Bulatnov and Marina Alekseeva — Moscow Jazz Weekend 2021",
@@ -1231,25 +1763,6 @@
    "source": {
     "platform": "youtube",
     "id": "wjuyoRKGrWc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-loQcoN3YtE8",
-   "type": "video",
-   "title": "Amateur Balboa Final - Camp Hollywood 2026",
-   "artist": "camphollywood",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 595,
-   "popularity": 31,
-   "addedAt": "2026-09-12",
-   "source": {
-    "platform": "youtube",
-    "id": "loQcoN3YtE8"
    },
    "curated": false
   },
@@ -1606,7 +2119,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 112,
-   "popularity": 23,
+   "popularity": 24,
    "addedAt": "2026-09-11",
    "source": {
     "platform": "youtube",
@@ -2970,7 +3483,8 @@
    "title": "Balboa • social swing dancing",
    "artist": "Bogna Jabłońska-Kwast",
    "styles": [
-    "jitterbug"
+    "jitterbug",
+    "balboa"
    ],
    "bpm": null,
    "year": 2021,
@@ -3678,7 +4192,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 55,
-   "popularity": 84,
+   "popularity": 85,
    "addedAt": "2026-09-07",
    "source": {
     "platform": "youtube",
@@ -14362,7 +14876,7 @@
   },
   {
    "id": "yt-MggQSspSGU8",
-   "type": "music",
+   "type": "video",
    "title": "California Jubilee in \"Let's Twist Again\" - Chubby Checker",
    "artist": "Pascal De Maria",
    "styles": [
@@ -16866,6 +17380,23 @@
    "curated": false
   },
   {
+   "id": "yt-j_Qc8s0h4gg",
+   "type": "music",
+   "title": "1940s Swing & Boogie-Woogie🎺 \"As Time goes by\"🎶 AI Music-Video + Authentic Song Lyrics from 1931✍️",
+   "artist": "videofab",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 166,
+   "popularity": 78,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "j_Qc8s0h4gg"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-FlQwDhsqtgg",
    "type": "video",
    "title": "KP Rutland & Bryn Anderson - Routines - Budafest 2025",
@@ -16958,23 +17489,6 @@
    "source": {
     "platform": "youtube",
     "id": "loAhI3dPAng"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-j_Qc8s0h4gg",
-   "type": "music",
-   "title": "1940s Swing & Boogie-Woogie🎺 \"As Time goes by\"🎶 AI Music-Video + Authentic Song Lyrics from 1931✍️",
-   "artist": "videofab",
-   "styles": [],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 166,
-   "popularity": 77,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "j_Qc8s0h4gg"
    },
    "curated": false
   },
@@ -17871,7 +18385,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 2694,
-   "popularity": 66,
+   "popularity": 67,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -18623,6 +19137,42 @@
    "curated": false
   },
   {
+   "id": "yt-YE__QpB3eq4",
+   "type": "music",
+   "title": "10 Jazz Standards You Need To Know [PART 1] | #shorts  #jazzstandard #jazz",
+   "artist": "Backing Track Center",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 60,
+   "popularity": 59,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "YE__QpB3eq4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-we6Lqt3E3Sc",
+   "type": "tutorial",
+   "title": "Country Swing Basics",
+   "artist": "Luke Beckstrand",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 70,
+   "popularity": 59,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "we6Lqt3E3Sc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-mArUlxB-fJY",
    "type": "tutorial",
    "title": "How to Practice West Coast Swing Alone!",
@@ -18657,42 +19207,6 @@
    "source": {
     "platform": "youtube",
     "id": "OURpGGtYPKk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-YE__QpB3eq4",
-   "type": "music",
-   "title": "10 Jazz Standards You Need To Know [PART 1] | #shorts  #jazzstandard #jazz",
-   "artist": "Backing Track Center",
-   "styles": [],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 60,
-   "popularity": 58,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "YE__QpB3eq4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-we6Lqt3E3Sc",
-   "type": "tutorial",
-   "title": "Country Swing Basics",
-   "artist": "Luke Beckstrand",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 70,
-   "popularity": 58,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "we6Lqt3E3Sc"
    },
    "curated": false
   },
@@ -20041,6 +20555,25 @@
    "curated": false
   },
   {
+   "id": "yt-HSNdE6qO2mM",
+   "type": "video",
+   "title": "RTSF 2023 – Stephen & Karine – Rock That Swing Ball (Saturday)",
+   "artist": "RockThatSwing",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 176,
+   "popularity": 89,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "HSNdE6qO2mM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-_KNULp-7L6I",
    "type": "video",
    "title": "Camp Hollywood XXV - Open Showcase - Chandrae & Stephen",
@@ -20056,25 +20589,6 @@
    "source": {
     "platform": "youtube",
     "id": "_KNULp-7L6I"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-HSNdE6qO2mM",
-   "type": "video",
-   "title": "RTSF 2023 – Stephen & Karine – Rock That Swing Ball (Saturday)",
-   "artist": "RockThatSwing",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2023,
-   "durationSec": 176,
-   "popularity": 88,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "HSNdE6qO2mM"
    },
    "curated": false
   },
@@ -24587,11 +25101,12 @@
   },
   {
    "id": "yt-47L1tR5kLmY",
-   "type": "music",
+   "type": "video",
    "title": "Swing Dancing & Lindy Hopping Kids - Jimmy Dorsey Orchestra 1942",
    "artist": "Savoy Hop",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2013,
@@ -27461,7 +27976,7 @@
   },
   {
    "id": "yt-sR6RBuyuI3o",
-   "type": "video",
+   "type": "music",
    "title": "BLHC 2019 - Nils & Bianca - Invitational Strictly lindy hop",
    "artist": "Slava Bogatov",
    "styles": [
@@ -27575,6 +28090,26 @@
    "curated": false
   },
   {
+   "id": "yt-ZTfxtVj0LVs",
+   "type": "video",
+   "title": "SWING DANCE Performance by Sondre & Tanya - Rock That Swing 2026",
+   "artist": "Sondre & Tanya",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 187,
+   "popularity": 75,
+   "addedAt": "2026-07-18",
+   "source": {
+    "platform": "youtube",
+    "id": "ZTfxtVj0LVs"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-A740izaUHh0",
    "type": "video",
    "title": "Lindy Hop Invitational - Slow (The Snowball 2019)",
@@ -27610,26 +28145,6 @@
    "source": {
     "platform": "youtube",
     "id": "72rocYXvWKA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-ZTfxtVj0LVs",
-   "type": "video",
-   "title": "SWING DANCE Performance by Sondre & Tanya - Rock That Swing 2026",
-   "artist": "Sondre & Tanya",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 187,
-   "popularity": 74,
-   "addedAt": "2026-07-18",
-   "source": {
-    "platform": "youtube",
-    "id": "ZTfxtVj0LVs"
    },
    "curated": false
   },
@@ -32976,7 +33491,7 @@
   {
    "id": "yt-fBGEUnWDxMA",
    "type": "video",
-   "title": "1920s Charleston Vintage Dance Music | Great Stars And Songs To Make You Dance",
+   "title": "1920s Charleston Vintage Dance Music | Great Stars And Songs To Make You Dance | NO AI MUSIC",
    "artist": "Classical Tunes",
    "styles": [
     "charleston"
@@ -36285,7 +36800,7 @@
   },
   {
    "id": "yt-ZP3DM8_hiLg",
-   "type": "video",
+   "type": "music",
    "title": "Grand Nationals 2017 Champion Swing  1st place winners",
    "artist": "Bruce Gleason",
    "styles": [
@@ -36515,7 +37030,7 @@
   },
   {
    "id": "yt-v9xxeWRxSbA",
-   "type": "music",
+   "type": "video",
    "title": "ILHC 2013 - Invitational Strictly Lindy Hop Finals",
    "artist": "Alain Wong",
    "styles": [
@@ -36846,7 +37361,7 @@
   },
   {
    "id": "yt-m01f4uAn1AA",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2016 - The Nitty Gritty - Chanzie & Stephen",
    "artist": "RockThatSwing",
    "styles": [
@@ -43582,7 +44097,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 137,
-   "popularity": 57,
+   "popularity": 58,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
@@ -43796,7 +44311,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 48,
-   "popularity": 56,
+   "popularity": 57,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
@@ -44518,6 +45033,25 @@
    "curated": false
   },
   {
+   "id": "yt-rJWVyOhQ5_U",
+   "type": "tutorial",
+   "title": "CalBal Classic 2025 - The Open Classic - Theresa & Jeremy",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 131,
+   "popularity": 55,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "rJWVyOhQ5_U"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-oStr286PDBs",
    "type": "tutorial",
    "title": "CalBal Classic 2026 - The Open Classic COMPLETE CONTEST",
@@ -44647,25 +45181,6 @@
    "source": {
     "platform": "youtube",
     "id": "TtDlqmQAq88"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-rJWVyOhQ5_U",
-   "type": "tutorial",
-   "title": "CalBal Classic 2025 - The Open Classic - Theresa & Jeremy",
-   "artist": "California Balboa Classic",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 131,
-   "popularity": 54,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "rJWVyOhQ5_U"
    },
    "curated": false
   },
@@ -46246,6 +46761,25 @@
    "curated": false
   },
   {
+   "id": "yt-ySkok41TsSQ",
+   "type": "video",
+   "title": "Jenn Andreas playing with pure Balboa drawing lines on the floor",
+   "artist": "Jennifer Lee",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 49,
+   "popularity": 49,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "ySkok41TsSQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-2FpkXVvVMBc",
    "type": "video",
    "title": "Savoy Ballroom Exhibit - 1939 NY Worlds Fair (Lindy Hop)  Part1",
@@ -46300,25 +46834,6 @@
    "source": {
     "platform": "youtube",
     "id": "RaAwyG0NlNk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-ySkok41TsSQ",
-   "type": "video",
-   "title": "Jenn Andreas playing with pure Balboa drawing lines on the floor",
-   "artist": "Jennifer Lee",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 49,
-   "popularity": 48,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "ySkok41TsSQ"
    },
    "curated": false
   },
