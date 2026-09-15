@@ -1,6 +1,196 @@
 {
- "exportedAt": "2026-09-14T18:22:56.577Z",
+ "exportedAt": "2026-09-15T18:21:45.705Z",
  "items": [
+  {
+   "id": "yt-CqP4kDY20A4",
+   "type": "video",
+   "title": "Lindy Hop social dance",
+   "artist": "dancewithliz",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2007,
+   "durationSec": 129,
+   "popularity": 62,
+   "addedAt": "2026-09-15",
+   "source": {
+    "platform": "youtube",
+    "id": "CqP4kDY20A4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-H5rHh2a_tzE",
+   "type": "video",
+   "title": "Jakub Jakoubek & Nicole Ramirez - 1st place Champion J&J - Desert City Swing 2026",
+   "artist": "Thibault and Nicole Ramirez",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 170,
+   "popularity": 59,
+   "addedAt": "2026-09-15",
+   "source": {
+    "platform": "youtube",
+    "id": "H5rHh2a_tzE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-q6EnJwp4XGc",
+   "type": "video",
+   "title": "First Stops at Steps on Broadway - Lindy Hop & Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 45,
+   "popularity": 58,
+   "addedAt": "2026-09-15",
+   "source": {
+    "platform": "youtube",
+    "id": "q6EnJwp4XGc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-HYt7vWqTaT0",
+   "type": "video",
+   "title": "Andrew Hsi and Jo Hoffberg - Social Lindy Hop",
+   "artist": "Slava Bogatov",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 177,
+   "popularity": 54,
+   "addedAt": "2026-09-15",
+   "source": {
+    "platform": "youtube",
+    "id": "HYt7vWqTaT0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-0XsR0d2n1sY",
+   "type": "video",
+   "title": "Lindy Hop | Change of Place and Send Out",
+   "artist": "Doro Weber",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 54,
+   "popularity": 51,
+   "addedAt": "2026-09-15",
+   "source": {
+    "platform": "youtube",
+    "id": "0XsR0d2n1sY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-S6xvUqRpvYo",
+   "type": "video",
+   "title": "Triple swing to Lindy. Beginning moves!! #swingdance #lindyhop",
+   "artist": "Yaple's Dance Studio",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 54,
+   "popularity": 50,
+   "addedAt": "2026-09-15",
+   "source": {
+    "platform": "youtube",
+    "id": "S6xvUqRpvYo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-VH_N1Az8IR4",
+   "type": "tutorial",
+   "title": "Shag Footwork Variations - Michał and Kasia @ BCN Shag Festival",
+   "artist": "Michal and Kasia",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 60,
+   "popularity": 47,
+   "addedAt": "2026-09-15",
+   "source": {
+    "platform": "youtube",
+    "id": "VH_N1Az8IR4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-u_xn4ivQHsY",
+   "type": "video",
+   "title": "Roser Ros and Alexey Kazennov Lindy Hop social dancing",
+   "artist": "Roser Ros",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 58,
+   "popularity": 42,
+   "addedAt": "2026-09-15",
+   "source": {
+    "platform": "youtube",
+    "id": "u_xn4ivQHsY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-WwStNa3dNs0",
+   "type": "video",
+   "title": "Solo Balboa with Andreas #4  coming up!",
+   "artist": "Andreas Olsson",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 98,
+   "popularity": 42,
+   "addedAt": "2026-09-15",
+   "source": {
+    "platform": "youtube",
+    "id": "WwStNa3dNs0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-aRgjaHzDaIE",
+   "type": "tutorial",
+   "title": "How to Lead a Sugar Push into a Free Spin #wcs #swingdance",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 77,
+   "popularity": 29,
+   "addedAt": "2026-09-15",
+   "source": {
+    "platform": "youtube",
+    "id": "aRgjaHzDaIE"
+   },
+   "curated": false
+  },
   {
    "id": "yt-nQ0CObxS7LQ",
    "type": "video",
@@ -458,6 +648,25 @@
    "curated": false
   },
   {
+   "id": "yt-vIizy2tE3NM",
+   "type": "video",
+   "title": "Balboa Open Final! Camp Hollywood 2026 (SIDE VIEW)",
+   "artist": "Swing Dancing Phoenix",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 405,
+   "popularity": 35,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "vIizy2tE3NM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-MU9bAjdLFCw",
    "type": "video",
    "title": "Studio Hop - Les Profs - Marie & Jean-Philippe - Balboa",
@@ -492,25 +701,6 @@
    "source": {
     "platform": "youtube",
     "id": "bOTzyGD2s7w"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-vIizy2tE3NM",
-   "type": "video",
-   "title": "Balboa Open Final! Camp Hollywood 2026 (SIDE VIEW)",
-   "artist": "Swing Dancing Phoenix",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 405,
-   "popularity": 16,
-   "addedAt": "2026-09-14",
-   "source": {
-    "platform": "youtube",
-    "id": "vIizy2tE3NM"
    },
    "curated": false
   },
@@ -2081,7 +2271,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 102,
-   "popularity": 27,
+   "popularity": 28,
    "addedAt": "2026-09-11",
    "source": {
     "platform": "youtube",
@@ -2100,7 +2290,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 101,
-   "popularity": 24,
+   "popularity": 25,
    "addedAt": "2026-09-11",
    "source": {
     "platform": "youtube",
@@ -3596,7 +3786,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 605,
-   "popularity": 52,
+   "popularity": 53,
    "addedAt": "2026-09-08",
    "source": {
     "platform": "youtube",
@@ -17677,6 +17867,23 @@
    "curated": false
   },
   {
+   "id": "yt-kzlKaj4CB6o",
+   "type": "music",
+   "title": "The Days Of Wine And Roses /Jazz Backing Track (No Guitar) / bpm130",
+   "artist": "Hatsumi's Backing Track",
+   "styles": [],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 366,
+   "popularity": 75,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "kzlKaj4CB6o"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-N04UnDYJK9E",
    "type": "video",
    "title": "Thibaut Ramirez & Nicole Ramirez - 1st place Champions Jack&Jill Finals - Budafest 2025",
@@ -17772,23 +17979,6 @@
    "curated": false
   },
   {
-   "id": "yt-kzlKaj4CB6o",
-   "type": "music",
-   "title": "The Days Of Wine And Roses /Jazz Backing Track (No Guitar) / bpm130",
-   "artist": "Hatsumi's Backing Track",
-   "styles": [],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 366,
-   "popularity": 74,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "kzlKaj4CB6o"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-PW_TqQBruw8",
    "type": "video",
    "title": "DCSX 2024 Champions Jack & Jill KP Rutland & Alexis Garrish",
@@ -17850,7 +18040,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 174,
-   "popularity": 73,
+   "popularity": 74,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -23847,6 +24037,26 @@
    "curated": false
   },
   {
+   "id": "yt-HHfmYtor5Dc",
+   "type": "tutorial",
+   "title": "01 Learn Lindy Hop Basics: 6 Count & 8 Count Triple Steps Made Simple",
+   "artist": "Lindy Jazz (Joo-Lee)",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 161,
+   "popularity": 35,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "HHfmYtor5Dc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-AAqoOvatK_s",
    "type": "video",
    "title": "JDC 2018: Memento (The Garden of Savoy - Lindy Hop)",
@@ -23862,26 +24072,6 @@
    "source": {
     "platform": "youtube",
     "id": "AAqoOvatK_s"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-HHfmYtor5Dc",
-   "type": "tutorial",
-   "title": "01 Learn Lindy Hop Basics: 6 Count & 8 Count Triple Steps Made Simple",
-   "artist": "Lindy Jazz (Joo-Lee)",
-   "styles": [
-    "lindy6",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 161,
-   "popularity": 34,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "HHfmYtor5Dc"
    },
    "curated": false
   },
@@ -24229,7 +24419,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "music",
+   "type": "video",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -29169,7 +29359,7 @@
   },
   {
    "id": "yt-BduX_wdwG6s",
-   "type": "music",
+   "type": "tutorial",
    "title": "2nd Place: Bianca & Nils - World Finals Classic - ILHC 2026",
    "artist": "The International Lindy Hop Championships",
    "styles": [
@@ -31869,7 +32059,7 @@
   },
   {
    "id": "yt-MISaPoTRCjE",
-   "type": "video",
+   "type": "music",
    "title": "Remy and Alice - Lindy Hop Invitational | The Snowball 2025",
    "artist": "Slava Bogatov",
    "styles": [
@@ -32966,7 +33156,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 212,
-   "popularity": 58,
+   "popularity": 59,
    "addedAt": "2026-07-09",
    "source": {
     "platform": "youtube",
@@ -33261,6 +33451,25 @@
    "curated": false
   },
   {
+   "id": "yt-adJ3jQCPU5A",
+   "type": "video",
+   "title": "HRH 2026 - Advanced Shag Strictly Finals COMPLETE CONTEST",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 932,
+   "popularity": 39,
+   "addedAt": "2026-07-09",
+   "source": {
+    "platform": "youtube",
+    "id": "adJ3jQCPU5A"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-zTN2znua3xE",
    "type": "tutorial",
    "title": "*Swing 101* Partner Charleston Basics Review -- May 2013",
@@ -33276,25 +33485,6 @@
    "source": {
     "platform": "youtube",
     "id": "zTN2znua3xE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-adJ3jQCPU5A",
-   "type": "video",
-   "title": "HRH 2026 - Advanced Shag Strictly Finals COMPLETE CONTEST",
-   "artist": "Hot Rhythm Foundation",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 932,
-   "popularity": 38,
-   "addedAt": "2026-07-09",
-   "source": {
-    "platform": "youtube",
-    "id": "adJ3jQCPU5A"
    },
    "curated": false
   },
@@ -34377,7 +34567,8 @@
    "title": "Felipe Braga and Mako Ruan - Social Lindy Hop",
    "artist": "Slava Bogatov",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -35351,6 +35542,27 @@
    "curated": false
   },
   {
+   "id": "yt-Dg1BKGWNWRA",
+   "type": "video",
+   "title": "Different Types of Swing Dance Styles",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "lindy",
+    "jitterbug",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 361,
+   "popularity": 67,
+   "addedAt": "2026-07-06",
+   "source": {
+    "platform": "youtube",
+    "id": "Dg1BKGWNWRA"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-X-7DN_nHuSg",
    "type": "tutorial",
    "title": "Learn Swing Dance! Lindy Hop for Beginners: Triple Step Rhythm (Class 1 of 6)",
@@ -35367,27 +35579,6 @@
    "source": {
     "platform": "youtube",
     "id": "X-7DN_nHuSg"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Dg1BKGWNWRA",
-   "type": "video",
-   "title": "Different Types of Swing Dance Styles",
-   "artist": "West Coast Swing Online",
-   "styles": [
-    "lindy",
-    "jitterbug",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 361,
-   "popularity": 66,
-   "addedAt": "2026-07-06",
-   "source": {
-    "platform": "youtube",
-    "id": "Dg1BKGWNWRA"
    },
    "curated": false
   },
@@ -37361,7 +37552,7 @@
   },
   {
    "id": "yt-m01f4uAn1AA",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2016 - The Nitty Gritty - Chanzie & Stephen",
    "artist": "RockThatSwing",
    "styles": [
@@ -37402,7 +37593,7 @@
   },
   {
    "id": "yt-06RlwN0nddQ",
-   "type": "video",
+   "type": "music",
    "title": "SWING TIME ('36): “Pick Yourself Up”",
    "artist": "Turner Classic Movies",
    "styles": [
@@ -38950,7 +39141,7 @@
   },
   {
    "id": "yt-OapkoQEzQS0",
-   "type": "video",
+   "type": "music",
    "title": "Lindy Hop Swing Dance Scene in \"Malcolm X\" 1992",
    "artist": "SwingcatVB",
    "styles": [
@@ -42365,6 +42556,25 @@
    "curated": false
   },
   {
+   "id": "yt-hu5yJrfUn_8",
+   "type": "tutorial",
+   "title": "2019-05-25 Rob & Emma Balboa Fundamentals Workshop Class Recap",
+   "artist": "Brisbane Balboa Swing Dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 692,
+   "popularity": 64,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "hu5yJrfUn_8"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Xzffomp9PsI",
    "type": "video",
    "title": "Five Tips for Leaders (swing dance)",
@@ -42420,25 +42630,6 @@
    "source": {
     "platform": "youtube",
     "id": "YIaUcoerZ-M"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-hu5yJrfUn_8",
-   "type": "tutorial",
-   "title": "2019-05-25 Rob & Emma Balboa Fundamentals Workshop Class Recap",
-   "artist": "Brisbane Balboa Swing Dance",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 692,
-   "popularity": 63,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "hu5yJrfUn_8"
    },
    "curated": false
   },
@@ -46438,6 +46629,25 @@
    "curated": false
   },
   {
+   "id": "yt-MrGDS7MjyCk",
+   "type": "video",
+   "title": "Balboa switch with Marina Pereleshina 💜💚",
+   "artist": "Marina Alekseeva ",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 55,
+   "popularity": 50,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "MrGDS7MjyCk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-JQ2pN5OJr1w",
    "type": "video",
    "title": "Sylvia's \"Frankie Move\"",
@@ -46700,25 +46910,6 @@
    "source": {
     "platform": "youtube",
     "id": "PFqjWWAdHGQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-MrGDS7MjyCk",
-   "type": "video",
-   "title": "Balboa switch with Marina Pereleshina 💜💚",
-   "artist": "Marina Alekseeva ",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 55,
-   "popularity": 49,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "MrGDS7MjyCk"
    },
    "curated": false
   },
@@ -47114,7 +47305,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1188,
-   "popularity": 47,
+   "popularity": 48,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
@@ -47409,6 +47600,25 @@
    "curated": false
   },
   {
+   "id": "yt-Xv62fOGrSX8",
+   "type": "video",
+   "title": "Collegiate Shag Workshop🏋️‍♀️",
+   "artist": "Let It Swing",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 120,
+   "popularity": 47,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "Xv62fOGrSX8"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-NHH_byIebDo",
    "type": "video",
    "title": "Lindyhop Social dancing - Nalla & Kelly @ASIABALBOA ABX 2025 #lindyhop #BALBOA #swingdance",
@@ -47557,25 +47767,6 @@
    "source": {
     "platform": "youtube",
     "id": "wJWoAc4IIAE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Xv62fOGrSX8",
-   "type": "video",
-   "title": "Collegiate Shag Workshop🏋️‍♀️",
-   "artist": "Let It Swing",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 120,
-   "popularity": 46,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "Xv62fOGrSX8"
    },
    "curated": false
   },
