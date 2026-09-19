@@ -1,6 +1,365 @@
 {
- "exportedAt": "2026-09-18T18:22:22.691Z",
+ "exportedAt": "2026-09-19T18:20:26.148Z",
  "items": [
+  {
+   "id": "yt-2nMfi6ai0nQ",
+   "type": "music",
+   "title": "Caravan",
+   "artist": "Thelonious Monk - Topic",
+   "styles": [],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 357,
+   "popularity": 87,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "2nMfi6ai0nQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-k4q0-p4Bfk0",
+   "type": "video",
+   "title": "No one grooves like Emeline 😍😍😍 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 76,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "k4q0-p4Bfk0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QguYi7YaokU",
+   "type": "video",
+   "title": "2012 ILHC Solo Charleston Finals - Spotlight",
+   "artist": "RetroRhythmz",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 363,
+   "popularity": 68,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "QguYi7YaokU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ugH_5g1ZMWw",
+   "type": "tutorial",
+   "title": "CalBal Classic 2016: Competition - Balboa & Swing Finals",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 1097,
+   "popularity": 67,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "ugH_5g1ZMWw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-PQIuw02h2kQ",
+   "type": "tutorial",
+   "title": "All Balboa Weekend 2014 American Classic Balboa Championship Finals",
+   "artist": "allbalboaweekend",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 1537,
+   "popularity": 65,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "PQIuw02h2kQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-OUwf7caZmgE",
+   "type": "video",
+   "title": "Liberty Swing 2026 Johnvitational Full Show   4K",
+   "artist": "Liberty Swing Dance Championships",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 4199,
+   "popularity": 65,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "OUwf7caZmgE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tkFs9sTabrE",
+   "type": "video",
+   "title": "Ben & Cameo McHenry - All Star/Champions Strictly Swing Finals - Jack&Jill O'Rama 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 313,
+   "popularity": 60,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "tkFs9sTabrE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8XS6zz3ilZU",
+   "type": "video",
+   "title": "The Breakaway | Intermediate-Advanced Lindy with Sharon & Josh | The Wednesday Club 15 November 2017",
+   "artist": "Sharon Davis",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 83,
+   "popularity": 58,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "8XS6zz3ilZU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-sERtfJAXKuo",
+   "type": "tutorial",
+   "title": "How to UPGRADE & PERFECT your CHARLESTON swing KICKS?",
+   "artist": "Secrets of Solo",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 146,
+   "popularity": 58,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "sERtfJAXKuo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4VLjSsF89uA",
+   "type": "video",
+   "title": "Dance in Sicily #swingdance #shorts #jazz charleston solo jazz improvisation",
+   "artist": "Mako R",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 56,
+   "popularity": 55,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "4VLjSsF89uA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ey7k9lLj2Ys",
+   "type": "tutorial",
+   "title": "How To Charleston 2 - solo intro - Midland Hotel",
+   "artist": "jazzswingdance",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 77,
+   "popularity": 53,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "ey7k9lLj2Ys"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-SOTJJkcM-EQ",
+   "type": "video",
+   "title": "Swing Patrol 20s Partner Charleston",
+   "artist": "Swing Patrol Berlin",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 110,
+   "popularity": 52,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "SOTJJkcM-EQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ZdB9htJa6jY",
+   "type": "video",
+   "title": "WTP4 Solo Charleston Competition Final / Solo Jazz /Swing Dance / Lindy Hop /",
+   "artist": "Naughty Swing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 207,
+   "popularity": 51,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "ZdB9htJa6jY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-5wpzFHc0uwc",
+   "type": "video",
+   "title": "CSC 2014 - Strictly Balboa Finals",
+   "artist": "CSC Canadian Swing Championships",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 383,
+   "popularity": 50,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "5wpzFHc0uwc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gu33ydv-5Vc",
+   "type": "video",
+   "title": "2017 All Balboa Weekend IBC Finals",
+   "artist": "allbalboaweekend",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 1355,
+   "popularity": 49,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "gu33ydv-5Vc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3mxBfxa2QIo",
+   "type": "video",
+   "title": "HRH 2023: Advanced Balboa Strictly Finals - Hannah & Vasu",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 111,
+   "popularity": 44,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "3mxBfxa2QIo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-rjj5zp4cjLg",
+   "type": "video",
+   "title": "ATCJI2018 Showdown Balboa Competition",
+   "artist": "All the Cats Join In",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 906,
+   "popularity": 44,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "rjj5zp4cjLg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-e6IPWAs62cg",
+   "type": "video",
+   "title": "CSC 2019 - Strictly Balboa - Finals",
+   "artist": "CSC Canadian Swing Championships",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 429,
+   "popularity": 43,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "e6IPWAs62cg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-iz2uxaJXV7M",
+   "type": "video",
+   "title": "BCN Shag Festival 2025 - Last call for St.Louis Shag",
+   "artist": "Shag BCN",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 137,
+   "popularity": 36,
+   "addedAt": "2026-09-19",
+   "source": {
+    "platform": "youtube",
+    "id": "iz2uxaJXV7M"
+   },
+   "curated": false
+  },
   {
    "id": "yt--sVB91NTa4A",
    "type": "music",
@@ -312,7 +671,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 108,
-   "popularity": 28,
+   "popularity": 29,
    "addedAt": "2026-09-18",
    "source": {
     "platform": "youtube",
@@ -3679,7 +4038,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 112,
-   "popularity": 27,
+   "popularity": 28,
    "addedAt": "2026-09-11",
    "source": {
     "platform": "youtube",
@@ -3804,7 +4163,7 @@
    "bpm": null,
    "year": 2014,
    "durationSec": 371,
-   "popularity": 86,
+   "popularity": 87,
    "addedAt": "2026-09-10",
    "source": {
     "platform": "youtube",
@@ -14224,6 +14583,25 @@
    "curated": false
   },
   {
+   "id": "yt-F0oINvAgw4Y",
+   "type": "video",
+   "title": "WCS Champion JNJ - Desert City Swing 2025",
+   "artist": "Tim Wilson - Passion for West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 1395,
+   "popularity": 60,
+   "addedAt": "2026-08-10",
+   "source": {
+    "platform": "youtube",
+    "id": "F0oINvAgw4Y"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-1V0oFIrP0vU",
    "type": "tutorial",
    "title": "CalBal Classic 2024 - Open Classic Finals - Vasu & Theresa",
@@ -14239,25 +14617,6 @@
    "source": {
     "platform": "youtube",
     "id": "1V0oFIrP0vU"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-F0oINvAgw4Y",
-   "type": "video",
-   "title": "WCS Champion JNJ - Desert City Swing 2025",
-   "artist": "Tim Wilson - Passion for West Coast Swing",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 1395,
-   "popularity": 59,
-   "addedAt": "2026-08-10",
-   "source": {
-    "platform": "youtube",
-    "id": "F0oINvAgw4Y"
    },
    "curated": false
   },
@@ -16495,7 +16854,7 @@
   },
   {
    "id": "yt-PsGh3cHHqZs",
-   "type": "music",
+   "type": "video",
    "title": "More than 270 Millions of Views across platforms 😱 Aye Macarena !",
    "artist": "Emeline Rochefeuille",
    "styles": [
@@ -18441,7 +18800,7 @@
   },
   {
    "id": "yt-am3PmylTbDg",
-   "type": "video",
+   "type": "music",
    "title": "Thibault and Nicole Ramirez - 1st Place Showcase - The Open Swing Dance Championships 2024",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -23846,6 +24205,25 @@
    "curated": false
   },
   {
+   "id": "yt-dt2zXR9QZEQ",
+   "type": "video",
+   "title": "Jitterbug Swing Fundamentals | Steps Only",
+   "artist": "DrDanceRight",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 266,
+   "popularity": 56,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "dt2zXR9QZEQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-JN5AEYxWWuk",
    "type": "video",
    "title": "Single Time Swing Moves | Swing/Jitterbug Master Demo (1-10)",
@@ -23920,25 +24298,6 @@
    "source": {
     "platform": "youtube",
     "id": "H82wu25jdhI"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-dt2zXR9QZEQ",
-   "type": "video",
-   "title": "Jitterbug Swing Fundamentals | Steps Only",
-   "artist": "DrDanceRight",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 266,
-   "popularity": 55,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "dt2zXR9QZEQ"
    },
    "curated": false
   },
@@ -25812,7 +26171,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "music",
+   "type": "video",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -29499,7 +29858,7 @@
   },
   {
    "id": "yt-E0qmZrVRRw8",
-   "type": "video",
+   "type": "music",
    "title": "Mind = blown 🤯😂🤣 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -30752,7 +31111,7 @@
   },
   {
    "id": "yt-BduX_wdwG6s",
-   "type": "music",
+   "type": "tutorial",
    "title": "2nd Place: Bianca & Nils - World Finals Classic - ILHC 2026",
    "artist": "The International Lindy Hop Championships",
    "styles": [
@@ -31255,7 +31614,7 @@
   },
   {
    "id": "yt-Aac6ZadJX4g",
-   "type": "music",
+   "type": "video",
    "title": "Boogie Woogie Summons Professional Swing Dance Couple In Public!",
    "artist": "Jared Nandra",
    "styles": [
@@ -36056,6 +36415,26 @@
    "curated": false
   },
   {
+   "id": "yt-zFuXeTAz3wU",
+   "type": "video",
+   "title": "Balboa Demo at BTX to Asian Golden Swing Quartet 💙 #dance #shorts",
+   "artist": "Natasha Shevchenko",
+   "styles": [
+    "balboa",
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 66,
+   "popularity": 53,
+   "addedAt": "2026-07-07",
+   "source": {
+    "platform": "youtube",
+    "id": "zFuXeTAz3wU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-0qp2YoWxDXs",
    "type": "video",
    "title": "Social Lindy Hop 🎷 improvisation and fun 🤩",
@@ -36072,26 +36451,6 @@
    "source": {
     "platform": "youtube",
     "id": "0qp2YoWxDXs"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-zFuXeTAz3wU",
-   "type": "video",
-   "title": "Balboa Demo at BTX to Asian Golden Swing Quartet 💙 #dance #shorts",
-   "artist": "Natasha Shevchenko",
-   "styles": [
-    "balboa",
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 66,
-   "popularity": 52,
-   "addedAt": "2026-07-07",
-   "source": {
-    "platform": "youtube",
-    "id": "zFuXeTAz3wU"
    },
    "curated": false
   },
@@ -36344,6 +36703,25 @@
    "curated": false
   },
   {
+   "id": "yt-6876-IC0BKs",
+   "type": "video",
+   "title": "VBF26 - Pure Balboa Competition",
+   "artist": "Valencia Balboa Festival",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 398,
+   "popularity": 43,
+   "addedAt": "2026-07-07",
+   "source": {
+    "platform": "youtube",
+    "id": "6876-IC0BKs"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-l50ayYSxS4Y",
    "type": "video",
    "title": "St Louis Shag Workshop Swing On In Dance Videos - www.swingonin.com.au",
@@ -36359,25 +36737,6 @@
    "source": {
     "platform": "youtube",
     "id": "l50ayYSxS4Y"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-6876-IC0BKs",
-   "type": "video",
-   "title": "VBF26 - Pure Balboa Competition",
-   "artist": "Valencia Balboa Festival",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 398,
-   "popularity": 42,
-   "addedAt": "2026-07-07",
-   "source": {
-    "platform": "youtube",
-    "id": "6876-IC0BKs"
    },
    "curated": false
   },
@@ -37850,6 +38209,25 @@
    "curated": false
   },
   {
+   "id": "yt-jH_YM9Jws5A",
+   "type": "video",
+   "title": "HRH 2026 - Invitational Balboa Mix & Match COMPLETE CONTEST",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1302,
+   "popularity": 49,
+   "addedAt": "2026-07-05",
+   "source": {
+    "platform": "youtube",
+    "id": "jH_YM9Jws5A"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Mtp0l_qQHbE",
    "type": "video",
    "title": "[LIVE] ILHC 2026 - Invitational Draw",
@@ -37865,25 +38243,6 @@
    "source": {
     "platform": "youtube",
     "id": "Mtp0l_qQHbE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-jH_YM9Jws5A",
-   "type": "video",
-   "title": "HRH 2026 - Invitational Balboa Mix & Match COMPLETE CONTEST",
-   "artist": "Hot Rhythm Foundation",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 1302,
-   "popularity": 48,
-   "addedAt": "2026-07-05",
-   "source": {
-    "platform": "youtube",
-    "id": "jH_YM9Jws5A"
    },
    "curated": false
   },
@@ -38277,7 +38636,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -38457,7 +38816,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "music",
+   "type": "video",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -38682,7 +39041,7 @@
   },
   {
    "id": "yt-26-1t15R_MU",
-   "type": "video",
+   "type": "music",
    "title": "Sofia Swing Dance Festival 2017 - Adv. J&J Competition (Fast)",
    "artist": "Global Swing Broadcast",
    "styles": [
@@ -39614,7 +39973,8 @@
    "artist": "SwingStepTV",
    "styles": [
     "lindy",
-    "lindy8"
+    "lindy8",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2016,
@@ -39810,7 +40170,7 @@
   },
   {
    "id": "yt-VjAoG3fgjkc",
-   "type": "tutorial",
+   "type": "music",
    "title": "Lindy hop basic footwork",
    "artist": "Lindybeige",
    "styles": [
@@ -40342,7 +40702,7 @@
   },
   {
    "id": "yt-U9yKEnewTas",
-   "type": "music",
+   "type": "video",
    "title": "6 Count Basic - Learn to Lindy Hop from the Ground Up",
    "artist": "Laura Glaess",
    "styles": [
