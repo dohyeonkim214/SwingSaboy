@@ -1,6 +1,423 @@
 {
- "exportedAt": "2026-09-20T18:21:14.066Z",
+ "exportedAt": "2026-09-21T18:23:30.235Z",
  "items": [
+  {
+   "id": "yt-Mr7Tu5UlrhE",
+   "type": "music",
+   "title": "Moonlight Serenade",
+   "artist": "Glenn Miller Orchestra - Topic",
+   "styles": [],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 203,
+   "popularity": 100,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "Mr7Tu5UlrhE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-6VHt4hazMG0",
+   "type": "music",
+   "title": "Sing, Sing, Sing (Remastered)",
+   "artist": "Benny Goodman - Topic",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 303,
+   "popularity": 94,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "6VHt4hazMG0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-V7UBuu7BsAs",
+   "type": "music",
+   "title": "“GOOD ROCKIN DADDY” - Etta James - Stuttgart 2022 - Nils and Bianca",
+   "artist": "Nils and Bianca",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 91,
+   "popularity": 94,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "V7UBuu7BsAs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-EUv3pyAShk8",
+   "type": "video",
+   "title": "La CLAP – Charleston – 1920s dance",
+   "artist": "La CLAP",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 168,
+   "popularity": 69,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "EUv3pyAShk8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-TcDgYxD9cAM",
+   "type": "video",
+   "title": "Ultimate Charleston Dance Compilation",
+   "artist": "Sharon Davis",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 616,
+   "popularity": 67,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "TcDgYxD9cAM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-PNmfnbRMWwU",
+   "type": "video",
+   "title": "Lindy Hop Invitational - Fast (The Snowball 2019)",
+   "artist": "Stanislav Lotsmanov",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 307,
+   "popularity": 62,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "PNmfnbRMWwU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-BAiF4nHw8ro",
+   "type": "tutorial",
+   "title": "Learn This 1920s Charleston Combination | 30 Minute Dance Class",
+   "artist": "Fit Fun Dance",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 1671,
+   "popularity": 62,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "BAiF4nHw8ro"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-2ofeZBT3zxE",
+   "type": "music",
+   "title": "Vintage Jazz Music ~ 1930's French Jazz Vibes",
+   "artist": "1940's Retro Jazz Classic",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 52,
+   "popularity": 59,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "2ofeZBT3zxE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-PI8_jXbLs8w",
+   "type": "video",
+   "title": "1920s Charleston for Revival Retro Boutique",
+   "artist": "Sharon Davis",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 56,
+   "popularity": 58,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "PI8_jXbLs8w"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gd73d34-GwE",
+   "type": "video",
+   "title": "RTSF 2025 – Balboa Jack’n’Jill Finals",
+   "artist": "RockThatSwing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 288,
+   "popularity": 50,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "gd73d34-GwE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Ndd11CxItj4",
+   "type": "video",
+   "title": "BCN Shag Festival 2018 - Collegiate Shag Strictly Finals",
+   "artist": "Shag BCN",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 378,
+   "popularity": 50,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "Ndd11CxItj4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hgamIYNE0u8",
+   "type": "music",
+   "title": "Beauty and the Beast – Ariana Grande & John Legend | 1930s Vintage Jazz Swing",
+   "artist": "Vintage Jazz Library",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 244,
+   "popularity": 48,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "hgamIYNE0u8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wxA7cwDW29g",
+   "type": "music",
+   "title": "Swinging Through the 1930s Club Scene 🎶 Authentic Jazz Vocals & Swing Band for a True Retro Night",
+   "artist": "Vintage Swing Jazz",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 60,
+   "popularity": 47,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "wxA7cwDW29g"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-oZsU_FrAaQI",
+   "type": "music",
+   "title": "Rainy London Streets & Swing Jazz Vibes 🎶 Big Band Melodies from the Golden Era of the 1930s & 1940s",
+   "artist": "Vintage Swing Jazz",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 60,
+   "popularity": 47,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "oZsU_FrAaQI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-F2jgkERJd6I",
+   "type": "tutorial",
+   "title": "6-Count Lindy Hop Intro Lesson",
+   "artist": "Track Town Swing",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 918,
+   "popularity": 43,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "F2jgkERJd6I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tFjBwOm9NLI",
+   "type": "video",
+   "title": "Hot Rhythm Holiday 2017 Advanced Collegiate Shag Jack & Jill Finals",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 343,
+   "popularity": 43,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "tFjBwOm9NLI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zcmKt2_DFpM",
+   "type": "video",
+   "title": "Shag Summer Camp 2025 Strictly Finals 05",
+   "artist": "Dance Frames",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 47,
+   "popularity": 40,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "zcmKt2_DFpM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Qm54WsIWXzo",
+   "type": "video",
+   "title": "Aris Demarco & Hannah Guttman - All-Star Jack&Jill Finals - Jack&Jill O'Rama 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 193,
+   "popularity": 39,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "Qm54WsIWXzo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-XyqdTNpi_UI",
+   "type": "video",
+   "title": "HRH 2023: Amateur Collegiate Shag Strictly Finals - Alex & Maia",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 114,
+   "popularity": 34,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "XyqdTNpi_UI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ATUda7KrJIs",
+   "type": "music",
+   "title": "She Really Thought She Had Time... | 1930s Swing Jazz to Keep You Moving– Chasing the Train",
+   "artist": "Vintage Jazz Studio",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 250,
+   "popularity": 25,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "ATUda7KrJIs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lyE5hnxpQck",
+   "type": "music",
+   "title": "Are You Really in Control? | 1930s Vintage Swing Jazz – Puppet on a String",
+   "artist": "Vintage Jazz Studio",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 267,
+   "popularity": 24,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "lyE5hnxpQck"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-or69Fp3zWpM",
+   "type": "video",
+   "title": "Balboa week 2 Mobtown 6/7",
+   "artist": "Lindy Moves",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 111,
+   "popularity": 21,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "or69Fp3zWpM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-LiXdUatwEBc",
+   "type": "music",
+   "title": "Everyone Had Something to Say... | 1930s Vintage Swing Jazz – The Gossip Waltz",
+   "artist": "Vintage Jazz Studio",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 275,
+   "popularity": 20,
+   "addedAt": "2026-09-21",
+   "source": {
+    "platform": "youtube",
+    "id": "LiXdUatwEBc"
+   },
+   "curated": false
+  },
   {
    "id": "yt-h0ffIJ7ZO4U",
    "type": "music",
@@ -127,6 +544,25 @@
    "curated": false
   },
   {
+   "id": "yt-bki7bm1DyV4",
+   "type": "video",
+   "title": "Jaden Pfeiffer & Amber O'Connell - 5th place All-Star Jack&Jill Finals - Jack&Jill O'Rama 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 183,
+   "popularity": 63,
+   "addedAt": "2026-09-20",
+   "source": {
+    "platform": "youtube",
+    "id": "bki7bm1DyV4"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-hYEQ59v3fvM",
    "type": "tutorial",
    "title": "'The Shag' dance lesson",
@@ -161,25 +597,6 @@
    "source": {
     "platform": "youtube",
     "id": "BKxNtogygOI"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-bki7bm1DyV4",
-   "type": "video",
-   "title": "Jaden Pfeiffer & Amber O'Connell - 5th place All-Star Jack&Jill Finals - Jack&Jill O'Rama 2026",
-   "artist": "West Coast Swing",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 183,
-   "popularity": 59,
-   "addedAt": "2026-09-20",
-   "source": {
-    "platform": "youtube",
-    "id": "bki7bm1DyV4"
    },
    "curated": false
   },
@@ -7285,7 +7702,7 @@
   },
   {
    "id": "yt-FfZP7c4xgMk",
-   "type": "music",
+   "type": "video",
    "title": "West Coast Swing Improv Dance by Ben Morris & Karin Kakun",
    "artist": "Ben Morris",
    "styles": [
@@ -11988,7 +12405,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 108,
-   "popularity": 58,
+   "popularity": 59,
    "addedAt": "2026-08-17",
    "source": {
     "platform": "youtube",
@@ -15469,7 +15886,7 @@
   },
   {
    "id": "yt-ZAYkErxiEzQ",
-   "type": "music",
+   "type": "video",
    "title": "CRAZY BOOGIE WOOGIE DANCE - Sondre & Tanya",
    "artist": "Sondre & Tanya",
    "styles": [
@@ -18299,7 +18716,7 @@
   },
   {
    "id": "yt-Yfd5du3ULas",
-   "type": "music",
+   "type": "video",
    "title": "Basic Elements of Swing Dancing | Swing Dance",
    "artist": "Howcast",
    "styles": [
@@ -19233,7 +19650,7 @@
   },
   {
    "id": "yt-am3PmylTbDg",
-   "type": "video",
+   "type": "music",
    "title": "Thibault and Nicole Ramirez - 1st Place Showcase - The Open Swing Dance Championships 2024",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -20088,6 +20505,25 @@
    "curated": false
   },
   {
+   "id": "yt-c7zLOz75g1Y",
+   "type": "tutorial",
+   "title": "How to Do the Box Step - Ballroom Dance Tutorial #1",
+   "artist": "Fred Astaire Dance Studio Belmont",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 130,
+   "popularity": 75,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "c7zLOz75g1Y"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-N04UnDYJK9E",
    "type": "video",
    "title": "Thibaut Ramirez & Nicole Ramirez - 1st place Champions Jack&Jill Finals - Budafest 2025",
@@ -20141,25 +20577,6 @@
    "source": {
     "platform": "youtube",
     "id": "UUG7669CMW0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-c7zLOz75g1Y",
-   "type": "tutorial",
-   "title": "How to Do the Box Step - Ballroom Dance Tutorial #1",
-   "artist": "Fred Astaire Dance Studio Belmont",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2014,
-   "durationSec": 130,
-   "popularity": 74,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "c7zLOz75g1Y"
    },
    "curated": false
   },
@@ -20693,6 +21110,25 @@
    "curated": false
   },
   {
+   "id": "yt-qapOn_cIMAc",
+   "type": "video",
+   "title": "Bartender- Mia Primavera and Keerigan Rudd - West Coast Swing Improvisation ",
+   "artist": "Mia Primavera",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 209,
+   "popularity": 68,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "qapOn_cIMAc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-g7l-Qj-JJmI",
    "type": "video",
    "title": "ILHC 2010 -  Showcase - Andrew Thigpen & Karen Turman",
@@ -20727,25 +21163,6 @@
    "source": {
     "platform": "youtube",
     "id": "-NfM77Rp4rA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-qapOn_cIMAc",
-   "type": "video",
-   "title": "Bartender- Mia Primavera and Keerigan Rudd - West Coast Swing Improvisation ",
-   "artist": "Mia Primavera",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 209,
-   "popularity": 67,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "qapOn_cIMAc"
    },
    "curated": false
   },
@@ -20803,6 +21220,25 @@
    "source": {
     "platform": "youtube",
     "id": "1crFHcuvFYw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-O9g6sYLrkXI",
+   "type": "video",
+   "title": "WEST IN LYON 2026 - J&J CHAMPIONS FINAL - Nicole & Thibault RAMIREZ - 1st place",
+   "artist": "West in Lyon",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 235,
+   "popularity": 66,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "O9g6sYLrkXI"
    },
    "curated": false
   },
@@ -20899,25 +21335,6 @@
    "source": {
     "platform": "youtube",
     "id": "iaotmjaUsiY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-O9g6sYLrkXI",
-   "type": "video",
-   "title": "WEST IN LYON 2026 - J&J CHAMPIONS FINAL - Nicole & Thibault RAMIREZ - 1st place",
-   "artist": "West in Lyon",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 235,
-   "popularity": 65,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "O9g6sYLrkXI"
    },
    "curated": false
   },
@@ -23085,7 +23502,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "video",
+   "type": "music",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -24026,7 +24443,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "music",
+   "type": "video",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -24735,6 +25152,25 @@
    "curated": false
   },
   {
+   "id": "yt-gvbV-Cy7V_k",
+   "type": "tutorial",
+   "title": "How to Swing Dance: East Coast Swing & Jitterbug for Beginners",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 572,
+   "popularity": 55,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "gvbV-Cy7V_k"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-N_9oCsrwkwc",
    "type": "tutorial",
    "title": "Beginning Lindy Hop 4 - 6 Count Basics and Circle, Tuck Turn and Neck Dip!",
@@ -24807,25 +25243,6 @@
    "source": {
     "platform": "youtube",
     "id": "SCAyHWZDdG4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-gvbV-Cy7V_k",
-   "type": "tutorial",
-   "title": "How to Swing Dance: East Coast Swing & Jitterbug for Beginners",
-   "artist": "Social Dance Online",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 572,
-   "popularity": 54,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "gvbV-Cy7V_k"
    },
    "curated": false
   },
@@ -30292,7 +30709,7 @@
   },
   {
    "id": "yt-E0qmZrVRRw8",
-   "type": "video",
+   "type": "music",
    "title": "Mind = blown 🤯😂🤣 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -31545,7 +31962,7 @@
   },
   {
    "id": "yt-BduX_wdwG6s",
-   "type": "tutorial",
+   "type": "music",
    "title": "2nd Place: Bianca & Nils - World Finals Classic - ILHC 2026",
    "artist": "The International Lindy Hop Championships",
    "styles": [
@@ -39070,7 +39487,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -39250,7 +39667,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "music",
+   "type": "video",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -39770,7 +40187,8 @@
     "lindy",
     "charleston",
     "jitterbug",
-    "lindy8"
+    "lindy8",
+    "balboa"
    ],
    "bpm": null,
    "year": 2016,
@@ -40606,7 +41024,7 @@
   },
   {
    "id": "yt-VjAoG3fgjkc",
-   "type": "tutorial",
+   "type": "music",
    "title": "Lindy hop basic footwork",
    "artist": "Lindybeige",
    "styles": [
@@ -40652,7 +41070,8 @@
    "title": "Lindy Hop Tutorial 1/12 - Basic Zero to Swing Out",
    "artist": "Sylvie Rene",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -44997,7 +45416,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 140,
-   "popularity": 62,
+   "popularity": 63,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
@@ -47865,6 +48284,25 @@
    "curated": false
   },
   {
+   "id": "yt-z5-SLD0TjMA",
+   "type": "video",
+   "title": "Funny Charleston Dance 1920s Film Clip 🎩 #lifeinthe1900snewspapers #1920s #ushistory #oldmovies",
+   "artist": "OLD TIMES IS NOT FORGOTTEN ",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 60,
+   "popularity": 53,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "z5-SLD0TjMA"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-uNHTPWwCC0I",
    "type": "video",
    "title": "Lindy Level Intermediate - Week 4 - Savoy Swing out / Double handed Swing out + turn",
@@ -48054,25 +48492,6 @@
    "source": {
     "platform": "youtube",
     "id": "HOkC0B2emNo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-z5-SLD0TjMA",
-   "type": "video",
-   "title": "Funny Charleston Dance 1920s Film Clip 🎩 #lifeinthe1900snewspapers #1920s #ushistory #oldmovies",
-   "artist": "OLD TIMES IS NOT FORGOTTEN ",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 60,
-   "popularity": 52,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "z5-SLD0TjMA"
    },
    "curated": false
   },
