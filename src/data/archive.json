@@ -1,6 +1,405 @@
 {
- "exportedAt": "2026-09-21T18:23:30.235Z",
+ "exportedAt": "2026-09-22T18:25:26.875Z",
  "items": [
+  {
+   "id": "yt-JTK558EYYi4",
+   "type": "video",
+   "title": "The \"Dream\" taught by Jeremy and Laura in Balboa Swing",
+   "artist": "Book",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 257,
+   "popularity": 69,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "JTK558EYYi4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dALxD5RACDA",
+   "type": "video",
+   "title": "Gorgeous 😍✨ #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 58,
+   "popularity": 69,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "dALxD5RACDA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Sb6I2OXeOy0",
+   "type": "video",
+   "title": "Lindyfest 2019: \"TBD: The Balboa Dance\" Performance",
+   "artist": "Houston Swing Dance Society - Lindyfest",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 206,
+   "popularity": 68,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "Sb6I2OXeOy0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Uce5kEhbVGM",
+   "type": "video",
+   "title": "Sam and Barbara: Balboa Swing Dancing at Memories",
+   "artist": "Ben Yau",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2006,
+   "durationSec": 95,
+   "popularity": 66,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "Uce5kEhbVGM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-NBCUUQHCeL4",
+   "type": "video",
+   "title": "Ksenia Parkhatskaya solo charleston routine",
+   "artist": "ribakitt",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 57,
+   "popularity": 62,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "NBCUUQHCeL4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_PCsC7i-reQ",
+   "type": "video",
+   "title": "HRH 2023: Balboa Invitational COMPLETE CONTEST",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 907,
+   "popularity": 58,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "_PCsC7i-reQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-vvwPu3hafz4",
+   "type": "video",
+   "title": "CSC 2018 - Strictly Balboa Advanced Finals",
+   "artist": "CSC Canadian Swing Championships",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 436,
+   "popularity": 57,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "vvwPu3hafz4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-SZPuUlaB3H4",
+   "type": "video",
+   "title": "HRH 2023: Advanced Balboa Mix & Match COMPLETE CONTEST",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 1063,
+   "popularity": 54,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "SZPuUlaB3H4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-UhVu9iZTFyc",
+   "type": "video",
+   "title": "Uptown Swing Balboa 2 (Flashy Moves) 1/5/2023",
+   "artist": "Uptown Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 128,
+   "popularity": 53,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "UhVu9iZTFyc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Iy8DtuBPvqg",
+   "type": "video",
+   "title": "Balboa Advanced Strictly Final = Russian Swing Dance Grand Prix   2021",
+   "artist": "Swing Dance Evolution / Танцевальная СвингЭволюция",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 832,
+   "popularity": 49,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "Iy8DtuBPvqg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4Yv7HY1aAsI",
+   "type": "video",
+   "title": "Valentina & Vasu dancing Balboa in Berlin",
+   "artist": "Swing Base",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 81,
+   "popularity": 49,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "4Yv7HY1aAsI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Wxbe9MI7I04",
+   "type": "video",
+   "title": "Balboa Amateurs Finals at Russian Swing Dance Championship 2015",
+   "artist": "tantsklass",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 692,
+   "popularity": 46,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "Wxbe9MI7I04"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-kkTO6KdAYS0",
+   "type": "video",
+   "title": "Balboa Open J'n'J Finals at Russian Swing Dance Championship 2018",
+   "artist": "tantsklass",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 534,
+   "popularity": 45,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "kkTO6KdAYS0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-UAmZF5jeovM",
+   "type": "video",
+   "title": "ST. LOUIS SHAG choreography by Leonardo Ost & Sandy Lewis",
+   "artist": "Leonardo Ost Swing Dance",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 135,
+   "popularity": 45,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "UAmZF5jeovM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-NmzOFlyQMyM",
+   "type": "video",
+   "title": "SWING SPRING 2021 | Balboa Advanced Strictly | Final",
+   "artist": "Swing Dance Evolution / Танцевальная СвингЭволюция",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 580,
+   "popularity": 43,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "NmzOFlyQMyM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ivnQkMlgtF4",
+   "type": "video",
+   "title": "(4/4) Swing Dance Balboa Masters featuring Anne Mills",
+   "artist": "Swing Dancing San Diego",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 788,
+   "popularity": 42,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "ivnQkMlgtF4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-bbF3RmF4N20",
+   "type": "tutorial",
+   "title": "Online Swing Dance Class: Balboa",
+   "artist": "Swing Zing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 3076,
+   "popularity": 41,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "bbF3RmF4N20"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-BjYPGMvi0Tc",
+   "type": "video",
+   "title": "Shaggin' Montreal: St. Louis Shag",
+   "artist": "Fang Xi Lin",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 417,
+   "popularity": 41,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "BjYPGMvi0Tc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-b_tMdEjqBWw",
+   "type": "video",
+   "title": "Swing It Seattle - Lindy 3: Next Level Frankie Manning Moves w/ Katie & Mark Kihara",
+   "artist": "Swing It Seattle",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 93,
+   "popularity": 33,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "b_tMdEjqBWw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-5HQsBRPYpbU",
+   "type": "video",
+   "title": "Intermediates & Fundamentals – 29th May 2025",
+   "artist": "Swing Shift Lindy Hop",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 58,
+   "popularity": 32,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "5HQsBRPYpbU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-l3SA37BE-9I",
+   "type": "video",
+   "title": "Collegiate Shag Strictly Final - Cameron & Ellie - BAL&HOP 2025",
+   "artist": "BAL&HOP",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 106,
+   "popularity": 32,
+   "addedAt": "2026-09-22",
+   "source": {
+    "platform": "youtube",
+    "id": "l3SA37BE-9I"
+   },
+   "curated": false
+  },
   {
    "id": "yt-Mr7Tu5UlrhE",
    "type": "music",
@@ -1517,7 +1916,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 108,
-   "popularity": 29,
+   "popularity": 30,
    "addedAt": "2026-09-18",
    "source": {
     "platform": "youtube",
@@ -4884,7 +5283,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 112,
-   "popularity": 28,
+   "popularity": 29,
    "addedAt": "2026-09-11",
    "source": {
     "platform": "youtube",
@@ -15051,7 +15450,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 178,
-   "popularity": 32,
+   "popularity": 33,
    "addedAt": "2026-08-11",
    "source": {
     "platform": "youtube",
@@ -15131,7 +15530,7 @@
   },
   {
    "id": "yt-M1F0lBnsnkE",
-   "type": "video",
+   "type": "music",
    "title": "Old Movie Stars Dance to Uptown Funk",
    "artist": "Nerd Fest UK",
    "styles": [
@@ -19650,7 +20049,7 @@
   },
   {
    "id": "yt-am3PmylTbDg",
-   "type": "music",
+   "type": "video",
    "title": "Thibault and Nicole Ramirez - 1st Place Showcase - The Open Swing Dance Championships 2024",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -24443,7 +24842,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "video",
+   "type": "music",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -26144,6 +26543,25 @@
    "curated": false
   },
   {
+   "id": "yt-oJWjeLCDnOk",
+   "type": "video",
+   "title": "Learn2LindyHop, Ch. 14 - The Swingout with Inside Turn",
+   "artist": "Doug Silton",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 196,
+   "popularity": 43,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "oJWjeLCDnOk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-5_iPBDtLZ8A",
    "type": "tutorial",
    "title": "Lindy Hop - Follow 6 Count Footwork",
@@ -26273,25 +26691,6 @@
    "source": {
     "platform": "youtube",
     "id": "3Sb0k9AZoe4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-oJWjeLCDnOk",
-   "type": "video",
-   "title": "Learn2LindyHop, Ch. 14 - The Swingout with Inside Turn",
-   "artist": "Doug Silton",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 196,
-   "popularity": 42,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "oJWjeLCDnOk"
    },
    "curated": false
   },
@@ -31962,7 +32361,7 @@
   },
   {
    "id": "yt-BduX_wdwG6s",
-   "type": "music",
+   "type": "tutorial",
    "title": "2nd Place: Bianca & Nils - World Finals Classic - ILHC 2026",
    "artist": "The International Lindy Hop Championships",
    "styles": [
@@ -40223,7 +40622,7 @@
   },
   {
    "id": "yt-06RlwN0nddQ",
-   "type": "video",
+   "type": "music",
    "title": "SWING TIME ('36): “Pick Yourself Up”",
    "artist": "Turner Classic Movies",
    "styles": [
@@ -40468,7 +40867,8 @@
    "artist": "PatrickAndNatasha",
    "styles": [
     "charleston",
-    "jitterbug"
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2013,
@@ -41024,7 +41424,7 @@
   },
   {
    "id": "yt-VjAoG3fgjkc",
-   "type": "music",
+   "type": "tutorial",
    "title": "Lindy hop basic footwork",
    "artist": "Lindybeige",
    "styles": [
@@ -41968,7 +42368,7 @@
   },
   {
    "id": "yt-7PBCS3v9B8M",
-   "type": "music",
+   "type": "video",
    "title": "Irina & Anthony - social lindy hop demo at Havelhop 2023",
    "artist": "Slava Bogatov",
    "styles": [
@@ -42651,7 +43051,7 @@
   },
   {
    "id": "yt-tZbArq08Aw8",
-   "type": "video",
+   "type": "music",
    "title": "Rhythm Practice for Lindy Hop & Swing Dance - 6 & 8 Count",
    "artist": "Laura Glaess",
    "styles": [
@@ -42804,6 +43204,25 @@
    "curated": false
   },
   {
+   "id": "yt-3H8CbE1bjy8",
+   "type": "video",
+   "title": "Vernacular Solo Jazz Vocabulary for Lindy Hop and Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 850,
+   "popularity": 73,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "3H8CbE1bjy8"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-9LLXqnjFxB0",
    "type": "tutorial",
    "title": "Learn a \"Forward\" Swing Out - Lindy Hop Lesson",
@@ -42877,25 +43296,6 @@
    "source": {
     "platform": "youtube",
     "id": "zs_mB2FQF30"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-3H8CbE1bjy8",
-   "type": "video",
-   "title": "Vernacular Solo Jazz Vocabulary for Lindy Hop and Swing Dance",
-   "artist": "Laura Glaess",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 850,
-   "popularity": 72,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "3H8CbE1bjy8"
    },
    "curated": false
   },
@@ -49265,25 +49665,6 @@
    "curated": false
   },
   {
-   "id": "yt-JQ2pN5OJr1w",
-   "type": "video",
-   "title": "Sylvia's \"Frankie Move\"",
-   "artist": "Sing Lim",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 134,
-   "popularity": 49,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "JQ2pN5OJr1w"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-n2nWuUtmwSo",
    "type": "video",
    "title": "Balboa Jack'n'Jill – Finals –  Thursday",
@@ -49294,7 +49675,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 401,
-   "popularity": 49,
+   "popularity": 50,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
@@ -49313,11 +49694,30 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1407,
-   "popularity": 49,
+   "popularity": 50,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
     "id": "HJQCDDNjQ00"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-JQ2pN5OJr1w",
+   "type": "video",
+   "title": "Sylvia's \"Frankie Move\"",
+   "artist": "Sing Lim",
+   "styles": [
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 134,
+   "popularity": 49,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "JQ2pN5OJr1w"
    },
    "curated": false
   },
