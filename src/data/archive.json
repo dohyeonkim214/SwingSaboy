@@ -1,6 +1,101 @@
 {
- "exportedAt": "2026-09-22T18:25:26.875Z",
+ "exportedAt": "2026-09-23T18:25:04.487Z",
  "items": [
+  {
+   "id": "yt-Myq6hg2gcWw",
+   "type": "video",
+   "title": "Ginger Rogers - Charleston Scene from Roxie Hart (1942)",
+   "artist": "laughland",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2006,
+   "durationSec": 47,
+   "popularity": 85,
+   "addedAt": "2026-09-23",
+   "source": {
+    "platform": "youtube",
+    "id": "Myq6hg2gcWw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-bNV22YSjI9c",
+   "type": "video",
+   "title": "Branden Strong & Larissa Frisbee - All-Star Jack&Jill Finals - Jack&Jill O'Rama 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 177,
+   "popularity": 56,
+   "addedAt": "2026-09-23",
+   "source": {
+    "platform": "youtube",
+    "id": "bNV22YSjI9c"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lzCzGi5noA8",
+   "type": "video",
+   "title": "Improvising to a Song with Various Shag Moves - Keira & Ryan",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 189,
+   "popularity": 55,
+   "addedAt": "2026-09-23",
+   "source": {
+    "platform": "youtube",
+    "id": "lzCzGi5noA8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-RwaDB8t5_zM",
+   "type": "video",
+   "title": "MadSci Lindy Hop Tips & Tricks - 8 ct Solo Forward, Back, Swingout Momentum Practice",
+   "artist": "swinginstyle",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 156,
+   "popularity": 53,
+   "addedAt": "2026-09-23",
+   "source": {
+    "platform": "youtube",
+    "id": "RwaDB8t5_zM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ca2Edj6Y84A",
+   "type": "video",
+   "title": "Megan & Ryan Martin - Collegiate Shag Wedding Dance",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 127,
+   "popularity": 51,
+   "addedAt": "2026-09-23",
+   "source": {
+    "platform": "youtube",
+    "id": "ca2Edj6Y84A"
+   },
+   "curated": false
+  },
   {
    "id": "yt-JTK558EYYi4",
    "type": "video",
@@ -5264,7 +5359,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 102,
-   "popularity": 31,
+   "popularity": 32,
    "addedAt": "2026-09-11",
    "source": {
     "platform": "youtube",
@@ -8780,6 +8875,25 @@
    "curated": false
   },
   {
+   "id": "yt-FWhixurV9Qw",
+   "type": "video",
+   "title": "Collegiate Shag - intermediate day 1 💛",
+   "artist": "Let It Swing",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 123,
+   "popularity": 46,
+   "addedAt": "2026-09-05",
+   "source": {
+    "platform": "youtube",
+    "id": "FWhixurV9Qw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-H0pYRXSjAJI",
    "type": "video",
    "title": "Charleston Bump (Walkthrough by Judy & Jim)",
@@ -8795,25 +8909,6 @@
    "source": {
     "platform": "youtube",
     "id": "H0pYRXSjAJI"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-FWhixurV9Qw",
-   "type": "video",
-   "title": "Collegiate Shag - intermediate day 1 💛",
-   "artist": "Let It Swing",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 123,
-   "popularity": 45,
-   "addedAt": "2026-09-05",
-   "source": {
-    "platform": "youtube",
-    "id": "FWhixurV9Qw"
    },
    "curated": false
   },
@@ -11110,7 +11205,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 190,
-   "popularity": 52,
+   "popularity": 53,
    "addedAt": "2026-08-25",
    "source": {
     "platform": "youtube",
@@ -12341,7 +12436,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 61,
-   "popularity": 46,
+   "popularity": 47,
    "addedAt": "2026-08-18",
    "source": {
     "platform": "youtube",
@@ -13154,7 +13249,8 @@
    "title": "Lindy Hop: 7 Geheimtipps für einen perfekten Swingout (#6 verpassen alle)",
    "artist": "Social Dancing Academy by Conny & Dado",
    "styles": [
-    "lindy8"
+    "lindy8",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2023,
@@ -15530,7 +15626,7 @@
   },
   {
    "id": "yt-M1F0lBnsnkE",
-   "type": "music",
+   "type": "video",
    "title": "Old Movie Stars Dance to Uptown Funk",
    "artist": "Nerd Fest UK",
    "styles": [
@@ -20049,7 +20145,7 @@
   },
   {
    "id": "yt-am3PmylTbDg",
-   "type": "video",
+   "type": "music",
    "title": "Thibault and Nicole Ramirez - 1st Place Showcase - The Open Swing Dance Championships 2024",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -23901,7 +23997,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "music",
+   "type": "video",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -25083,7 +25179,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 210,
-   "popularity": 62,
+   "popularity": 63,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -35558,6 +35654,25 @@
    "curated": false
   },
   {
+   "id": "yt-OJLCUEWHeZU",
+   "type": "tutorial",
+   "title": "Balboa Dance Basic Steps for Beginners | Day 1 of 4",
+   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 91,
+   "popularity": 37,
+   "addedAt": "2026-07-10",
+   "source": {
+    "platform": "youtube",
+    "id": "OJLCUEWHeZU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-vhxLlJG1_64",
    "type": "tutorial",
    "title": "St. Louis shag intense class, summer 2024 @ Dansa",
@@ -35573,25 +35688,6 @@
    "source": {
     "platform": "youtube",
     "id": "vhxLlJG1_64"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-OJLCUEWHeZU",
-   "type": "tutorial",
-   "title": "Balboa Dance Basic Steps for Beginners | Day 1 of 4",
-   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 91,
-   "popularity": 36,
-   "addedAt": "2026-07-10",
-   "source": {
-    "platform": "youtube",
-    "id": "OJLCUEWHeZU"
    },
    "curated": false
   },
@@ -40622,7 +40718,7 @@
   },
   {
    "id": "yt-06RlwN0nddQ",
-   "type": "music",
+   "type": "video",
    "title": "SWING TIME ('36): “Pick Yourself Up”",
    "artist": "Turner Classic Movies",
    "styles": [
@@ -40668,7 +40764,8 @@
    "artist": "Howcast",
    "styles": [
     "balboa",
-    "jitterbug"
+    "jitterbug",
+    "wcs"
    ],
    "bpm": null,
    "year": 2013,
@@ -43051,7 +43148,7 @@
   },
   {
    "id": "yt-tZbArq08Aw8",
-   "type": "music",
+   "type": "video",
    "title": "Rhythm Practice for Lindy Hop & Swing Dance - 6 & 8 Count",
    "artist": "Laura Glaess",
    "styles": [
@@ -45044,6 +45141,25 @@
    "curated": false
   },
   {
+   "id": "yt-7TXCwjMBP5M",
+   "type": "video",
+   "title": "Charleston Dance Routine - MyCharleston",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 121,
+   "popularity": 66,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "7TXCwjMBP5M"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-xH9FUDqMT4A",
    "type": "video",
    "title": "[BEST OF] ILHC 2016 - Invitational Jack & Jill (Draw) FULL CONTEST",
@@ -45296,25 +45412,6 @@
    "source": {
     "platform": "youtube",
     "id": "Y-ROETZPL38"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-7TXCwjMBP5M",
-   "type": "video",
-   "title": "Charleston Dance Routine - MyCharleston",
-   "artist": "MyCharleston",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 121,
-   "popularity": 65,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "7TXCwjMBP5M"
    },
    "curated": false
   },
@@ -47300,7 +47397,8 @@
    "artist": "Houston Swing Dance Society - Lindyfest",
    "styles": [
     "lindy",
-    "lindy8"
+    "lindy8",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2025,
