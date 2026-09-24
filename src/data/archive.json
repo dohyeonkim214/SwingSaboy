@@ -1,6 +1,63 @@
 {
- "exportedAt": "2026-09-23T18:25:04.487Z",
+ "exportedAt": "2026-09-24T18:24:45.384Z",
  "items": [
+  {
+   "id": "yt-QAfF7400u58",
+   "type": "video",
+   "title": "Peter Yin & Shayla Bouise - 2nd place All-Star Jack&Jill Finals - Jack&Jill O'Rama 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 173,
+   "popularity": 56,
+   "addedAt": "2026-09-24",
+   "source": {
+    "platform": "youtube",
+    "id": "QAfF7400u58"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-e65wLk_zBEU",
+   "type": "video",
+   "title": "Chase solo jazz dance move",
+   "artist": "Elena Brazhnyk",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 126,
+   "popularity": 47,
+   "addedAt": "2026-09-24",
+   "source": {
+    "platform": "youtube",
+    "id": "e65wLk_zBEU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-aEAoRIV6zXk",
+   "type": "video",
+   "title": "Choreography by Hunter Krikac & Domen Bohinc at Camp Hollywood National Jitterbug Championships 2026",
+   "artist": "Hunter Krikac",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 150,
+   "popularity": 43,
+   "addedAt": "2026-09-24",
+   "source": {
+    "platform": "youtube",
+    "id": "aEAoRIV6zXk"
+   },
+   "curated": false
+  },
   {
    "id": "yt-Myq6hg2gcWw",
    "type": "video",
@@ -31,7 +88,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 177,
-   "popularity": 56,
+   "popularity": 58,
    "addedAt": "2026-09-23",
    "source": {
     "platform": "youtube",
@@ -3366,7 +3423,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 566,
-   "popularity": 57,
+   "popularity": 58,
    "addedAt": "2026-09-14",
    "source": {
     "platform": "youtube",
@@ -5397,7 +5454,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 101,
-   "popularity": 26,
+   "popularity": 27,
    "addedAt": "2026-09-11",
    "source": {
     "platform": "youtube",
@@ -11224,7 +11281,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 412,
-   "popularity": 52,
+   "popularity": 53,
    "addedAt": "2026-08-25",
    "source": {
     "platform": "youtube",
@@ -18158,7 +18215,7 @@
   },
   {
    "id": "yt-MggQSspSGU8",
-   "type": "music",
+   "type": "video",
    "title": "California Jubilee in \"Let's Twist Again\" - Chubby Checker",
    "artist": "Pascal De Maria",
    "styles": [
@@ -18320,7 +18377,8 @@
    "artist": "The Urban Herald",
    "styles": [
     "wcs",
-    "jitterbug"
+    "jitterbug",
+    "charleston"
    ],
    "bpm": null,
    "year": 2025,
@@ -24938,7 +24996,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "music",
+   "type": "video",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -26371,6 +26429,25 @@
    "curated": false
   },
   {
+   "id": "yt-iH4k-F7n4tw",
+   "type": "tutorial",
+   "title": "8 count moves for beginners Lindy Hop course",
+   "artist": "Portsmouth Lindy Hop",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 47,
+   "popularity": 45,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "iH4k-F7n4tw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-p7GEYOW-Whc",
    "type": "video",
    "title": "Jitterbug: solo actions",
@@ -26424,25 +26501,6 @@
    "source": {
     "platform": "youtube",
     "id": "-SqDwFSIm6A"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-iH4k-F7n4tw",
-   "type": "tutorial",
-   "title": "8 count moves for beginners Lindy Hop course",
-   "artist": "Portsmouth Lindy Hop",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 47,
-   "popularity": 44,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "iH4k-F7n4tw"
    },
    "curated": false
   },
@@ -27516,7 +27574,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "video",
+   "type": "music",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -30184,7 +30242,7 @@
   },
   {
    "id": "yt-ONnx63NAyMc",
-   "type": "video",
+   "type": "music",
    "title": "Sharon Davis & Juan Villafañe | Bill Bailey - Lindy Hop & Authentic Jazz Choreography (ILHC 2013)",
    "artist": "Sharon Davis",
    "styles": [
@@ -31841,6 +31899,25 @@
    "curated": false
   },
   {
+   "id": "yt-t0KJo1P7Y2c",
+   "type": "tutorial",
+   "title": "St Louis Shag - beginners day 1 🧚‍♀️",
+   "artist": "Let It Swing",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 72,
+   "popularity": 54,
+   "addedAt": "2026-07-18",
+   "source": {
+    "platform": "youtube",
+    "id": "t0KJo1P7Y2c"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-YbCCYh1Kiac",
    "type": "video",
    "title": "Strictly Shag Competition- LA Shag Festival 2018",
@@ -31856,25 +31933,6 @@
    "source": {
     "platform": "youtube",
     "id": "YbCCYh1Kiac"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-t0KJo1P7Y2c",
-   "type": "tutorial",
-   "title": "St Louis Shag - beginners day 1 🧚‍♀️",
-   "artist": "Let It Swing",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 72,
-   "popularity": 53,
-   "addedAt": "2026-07-18",
-   "source": {
-    "platform": "youtube",
-    "id": "t0KJo1P7Y2c"
    },
    "curated": false
   },
@@ -32854,7 +32912,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 2080,
-   "popularity": 61,
+   "popularity": 62,
    "addedAt": "2026-07-15",
    "source": {
     "platform": "youtube",
@@ -39880,6 +39938,25 @@
    "curated": false
   },
   {
+   "id": "yt-7RjlfuexxmM",
+   "type": "video",
+   "title": "Balboa Mix & Match - BadAZ Bal 2026",
+   "artist": "Swing Dancing Phoenix",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 176,
+   "popularity": 35,
+   "addedAt": "2026-07-05",
+   "source": {
+    "platform": "youtube",
+    "id": "7RjlfuexxmM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-LHFLr3eJpIs",
    "type": "video",
    "title": "Collegiate Shag Hangar Dance performance 11.8.2025",
@@ -39895,25 +39972,6 @@
    "source": {
     "platform": "youtube",
     "id": "LHFLr3eJpIs"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-7RjlfuexxmM",
-   "type": "video",
-   "title": "Balboa Mix & Match - BadAZ Bal 2026",
-   "artist": "Swing Dancing Phoenix",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 176,
-   "popularity": 34,
-   "addedAt": "2026-07-05",
-   "source": {
-    "platform": "youtube",
-    "id": "7RjlfuexxmM"
    },
    "curated": false
   },
@@ -40387,7 +40445,7 @@
   },
   {
    "id": "yt-26-1t15R_MU",
-   "type": "music",
+   "type": "video",
    "title": "Sofia Swing Dance Festival 2017 - Adv. J&J Competition (Fast)",
    "artist": "Global Swing Broadcast",
    "styles": [
@@ -42257,7 +42315,8 @@
    "title": "What is Lindy Hop?",
    "artist": "Yehoodi Swings",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2013,
@@ -42465,7 +42524,7 @@
   },
   {
    "id": "yt-7PBCS3v9B8M",
-   "type": "video",
+   "type": "music",
    "title": "Irina & Anthony - social lindy hop demo at Havelhop 2023",
    "artist": "Slava Bogatov",
    "styles": [
@@ -50734,6 +50793,25 @@
    "curated": false
   },
   {
+   "id": "yt-gGzhrPzXFG8",
+   "type": "video",
+   "title": "Balboa 101: Single time basic and delayed time basic (AKA down hold and up hold basic)",
+   "artist": "Swing Zing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 559,
+   "popularity": 47,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "gGzhrPzXFG8"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-NHH_byIebDo",
    "type": "video",
    "title": "Lindyhop Social dancing - Nalla & Kelly @ASIABALBOA ABX 2025 #lindyhop #BALBOA #swingdance",
@@ -50749,25 +50827,6 @@
    "source": {
     "platform": "youtube",
     "id": "NHH_byIebDo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-gGzhrPzXFG8",
-   "type": "video",
-   "title": "Balboa 101: Single time basic and delayed time basic (AKA down hold and up hold basic)",
-   "artist": "Swing Zing",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2020,
-   "durationSec": 559,
-   "popularity": 46,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "gGzhrPzXFG8"
    },
    "curated": false
   },
