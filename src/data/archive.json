@@ -1,6 +1,251 @@
 {
- "exportedAt": "2026-09-27T18:23:13.183Z",
+ "exportedAt": "2026-09-28T18:26:12.359Z",
  "items": [
+  {
+   "id": "yt-a5Za8pKGT2E",
+   "type": "music",
+   "title": "Tatiana Eva-Marie & Avalon Jazz Band - La Mer (\"Beyond The Sea\" in FRENCH)",
+   "artist": "Tatiana Eva-Marie ",
+   "styles": [],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 210,
+   "popularity": 100,
+   "addedAt": "2026-09-28",
+   "source": {
+    "platform": "youtube",
+    "id": "a5Za8pKGT2E"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FQ5kUrYa2YY",
+   "type": "video",
+   "title": "Girls just wanna dance 💃🏾  #dance # #improv #groove #hiphop # #wcs  #soulful",
+   "artist": "StuckOnSwing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 63,
+   "popularity": 63,
+   "addedAt": "2026-09-28",
+   "source": {
+    "platform": "youtube",
+    "id": "FQ5kUrYa2YY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Jpg-6NUoF24",
+   "type": "video",
+   "title": "Balboa Pop Turns 💫",
+   "artist": "Let It Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 137,
+   "popularity": 56,
+   "addedAt": "2026-09-28",
+   "source": {
+    "platform": "youtube",
+    "id": "Jpg-6NUoF24"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1wSlF_C8T1M",
+   "type": "video",
+   "title": "Advanced Strictly - Top 8 Battles - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1252,
+   "popularity": 51,
+   "addedAt": "2026-09-28",
+   "source": {
+    "platform": "youtube",
+    "id": "1wSlF_C8T1M"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-qHdUS5sE1Io",
+   "type": "video",
+   "title": "Trafik Hop! - Lindy Hop Team - ILHC 2022",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 155,
+   "popularity": 48,
+   "addedAt": "2026-09-28",
+   "source": {
+    "platform": "youtube",
+    "id": "qHdUS5sE1Io"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-TmaWZGtD0pw",
+   "type": "video",
+   "title": "July 5 2026 Lindy Hop Savoy Swingout, Reverse Swingout to Turn and Free spins",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 48,
+   "addedAt": "2026-09-28",
+   "source": {
+    "platform": "youtube",
+    "id": "TmaWZGtD0pw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--E6IWlFtomk",
+   "type": "video",
+   "title": "The French Fries - Rockin & Swingin - Séoul - Solo Jazz Charleston",
+   "artist": "Florent Llamas",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 164,
+   "popularity": 45,
+   "addedAt": "2026-09-28",
+   "source": {
+    "platform": "youtube",
+    "id": "-E6IWlFtomk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-f0m2y07Aqo4",
+   "type": "tutorial",
+   "title": "6 & 8 Count Lindy Hop Basics with Kenny & Delilah (AVS 2012)",
+   "artist": "swinginstyle",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 85,
+   "popularity": 43,
+   "addedAt": "2026-09-28",
+   "source": {
+    "platform": "youtube",
+    "id": "f0m2y07Aqo4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_myBjvbGiLs",
+   "type": "video",
+   "title": "level 1 8-Count Lindy Hop, June 2026",
+   "artist": "All Things Swing",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 100,
+   "popularity": 42,
+   "addedAt": "2026-09-28",
+   "source": {
+    "platform": "youtube",
+    "id": "_myBjvbGiLs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8zRrffdnJRc",
+   "type": "tutorial",
+   "title": "Jazz footwork improvisation in partnerwork #lindyhop #swingdance using 6 count steps as starter",
+   "artist": "Bswinglindy Singapore",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 61,
+   "popularity": 40,
+   "addedAt": "2026-09-28",
+   "source": {
+    "platform": "youtube",
+    "id": "8zRrffdnJRc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-i2mbUN7-VZw",
+   "type": "video",
+   "title": "Rock the Balboa! 2025",
+   "artist": "Rock the Balboa!",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 62,
+   "popularity": 36,
+   "addedAt": "2026-09-28",
+   "source": {
+    "platform": "youtube",
+    "id": "i2mbUN7-VZw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-r0MW9CZLJqU",
+   "type": "tutorial",
+   "title": "Intermediate Lindy Hop Lesson Recap | 6 and 8 Count Moves | March 16, 2024",
+   "artist": "Vintage Dance Company",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 147,
+   "popularity": 31,
+   "addedAt": "2026-09-28",
+   "source": {
+    "platform": "youtube",
+    "id": "r0MW9CZLJqU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8o2c9vQoM4Q",
+   "type": "video",
+   "title": "Beijing Balboa Fever 2026 -Newcomer Mix & Match Final",
+   "artist": "Swing Beasts Studio_Beijing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 647,
+   "popularity": 30,
+   "addedAt": "2026-09-28",
+   "source": {
+    "platform": "youtube",
+    "id": "8o2c9vQoM4Q"
+   },
+   "curated": false
+  },
   {
    "id": "yt--CCgDvUM4TM",
    "type": "music",
@@ -4663,7 +4908,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 2427,
-   "popularity": 47,
+   "popularity": 48,
    "addedAt": "2026-09-13",
    "source": {
     "platform": "youtube",
@@ -11934,7 +12179,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 72,
-   "popularity": 58,
+   "popularity": 59,
    "addedAt": "2026-08-25",
    "source": {
     "platform": "youtube",
@@ -21445,7 +21690,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 292,
-   "popularity": 77,
+   "popularity": 78,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -25690,7 +25935,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "video",
+   "type": "music",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -29817,7 +30062,8 @@
    "title": "LINDY SHOW - ACTUACIONES SAVOY 2020",
    "artist": "Savoy Benimaclet",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2021,
@@ -30755,7 +31001,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 192,
-   "popularity": 37,
+   "popularity": 38,
    "addedAt": "2026-07-24",
    "source": {
     "platform": "youtube",
@@ -41059,7 +41305,7 @@
   },
   {
    "id": "yt-VpCRNxmR-aE",
-   "type": "video",
+   "type": "music",
    "title": "70 is not the end. It’s when we start dancing Lindy Hop to Rasputin🔥💃🏻#lindyhop #rasputin #boneym",
    "artist": "Relaxing Dance__1",
    "styles": [
@@ -42810,6 +43056,26 @@
    "curated": false
   },
   {
+   "id": "yt-YFpU5ypLrKQ",
+   "type": "video",
+   "title": "Hellzapoppin (Lindy Hop, Featuring Frankie Manning 1941 Gatti's Cut)",
+   "artist": "Korzhitskie",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 141,
+   "popularity": 80,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "YFpU5ypLrKQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-U9yKEnewTas",
    "type": "video",
    "title": "6 Count Basic - Learn to Lindy Hop from the Ground Up",
@@ -42847,26 +43113,6 @@
    "source": {
     "platform": "youtube",
     "id": "Xu6Y9cAQqIs"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-YFpU5ypLrKQ",
-   "type": "video",
-   "title": "Hellzapoppin (Lindy Hop, Featuring Frankie Manning 1941 Gatti's Cut)",
-   "artist": "Korzhitskie",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2010,
-   "durationSec": 141,
-   "popularity": 79,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "YFpU5ypLrKQ"
    },
    "curated": false
   },
@@ -43222,7 +43468,7 @@
   },
   {
    "id": "yt-7PBCS3v9B8M",
-   "type": "video",
+   "type": "music",
    "title": "Irina & Anthony - social lindy hop demo at Havelhop 2023",
    "artist": "Slava Bogatov",
    "styles": [
@@ -44091,7 +44337,7 @@
    "bpm": null,
    "year": 2021,
    "durationSec": 326,
-   "popularity": 72,
+   "popularity": 73,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
@@ -51210,6 +51456,25 @@
    "curated": false
   },
   {
+   "id": "yt-gb_ZCiKF8yo",
+   "type": "video",
+   "title": "HRH 2026 - Advanced Balboa Strictly Finals COMPLETE CONTEST",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1073,
+   "popularity": 48,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "gb_ZCiKF8yo"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-MeTpjJfQ58w",
    "type": "tutorial",
    "title": "2016-08-01 Rob & Emma Balboa Explorers Level 2 Pure Bal & almost Pure Bal class recap",
@@ -51396,25 +51661,6 @@
    "source": {
     "platform": "youtube",
     "id": "zNvEa2zrb0o"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-gb_ZCiKF8yo",
-   "type": "video",
-   "title": "HRH 2026 - Advanced Balboa Strictly Finals COMPLETE CONTEST",
-   "artist": "Hot Rhythm Foundation",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 1073,
-   "popularity": 47,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "gb_ZCiKF8yo"
    },
    "curated": false
   },
