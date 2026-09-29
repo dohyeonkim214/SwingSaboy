@@ -1,6 +1,194 @@
 {
- "exportedAt": "2026-09-28T18:26:12.359Z",
+ "exportedAt": "2026-09-29T18:26:33.353Z",
  "items": [
+  {
+   "id": "yt-IIOJdMdS56k",
+   "type": "music",
+   "title": "Swing Out Sister - Breakout (Official Music Video)",
+   "artist": "SwingOutSisterVEVO",
+   "styles": [],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 228,
+   "popularity": 100,
+   "addedAt": "2026-09-29",
+   "source": {
+    "platform": "youtube",
+    "id": "IIOJdMdS56k"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-5MPc19ewkCY",
+   "type": "video",
+   "title": "The most musical whip of all time 🤣 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 55,
+   "popularity": 93,
+   "addedAt": "2026-09-29",
+   "source": {
+    "platform": "youtube",
+    "id": "5MPc19ewkCY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-EE1GHoUbENs",
+   "type": "video",
+   "title": "East Coast Swing Runaround Sue",
+   "artist": "Willie Swindle",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 135,
+   "popularity": 79,
+   "addedAt": "2026-09-29",
+   "source": {
+    "platform": "youtube",
+    "id": "EE1GHoUbENs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Wfof2DKigzA",
+   "type": "video",
+   "title": "ILHC 2013 - Strictly Balboa - Finals - Mickey Fortanasce & Kelly Arsenault",
+   "artist": "PatrickAndNatasha",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 117,
+   "popularity": 73,
+   "addedAt": "2026-09-29",
+   "source": {
+    "platform": "youtube",
+    "id": "Wfof2DKigzA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-CQFBX0XqZaI",
+   "type": "tutorial",
+   "title": "Arthur Murrays \"How to Dance the Shag\" 1937 (Higher Quality)",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 197,
+   "popularity": 55,
+   "addedAt": "2026-09-29",
+   "source": {
+    "platform": "youtube",
+    "id": "CQFBX0XqZaI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wVoC9E-m_EY",
+   "type": "tutorial",
+   "title": "West Coast Swing Technique – 5 Tips for Better Social Dancing",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 741,
+   "popularity": 52,
+   "addedAt": "2026-09-29",
+   "source": {
+    "platform": "youtube",
+    "id": "wVoC9E-m_EY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lfWsZlsgq2o",
+   "type": "video",
+   "title": "Lindy Hop 8 Count Dec 28 Recap",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 59,
+   "popularity": 48,
+   "addedAt": "2026-09-29",
+   "source": {
+    "platform": "youtube",
+    "id": "lfWsZlsgq2o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-WaeqI1MYjdc",
+   "type": "video",
+   "title": "Solo Jazz routine to 'Smoozy' - Yuyu & Joje",
+   "artist": "YUYUTUBE",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 90,
+   "popularity": 48,
+   "addedAt": "2026-09-29",
+   "source": {
+    "platform": "youtube",
+    "id": "WaeqI1MYjdc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gRYehMzpfWg",
+   "type": "video",
+   "title": "2010 ILHC - Jack & Jill Balboa Finals - Bobby & Heather",
+   "artist": "David Soltysik",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 108,
+   "popularity": 47,
+   "addedAt": "2026-09-29",
+   "source": {
+    "platform": "youtube",
+    "id": "gRYehMzpfWg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-KQ44kUInPnU",
+   "type": "video",
+   "title": "Session 5 2015 - An Introduction to St. Louis Shag - Week 3",
+   "artist": "JDEC Richmond",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 90,
+   "popularity": 30,
+   "addedAt": "2026-09-29",
+   "source": {
+    "platform": "youtube",
+    "id": "KQ44kUInPnU"
+   },
+   "curated": false
+  },
   {
    "id": "yt-a5Za8pKGT2E",
    "type": "music",
@@ -3836,6 +4024,25 @@
    "curated": false
   },
   {
+   "id": "yt-f1u5i64sTNw",
+   "type": "video",
+   "title": "Get it while it’s hot❤️‍🔥 #westcoastswing #improv",
+   "artist": "Chantelle & Joel",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 110,
+   "popularity": 58,
+   "addedAt": "2026-09-16",
+   "source": {
+    "platform": "youtube",
+    "id": "f1u5i64sTNw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-TiJ4nvUxLYE",
    "type": "video",
    "title": "lindy hop, 8 count tuck turns, sliding doors",
@@ -3870,25 +4077,6 @@
    "source": {
     "platform": "youtube",
     "id": "khNE1bOeGLQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-f1u5i64sTNw",
-   "type": "video",
-   "title": "Get it while it’s hot❤️‍🔥 #westcoastswing #improv",
-   "artist": "Chantelle & Joel",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 110,
-   "popularity": 56,
-   "addedAt": "2026-09-16",
-   "source": {
-    "platform": "youtube",
-    "id": "f1u5i64sTNw"
    },
    "curated": false
   },
@@ -10996,7 +11184,7 @@
    "bpm": null,
    "year": 2020,
    "durationSec": 517,
-   "popularity": 68,
+   "popularity": 69,
    "addedAt": "2026-09-01",
    "source": {
     "platform": "youtube",
@@ -12987,6 +13175,25 @@
    "curated": false
   },
   {
+   "id": "yt-yXrPL-Z0DaI",
+   "type": "video",
+   "title": "Had to be cute for the camera 😜😘 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 55,
+   "popularity": 71,
+   "addedAt": "2026-08-19",
+   "source": {
+    "platform": "youtube",
+    "id": "yXrPL-Z0DaI"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-bk_8yvgMnmk",
    "type": "video",
    "title": "DFW Swingout...Focusing on the Lead...Video 1...Basic Step",
@@ -13059,25 +13266,6 @@
    "source": {
     "platform": "youtube",
     "id": "Wd22qVvAfFk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-yXrPL-Z0DaI",
-   "type": "video",
-   "title": "Had to be cute for the camera 😜😘 #improv #westcoastswing",
-   "artist": "Ken & Bryn",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 55,
-   "popularity": 47,
-   "addedAt": "2026-08-19",
-   "source": {
-    "platform": "youtube",
-    "id": "yXrPL-Z0DaI"
    },
    "curated": false
   },
@@ -16501,7 +16689,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 525,
-   "popularity": 36,
+   "popularity": 37,
    "addedAt": "2026-08-11",
    "source": {
     "platform": "youtube",
@@ -19308,7 +19496,7 @@
   },
   {
    "id": "yt-w-_cMoscSuc",
-   "type": "video",
+   "type": "music",
    "title": "Unbelievable improvised West Coast Swing performance",
    "artist": "The Urban Herald",
    "styles": [
@@ -20331,7 +20519,7 @@
   },
   {
    "id": "yt-tsX87384tnQ",
-   "type": "music",
+   "type": "video",
    "title": "Improvised West Coast Swing Dance by PJ Turner & Tashina Beckmann - Inspirational JnJ (2017)",
    "artist": "Musicologia",
    "styles": [
@@ -23363,6 +23551,25 @@
    "curated": false
   },
   {
+   "id": "yt-we6Lqt3E3Sc",
+   "type": "tutorial",
+   "title": "Country Swing Basics",
+   "artist": "Luke Beckstrand",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 70,
+   "popularity": 60,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "we6Lqt3E3Sc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-wpu-3wfVip8",
    "type": "tutorial",
    "title": "WCS Tips: Easy Styling to Spice Up Your Basics",
@@ -23433,25 +23640,6 @@
    "source": {
     "platform": "youtube",
     "id": "YE__QpB3eq4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-we6Lqt3E3Sc",
-   "type": "tutorial",
-   "title": "Country Swing Basics",
-   "artist": "Luke Beckstrand",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 70,
-   "popularity": 59,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "we6Lqt3E3Sc"
    },
    "curated": false
   },
@@ -23794,6 +23982,26 @@
    "curated": false
   },
   {
+   "id": "yt-W5h73eMIpvU",
+   "type": "tutorial",
+   "title": "Social Dancing | West Coast Swing | 2022 Colorado Country Classic | Colorado Springs, Colorado",
+   "artist": "The Average Nomad  |  Dance Videos",
+   "styles": [
+    "wcs",
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 180,
+   "popularity": 51,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "W5h73eMIpvU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-HlC05XZZdEA",
    "type": "tutorial",
    "title": "Lindy Hop - Lead 8 Count Footwork",
@@ -23828,26 +24036,6 @@
    "source": {
     "platform": "youtube",
     "id": "qYJE1MmzQRk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-W5h73eMIpvU",
-   "type": "tutorial",
-   "title": "Social Dancing | West Coast Swing | 2022 Colorado Country Classic | Colorado Springs, Colorado",
-   "artist": "The Average Nomad  |  Dance Videos",
-   "styles": [
-    "wcs",
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 180,
-   "popularity": 50,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "W5h73eMIpvU"
    },
    "curated": false
   },
@@ -24993,7 +25181,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "music",
+   "type": "video",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -25645,6 +25833,26 @@
    "curated": false
   },
   {
+   "id": "yt-TegYDzBFNO0",
+   "type": "video",
+   "title": "Michael & Evita teach Cuddle and Sweetheart Variations | Lindy Hop",
+   "artist": "Syncopated City",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 410,
+   "popularity": 69,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "TegYDzBFNO0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-1wZiSRewbtY",
    "type": "video",
    "title": "Camp Hollywood Jitterbug Competition (full)",
@@ -25719,26 +25927,6 @@
    "source": {
     "platform": "youtube",
     "id": "sK-M65nrY_8"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-TegYDzBFNO0",
-   "type": "video",
-   "title": "Michael & Evita teach Cuddle and Sweetheart Variations | Lindy Hop",
-   "artist": "Syncopated City",
-   "styles": [
-    "lindy6",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 410,
-   "popularity": 68,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "TegYDzBFNO0"
    },
    "curated": false
   },
@@ -25935,7 +26123,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "music",
+   "type": "video",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -28514,7 +28702,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "video",
+   "type": "music",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -31861,7 +32049,7 @@
    "bpm": null,
    "year": 2021,
    "durationSec": 512,
-   "popularity": 61,
+   "popularity": 62,
    "addedAt": "2026-07-20",
    "source": {
     "platform": "youtube",
@@ -34792,7 +34980,7 @@
   },
   {
    "id": "yt-6NIeqzrF7Jw",
-   "type": "music",
+   "type": "video",
    "title": "Thibault Ramirez & Emeline Rochefeuille - 1st place Strictly Open Finals - Global Grand Prix 2022",
    "artist": "Global Grand Prix - West Coast Swing Championships",
    "styles": [
@@ -36158,7 +36346,7 @@
   },
   {
    "id": "yt-MISaPoTRCjE",
-   "type": "video",
+   "type": "music",
    "title": "Remy and Alice - Lindy Hop Invitational | The Snowball 2025",
    "artist": "Slava Bogatov",
    "styles": [
@@ -40108,7 +40296,7 @@
   },
   {
    "id": "yt-rb7rp9FhD64",
-   "type": "music",
+   "type": "video",
    "title": "The way the crowd went oooOOOH 😆 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -41140,7 +41328,7 @@
   },
   {
    "id": "yt-mw2QbbD5rc8",
-   "type": "music",
+   "type": "video",
    "title": "🧊🧊👶 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -42021,6 +42209,25 @@
    "curated": false
   },
   {
+   "id": "yt-o_8z2onSYnI",
+   "type": "video",
+   "title": "Charleston !",
+   "artist": "Jazz Ensemble - Topic",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 152,
+   "popularity": 88,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "o_8z2onSYnI"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-gisafTmbVd8",
    "type": "music",
    "title": "Best of LindyHop & Charleston • 2012 ninjammerz max dax sarah alice thomas maeva william swing dance",
@@ -42077,25 +42284,6 @@
    "source": {
     "platform": "youtube",
     "id": "fQSY-2VtBvg"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-o_8z2onSYnI",
-   "type": "video",
-   "title": "Charleston !",
-   "artist": "Jazz Ensemble - Topic",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2016,
-   "durationSec": 152,
-   "popularity": 87,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "o_8z2onSYnI"
    },
    "curated": false
   },
@@ -46695,6 +46883,26 @@
    "curated": false
   },
   {
+   "id": "yt-kFoi6PTiuok",
+   "type": "video",
+   "title": "A (Hopefully) Comprehensive Guide to The Side Pass / Change Place - for Lindy Hop & Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy",
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 713,
+   "popularity": 64,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "kFoi6PTiuok"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Xzffomp9PsI",
    "type": "video",
    "title": "Five Tips for Leaders (swing dance)",
@@ -46832,25 +47040,6 @@
    "curated": false
   },
   {
-   "id": "yt-kFoi6PTiuok",
-   "type": "video",
-   "title": "A (Hopefully) Comprehensive Guide to The Side Pass / Change Place - for Lindy Hop & Swing Dance",
-   "artist": "Laura Glaess",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 713,
-   "popularity": 63,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "kFoi6PTiuok"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-AmR6KwvFhsc",
    "type": "tutorial",
    "title": "How To Dance Balboa Swing : How to Lead the Basic Balboa Swing Dance",
@@ -46934,7 +47123,8 @@
    "title": "Recap #4—Frankie's 6s (6T lindy hop)",
    "artist": "Brothersiwng School",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2019,
@@ -47426,6 +47616,25 @@
    "curated": false
   },
   {
+   "id": "yt-45eMp_QmgBM",
+   "type": "video",
+   "title": "2026 Professional Champions - Autumn Jones & Grayson Free",
+   "artist": "Stages Video Productions",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 189,
+   "popularity": 61,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "45eMp_QmgBM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-p_qBJRU3SKg",
    "type": "video",
    "title": "Spicy Airplane Charleston Transitions - Lindi Hop & Swing Dance #shorts #lindyhop",
@@ -47767,25 +47976,6 @@
    "source": {
     "platform": "youtube",
     "id": "kHWFV53QzFk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-45eMp_QmgBM",
-   "type": "video",
-   "title": "2026 Professional Champions - Autumn Jones & Grayson Free",
-   "artist": "Stages Video Productions",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 189,
-   "popularity": 60,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "45eMp_QmgBM"
    },
    "curated": false
   },
