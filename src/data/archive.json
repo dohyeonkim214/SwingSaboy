@@ -1,6 +1,82 @@
 {
- "exportedAt": "2026-09-30T18:25:24.794Z",
+ "exportedAt": "2026-10-01T18:27:12.439Z",
  "items": [
+  {
+   "id": "yt-EnazarzU1To",
+   "type": "tutorial",
+   "title": "Country Swing Dancing **THE BASICS Pt. 5**",
+   "artist": "Grant & Shalee - King & Queen of Country Swing",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 783,
+   "popularity": 69,
+   "addedAt": "2026-10-01",
+   "source": {
+    "platform": "youtube",
+    "id": "EnazarzU1To"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-vwS1_nohX3o",
+   "type": "video",
+   "title": "Frankie Manning-Herrang Dance camp",
+   "artist": "twobarbreak",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 271,
+   "popularity": 59,
+   "addedAt": "2026-10-01",
+   "source": {
+    "platform": "youtube",
+    "id": "vwS1_nohX3o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-PbyE3FuQd_4",
+   "type": "video",
+   "title": "shag contest",
+   "artist": "1mikesmiley",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 291,
+   "popularity": 49,
+   "addedAt": "2026-10-01",
+   "source": {
+    "platform": "youtube",
+    "id": "PbyE3FuQd_4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Ovg-vpdQ-U0",
+   "type": "tutorial",
+   "title": "Balboa Class Recap #swingdance #balboa #dance #스윙댄스 #jazz",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 86,
+   "popularity": 46,
+   "addedAt": "2026-10-01",
+   "source": {
+    "platform": "youtube",
+    "id": "Ovg-vpdQ-U0"
+   },
+   "curated": false
+  },
   {
    "id": "yt-WSLMN6g_Od4",
    "type": "video",
@@ -1176,7 +1252,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 351,
-   "popularity": 32,
+   "popularity": 33,
    "addedAt": "2026-09-25",
    "source": {
     "platform": "youtube",
@@ -1195,7 +1271,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 173,
-   "popularity": 60,
+   "popularity": 61,
    "addedAt": "2026-09-24",
    "source": {
     "platform": "youtube",
@@ -1233,7 +1309,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 150,
-   "popularity": 44,
+   "popularity": 45,
    "addedAt": "2026-09-24",
    "source": {
     "platform": "youtube",
@@ -10722,6 +10798,25 @@
    "curated": false
   },
   {
+   "id": "yt-9Rv_ruAE7FU",
+   "type": "video",
+   "title": "\"Charleston\" 1920s flapper song Great Gatsby LYRICS Sister Slocum & Her Little Brother George Wright",
+   "artist": "Tim Gracyk",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 148,
+   "popularity": 51,
+   "addedAt": "2026-09-03",
+   "source": {
+    "platform": "youtube",
+    "id": "9Rv_ruAE7FU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-o9paYJ4U2iE",
    "type": "video",
    "title": "Frankie Manning Media Archive Big Apple Part 1",
@@ -10737,25 +10832,6 @@
    "source": {
     "platform": "youtube",
     "id": "o9paYJ4U2iE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-9Rv_ruAE7FU",
-   "type": "video",
-   "title": "\"Charleston\" 1920s flapper song Great Gatsby LYRICS Sister Slocum & Her Little Brother George Wright",
-   "artist": "Tim Gracyk",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 148,
-   "popularity": 50,
-   "addedAt": "2026-09-03",
-   "source": {
-    "platform": "youtube",
-    "id": "9Rv_ruAE7FU"
    },
    "curated": false
   },
@@ -12815,7 +12891,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 969,
-   "popularity": 80,
+   "popularity": 81,
    "addedAt": "2026-08-22",
    "source": {
     "platform": "youtube",
@@ -19235,7 +19311,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 366,
-   "popularity": 54,
+   "popularity": 55,
    "addedAt": "2026-08-07",
    "source": {
     "platform": "youtube",
@@ -24932,7 +25008,7 @@
   },
   {
    "id": "yt-Qr9_aocDqAc",
-   "type": "music",
+   "type": "video",
    "title": "John Lindo & Victoria Henk - Champions Jack&Jill Finals - Jack&Jill O'Rama 2024",
    "artist": "Jack & Jill O'Rama",
    "styles": [
@@ -35001,7 +35077,7 @@
   },
   {
    "id": "yt-PyzkLRrZTCQ",
-   "type": "video",
+   "type": "music",
    "title": "Can’t believe we literally just met 😅 #westcoastswing #dance #competition #improv #randomsong",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -41232,7 +41308,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -41969,7 +42045,7 @@
   },
   {
    "id": "yt-06RlwN0nddQ",
-   "type": "music",
+   "type": "video",
    "title": "SWING TIME ('36): “Pick Yourself Up”",
    "artist": "Turner Classic Movies",
    "styles": [
@@ -43717,7 +43793,7 @@
   },
   {
    "id": "yt-7PBCS3v9B8M",
-   "type": "video",
+   "type": "music",
    "title": "Irina & Anthony - social lindy hop demo at Havelhop 2023",
    "artist": "Slava Bogatov",
    "styles": [
@@ -49411,7 +49487,8 @@
    "title": "How to practice Lindy Hop alone | by Jamin Jackson",
    "artist": "Street Smart Swing",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2018,
