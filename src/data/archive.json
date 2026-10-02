@@ -1,6 +1,686 @@
 {
- "exportedAt": "2026-10-01T18:27:12.439Z",
+ "exportedAt": "2026-10-02T18:26:24.169Z",
  "items": [
+  {
+   "id": "yt-dXjZeCL0C9o",
+   "type": "music",
+   "title": "Lovefool - Vintage Jazz Cardigans Cover ft. Haley Reinhart",
+   "artist": "PostmodernJukebox",
+   "styles": [],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 262,
+   "popularity": 100,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "dXjZeCL0C9o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lm-gAmzo0EY",
+   "type": "video",
+   "title": "Charleston Craze of 1925: Yes Sir, That's My Baby - Coon-Sanders Nighthawk Orchestra",
+   "artist": "240252",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 181,
+   "popularity": 91,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "lm-gAmzo0EY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7MAyTSY1FAA",
+   "type": "music",
+   "title": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+   "artist": "The Swingfield Big Band - Topic",
+   "styles": [],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 152,
+   "popularity": 68,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "7MAyTSY1FAA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nAiEgw1ftjU",
+   "type": "video",
+   "title": "Advanced Balboa - hammerlock to guy's tossout, wraps to hip catch(es) with jig walk and slides",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 167,
+   "popularity": 62,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "nAiEgw1ftjU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--hccRBxaLPw",
+   "type": "video",
+   "title": "Judy Garland -The TRUE Balboa Dance..AVI",
+   "artist": "rockbop boogie",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 171,
+   "popularity": 61,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "-hccRBxaLPw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-EKq0P1okI38",
+   "type": "video",
+   "title": "1/11/18 Balboa 2 Wk 2 (Old Timer Moves - bart leg, hal's kicks, a-slide)",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 111,
+   "popularity": 54,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "EKq0P1okI38"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Onc_pe1p1uw",
+   "type": "video",
+   "title": "4/30/19 Slow Balboa with Mickey And Lainey at Balthazar Week",
+   "artist": "Lorelei DeMesa",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 264,
+   "popularity": 52,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "Onc_pe1p1uw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-uRRxMvNhbSo",
+   "type": "video",
+   "title": "Balboa Dancing Techical Analysis of Alice & Blake",
+   "artist": "swingriot",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 948,
+   "popularity": 52,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "uRRxMvNhbSo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-G13c2tJ7lG8",
+   "type": "tutorial",
+   "title": "Balboa Intermediate: Surprise Toss Out. Class Recap",
+   "artist": "Lainey Silver",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 168,
+   "popularity": 51,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "G13c2tJ7lG8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_che4pIMyeQ",
+   "type": "tutorial",
+   "title": "2014-02-25 Rob & Emma Balboa Intermediate Class Recap",
+   "artist": "Brisbane Balboa Swing Dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 142,
+   "popularity": 50,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "_che4pIMyeQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-EouPbe07JOg",
+   "type": "tutorial",
+   "title": "20150513 Balboa pivots class",
+   "artist": "Denver Balboa",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 148,
+   "popularity": 49,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "EouPbe07JOg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-aWxptb1JUGI",
+   "type": "video",
+   "title": "7/26/18 Wk 5 Balboa 1 (swivels, tuck-turn)",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 73,
+   "popularity": 47,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "aWxptb1JUGI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-c9BHaXCyDQw",
+   "type": "tutorial",
+   "title": "2018-09-04 Rob & Emma Balboa Explorers Level 2 Reverse Texas Tommy Class Recap",
+   "artist": "Brisbane Balboa Swing Dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 248,
+   "popularity": 47,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "c9BHaXCyDQw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-uE7NRvSN_IU",
+   "type": "tutorial",
+   "title": "2014-09-23 Rob&Emma Balboa Intermediate Class Recap - The Dream",
+   "artist": "Brisbane Balboa Swing Dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 135,
+   "popularity": 47,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "uE7NRvSN_IU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-RLFboCF_FC8",
+   "type": "tutorial",
+   "title": "7/24/18 Beginner Balboa Paddles at You Should Be Dancing",
+   "artist": "Lorelei DeMesa",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 161,
+   "popularity": 46,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "RLFboCF_FC8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1fpYNR7PG30",
+   "type": "tutorial",
+   "title": "Balboa Foundations: uphold basic into Lollies and Swivels. Class Recap",
+   "artist": "Lainey Silver",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 134,
+   "popularity": 46,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "1fpYNR7PG30"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-NhVBBXSU6Fo",
+   "type": "tutorial",
+   "title": "Balboa Intermediates Class - Throw Out w Lead Spin",
+   "artist": "Swingtopia Dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 53,
+   "popularity": 45,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "NhVBBXSU6Fo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Wapqx6MAAu8",
+   "type": "video",
+   "title": "Balboa - Week 2 - Uphold basic, come around and paddle walk",
+   "artist": "SwingStreet.nl",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 145,
+   "popularity": 45,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "Wapqx6MAAu8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pnwSyDwi_U8",
+   "type": "video",
+   "title": "Shag Roundabout and Hesitations 🎈",
+   "artist": "Let It Swing",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 117,
+   "popularity": 42,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "pnwSyDwi_U8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-D7kZ9r4V1cU",
+   "type": "video",
+   "title": "K-Town Swing - Intermediate Balboa - 7/23/2015",
+   "artist": "K-Town Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 114,
+   "popularity": 41,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "D7kZ9r4V1cU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ZRqdLcsfbkE",
+   "type": "video",
+   "title": "Advanced Balboa - Javier and Heather",
+   "artist": "Heather Ballew",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 89,
+   "popularity": 40,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "ZRqdLcsfbkE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-5jF4XWGBHdU",
+   "type": "tutorial",
+   "title": "Intro to Balboa: just the footwork",
+   "artist": "RVAswing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 286,
+   "popularity": 40,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "5jF4XWGBHdU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-yIihGg2JYKM",
+   "type": "video",
+   "title": "Intermediate Modern Jive - Balboa Cross",
+   "artist": "World Of Floorcraft",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 267,
+   "popularity": 39,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "yIihGg2JYKM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-HKglX2LSLdU",
+   "type": "tutorial",
+   "title": "Balboa Intermediates Class - Outside Spin",
+   "artist": "Swingtopia Dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 105,
+   "popularity": 38,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "HKglX2LSLdU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_pFYdeqDIaU",
+   "type": "video",
+   "title": "Larissa & Heio – Balboa Delight 2026",
+   "artist": "Basel Jitterbugs",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 127,
+   "popularity": 37,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "_pFYdeqDIaU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3FT8rkIIq6E",
+   "type": "video",
+   "title": "Jeremy & Kate -- Parma Balboa Festival 2015, teacher demo",
+   "artist": "Kate Hedin",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 184,
+   "popularity": 37,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "3FT8rkIIq6E"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Dzn6UcXZfig",
+   "type": "video",
+   "title": "Dancing balboa looking down vs. looking up (watch the difference)!",
+   "artist": "W2Best Tech",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 95,
+   "popularity": 35,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "Dzn6UcXZfig"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ny41Hy7uupw",
+   "type": "video",
+   "title": "Aaron Nuno & Stella Kautzman - 2nd place All-Star Strictly Finals - SwingTime Denver 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 165,
+   "popularity": 35,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "ny41Hy7uupw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-221uIqG6rLA",
+   "type": "video",
+   "title": "Tero Rahko & Samantha Tan - Advanced Jack&Jill Finals - Finnfest 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 146,
+   "popularity": 34,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "221uIqG6rLA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1EBFX7GZy74",
+   "type": "tutorial",
+   "title": "Camp Balboa Seattle 2015 Combined Class Recap",
+   "artist": "Melvin Lu",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 292,
+   "popularity": 33,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "1EBFX7GZy74"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-y1h49ZmsQ8U",
+   "type": "video",
+   "title": "November 2nd Balboa Review",
+   "artist": "AMULindyCrew",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 288,
+   "popularity": 33,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "y1h49ZmsQ8U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-PXHEVHEq2_0",
+   "type": "video",
+   "title": "September 19, 2013 Beginning/Intermediate Lindy Hop Lindy Academy: Balboa Inspired!",
+   "artist": "LindyHop LindyAcademy",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 104,
+   "popularity": 32,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "PXHEVHEq2_0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-E10zKKOwKwg",
+   "type": "video",
+   "title": "BALBOA/BAL-SWING - Joel Plys' College of Swing Era Knowledge - from 4/11/20",
+   "artist": "Retro Rhythm - a Vintage Swing Dance Company",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 2305,
+   "popularity": 32,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "E10zKKOwKwg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-k-e_gfrSlZo",
+   "type": "video",
+   "title": "Balboa 3+ - Our Favorite Things - Week 2 - 4/14/26",
+   "artist": "Twin Cities Balboa Connection",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 140,
+   "popularity": 31,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "k-e_gfrSlZo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-TsYZeqFeaKA",
+   "type": "tutorial",
+   "title": "Beginning Balboa Fall 2019 Lesson 1",
+   "artist": "The SwingCats",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 261,
+   "popularity": 30,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "TsYZeqFeaKA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-AOuFZyXZ5K4",
+   "type": "video",
+   "title": "Intro to Balboa - Week 5",
+   "artist": "RVAswing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 141,
+   "popularity": 22,
+   "addedAt": "2026-10-02",
+   "source": {
+    "platform": "youtube",
+    "id": "AOuFZyXZ5K4"
+   },
+   "curated": false
+  },
   {
    "id": "yt-EnazarzU1To",
    "type": "tutorial",
@@ -4321,7 +5001,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1006,
-   "popularity": 43,
+   "popularity": 44,
    "addedAt": "2026-09-16",
    "source": {
     "platform": "youtube",
@@ -21197,6 +21877,23 @@
    "curated": false
   },
   {
+   "id": "yt-yrzWcIuPsm8",
+   "type": "music",
+   "title": "Dutch Swing College Band  & Lindy Hop dancers - Doghouse Blues",
+   "artist": "Dutch Swing College Band",
+   "styles": [],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 187,
+   "popularity": 88,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "yrzWcIuPsm8"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-BQ8o6u3uTDM",
    "type": "music",
    "title": "Swing Amour",
@@ -21227,23 +21924,6 @@
    "source": {
     "platform": "youtube",
     "id": "OEyLNr3MvT4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-yrzWcIuPsm8",
-   "type": "music",
-   "title": "Dutch Swing College Band  & Lindy Hop dancers - Doghouse Blues",
-   "artist": "Dutch Swing College Band",
-   "styles": [],
-   "bpm": null,
-   "year": 2016,
-   "durationSec": 187,
-   "popularity": 87,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "yrzWcIuPsm8"
    },
    "curated": false
   },
@@ -26260,7 +26940,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "video",
+   "type": "music",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -32723,7 +33403,7 @@
   },
   {
    "id": "yt-A740izaUHh0",
-   "type": "video",
+   "type": "music",
    "title": "Lindy Hop Invitational - Slow (The Snowball 2019)",
    "artist": "Stanislav Lotsmanov",
    "styles": [
@@ -34719,7 +35399,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 618,
-   "popularity": 58,
+   "popularity": 59,
    "addedAt": "2026-07-13",
    "source": {
     "platform": "youtube",
@@ -38437,7 +39117,7 @@
    "bpm": null,
    "year": 2015,
    "durationSec": 60,
-   "popularity": 35,
+   "popularity": 36,
    "addedAt": "2026-07-08",
    "source": {
     "platform": "youtube",
@@ -38504,7 +39184,7 @@
   },
   {
    "id": "yt-IoMbeDhG9fU",
-   "type": "music",
+   "type": "video",
    "title": "Stormy Weather in color - The Nicholas Brothers and Cab Calloway | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -38564,7 +39244,7 @@
   },
   {
    "id": "yt-WFhRquNGQCw",
-   "type": "video",
+   "type": "music",
    "title": "MY GIRL - RTSF 2023 - Nils and Bianca",
    "artist": "Nils and Bianca",
    "styles": [
@@ -41308,7 +41988,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -41630,7 +42310,7 @@
   },
   {
    "id": "yt-VpCRNxmR-aE",
-   "type": "video",
+   "type": "music",
    "title": "70 is not the end. It’s when we start dancing Lindy Hop to Rasputin🔥💃🏻#lindyhop #rasputin #boneym",
    "artist": "Relaxing Dance__1",
    "styles": [
@@ -42687,7 +43367,7 @@
   },
   {
    "id": "yt-egopcBsOPIU",
-   "type": "video",
+   "type": "music",
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -44825,6 +45505,25 @@
    "curated": false
   },
   {
+   "id": "yt-B-8kxNao4aw",
+   "type": "video",
+   "title": "Solo Jazz warm-up dance to Honeysuckle Rose",
+   "artist": "Solo Jazz Power",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 249,
+   "popularity": 72,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "B-8kxNao4aw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-5VqSDEN2A5w",
    "type": "video",
    "title": "Lindy Hop Level 1 - Frankie Manning & Erin Stevens (1995)",
@@ -44939,25 +45638,6 @@
    "source": {
     "platform": "youtube",
     "id": "B9wSJFhNH1w"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-B-8kxNao4aw",
-   "type": "video",
-   "title": "Solo Jazz warm-up dance to Honeysuckle Rose",
-   "artist": "Solo Jazz Power",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 249,
-   "popularity": 71,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "B-8kxNao4aw"
    },
    "curated": false
   },
@@ -46146,6 +46826,26 @@
    "curated": false
   },
   {
+   "id": "yt-hkxHivauzIA",
+   "type": "video",
+   "title": "Fancy Two-Hand Moves for Lindy Hop",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 47,
+   "popularity": 67,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "hkxHivauzIA"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-JkonZbTj2wE",
    "type": "video",
    "title": "Dance through Lindy Hop's Black American Roots  | If Cities Could Dance",
@@ -46334,25 +47034,6 @@
    "source": {
     "platform": "youtube",
     "id": "z2FI5KArSHs"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-hkxHivauzIA",
-   "type": "video",
-   "title": "Fancy Two-Hand Moves for Lindy Hop",
-   "artist": "Laura Glaess",
-   "styles": [
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 47,
-   "popularity": 66,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "hkxHivauzIA"
    },
    "curated": false
   },
@@ -48300,7 +48981,8 @@
    "title": "Frankie Manning's Swingin' Funeral",
    "artist": "rikomatic",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2009,
@@ -51156,6 +51838,25 @@
    "curated": false
   },
   {
+   "id": "yt-Ez6ul3ofl10",
+   "type": "video",
+   "title": "Shag Level 1 🤩",
+   "artist": "Let It Swing",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 85,
+   "popularity": 50,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "Ez6ul3ofl10"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-JQ2pN5OJr1w",
    "type": "video",
    "title": "Sylvia's \"Frankie Move\"",
@@ -51228,25 +51929,6 @@
    "source": {
     "platform": "youtube",
     "id": "hOSJUW2kr30"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Ez6ul3ofl10",
-   "type": "video",
-   "title": "Shag Level 1 🤩",
-   "artist": "Let It Swing",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 85,
-   "popularity": 49,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "Ez6ul3ofl10"
    },
    "curated": false
   },
