@@ -1,6 +1,177 @@
 {
- "exportedAt": "2026-10-06T18:25:03.768Z",
+ "exportedAt": "2026-10-07T18:26:09.429Z",
  "items": [
+  {
+   "id": "yt-Rf7rWDhWXkI",
+   "type": "video",
+   "title": "Solo Charleston Performance in Basel | Lindy Harbour",
+   "artist": "Lindy Harbour Basel",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 200,
+   "popularity": 70,
+   "addedAt": "2026-10-07",
+   "source": {
+    "platform": "youtube",
+    "id": "Rf7rWDhWXkI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pSPn-dZmkQU",
+   "type": "video",
+   "title": "Sealed it with a kiss💋 #westcoastswing #improv",
+   "artist": "Chantelle & Joel",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 65,
+   "addedAt": "2026-10-07",
+   "source": {
+    "platform": "youtube",
+    "id": "pSPn-dZmkQU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-k2HnQfnxOJ8",
+   "type": "video",
+   "title": "The Jitterbug Stroll - Full Routine and Breakdown",
+   "artist": "The Sultan of Swing",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 1176,
+   "popularity": 56,
+   "addedAt": "2026-10-07",
+   "source": {
+    "platform": "youtube",
+    "id": "k2HnQfnxOJ8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QEKbQqQa06o",
+   "type": "video",
+   "title": "Jordan Frisbee & Tren Veal - 1st place Champions Jack&Jill Finals - Jack&Jill O'Rama 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 274,
+   "popularity": 54,
+   "addedAt": "2026-10-07",
+   "source": {
+    "platform": "youtube",
+    "id": "QEKbQqQa06o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-u8--UUL6i_o",
+   "type": "tutorial",
+   "title": "Jitterbug Stroll Lesson",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 2354,
+   "popularity": 50,
+   "addedAt": "2026-10-07",
+   "source": {
+    "platform": "youtube",
+    "id": "u8--UUL6i_o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-yuazdCqlwn8",
+   "type": "video",
+   "title": "Jitterbug Stroll Walkthrough",
+   "artist": "sequencedanceuk",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 154,
+   "popularity": 46,
+   "addedAt": "2026-10-07",
+   "source": {
+    "platform": "youtube",
+    "id": "yuazdCqlwn8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zdQcB_927Is",
+   "type": "video",
+   "title": "Invitational Shuffle COMPLETE CONTEST - Great Lakes Balboa Escape 2026",
+   "artist": "Great Lakes Balboa Escape",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1616,
+   "popularity": 44,
+   "addedAt": "2026-10-07",
+   "source": {
+    "platform": "youtube",
+    "id": "zdQcB_927Is"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-veYZahSHvTM",
+   "type": "video",
+   "title": "Alex & Minh - Advanced Shuffle Finals - Great Lakes Balboa Escape 2026",
+   "artist": "Great Lakes Balboa Escape",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 117,
+   "popularity": 35,
+   "addedAt": "2026-10-07",
+   "source": {
+    "platform": "youtube",
+    "id": "veYZahSHvTM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-VbcPfMT87TY",
+   "type": "video",
+   "title": "Swing of the Hill - Round 15 - Rebekah & Attila v Melo & Brandon (Swing in Bloom) | West Coast Swing",
+   "artist": "Swing in Bloom",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 322,
+   "popularity": 15,
+   "addedAt": "2026-10-07",
+   "source": {
+    "platform": "youtube",
+    "id": "VbcPfMT87TY"
+   },
+   "curated": false
+  },
   {
    "id": "yt-kXYiU_JCYtU",
    "type": "music",
@@ -9355,6 +9526,25 @@
    "curated": false
   },
   {
+   "id": "yt-hZb37qAFNGE",
+   "type": "video",
+   "title": "ROLLING SWING 2026 - J&J ALL-STARS FINAL - Lauren JONES & Christopher STEINMAIER - 3rd place",
+   "artist": "Massart Olivier",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 138,
+   "popularity": 46,
+   "addedAt": "2026-09-09",
+   "source": {
+    "platform": "youtube",
+    "id": "hZb37qAFNGE"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-wN6LVR57JOE",
    "type": "video",
    "title": "ROLLING SWING 2026 - STRICTLY MIX OPEN FINAL - Alexis GARRISH & Aless TONDOLO - 1st place",
@@ -9389,25 +9579,6 @@
    "source": {
     "platform": "youtube",
     "id": "lV1mWdVrdh8"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-hZb37qAFNGE",
-   "type": "video",
-   "title": "ROLLING SWING 2026 - J&J ALL-STARS FINAL - Lauren JONES & Christopher STEINMAIER - 3rd place",
-   "artist": "Massart Olivier",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 138,
-   "popularity": 44,
-   "addedAt": "2026-09-09",
-   "source": {
-    "platform": "youtube",
-    "id": "hZb37qAFNGE"
    },
    "curated": false
   },
@@ -9858,7 +10029,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 605,
-   "popularity": 53,
+   "popularity": 54,
    "addedAt": "2026-09-08",
    "source": {
     "platform": "youtube",
@@ -18530,7 +18701,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 180,
-   "popularity": 33,
+   "popularity": 35,
    "addedAt": "2026-08-11",
    "source": {
     "platform": "youtube",
@@ -24750,6 +24921,26 @@
    "curated": false
   },
   {
+   "id": "yt-iaotmjaUsiY",
+   "type": "video",
+   "title": "Ryan Boz & Bryn Anderson - 1st place All Star/Champions Strictly Swing - Jack&Jill O'Rama 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "jitterbug",
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 320,
+   "popularity": 66,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "iaotmjaUsiY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Huzd05KMVfU",
    "type": "video",
    "title": "KP Rutland & Nicole Ramirez - Champions Jack & Jill - Capital Swing 2026",
@@ -24803,26 +24994,6 @@
    "source": {
     "platform": "youtube",
     "id": "1jP7sUYYEd8"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-iaotmjaUsiY",
-   "type": "video",
-   "title": "Ryan Boz & Bryn Anderson - 1st place All Star/Champions Strictly Swing - Jack&Jill O'Rama 2026",
-   "artist": "West Coast Swing",
-   "styles": [
-    "jitterbug",
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 320,
-   "popularity": 65,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "iaotmjaUsiY"
    },
    "curated": false
   },
@@ -26019,6 +26190,25 @@
    "curated": false
   },
   {
+   "id": "yt-ZWhDiwT18rY",
+   "type": "video",
+   "title": "Savoy Cup 2026 - Duo Jazz Battle Final - Jérémy & Issiaka VS Off Beat",
+   "artist": "Savoy Cup",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 204,
+   "popularity": 48,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "ZWhDiwT18rY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-ikFALUwH8Jo",
    "type": "video",
    "title": "RTSF 2010 - Juan & Sharon - Lindy Hop Showcase",
@@ -26053,25 +26243,6 @@
    "source": {
     "platform": "youtube",
     "id": "0JJH5966Vwg"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-ZWhDiwT18rY",
-   "type": "video",
-   "title": "Savoy Cup 2026 - Duo Jazz Battle Final - Jérémy & Issiaka VS Off Beat",
-   "artist": "Savoy Cup",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 204,
-   "popularity": 47,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "ZWhDiwT18rY"
    },
    "curated": false
   },
@@ -26680,7 +26851,7 @@
   },
   {
    "id": "yt-Qr9_aocDqAc",
-   "type": "music",
+   "type": "video",
    "title": "John Lindo & Victoria Henk - Champions Jack&Jill Finals - Jack&Jill O'Rama 2024",
    "artist": "Jack & Jill O'Rama",
    "styles": [
@@ -26990,7 +27161,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "video",
+   "type": "music",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -34395,7 +34566,7 @@
   },
   {
    "id": "yt-A740izaUHh0",
-   "type": "video",
+   "type": "music",
    "title": "Lindy Hop Invitational - Slow (The Snowball 2019)",
    "artist": "Stanislav Lotsmanov",
    "styles": [
@@ -35411,7 +35582,7 @@
   },
   {
    "id": "yt-I9zHYkKoL4A",
-   "type": "video",
+   "type": "music",
    "title": "Swing Out! 1940s Dancing",
    "artist": "1940GlamourGirl",
    "styles": [
@@ -43070,7 +43241,7 @@
   },
   {
    "id": "yt-qMglBwfhsN4",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2019 – Dietmar & Nellia – Never Stop Jiving",
    "artist": "RockThatSwing",
    "styles": [
@@ -43302,7 +43473,7 @@
   },
   {
    "id": "yt-VpCRNxmR-aE",
-   "type": "video",
+   "type": "music",
    "title": "70 is not the end. It’s when we start dancing Lindy Hop to Rasputin🔥💃🏻#lindyhop #rasputin #boneym",
    "artist": "Relaxing Dance__1",
    "styles": [
@@ -43717,7 +43888,7 @@
   },
   {
    "id": "yt-06RlwN0nddQ",
-   "type": "music",
+   "type": "video",
    "title": "SWING TIME ('36): “Pick Yourself Up”",
    "artist": "Turner Classic Movies",
    "styles": [
@@ -44360,7 +44531,7 @@
   },
   {
    "id": "yt-egopcBsOPIU",
-   "type": "video",
+   "type": "music",
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -45466,7 +45637,7 @@
   },
   {
    "id": "yt-7PBCS3v9B8M",
-   "type": "video",
+   "type": "music",
    "title": "Irina & Anthony - social lindy hop demo at Havelhop 2023",
    "artist": "Slava Bogatov",
    "styles": [
@@ -45700,7 +45871,7 @@
   },
   {
    "id": "yt-N1r9nUWnkn0",
-   "type": "video",
+   "type": "music",
    "title": "ELECTRO SWING LINDY HOP DANCE - Sondre & Tanya",
    "artist": "Sondre & Tanya",
    "styles": [
@@ -52852,6 +53023,25 @@
    "curated": false
   },
   {
+   "id": "yt-Y3MedRSWEfI",
+   "type": "video",
+   "title": "A Short Explanation of Bal-Swing",
+   "artist": "Swungover",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 181,
+   "popularity": 50,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "Y3MedRSWEfI"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-JQ2pN5OJr1w",
    "type": "video",
    "title": "Sylvia's \"Frankie Move\"",
@@ -53076,25 +53266,6 @@
    "source": {
     "platform": "youtube",
     "id": "9yqE6hRfjqY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Y3MedRSWEfI",
-   "type": "video",
-   "title": "A Short Explanation of Bal-Swing",
-   "artist": "Swungover",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 181,
-   "popularity": 49,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "Y3MedRSWEfI"
    },
    "curated": false
   },
@@ -53480,6 +53651,25 @@
    "curated": false
   },
   {
+   "id": "yt-zNvEa2zrb0o",
+   "type": "video",
+   "title": "Natalia Eristavi & Andrea Olsson - Balboa improvisation",
+   "artist": "Policoro in Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 152,
+   "popularity": 48,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "zNvEa2zrb0o"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-MeTpjJfQ58w",
    "type": "tutorial",
    "title": "2016-08-01 Rob & Emma Balboa Explorers Level 2 Pure Bal & almost Pure Bal class recap",
@@ -53647,25 +53837,6 @@
    "source": {
     "platform": "youtube",
     "id": "CIdssQOLMlg"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-zNvEa2zrb0o",
-   "type": "video",
-   "title": "Natalia Eristavi & Andrea Olsson - Balboa improvisation",
-   "artist": "Policoro in Swing",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 152,
-   "popularity": 47,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "zNvEa2zrb0o"
    },
    "curated": false
   },
@@ -55489,6 +55660,25 @@
    "curated": false
   },
   {
+   "id": "yt-zln4Qr65owE",
+   "type": "video",
+   "title": "Collegiate Shag Dance Competition with The Schwings Band – VLN SHG FST 2024",
+   "artist": "What a Shag",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 67,
+   "popularity": 42,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "zln4Qr65owE"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-iewDPl7ipUA",
    "type": "video",
    "title": "Hellzapoppin' Hoopla - Harlem vs Hollywood (fwd swingout, Frankie & Willa Mae, switches)",
@@ -55581,25 +55771,6 @@
    "source": {
     "platform": "youtube",
     "id": "SiXDn2Or4qc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-zln4Qr65owE",
-   "type": "video",
-   "title": "Collegiate Shag Dance Competition with The Schwings Band – VLN SHG FST 2024",
-   "artist": "What a Shag",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 67,
-   "popularity": 41,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "zln4Qr65owE"
    },
    "curated": false
   },
