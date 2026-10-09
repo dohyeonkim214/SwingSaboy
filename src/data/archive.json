@@ -1,6 +1,606 @@
 {
- "exportedAt": "2026-10-08T18:25:31.184Z",
+ "exportedAt": "2026-10-09T18:24:53.188Z",
  "items": [
+  {
+   "id": "yt-vmDDOFXSgAs",
+   "type": "music",
+   "title": "Dave Brubeck - Take Five",
+   "artist": "buckinny",
+   "styles": [],
+   "bpm": null,
+   "year": 2008,
+   "durationSec": 330,
+   "popularity": 100,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "vmDDOFXSgAs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-VEl5XhlUKLk",
+   "type": "music",
+   "title": "Why (Lyrics Video) - Tiggy",
+   "artist": "Rodolfo Albaytar",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 224,
+   "popularity": 100,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "VEl5XhlUKLk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-6CKZDtUzsWc",
+   "type": "video",
+   "title": "Such a magical dance with @EmelineRochefeuille - Part 1 ❤️ #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 51,
+   "popularity": 84,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "6CKZDtUzsWc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-a5_KkRkzhtU",
+   "type": "music",
+   "title": "Storm In My Heart – 60s 70s 80s Dance Vibes - Special video mix #Bill's201#shorts #short #viral",
+   "artist": "Bill's201",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 57,
+   "popularity": 79,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "a5_KkRkzhtU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-kY5rdZdZ_b4",
+   "type": "video",
+   "title": "Keep Punchin Jitterbug Contest",
+   "artist": "twobarbreak",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2007,
+   "durationSec": 208,
+   "popularity": 75,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "kY5rdZdZ_b4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-KlLJBmtsYqU",
+   "type": "video",
+   "title": "2006 National Jitterbug Showcase: Ben and Debbie",
+   "artist": "Ben Yau",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2006,
+   "durationSec": 193,
+   "popularity": 70,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "KlLJBmtsYqU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3SZoXbcJNlE",
+   "type": "music",
+   "title": "Big Swing Band",
+   "artist": "Audionautix - Topic",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 111,
+   "popularity": 67,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "3SZoXbcJNlE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-5xNBwiVxyiw",
+   "type": "video",
+   "title": "Move it Like You Stole It! @zzward #westcoastswing",
+   "artist": "Chantelle & Joel",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 61,
+   "popularity": 64,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "5xNBwiVxyiw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-acEbTyqjt5A",
+   "type": "video",
+   "title": "090111.1 Swing Dance Competition",
+   "artist": "David Patrone",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 85,
+   "popularity": 63,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "acEbTyqjt5A"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gO-fOOCef1M",
+   "type": "video",
+   "title": "Open Lindy Final - Camp Hollywood 2025",
+   "artist": "camphollywood",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 540,
+   "popularity": 58,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "gO-fOOCef1M"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1Q14K1yFTvA",
+   "type": "video",
+   "title": "Jitterbug Jamboree (1940-1949)",
+   "artist": "British Pathé",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 52,
+   "popularity": 57,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "1Q14K1yFTvA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pOivHnZuwFU",
+   "type": "video",
+   "title": "Camp Jitterbug 2024 - Lindy Hop Couple Finals",
+   "artist": "Camp Jitterbug",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 838,
+   "popularity": 57,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "pOivHnZuwFU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nqN051OrSEQ",
+   "type": "video",
+   "title": "Camp Jitterbug 2014 - Couples (Strictly) - Finals",
+   "artist": "Camp Jitterbug",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 623,
+   "popularity": 55,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "nqN051OrSEQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hkhYMj1T78I",
+   "type": "video",
+   "title": "London Jitterbug Championships 2011 - Strictly Lindy Final",
+   "artist": "swingoutlondon",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 498,
+   "popularity": 55,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "hkhYMj1T78I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-z8gVav5EswY",
+   "type": "video",
+   "title": "Austin Kois & Bryn Anderson - Champions Jack&Jill Finals - Jack&Jill O'Rama 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 169,
+   "popularity": 55,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "z8gVav5EswY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-J0x8eYTfOAI",
+   "type": "video",
+   "title": "Camp Jitterbug 2024 — Lindy Hop Couples Competition — Finals [4K]",
+   "artist": "Hanako-chan...eru!",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 554,
+   "popularity": 53,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "J0x8eYTfOAI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ouEaVJhxFXU",
+   "type": "video",
+   "title": "Underground Jitterbug Championships (UJC) 2011",
+   "artist": "swinginstyle",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 189,
+   "popularity": 49,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "ouEaVJhxFXU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-X479QmlVcWA",
+   "type": "video",
+   "title": "London Jitterbug Championships 2013 - All Balboa Jam",
+   "artist": "SwingPatrolUK",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 566,
+   "popularity": 48,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "X479QmlVcWA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-BzJ3cOzy8AU",
+   "type": "video",
+   "title": "Bull City Swingout 2019 Jitterbug Competition",
+   "artist": "Doug Noël",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 1210,
+   "popularity": 45,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "BzJ3cOzy8AU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-idsHUNziM3w",
+   "type": "video",
+   "title": "2009 Camp Jitterbug - Lindy Couple Finals All Skate",
+   "artist": "David Soltysik",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 226,
+   "popularity": 45,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "idsHUNziM3w"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-frqqJpYNLrI",
+   "type": "video",
+   "title": "Sydney Jitterbug Championships 2008 - Showcase Winners",
+   "artist": "jselvaku",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2008,
+   "durationSec": 176,
+   "popularity": 44,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "frqqJpYNLrI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-b6i1EGrXa28",
+   "type": "video",
+   "title": "Australian Jitterbug Championships (AJC) 2011 Marnie Oliver Up & Coming",
+   "artist": "lotuk",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 179,
+   "popularity": 39,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "b6i1EGrXa28"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-68nqId8Ey00",
+   "type": "video",
+   "title": "Australian Jitterbug Championships - Aug 2012 - Fast & Furious",
+   "artist": "Adam Slot",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 341,
+   "popularity": 39,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "68nqId8Ey00"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gxODbtHjlsU",
+   "type": "video",
+   "title": "Collegiate Jitterbug Championships 2011, Team Rhythm and Swing",
+   "artist": "HeartlandSwingFest",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 231,
+   "popularity": 38,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "gxODbtHjlsU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Pu87XOuEUco",
+   "type": "video",
+   "title": "Camp Jitterbug 2011 Couples Competition Finals Finale",
+   "artist": "Loren Yu",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 90,
+   "popularity": 36,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "Pu87XOuEUco"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-al2__MDfWao",
+   "type": "video",
+   "title": "Australian Jitterbug Championships (AJC) 2012 Midstream Madness",
+   "artist": "Rusty Pez",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 723,
+   "popularity": 34,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "al2__MDfWao"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ntET8nTGNYM",
+   "type": "video",
+   "title": "National Jitterbug Championship Inter-Generation Winners; L.A. July '12 (00585)",
+   "artist": "NewsCraft",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 180,
+   "popularity": 34,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "ntET8nTGNYM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dsvobW2m3kQ",
+   "type": "video",
+   "title": "Solo Contest - Camp Jitterbug 2026",
+   "artist": "Camp Jitterbug",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1262,
+   "popularity": 32,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "dsvobW2m3kQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_xJZBOSfHvE",
+   "type": "video",
+   "title": "Australian Jitterbug Championships (AJC) 2015 Shagarama final v2",
+   "artist": "Swing Patrol Australia",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 574,
+   "popularity": 32,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "_xJZBOSfHvE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-O8nq-qSvjrg",
+   "type": "video",
+   "title": "Switch Competition - Camp Jitterbug 2026",
+   "artist": "Camp Jitterbug",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 935,
+   "popularity": 31,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "O8nq-qSvjrg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9LoifsZT5-E",
+   "type": "video",
+   "title": "Intergenerational Jitterbug Contest",
+   "artist": "vincefry100",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 243,
+   "popularity": 29,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "9LoifsZT5-E"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-o0O3viWF1oI",
+   "type": "video",
+   "title": "SBW2025 Underground Jitterbug Competition - Final",
+   "artist": "Shanghai Balboa Weekend",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 406,
+   "popularity": 27,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "o0O3viWF1oI"
+   },
+   "curated": false
+  },
   {
    "id": "yt-LMgnCIs3zQ8",
    "type": "video",
@@ -55,6 +655,25 @@
    "source": {
     "platform": "youtube",
     "id": "RRQkwDlx-OU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-VDbl_pQl1yg",
+   "type": "video",
+   "title": "🕺West Coast Swing Improv Freestyle Dance by Ben Morris & Sharon Her",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 58,
+   "popularity": 63,
+   "addedAt": "2026-10-08",
+   "source": {
+    "platform": "youtube",
+    "id": "VDbl_pQl1yg"
    },
    "curated": false
   },
@@ -188,25 +807,6 @@
    "source": {
     "platform": "youtube",
     "id": "_3B3tSCcdgE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-VDbl_pQl1yg",
-   "type": "video",
-   "title": "🕺West Coast Swing Improv Freestyle Dance by Ben Morris & Sharon Her",
-   "artist": "Ben Morris",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 58,
-   "popularity": 41,
-   "addedAt": "2026-10-08",
-   "source": {
-    "platform": "youtube",
-    "id": "VDbl_pQl1yg"
    },
    "curated": false
   },
@@ -392,7 +992,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 274,
-   "popularity": 54,
+   "popularity": 56,
    "addedAt": "2026-10-07",
    "source": {
     "platform": "youtube",
@@ -16415,7 +17015,7 @@
    "bpm": null,
    "year": 2022,
    "durationSec": 460,
-   "popularity": 54,
+   "popularity": 55,
    "addedAt": "2026-08-17",
    "source": {
     "platform": "youtube",
@@ -16618,7 +17218,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 380,
-   "popularity": 32,
+   "popularity": 33,
    "addedAt": "2026-08-17",
    "source": {
     "platform": "youtube",
@@ -19068,7 +19668,7 @@
   },
   {
    "id": "yt-q4M348VHFos",
-   "type": "video",
+   "type": "music",
    "title": "Rockin' Rollin' Rockabilly DANCE - full version (from SeLi6640)",
    "artist": "Сергей Александрович Лихоманов",
    "styles": [
@@ -19915,7 +20515,7 @@
   },
   {
    "id": "yt-0doADIqW_wY",
-   "type": "music",
+   "type": "video",
    "title": "West Coast Swing Duo Brings Down the House at Budafest!",
    "artist": "West Coast Swing Moments",
    "styles": [
@@ -21407,6 +22007,25 @@
    "curated": false
   },
   {
+   "id": "yt-UnEUcRAeHKM",
+   "type": "tutorial",
+   "title": "Beginning West Coast Swing with Sean & Alyssa McKeever - Lesson 1",
+   "artist": "Sean & Alyssa McKeever",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1427,
+   "popularity": 56,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "UnEUcRAeHKM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-G8MaDC2DpUI",
    "type": "video",
    "title": "Lindy Hop: Eight and Six Count Minnie Dips",
@@ -21441,25 +22060,6 @@
    "source": {
     "platform": "youtube",
     "id": "OxYfJLdONqw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-UnEUcRAeHKM",
-   "type": "tutorial",
-   "title": "Beginning West Coast Swing with Sean & Alyssa McKeever - Lesson 1",
-   "artist": "Sean & Alyssa McKeever",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 1427,
-   "popularity": 55,
-   "addedAt": "2026-08-07",
-   "source": {
-    "platform": "youtube",
-    "id": "UnEUcRAeHKM"
    },
    "curated": false
   },
@@ -21656,7 +22256,7 @@
   },
   {
    "id": "yt-lolkFAMeifQ",
-   "type": "music",
+   "type": "video",
    "title": "Improvised west coast swing: Macarena 😂 They showed the DJ 👌 Lauren Jones & Tzi Yi Wee #dance",
    "artist": "Affinity Swing",
    "styles": [
@@ -23632,7 +24232,7 @@
   },
   {
    "id": "yt-am3PmylTbDg",
-   "type": "music",
+   "type": "video",
    "title": "Thibault and Nicole Ramirez - 1st Place Showcase - The Open Swing Dance Championships 2024",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -26230,6 +26830,25 @@
    "curated": false
   },
   {
+   "id": "yt-2nvGwbyRjJk",
+   "type": "video",
+   "title": "The Complete Guide to the West Coast Swing Whip",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 816,
+   "popularity": 52,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "2nvGwbyRjJk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Gu10DGuDNCs",
    "type": "video",
    "title": "Jitterbug Single Time Swing Kick Variations",
@@ -26262,25 +26881,6 @@
    "source": {
     "platform": "youtube",
     "id": "X4bp_ItCnFM"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-2nvGwbyRjJk",
-   "type": "video",
-   "title": "The Complete Guide to the West Coast Swing Whip",
-   "artist": "West Coast Swing Online",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 816,
-   "popularity": 51,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "2nvGwbyRjJk"
    },
    "curated": false
   },
@@ -28705,7 +29305,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 934,
-   "popularity": 61,
+   "popularity": 62,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -29000,6 +29600,25 @@
    "curated": false
   },
   {
+   "id": "yt-dt2zXR9QZEQ",
+   "type": "video",
+   "title": "Jitterbug Swing Fundamentals | Steps Only",
+   "artist": "DrDanceRight",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 266,
+   "popularity": 57,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "dt2zXR9QZEQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-02JuLSLAf2Q",
    "type": "tutorial",
    "title": "Swingin' Denver - Beginner Lindy Hop (8 Count Tuck Turn Breakdown)",
@@ -29034,25 +29653,6 @@
    "source": {
     "platform": "youtube",
     "id": "7SBW_sW3ruc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-dt2zXR9QZEQ",
-   "type": "video",
-   "title": "Jitterbug Swing Fundamentals | Steps Only",
-   "artist": "DrDanceRight",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 266,
-   "popularity": 56,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "dt2zXR9QZEQ"
    },
    "curated": false
   },
@@ -31005,7 +31605,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "music",
+   "type": "video",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -32613,12 +33213,13 @@
    "title": "Frankie Manning, Ambassador of Lindy Hop, bringing back lindy hop",
    "artist": "Swing Dance Nashville",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
    "durationSec": 409,
-   "popularity": 28,
+   "popularity": 29,
    "addedAt": "2026-07-29",
    "source": {
     "platform": "youtube",
@@ -38575,6 +39176,26 @@
    "curated": false
   },
   {
+   "id": "yt-MISaPoTRCjE",
+   "type": "video",
+   "title": "Remy and Alice - Lindy Hop Invitational | The Snowball 2025",
+   "artist": "Slava Bogatov",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 122,
+   "popularity": 56,
+   "addedAt": "2026-07-10",
+   "source": {
+    "platform": "youtube",
+    "id": "MISaPoTRCjE"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-qprkgBPk93Q",
    "type": "tutorial",
    "title": "DOPAMINE CHARLESTON Tutorial - Beginner Line Dance",
@@ -38647,26 +39268,6 @@
    "source": {
     "platform": "youtube",
     "id": "FGhwHumFbnc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-MISaPoTRCjE",
-   "type": "video",
-   "title": "Remy and Alice - Lindy Hop Invitational | The Snowball 2025",
-   "artist": "Slava Bogatov",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 122,
-   "popularity": 55,
-   "addedAt": "2026-07-10",
-   "source": {
-    "platform": "youtube",
-    "id": "MISaPoTRCjE"
    },
    "curated": false
   },
@@ -39110,6 +39711,25 @@
    "curated": false
   },
   {
+   "id": "yt-OJLCUEWHeZU",
+   "type": "tutorial",
+   "title": "Balboa Dance Basic Steps for Beginners | Day 1 of 4",
+   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 91,
+   "popularity": 39,
+   "addedAt": "2026-07-10",
+   "source": {
+    "platform": "youtube",
+    "id": "OJLCUEWHeZU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-ZEpMp1j00Ik",
    "type": "video",
    "title": "Collegiate Shag at Russian Swing Dance Championship 2015 — Final All Skate",
@@ -39144,25 +39764,6 @@
    "source": {
     "platform": "youtube",
     "id": "rwOSLCNURws"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-OJLCUEWHeZU",
-   "type": "tutorial",
-   "title": "Balboa Dance Basic Steps for Beginners | Day 1 of 4",
-   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 91,
-   "popularity": 38,
-   "addedAt": "2026-07-10",
-   "source": {
-    "platform": "youtube",
-    "id": "OJLCUEWHeZU"
    },
    "curated": false
   },
@@ -42710,7 +43311,8 @@
    "title": "Sofia Swing Dance Festival 2017 - Strictly Lindy Hop Competition",
    "artist": "Global Swing Broadcast",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2017,
@@ -43658,7 +44260,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "music",
+   "type": "video",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -43884,7 +44486,7 @@
   },
   {
    "id": "yt-26-1t15R_MU",
-   "type": "music",
+   "type": "video",
    "title": "Sofia Swing Dance Festival 2017 - Adv. J&J Competition (Fast)",
    "artist": "Global Swing Broadcast",
    "styles": [
@@ -44484,7 +45086,8 @@
     "lindy",
     "wcs",
     "lindy8",
-    "jitterbug"
+    "jitterbug",
+    "balboa"
    ],
    "bpm": null,
    "year": 2023,
@@ -51886,6 +52489,25 @@
    "curated": false
   },
   {
+   "id": "yt-L6hfm8zmgBI",
+   "type": "video",
+   "title": "A Short Explanation of Pure Balboa",
+   "artist": "Swungover",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 169,
+   "popularity": 55,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "L6hfm8zmgBI"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-1HKx3BgqxJ0",
    "type": "tutorial",
    "title": "Kenny & Alba - Balboa Int/Adv Workshop Pt 1 (basics, triplets, reverse come around)",
@@ -52074,25 +52696,6 @@
    "source": {
     "platform": "youtube",
     "id": "QKNjMRnFmRQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-L6hfm8zmgBI",
-   "type": "video",
-   "title": "A Short Explanation of Pure Balboa",
-   "artist": "Swungover",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 169,
-   "popularity": 54,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "L6hfm8zmgBI"
    },
    "curated": false
   },
