@@ -1,6 +1,137 @@
 {
- "exportedAt": "2026-10-10T18:23:53.289Z",
+ "exportedAt": "2026-10-11T18:24:46.071Z",
  "items": [
+  {
+   "id": "yt-zMjroTSRTKk",
+   "type": "video",
+   "title": "Aprende a bailar Charleston | Paso a paso",
+   "artist": "Tuiwok Talento",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 132,
+   "popularity": 85,
+   "addedAt": "2026-10-11",
+   "source": {
+    "platform": "youtube",
+    "id": "zMjroTSRTKk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-MmP43jyqTUw",
+   "type": "music",
+   "title": "Rose City Swing - PJ Turner & Tashina Beckmann - Me too by Meghan Trainor",
+   "artist": "Variety Entertainment XXI",
+   "styles": [],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 97,
+   "popularity": 77,
+   "addedAt": "2026-10-11",
+   "source": {
+    "platform": "youtube",
+    "id": "MmP43jyqTUw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4n-aDEGc8fw",
+   "type": "video",
+   "title": "Jakub Jakoubek & Stacy Kay - 2nd place Champions Strictly Finals - SwingTime Denver 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 185,
+   "popularity": 56,
+   "addedAt": "2026-10-11",
+   "source": {
+    "platform": "youtube",
+    "id": "4n-aDEGc8fw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-XOX2SSeLoPc",
+   "type": "video",
+   "title": "Lindy Hop Circle, Outside Turn, 8 Count Inside Turn Sidepass to Closed - Feb 1st",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 46,
+   "addedAt": "2026-10-11",
+   "source": {
+    "platform": "youtube",
+    "id": "XOX2SSeLoPc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-DAxTMQdR5rU",
+   "type": "video",
+   "title": "Andy and Lindsey Collegiate Shag to 'Half Hearted Love', Matt Curtis",
+   "artist": "Lou's Rockabilly Heaven",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 43,
+   "addedAt": "2026-10-11",
+   "source": {
+    "platform": "youtube",
+    "id": "DAxTMQdR5rU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-K1UwFi6Lnq4",
+   "type": "video",
+   "title": "Natalia Eristavi & Shawn Hershey - Balboa improvisation",
+   "artist": "Shawn Hershey",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 177,
+   "popularity": 37,
+   "addedAt": "2026-10-11",
+   "source": {
+    "platform": "youtube",
+    "id": "K1UwFi6Lnq4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-NSMwJcCceKY",
+   "type": "video",
+   "title": "PIS 2026 - Slow Bal with Shieva & Giovanni in Piazza Segni",
+   "artist": "Policoro in Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 293,
+   "popularity": 7,
+   "addedAt": "2026-10-11",
+   "source": {
+    "platform": "youtube",
+    "id": "NSMwJcCceKY"
+   },
+   "curated": false
+  },
   {
    "id": "yt-r7A0Sjiu2zg",
    "type": "music",
@@ -1075,6 +1206,25 @@
    "curated": false
   },
   {
+   "id": "yt-QEKbQqQa06o",
+   "type": "video",
+   "title": "Jordan Frisbee & Tren Veal - 1st place Champions Jack&Jill Finals - Jack&Jill O'Rama 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 274,
+   "popularity": 57,
+   "addedAt": "2026-10-07",
+   "source": {
+    "platform": "youtube",
+    "id": "QEKbQqQa06o"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-k2HnQfnxOJ8",
    "type": "video",
    "title": "The Jitterbug Stroll - Full Routine and Breakdown",
@@ -1090,25 +1240,6 @@
    "source": {
     "platform": "youtube",
     "id": "k2HnQfnxOJ8"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-QEKbQqQa06o",
-   "type": "video",
-   "title": "Jordan Frisbee & Tren Veal - 1st place Champions Jack&Jill Finals - Jack&Jill O'Rama 2026",
-   "artist": "West Coast Swing",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 274,
-   "popularity": 56,
-   "addedAt": "2026-10-07",
-   "source": {
-    "platform": "youtube",
-    "id": "QEKbQqQa06o"
    },
    "curated": false
   },
@@ -2071,7 +2202,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 282,
-   "popularity": 56,
+   "popularity": 57,
    "addedAt": "2026-10-03",
    "source": {
     "platform": "youtube",
@@ -13094,7 +13225,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 52,
-   "popularity": 45,
+   "popularity": 46,
    "addedAt": "2026-09-05",
    "source": {
     "platform": "youtube",
@@ -17003,6 +17134,25 @@
    "curated": false
   },
   {
+   "id": "yt-0hwruMhGx9w",
+   "type": "video",
+   "title": "Jordan Frisbee & Tatiana Mollmann - More: Modern West Coast Swing Routine - 2026 Revitalise WCS",
+   "artist": "Revitalise WCS | toniq dance",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 373,
+   "popularity": 64,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "0hwruMhGx9w"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-XJkjwZw4Mmc",
    "type": "video",
    "title": "RTSF 2020 Jamboree Ball (Sunday) – Solo Charleston Challenge – Finals",
@@ -17018,25 +17168,6 @@
    "source": {
     "platform": "youtube",
     "id": "XJkjwZw4Mmc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-0hwruMhGx9w",
-   "type": "video",
-   "title": "Jordan Frisbee & Tatiana Mollmann - More: Modern West Coast Swing Routine - 2026 Revitalise WCS",
-   "artist": "Revitalise WCS | toniq dance",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 373,
-   "popularity": 62,
-   "addedAt": "2026-08-17",
-   "source": {
-    "platform": "youtube",
-    "id": "0hwruMhGx9w"
    },
    "curated": false
   },
@@ -17136,6 +17267,25 @@
    "curated": false
   },
   {
+   "id": "yt-u_1m2iUZLCE",
+   "type": "video",
+   "title": "West Coast Swing Rides for Social Dancers",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 452,
+   "popularity": 53,
+   "addedAt": "2026-08-17",
+   "source": {
+    "platform": "youtube",
+    "id": "u_1m2iUZLCE"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-L1R61K7HlNw",
    "type": "tutorial",
    "title": "“JITTERBUG” - CHOREOGRAPHY: Step By Step Tutorial & Run Through (Wizard Of Oz Jr.)",
@@ -17151,25 +17301,6 @@
    "source": {
     "platform": "youtube",
     "id": "L1R61K7HlNw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-u_1m2iUZLCE",
-   "type": "video",
-   "title": "West Coast Swing Rides for Social Dancers",
-   "artist": "West Coast Swing Online",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 452,
-   "popularity": 52,
-   "addedAt": "2026-08-17",
-   "source": {
-    "platform": "youtube",
-    "id": "u_1m2iUZLCE"
    },
    "curated": false
   },
@@ -19286,7 +19417,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 86,
-   "popularity": 54,
+   "popularity": 55,
    "addedAt": "2026-08-12",
    "source": {
     "platform": "youtube",
@@ -24099,7 +24230,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 373,
-   "popularity": 87,
+   "popularity": 88,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -24217,6 +24348,23 @@
    "curated": false
   },
   {
+   "id": "yt-tUZI5pi8IFg",
+   "type": "music",
+   "title": "Dolphin Shoals - Mario Kart 8  *Full Big Band Jazz Fusion version* ft. Bryan Carter",
+   "artist": "The 8-Bit Big Band",
+   "styles": [],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 332,
+   "popularity": 86,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "tUZI5pi8IFg"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-93yPrMIzQUo",
    "type": "video",
    "title": "Outrageous improv 🤣⚡🔥🔥 #improv #westcoastswing",
@@ -24283,23 +24431,6 @@
    "source": {
     "platform": "youtube",
     "id": "XQ2EJRvC4K0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-tUZI5pi8IFg",
-   "type": "music",
-   "title": "Dolphin Shoals - Mario Kart 8  *Full Big Band Jazz Fusion version* ft. Bryan Carter",
-   "artist": "The 8-Bit Big Band",
-   "styles": [],
-   "bpm": null,
-   "year": 2023,
-   "durationSec": 332,
-   "popularity": 85,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "tUZI5pi8IFg"
    },
    "curated": false
   },
@@ -28148,7 +28279,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 256,
-   "popularity": 84,
+   "popularity": 85,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -28869,6 +29000,25 @@
    "curated": false
   },
   {
+   "id": "yt-sK-M65nrY_8",
+   "type": "video",
+   "title": "Welcome to the course - Introduction to 6 Count Swing",
+   "artist": "iLindy",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 62,
+   "popularity": 69,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "sK-M65nrY_8"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-1wZiSRewbtY",
    "type": "video",
    "title": "Camp Hollywood Jitterbug Competition (full)",
@@ -28924,25 +29074,6 @@
    "source": {
     "platform": "youtube",
     "id": "Ll1fCypqfKk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-sK-M65nrY_8",
-   "type": "video",
-   "title": "Welcome to the course - Introduction to 6 Count Swing",
-   "artist": "iLindy",
-   "styles": [
-    "lindy6"
-   ],
-   "bpm": null,
-   "year": 2018,
-   "durationSec": 62,
-   "popularity": 68,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "sK-M65nrY_8"
    },
    "curated": false
   },
@@ -29139,7 +29270,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "music",
+   "type": "video",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -30477,6 +30608,25 @@
    "curated": false
   },
   {
+   "id": "yt-ivFZvobYuQE",
+   "type": "video",
+   "title": "SHOWCASE ROUTINE - ILHC EUROPE 2025",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 1333,
+   "popularity": 46,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "ivFZvobYuQE"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-t5ZbIigPBOs",
    "type": "tutorial",
    "title": "Lindy hop basics - play with 8 counts side by side basic",
@@ -30511,25 +30661,6 @@
    "source": {
     "platform": "youtube",
     "id": "Gdd1jpcQSfM"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-ivFZvobYuQE",
-   "type": "video",
-   "title": "SHOWCASE ROUTINE - ILHC EUROPE 2025",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 1333,
-   "popularity": 45,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "ivFZvobYuQE"
    },
    "curated": false
   },
@@ -31041,7 +31172,7 @@
    "bpm": null,
    "year": 2021,
    "durationSec": 101,
-   "popularity": 40,
+   "popularity": 41,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -34391,7 +34522,7 @@
   },
   {
    "id": "yt-ONnx63NAyMc",
-   "type": "music",
+   "type": "video",
    "title": "Sharon Davis & Juan Villafañe | Bill Bailey - Lindy Hop & Authentic Jazz Choreography (ILHC 2013)",
    "artist": "Sharon Davis",
    "styles": [
@@ -35596,7 +35727,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 187,
-   "popularity": 75,
+   "popularity": 76,
    "addedAt": "2026-07-18",
    "source": {
     "platform": "youtube",
@@ -36622,7 +36753,7 @@
   },
   {
    "id": "yt-I9zHYkKoL4A",
-   "type": "video",
+   "type": "music",
    "title": "Swing Out! 1940s Dancing",
    "artist": "1940GlamourGirl",
    "styles": [
@@ -39290,7 +39421,7 @@
   },
   {
    "id": "yt-MISaPoTRCjE",
-   "type": "music",
+   "type": "video",
    "title": "Remy and Alice - Lindy Hop Invitational | The Snowball 2025",
    "artist": "Slava Bogatov",
    "styles": [
@@ -41448,7 +41579,7 @@
   },
   {
    "id": "yt-WFhRquNGQCw",
-   "type": "music",
+   "type": "video",
    "title": "MY GIRL - RTSF 2023 - Nils and Bianca",
    "artist": "Nils and Bianca",
    "styles": [
@@ -43425,7 +43556,8 @@
    "artist": "Global Swing Broadcast",
    "styles": [
     "lindy",
-    "jitterbug"
+    "jitterbug",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2017,
@@ -44621,7 +44753,7 @@
   },
   {
    "id": "yt-JdRin5YUORk",
-   "type": "music",
+   "type": "video",
    "title": "Mr and Mrs Smooth demonstrating the art of Simply Smooth Swagger - Watch! Be Cool",
    "artist": "Joe N Dancer",
    "styles": [
@@ -45574,7 +45706,7 @@
   },
   {
    "id": "yt-egopcBsOPIU",
-   "type": "music",
+   "type": "video",
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -46680,7 +46812,7 @@
   },
   {
    "id": "yt-7PBCS3v9B8M",
-   "type": "video",
+   "type": "music",
    "title": "Irina & Anthony - social lindy hop demo at Havelhop 2023",
    "artist": "Slava Bogatov",
    "styles": [
