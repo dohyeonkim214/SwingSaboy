@@ -1,6 +1,158 @@
 {
- "exportedAt": "2026-10-11T18:24:46.071Z",
+ "exportedAt": "2026-10-12T18:25:36.124Z",
  "items": [
+  {
+   "id": "yt-CWhNTbehIhM",
+   "type": "video",
+   "title": "Lucille Ball - Jitterbug Bite",
+   "artist": "SueSnellLives!",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2009,
+   "durationSec": 149,
+   "popularity": 93,
+   "addedAt": "2026-10-12",
+   "source": {
+    "platform": "youtube",
+    "id": "CWhNTbehIhM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-5YoxDk-BQPg",
+   "type": "video",
+   "title": "Five Foot Two (Charleston)",
+   "artist": "The Charleston All Stars - Topic",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 131,
+   "popularity": 75,
+   "addedAt": "2026-10-12",
+   "source": {
+    "platform": "youtube",
+    "id": "5YoxDk-BQPg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-p7HEp1IhI48",
+   "type": "tutorial",
+   "title": "린디합 Day - 2 #swingdance #dance #스윙댄스 #lindyhop #swing #danceclass #balboa #dancer #린디합 #dancestudio",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 55,
+   "addedAt": "2026-10-12",
+   "source": {
+    "platform": "youtube",
+    "id": "p7HEp1IhI48"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9B--WxNrCug",
+   "type": "video",
+   "title": "Lindy Hop Swingout to Bluesy Dip, Pivots to Inside Turn and Swivels Oct 11 2026",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 58,
+   "popularity": 43,
+   "addedAt": "2026-10-12",
+   "source": {
+    "platform": "youtube",
+    "id": "9B--WxNrCug"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pr_C-wjYah0",
+   "type": "video",
+   "title": "Lindy Hop | Vincenzo & Gaia – Lezione 1 \"Swing Out\"",
+   "artist": "Summer Jamboree Dance Academy",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 199,
+   "popularity": 40,
+   "addedAt": "2026-10-12",
+   "source": {
+    "platform": "youtube",
+    "id": "pr_C-wjYah0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1tdFfLkAo7c",
+   "type": "video",
+   "title": "Annabel & Augie - Invitational Shuffle - Great Lakes Balboa Escape 2026",
+   "artist": "Great Lakes Balboa Escape",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 115,
+   "popularity": 30,
+   "addedAt": "2026-10-12",
+   "source": {
+    "platform": "youtube",
+    "id": "1tdFfLkAo7c"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-U88iXPok4Vs",
+   "type": "video",
+   "title": "Theresa & Sam - Invitational Shuffle - Great Lakes Balboa Escape 2026",
+   "artist": "Great Lakes Balboa Escape",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 128,
+   "popularity": 29,
+   "addedAt": "2026-10-12",
+   "source": {
+    "platform": "youtube",
+    "id": "U88iXPok4Vs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QzpUN9TtjfA",
+   "type": "tutorial",
+   "title": "Lindy Hop 8 count with slow step Basic in closed Absolute Beginners",
+   "artist": "Natasha Brown",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 104,
+   "popularity": 22,
+   "addedAt": "2026-10-12",
+   "source": {
+    "platform": "youtube",
+    "id": "QzpUN9TtjfA"
+   },
+   "curated": false
+  },
   {
    "id": "yt-zMjroTSRTKk",
    "type": "video",
@@ -427,6 +579,25 @@
    "curated": false
   },
   {
+   "id": "yt-z8gVav5EswY",
+   "type": "video",
+   "title": "Austin Kois & Bryn Anderson - Champions Jack&Jill Finals - Jack&Jill O'Rama 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 169,
+   "popularity": 58,
+   "addedAt": "2026-10-09",
+   "source": {
+    "platform": "youtube",
+    "id": "z8gVav5EswY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-1Q14K1yFTvA",
    "type": "video",
    "title": "Jitterbug Jamboree (1940-1949)",
@@ -499,25 +670,6 @@
    "source": {
     "platform": "youtube",
     "id": "hkhYMj1T78I"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-z8gVav5EswY",
-   "type": "video",
-   "title": "Austin Kois & Bryn Anderson - Champions Jack&Jill Finals - Jack&Jill O'Rama 2026",
-   "artist": "West Coast Swing",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 169,
-   "popularity": 55,
-   "addedAt": "2026-10-09",
-   "source": {
-    "platform": "youtube",
-    "id": "z8gVav5EswY"
    },
    "curated": false
   },
@@ -1779,7 +1931,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 164,
-   "popularity": 62,
+   "popularity": 63,
    "addedAt": "2026-10-05",
    "source": {
     "platform": "youtube",
@@ -3690,7 +3842,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 76,
-   "popularity": 66,
+   "popularity": 67,
    "addedAt": "2026-09-27",
    "source": {
     "platform": "youtube",
@@ -4426,7 +4578,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 58,
-   "popularity": 72,
+   "popularity": 73,
    "addedAt": "2026-09-22",
    "source": {
     "platform": "youtube",
@@ -6582,7 +6734,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 52,
-   "popularity": 70,
+   "popularity": 74,
    "addedAt": "2026-09-17",
    "source": {
     "platform": "youtube",
@@ -8272,7 +8424,7 @@
    "bpm": null,
    "year": 2020,
    "durationSec": 50,
-   "popularity": 42,
+   "popularity": 43,
    "addedAt": "2026-09-13",
    "source": {
     "platform": "youtube",
@@ -14371,6 +14523,25 @@
    "curated": false
   },
   {
+   "id": "yt-lcUcQfNVqJ0",
+   "type": "video",
+   "title": "✨Vibin’ 💫 #dance #improv #wcs #partnership #dancing #groove #love",
+   "artist": "StuckOnSwing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 61,
+   "popularity": 60,
+   "addedAt": "2026-09-01",
+   "source": {
+    "platform": "youtube",
+    "id": "lcUcQfNVqJ0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-GoloAwrQ2_U",
    "type": "video",
    "title": "Danser chez vous le Balboa niveau débutant",
@@ -14405,25 +14576,6 @@
    "source": {
     "platform": "youtube",
     "id": "YKCIojcez0U"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-lcUcQfNVqJ0",
-   "type": "video",
-   "title": "✨Vibin’ 💫 #dance #improv #wcs #partnership #dancing #groove #love",
-   "artist": "StuckOnSwing",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 61,
-   "popularity": 29,
-   "addedAt": "2026-09-01",
-   "source": {
-    "platform": "youtube",
-    "id": "lcUcQfNVqJ0"
    },
    "curated": false
   },
@@ -15691,7 +15843,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 45,
-   "popularity": 63,
+   "popularity": 64,
    "addedAt": "2026-08-23",
    "source": {
     "platform": "youtube",
@@ -19838,6 +19990,25 @@
    "curated": false
   },
   {
+   "id": "yt-RKHh9Zo_32U",
+   "type": "tutorial",
+   "title": "Collegiate Shag | Steve & Chanzie – Lesson 1 \"The Comet\"",
+   "artist": "Summer Jamboree Dance Academy",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 180,
+   "popularity": 36,
+   "addedAt": "2026-08-11",
+   "source": {
+    "platform": "youtube",
+    "id": "RKHh9Zo_32U"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-4-HugxP-rDc",
    "type": "tutorial",
    "title": "Collegiate Shag | Steve & Chanzie – Lesson 1 \"Double Kick Basics and Hitches\"",
@@ -19853,25 +20024,6 @@
    "source": {
     "platform": "youtube",
     "id": "4-HugxP-rDc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-RKHh9Zo_32U",
-   "type": "tutorial",
-   "title": "Collegiate Shag | Steve & Chanzie – Lesson 1 \"The Comet\"",
-   "artist": "Summer Jamboree Dance Academy",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 180,
-   "popularity": 35,
-   "addedAt": "2026-08-11",
-   "source": {
-    "platform": "youtube",
-    "id": "RKHh9Zo_32U"
    },
    "curated": false
   },
@@ -22269,6 +22421,25 @@
    "curated": false
   },
   {
+   "id": "yt-nGU7E-sN7_U",
+   "type": "tutorial",
+   "title": "Learn West Coast Swing Basic Steps – (5-Minute Beginner Guide)",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 366,
+   "popularity": 56,
+   "addedAt": "2026-08-07",
+   "source": {
+    "platform": "youtube",
+    "id": "nGU7E-sN7_U"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-G8MaDC2DpUI",
    "type": "video",
    "title": "Lindy Hop: Eight and Six Count Minnie Dips",
@@ -22303,25 +22474,6 @@
    "source": {
     "platform": "youtube",
     "id": "OxYfJLdONqw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-nGU7E-sN7_U",
-   "type": "tutorial",
-   "title": "Learn West Coast Swing Basic Steps – (5-Minute Beginner Guide)",
-   "artist": "West Coast Swing Online",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 366,
-   "popularity": 55,
-   "addedAt": "2026-08-07",
-   "source": {
-    "platform": "youtube",
-    "id": "nGU7E-sN7_U"
    },
    "curated": false
   },
@@ -22480,7 +22632,7 @@
   },
   {
    "id": "yt-MggQSspSGU8",
-   "type": "music",
+   "type": "video",
    "title": "California Jubilee in \"Let's Twist Again\" - Chubby Checker",
    "artist": "Pascal De Maria",
    "styles": [
@@ -23787,6 +23939,23 @@
    "curated": false
   },
   {
+   "id": "yt-7mQwJhtotxM",
+   "type": "music",
+   "title": "When You're Smilin'  (Hollywood Jazz Band)",
+   "artist": "Megan McConnell",
+   "styles": [],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 184,
+   "popularity": 93,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "7mQwJhtotxM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-5EMDpKVWB-4",
    "type": "video",
    "title": "Part 2 of our most viral dance 🧊🧊👼 #improv #westcoastswing",
@@ -23802,23 +23971,6 @@
    "source": {
     "platform": "youtube",
     "id": "5EMDpKVWB-4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-7mQwJhtotxM",
-   "type": "music",
-   "title": "When You're Smilin'  (Hollywood Jazz Band)",
-   "artist": "Megan McConnell",
-   "styles": [],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 184,
-   "popularity": 92,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "7mQwJhtotxM"
    },
    "curated": false
   },
@@ -27244,6 +27396,25 @@
    "curated": false
   },
   {
+   "id": "yt-2jXs3oRkKaM",
+   "type": "video",
+   "title": "Stuck in West Coast Swing? Learn These 3 Moves",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 277,
+   "popularity": 50,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "2jXs3oRkKaM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-DIKqyr3XeYw",
    "type": "video",
    "title": "MADjam 2026 Allstar Strictly Swing Final",
@@ -27278,25 +27449,6 @@
    "source": {
     "platform": "youtube",
     "id": "OHzRzfz53lo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-2jXs3oRkKaM",
-   "type": "video",
-   "title": "Stuck in West Coast Swing? Learn These 3 Moves",
-   "artist": "West Coast Swing Online",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 277,
-   "popularity": 49,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "2jXs3oRkKaM"
    },
    "curated": false
   },
@@ -30417,6 +30569,26 @@
    "curated": false
   },
   {
+   "id": "yt-NvsWA3QZlWs",
+   "type": "tutorial",
+   "title": "A Class Recap 4/8/19 - Beginner 8-Count Lindy Hop",
+   "artist": "Lindy Maine",
+   "styles": [
+    "lindy8",
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 141,
+   "popularity": 49,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "NvsWA3QZlWs"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-g0SHvJoa4N8",
    "type": "video",
    "title": "2024-02-15 Level 1: Lindy Hop Fundamentals - 6-Count Moves",
@@ -30470,26 +30642,6 @@
    "source": {
     "platform": "youtube",
     "id": "wkCJMmBPJIo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-NvsWA3QZlWs",
-   "type": "tutorial",
-   "title": "A Class Recap 4/8/19 - Beginner 8-Count Lindy Hop",
-   "artist": "Lindy Maine",
-   "styles": [
-    "lindy8",
-    "lindy6"
-   ],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 141,
-   "popularity": 48,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "NvsWA3QZlWs"
    },
    "curated": false
   },
@@ -30819,6 +30971,26 @@
    "curated": false
   },
   {
+   "id": "yt-Du30F4uTwDw",
+   "type": "video",
+   "title": "Send Outs and Circles in 6 & 8 counts",
+   "artist": "Sydnie Kleinhenz",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 51,
+   "popularity": 44,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Du30F4uTwDw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-1oOUG0QSNWo",
    "type": "tutorial",
    "title": "Lindyhop level A - 6 count basics weeks 1 and 2",
@@ -30929,26 +31101,6 @@
    "source": {
     "platform": "youtube",
     "id": "CZPF4ID3jDs"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Du30F4uTwDw",
-   "type": "video",
-   "title": "Send Outs and Circles in 6 & 8 counts",
-   "artist": "Sydnie Kleinhenz",
-   "styles": [
-    "lindy6",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2018,
-   "durationSec": 51,
-   "popularity": 43,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "Du30F4uTwDw"
    },
    "curated": false
   },
@@ -31352,6 +31504,26 @@
    "curated": false
   },
   {
+   "id": "yt-f1KJRkZwEDU",
+   "type": "tutorial",
+   "title": "Class Recap of Swing 101. Lesson 6: How to lead 6 and 8 count basics",
+   "artist": "Swing Zing",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 208,
+   "popularity": 38,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "f1KJRkZwEDU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-VPo-ArsWpBk",
    "type": "tutorial",
    "title": "Lindy Hop Sequence: Intro 8 Count Class Recap",
@@ -31405,26 +31577,6 @@
    "source": {
     "platform": "youtube",
     "id": "rZZd-QAxzIs"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-f1KJRkZwEDU",
-   "type": "tutorial",
-   "title": "Class Recap of Swing 101. Lesson 6: How to lead 6 and 8 count basics",
-   "artist": "Swing Zing",
-   "styles": [
-    "lindy6",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 208,
-   "popularity": 37,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "f1KJRkZwEDU"
    },
    "curated": false
   },
@@ -32021,7 +32173,7 @@
    "bpm": null,
    "year": 2019,
    "durationSec": 64,
-   "popularity": 60,
+   "popularity": 61,
    "addedAt": "2026-07-31",
    "source": {
     "platform": "youtube",
@@ -35542,7 +35694,7 @@
   },
   {
    "id": "yt-E0qmZrVRRw8",
-   "type": "music",
+   "type": "video",
    "title": "Mind = blown 🤯😂🤣 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -43448,7 +43600,7 @@
   },
   {
    "id": "yt-rb7rp9FhD64",
-   "type": "music",
+   "type": "video",
    "title": "The way the crowd went oooOOOH 😆 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -44731,7 +44883,7 @@
   },
   {
    "id": "yt-26-1t15R_MU",
-   "type": "music",
+   "type": "video",
    "title": "Sofia Swing Dance Festival 2017 - Adv. J&J Competition (Fast)",
    "artist": "Global Swing Broadcast",
    "styles": [
@@ -45665,7 +45817,7 @@
   },
   {
    "id": "yt-Q3ew4E_-8Ps",
-   "type": "video",
+   "type": "music",
    "title": "Throwback Video! Lindy Hop combos with Anna, Slava, Jean, and Ali",
    "artist": "SwingStepTV",
    "styles": [
@@ -46261,6 +46413,27 @@
    "curated": false
   },
   {
+   "id": "yt-set8yno9Ztw",
+   "type": "video",
+   "title": "Lindy Hop Figuren, die alle Lindy Hopper kennen müssen!",
+   "artist": "Social Dancing Academy by Conny & Dado",
+   "styles": [
+    "lindy",
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 344,
+   "popularity": 81,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "set8yno9Ztw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-LsuE7gfH9_0",
    "type": "tutorial",
    "title": "How to Do the Lindy Swing Out | Swing Dance",
@@ -46277,27 +46450,6 @@
    "source": {
     "platform": "youtube",
     "id": "LsuE7gfH9_0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-set8yno9Ztw",
-   "type": "video",
-   "title": "Lindy Hop Figuren, die alle Lindy Hopper kennen müssen!",
-   "artist": "Social Dancing Academy by Conny & Dado",
-   "styles": [
-    "lindy",
-    "lindy6",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 344,
-   "popularity": 80,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "set8yno9Ztw"
    },
    "curated": false
   },
