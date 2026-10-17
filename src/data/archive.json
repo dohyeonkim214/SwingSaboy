@@ -1,6 +1,213 @@
 {
- "exportedAt": "2026-10-16T18:22:17.849Z",
+ "exportedAt": "2026-10-17T18:19:49.836Z",
  "items": [
+  {
+   "id": "yt-h9bDfXOrM08",
+   "type": "tutorial",
+   "title": "9 Dances in 10 Minutes - Ballroom Dancing For Beginners",
+   "artist": "Oleg Astakhov",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 784,
+   "popularity": 88,
+   "addedAt": "2026-10-17",
+   "source": {
+    "platform": "youtube",
+    "id": "h9bDfXOrM08"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-fhoJ-xx3ZBU",
+   "type": "music",
+   "title": "4 JAZZ GROOVES",
+   "artist": "Open Studio",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 73,
+   "popularity": 76,
+   "addedAt": "2026-10-17",
+   "source": {
+    "platform": "youtube",
+    "id": "fhoJ-xx3ZBU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-sqZ0vQL-Rg0",
+   "type": "video",
+   "title": "Keeping it chill 😎 #improv #dance #dancer #dancing #musicality #competition #wcs #movement",
+   "artist": "StuckOnSwing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 61,
+   "popularity": 74,
+   "addedAt": "2026-10-17",
+   "source": {
+    "platform": "youtube",
+    "id": "sqZ0vQL-Rg0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-57Zcuk19Szs",
+   "type": "video",
+   "title": "Liberty Swing 2026 Johnvitational Thibault Ramirez & Alyssa McKeever   4K",
+   "artist": "Liberty Swing Dance Championships",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 514,
+   "popularity": 61,
+   "addedAt": "2026-10-17",
+   "source": {
+    "platform": "youtube",
+    "id": "57Zcuk19Szs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-sj7cEzqHjWk",
+   "type": "video",
+   "title": "Frankie Manning & Erin Stevens Teach Lindy Hop Part 1",
+   "artist": "Track Town Swing",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 2357,
+   "popularity": 55,
+   "addedAt": "2026-10-17",
+   "source": {
+    "platform": "youtube",
+    "id": "sj7cEzqHjWk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dZ0jOft0gbg",
+   "type": "video",
+   "title": "Ben Morris and Tatiana Mollmann - 1st Place Jack & Jill Swing - Champions - The Open 2025",
+   "artist": "The OPEN World Swing Dance Championships",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 214,
+   "popularity": 55,
+   "addedAt": "2026-10-17",
+   "source": {
+    "platform": "youtube",
+    "id": "dZ0jOft0gbg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Zxn77C39buM",
+   "type": "video",
+   "title": "Jordan Frisbee and Victoria Henk - 2nd Place Strictly Swing - Champions - The Open 2025",
+   "artist": "The OPEN World Swing Dance Championships",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 101,
+   "popularity": 51,
+   "addedAt": "2026-10-17",
+   "source": {
+    "platform": "youtube",
+    "id": "Zxn77C39buM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Ipg5DkNGaJs",
+   "type": "video",
+   "title": "St. Louis Shag • Kasia, Ania, Filip i Rafał",
+   "artist": "swingoutPL",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 62,
+   "popularity": 48,
+   "addedAt": "2026-10-17",
+   "source": {
+    "platform": "youtube",
+    "id": "Ipg5DkNGaJs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ZITukB3WPpw",
+   "type": "video",
+   "title": "St. Louis Shag Strictly Final - BCN Shag Festival 2022 - Patricio & James #swingdance #stlouisshag",
+   "artist": "Patricio Espinoza Garcés",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 56,
+   "popularity": 45,
+   "addedAt": "2026-10-17",
+   "source": {
+    "platform": "youtube",
+    "id": "ZITukB3WPpw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-v5sX0BR3f1Y",
+   "type": "tutorial",
+   "title": "St. Louis Shag class with Rūta & Arnas at What a Jazz",
+   "artist": "What a Shag",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 50,
+   "popularity": 43,
+   "addedAt": "2026-10-17",
+   "source": {
+    "platform": "youtube",
+    "id": "v5sX0BR3f1Y"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-4YcFf86W03Y",
+   "type": "tutorial",
+   "title": "GLBE 26 Beginner Shuffle Contest",
+   "artist": "Hanako-chan...eru!",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 271,
+   "popularity": 17,
+   "addedAt": "2026-10-17",
+   "source": {
+    "platform": "youtube",
+    "id": "4YcFf86W03Y"
+   },
+   "curated": false
+  },
   {
    "id": "yt-l4Fa4WCdL-c",
    "type": "video",
@@ -3662,7 +3869,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 282,
-   "popularity": 57,
+   "popularity": 58,
    "addedAt": "2026-10-03",
    "source": {
     "platform": "youtube",
@@ -5622,7 +5829,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 286,
-   "popularity": 36,
+   "popularity": 37,
    "addedAt": "2026-09-26",
    "source": {
     "platform": "youtube",
@@ -7972,7 +8179,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 60,
-   "popularity": 94,
+   "popularity": 95,
    "addedAt": "2026-09-17",
    "source": {
     "platform": "youtube",
@@ -9422,6 +9629,25 @@
    "curated": false
   },
   {
+   "id": "yt-vIizy2tE3NM",
+   "type": "video",
+   "title": "Balboa Open Final! Camp Hollywood 2026 (SIDE VIEW)",
+   "artist": "Swing Dancing Phoenix",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 405,
+   "popularity": 42,
+   "addedAt": "2026-09-14",
+   "source": {
+    "platform": "youtube",
+    "id": "vIizy2tE3NM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-GkRR7AptY2w",
    "type": "video",
    "title": "10/19/17 Swing 1 @ Savoy (Swivels, Double Tuck, Outside/Inside Turns)",
@@ -9456,25 +9682,6 @@
    "source": {
     "platform": "youtube",
     "id": "ty2tH4185yI"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-vIizy2tE3NM",
-   "type": "video",
-   "title": "Balboa Open Final! Camp Hollywood 2026 (SIDE VIEW)",
-   "artist": "Swing Dancing Phoenix",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 405,
-   "popularity": 41,
-   "addedAt": "2026-09-14",
-   "source": {
-    "platform": "youtube",
-    "id": "vIizy2tE3NM"
    },
    "curated": false
   },
@@ -16980,6 +17187,25 @@
    "curated": false
   },
   {
+   "id": "yt-_zQKgbPBt0o",
+   "type": "video",
+   "title": "Anchors & Posting | West Coast Swing Tips",
+   "artist": "Thibault and Nicole Ramirez",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 412,
+   "popularity": 54,
+   "addedAt": "2026-08-25",
+   "source": {
+    "platform": "youtube",
+    "id": "_zQKgbPBt0o"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-KgA9e7YvNxM",
    "type": "video",
    "title": "Save the Fast Dance 2026 - Valentina and Vasu Performance",
@@ -16995,25 +17221,6 @@
    "source": {
     "platform": "youtube",
     "id": "KgA9e7YvNxM"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-_zQKgbPBt0o",
-   "type": "video",
-   "title": "Anchors & Posting | West Coast Swing Tips",
-   "artist": "Thibault and Nicole Ramirez",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 412,
-   "popularity": 53,
-   "addedAt": "2026-08-25",
-   "source": {
-    "platform": "youtube",
-    "id": "_zQKgbPBt0o"
    },
    "curated": false
   },
@@ -17175,7 +17382,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 581,
-   "popularity": 62,
+   "popularity": 63,
    "addedAt": "2026-08-23",
    "source": {
     "platform": "youtube",
@@ -21313,7 +21520,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 180,
-   "popularity": 36,
+   "popularity": 37,
    "addedAt": "2026-08-11",
    "source": {
     "platform": "youtube",
@@ -25396,7 +25603,7 @@
   },
   {
    "id": "yt-9Ow_k01VfSg",
-   "type": "video",
+   "type": "music",
    "title": "Did not expect the hotel room key move mid-improv 😂 Well done Markus 🙌🏼 #dance #westcoastswing",
    "artist": "Emeline Rochefeuille",
    "styles": [
@@ -25841,7 +26048,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 58,
-   "popularity": 85,
+   "popularity": 86,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -27421,6 +27628,25 @@
    "curated": false
   },
   {
+   "id": "yt-67jneriK-m8",
+   "type": "video",
+   "title": "MADjam 2026 Champions Jack & Jill Final",
+   "artist": "Dance Jam Productions",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 2694,
+   "popularity": 68,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "67jneriK-m8"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-g7l-Qj-JJmI",
    "type": "video",
    "title": "ILHC 2010 -  Showcase - Andrew Thigpen & Karen Turman",
@@ -27455,25 +27681,6 @@
    "source": {
     "platform": "youtube",
     "id": "-NfM77Rp4rA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-67jneriK-m8",
-   "type": "video",
-   "title": "MADjam 2026 Champions Jack & Jill Final",
-   "artist": "Dance Jam Productions",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 2694,
-   "popularity": 67,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "67jneriK-m8"
    },
    "curated": false
   },
@@ -28067,6 +28274,25 @@
    "curated": false
   },
   {
+   "id": "yt-EPupCziC9bY",
+   "type": "video",
+   "title": "Whip – The Signature 8-Count Move of WCS",
+   "artist": "Thibault and Nicole Ramirez",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 369,
+   "popularity": 61,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "EPupCziC9bY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-3phT3UqL5i8",
    "type": "video",
    "title": "Improve your TRIPLE STEP for East Coast Swing!",
@@ -28140,25 +28366,6 @@
    "source": {
     "platform": "youtube",
     "id": "eQeJopjgtdo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-EPupCziC9bY",
-   "type": "video",
-   "title": "Whip – The Signature 8-Count Move of WCS",
-   "artist": "Thibault and Nicole Ramirez",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 369,
-   "popularity": 60,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "EPupCziC9bY"
    },
    "curated": false
   },
@@ -28333,6 +28540,25 @@
    "curated": false
   },
   {
+   "id": "yt-c0aXpdB6T3w",
+   "type": "tutorial",
+   "title": "How to Improv West Coast Swing? How do the wcs champions do it?",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 196,
+   "popularity": 57,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "c0aXpdB6T3w"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-a9aGmiAF9bc",
    "type": "video",
    "title": "Lindy hop: basic 8-count steps for follows",
@@ -28348,25 +28574,6 @@
    "source": {
     "platform": "youtube",
     "id": "a9aGmiAF9bc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-c0aXpdB6T3w",
-   "type": "tutorial",
-   "title": "How to Improv West Coast Swing? How do the wcs champions do it?",
-   "artist": "West Coast Swing Online",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 196,
-   "popularity": 56,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "c0aXpdB6T3w"
    },
    "curated": false
   },
@@ -28498,6 +28705,25 @@
    "source": {
     "platform": "youtube",
     "id": "7m3FKi54Nv8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-HzOE-3wb-Nk",
+   "type": "video",
+   "title": "Liberty Swing 2026 Champions Strictly Swing Jordan Frisbee & Torri Zzaoui   4K",
+   "artist": "Liberty Swing Dance Championships",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 123,
+   "popularity": 53,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "HzOE-3wb-Nk"
    },
    "curated": false
   },
@@ -28688,25 +28914,6 @@
    "source": {
     "platform": "youtube",
     "id": "trhIm-emqvQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-HzOE-3wb-Nk",
-   "type": "video",
-   "title": "Liberty Swing 2026 Champions Strictly Swing Jordan Frisbee & Torri Zzaoui   4K",
-   "artist": "Liberty Swing Dance Championships",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 123,
-   "popularity": 50,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "HzOE-3wb-Nk"
    },
    "curated": false
   },
@@ -29807,7 +30014,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 123,
-   "popularity": 82,
+   "popularity": 83,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -35928,7 +36135,7 @@
    "bpm": null,
    "year": 2022,
    "durationSec": 51,
-   "popularity": 49,
+   "popularity": 50,
    "addedAt": "2026-07-23",
    "source": {
     "platform": "youtube",
@@ -36693,7 +36900,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1400,
-   "popularity": 60,
+   "popularity": 61,
    "addedAt": "2026-07-20",
    "source": {
     "platform": "youtube",
@@ -55960,6 +56167,25 @@
    "curated": false
   },
   {
+   "id": "yt-DylJNRfsMlQ",
+   "type": "video",
+   "title": "Shag Mix & Match Final (Spotlights) - Camp Hollywood 2025",
+   "artist": "camphollywood",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 705,
+   "popularity": 49,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "DylJNRfsMlQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-2FpkXVvVMBc",
    "type": "video",
    "title": "Savoy Ballroom Exhibit - 1939 NY Worlds Fair (Lindy Hop)  Part1",
@@ -56223,25 +56449,6 @@
    "source": {
     "platform": "youtube",
     "id": "aHE7Ww_qvmY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-DylJNRfsMlQ",
-   "type": "video",
-   "title": "Shag Mix & Match Final (Spotlights) - Camp Hollywood 2025",
-   "artist": "camphollywood",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 705,
-   "popularity": 48,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "DylJNRfsMlQ"
    },
    "curated": false
   },
