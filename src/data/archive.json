@@ -1,6 +1,101 @@
 {
- "exportedAt": "2026-10-17T18:19:49.836Z",
+ "exportedAt": "2026-10-18T18:20:04.914Z",
  "items": [
+  {
+   "id": "yt-EfL6ausFOJw",
+   "type": "video",
+   "title": "Savoy Cup 2023 - Advanced Mix & Match Final with Hot Swing Sextet",
+   "artist": "Savoy Cup",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 353,
+   "popularity": 61,
+   "addedAt": "2026-10-18",
+   "source": {
+    "platform": "youtube",
+    "id": "EfL6ausFOJw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-te8c6DFF2nc",
+   "type": "video",
+   "title": "Savoy Cup 2025 - All-Star M&M Final with Martin Burguez & His Rhythm Combo",
+   "artist": "Savoy Cup",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 377,
+   "popularity": 55,
+   "addedAt": "2026-10-18",
+   "source": {
+    "platform": "youtube",
+    "id": "te8c6DFF2nc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8FK0ivvyYIE",
+   "type": "video",
+   "title": "Super Fun Jitterbug Move (intermediate)",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 294,
+   "popularity": 53,
+   "addedAt": "2026-10-18",
+   "source": {
+    "platform": "youtube",
+    "id": "8FK0ivvyYIE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-XjOFJd28PI0",
+   "type": "video",
+   "title": "(move)...move...move!...MOOVE! 😆 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 53,
+   "popularity": 42,
+   "addedAt": "2026-10-18",
+   "source": {
+    "platform": "youtube",
+    "id": "XjOFJd28PI0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-cnSUqKSi2YQ",
+   "type": "tutorial",
+   "title": "Recap of Hal Kick and transition between pure bal and bal swing: Balboa Beginner+",
+   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 152,
+   "popularity": 33,
+   "addedAt": "2026-10-18",
+   "source": {
+    "platform": "youtube",
+    "id": "cnSUqKSi2YQ"
+   },
+   "curated": false
+  },
   {
    "id": "yt-h9bDfXOrM08",
    "type": "tutorial",
@@ -162,7 +257,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 56,
-   "popularity": 45,
+   "popularity": 46,
    "addedAt": "2026-10-17",
    "source": {
     "platform": "youtube",
@@ -243,6 +338,25 @@
    "source": {
     "platform": "youtube",
     "id": "v4fRV0aG3lc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QuB8bvFXd48",
+   "type": "video",
+   "title": "INCHES from the floor 😅😅💪 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 65,
+   "addedAt": "2026-10-16",
+   "source": {
+    "platform": "youtube",
+    "id": "QuB8bvFXd48"
    },
    "curated": false
   },
@@ -395,25 +509,6 @@
    "source": {
     "platform": "youtube",
     "id": "soeVcw8jOPM"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-QuB8bvFXd48",
-   "type": "video",
-   "title": "INCHES from the floor 😅😅💪 #improv #westcoastswing",
-   "artist": "Ken & Bryn",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 59,
-   "popularity": 46,
-   "addedAt": "2026-10-16",
-   "source": {
-    "platform": "youtube",
-    "id": "QuB8bvFXd48"
    },
    "curated": false
   },
@@ -2882,7 +2977,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 274,
-   "popularity": 57,
+   "popularity": 58,
    "addedAt": "2026-10-07",
    "source": {
     "platform": "youtube",
@@ -13987,7 +14082,7 @@
    "id": "yt-UZWmtxLiiFE",
    "type": "music",
    "title": "L-O-V-E",
-   "artist": "Nat King Cole Trio - Topic",
+   "artist": "Nat King Cole - Topic",
    "styles": [],
    "bpm": null,
    "year": 2016,
@@ -17997,7 +18092,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 55,
-   "popularity": 71,
+   "popularity": 72,
    "addedAt": "2026-08-19",
    "source": {
     "platform": "youtube",
@@ -22679,7 +22774,7 @@
    "bpm": null,
    "year": 2021,
    "durationSec": 211,
-   "popularity": 60,
+   "popularity": 61,
    "addedAt": "2026-08-09",
    "source": {
     "platform": "youtube",
@@ -28390,6 +28485,25 @@
    "curated": false
   },
   {
+   "id": "yt-5NCgLVFecwI",
+   "type": "tutorial",
+   "title": "Starter Step – How to Begin Your West Coast Swing",
+   "artist": "Thibault and Nicole Ramirez",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 350,
+   "popularity": 60,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "5NCgLVFecwI"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-wpu-3wfVip8",
    "type": "tutorial",
    "title": "WCS Tips: Easy Styling to Spice Up Your Basics",
@@ -28405,25 +28519,6 @@
    "source": {
     "platform": "youtube",
     "id": "wpu-3wfVip8"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-5NCgLVFecwI",
-   "type": "tutorial",
-   "title": "Starter Step – How to Begin Your West Coast Swing",
-   "artist": "Thibault and Nicole Ramirez",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 350,
-   "popularity": 59,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "5NCgLVFecwI"
    },
    "curated": false
   },
@@ -30004,7 +30099,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "music",
+   "type": "video",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -32680,11 +32775,30 @@
    "bpm": null,
    "year": 2017,
    "durationSec": 82,
-   "popularity": 42,
+   "popularity": 43,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
     "id": "5_iPBDtLZ8A"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3KLR2n31rvM",
+   "type": "video",
+   "title": "Lindy 8 Count Combo - Swing Out from Closed - Heel Dig - Texas Tommy",
+   "artist": "SwingDance UK",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 64,
+   "popularity": 43,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "3KLR2n31rvM"
    },
    "curated": false
   },
@@ -32761,25 +32875,6 @@
    "source": {
     "platform": "youtube",
     "id": "QfZEpH3e2bc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-3KLR2n31rvM",
-   "type": "video",
-   "title": "Lindy 8 Count Combo - Swing Out from Closed - Heel Dig - Texas Tommy",
-   "artist": "SwingDance UK",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2018,
-   "durationSec": 64,
-   "popularity": 42,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "3KLR2n31rvM"
    },
    "curated": false
   },
@@ -38525,7 +38620,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 186,
-   "popularity": 63,
+   "popularity": 64,
    "addedAt": "2026-07-17",
    "source": {
     "platform": "youtube",
@@ -39198,7 +39293,7 @@
    "bpm": null,
    "year": 2015,
    "durationSec": 59,
-   "popularity": 46,
+   "popularity": 47,
    "addedAt": "2026-07-14",
    "source": {
     "platform": "youtube",
@@ -45129,7 +45224,7 @@
   },
   {
    "id": "yt-rb7rp9FhD64",
-   "type": "video",
+   "type": "music",
    "title": "The way the crowd went oooOOOH 😆 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -46186,7 +46281,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "video",
+   "type": "music",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -46436,7 +46531,7 @@
   },
   {
    "id": "yt-JdRin5YUORk",
-   "type": "video",
+   "type": "music",
    "title": "Mr and Mrs Smooth demonstrating the art of Simply Smooth Swagger - Watch! Be Cool",
    "artist": "Joe N Dancer",
    "styles": [
@@ -46725,7 +46820,7 @@
   },
   {
    "id": "yt-xh8DrpJDrFg",
-   "type": "video",
+   "type": "music",
    "title": "Jordan Frisbee & Nicole Ramirez \"Man! I Feel Like A Woman!\" - Invitational Jack&Jill - Budafest 2023",
    "artist": "West Coast Swing",
    "styles": [
@@ -48125,7 +48220,7 @@
   },
   {
    "id": "yt-Xu6Y9cAQqIs",
-   "type": "music",
+   "type": "video",
    "title": "The Lindy-Hop-A-Thon Group Dance - BBC Strictly 2018",
    "artist": "BBC Strictly Come Dancing",
    "styles": [
@@ -58576,6 +58671,25 @@
    "curated": false
   },
   {
+   "id": "yt-XWnBCyqiDKA",
+   "type": "video",
+   "title": "HRH 2026 - Amateur Balboa Strictly Finals COMPLETE CONTEST",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1031,
+   "popularity": 42,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "XWnBCyqiDKA"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-iewDPl7ipUA",
    "type": "video",
    "title": "Hellzapoppin' Hoopla - Harlem vs Hollywood (fwd swingout, Frankie & Willa Mae, switches)",
@@ -58725,25 +58839,6 @@
    "source": {
     "platform": "youtube",
     "id": "0sjAMhCknak"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-XWnBCyqiDKA",
-   "type": "video",
-   "title": "HRH 2026 - Amateur Balboa Strictly Finals COMPLETE CONTEST",
-   "artist": "Hot Rhythm Foundation",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 1031,
-   "popularity": 41,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "XWnBCyqiDKA"
    },
    "curated": false
   },
