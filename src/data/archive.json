@@ -1,6 +1,192 @@
 {
- "exportedAt": "2026-10-18T18:20:04.914Z",
+ "exportedAt": "2026-10-19T18:24:54.012Z",
  "items": [
+  {
+   "id": "yt-EvFQUQjCc_Q",
+   "type": "music",
+   "title": "THILO WOLF BIG BAND: Shiny Stockings (Count Basie)",
+   "artist": "Wavehouse Entertainment GmbH",
+   "styles": [],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 340,
+   "popularity": 86,
+   "addedAt": "2026-10-19",
+   "source": {
+    "platform": "youtube",
+    "id": "EvFQUQjCc_Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-AiDLYwZe-Nw",
+   "type": "music",
+   "title": "Munich Swing Orchestra  -  Sunny Side Of The Street",
+   "artist": "muwimac",
+   "styles": [],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 187,
+   "popularity": 85,
+   "addedAt": "2026-10-19",
+   "source": {
+    "platform": "youtube",
+    "id": "AiDLYwZe-Nw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-2BMM6B8MUnI",
+   "type": "tutorial",
+   "title": "Shuffle Tutorial Basics - Charleston",
+   "artist": "Nicki Pepper J",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 302,
+   "popularity": 71,
+   "addedAt": "2026-10-19",
+   "source": {
+    "platform": "youtube",
+    "id": "2BMM6B8MUnI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-fFO8IWaeAz0",
+   "type": "tutorial",
+   "title": "Lindy Hop Class Recap: Swingout Variations, Send Outs with Turns",
+   "artist": "Byron Willis",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 61,
+   "popularity": 64,
+   "addedAt": "2026-10-19",
+   "source": {
+    "platform": "youtube",
+    "id": "fFO8IWaeAz0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-oPyinmWE6yg",
+   "type": "tutorial",
+   "title": "Charleston Step | Shuffle Dance Tutorial | Deutsch",
+   "artist": "Shuffle Dance Munich",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 222,
+   "popularity": 62,
+   "addedAt": "2026-10-19",
+   "source": {
+    "platform": "youtube",
+    "id": "oPyinmWE6yg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-TMbwdK8Ao7E",
+   "type": "video",
+   "title": "Learn to country swing dance with the Pretzel move! #learntodance #dance #newmusic",
+   "artist": "Peak Dance Nights",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 54,
+   "popularity": 61,
+   "addedAt": "2026-10-19",
+   "source": {
+    "platform": "youtube",
+    "id": "TMbwdK8Ao7E"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-cMSmUP1WAlo",
+   "type": "video",
+   "title": "Swing in Spring 2025 - Saturday night party -Sondre & Tanya Social Dance",
+   "artist": "Social Swing",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 63,
+   "popularity": 51,
+   "addedAt": "2026-10-19",
+   "source": {
+    "platform": "youtube",
+    "id": "cMSmUP1WAlo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-k1Uu7iaoQI4",
+   "type": "video",
+   "title": "Social Lindy Hop Improvisation #dance #jazzdance #lindyhopdance",
+   "artist": "SwinginMonkeys",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 80,
+   "popularity": 47,
+   "addedAt": "2026-10-19",
+   "source": {
+    "platform": "youtube",
+    "id": "k1Uu7iaoQI4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-KnSQ1CRpb5Q",
+   "type": "video",
+   "title": "February 2026 - Level 1: 8-count Lindy Fundamentals Week 2",
+   "artist": "JumptownSwingMadison",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 100,
+   "popularity": 42,
+   "addedAt": "2026-10-19",
+   "source": {
+    "platform": "youtube",
+    "id": "KnSQ1CRpb5Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-BEeIGksjKVA",
+   "type": "tutorial",
+   "title": "Charleston & Fall Off The Log QUICKSTART - Oldschool Jazz Dance Tutorial w/ Alexandre McCormack",
+   "artist": "Alexandre McCormack",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 70,
+   "popularity": 37,
+   "addedAt": "2026-10-19",
+   "source": {
+    "platform": "youtube",
+    "id": "BEeIGksjKVA"
+   },
+   "curated": false
+  },
   {
    "id": "yt-EfL6ausFOJw",
    "type": "video",
@@ -17,6 +203,25 @@
    "source": {
     "platform": "youtube",
     "id": "EfL6ausFOJw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-XjOFJd28PI0",
+   "type": "video",
+   "title": "(move)...move...move!...MOOVE! 😆 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 53,
+   "popularity": 59,
+   "addedAt": "2026-10-18",
+   "source": {
+    "platform": "youtube",
+    "id": "XjOFJd28PI0"
    },
    "curated": false
   },
@@ -55,25 +260,6 @@
    "source": {
     "platform": "youtube",
     "id": "8FK0ivvyYIE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-XjOFJd28PI0",
-   "type": "video",
-   "title": "(move)...move...move!...MOOVE! 😆 #improv #westcoastswing",
-   "artist": "Ken & Bryn",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 53,
-   "popularity": 42,
-   "addedAt": "2026-10-18",
-   "source": {
-    "platform": "youtube",
-    "id": "XjOFJd28PI0"
    },
    "curated": false
   },
@@ -257,7 +443,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 56,
-   "popularity": 46,
+   "popularity": 47,
    "addedAt": "2026-10-17",
    "source": {
     "platform": "youtube",
@@ -1706,6 +1892,25 @@
    "curated": false
   },
   {
+   "id": "yt-U88iXPok4Vs",
+   "type": "video",
+   "title": "Theresa & Sam - Invitational Shuffle - Great Lakes Balboa Escape 2026",
+   "artist": "Great Lakes Balboa Escape",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 128,
+   "popularity": 31,
+   "addedAt": "2026-10-12",
+   "source": {
+    "platform": "youtube",
+    "id": "U88iXPok4Vs"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-1tdFfLkAo7c",
    "type": "video",
    "title": "Annabel & Augie - Invitational Shuffle - Great Lakes Balboa Escape 2026",
@@ -1721,25 +1926,6 @@
    "source": {
     "platform": "youtube",
     "id": "1tdFfLkAo7c"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-U88iXPok4Vs",
-   "type": "video",
-   "title": "Theresa & Sam - Invitational Shuffle - Great Lakes Balboa Escape 2026",
-   "artist": "Great Lakes Balboa Escape",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 128,
-   "popularity": 30,
-   "addedAt": "2026-10-12",
-   "source": {
-    "platform": "youtube",
-    "id": "U88iXPok4Vs"
    },
    "curated": false
   },
@@ -3053,7 +3239,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1616,
-   "popularity": 44,
+   "popularity": 46,
    "addedAt": "2026-10-07",
    "source": {
     "platform": "youtube",
@@ -12704,7 +12890,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 443,
-   "popularity": 99,
+   "popularity": 100,
    "addedAt": "2026-09-08",
    "source": {
     "platform": "youtube",
@@ -25698,7 +25884,7 @@
   },
   {
    "id": "yt-9Ow_k01VfSg",
-   "type": "music",
+   "type": "video",
    "title": "Did not expect the hotel room key move mid-improv 😂 Well done Markus 🙌🏼 #dance #westcoastswing",
    "artist": "Emeline Rochefeuille",
    "styles": [
@@ -26670,6 +26856,23 @@
    "curated": false
   },
   {
+   "id": "yt-j_Qc8s0h4gg",
+   "type": "music",
+   "title": "1940s Swing & Boogie-Woogie🎺 \"As Time goes by\"🎶 AI Music-Video + Authentic Song Lyrics from 1931✍️",
+   "artist": "videofab",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 166,
+   "popularity": 79,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "j_Qc8s0h4gg"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-7jg-sWOrnyc",
    "type": "video",
    "title": "STOLE THE SHOW - Jordan Frisbee & Tatiana Mollmann | West Coast Swing Dance (US Open 2015)",
@@ -26761,23 +26964,6 @@
    "source": {
     "platform": "youtube",
     "id": "lLcxnxulPt4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-j_Qc8s0h4gg",
-   "type": "music",
-   "title": "1940s Swing & Boogie-Woogie🎺 \"As Time goes by\"🎶 AI Music-Video + Authentic Song Lyrics from 1931✍️",
-   "artist": "videofab",
-   "styles": [],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 166,
-   "popularity": 78,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "j_Qc8s0h4gg"
    },
    "curated": false
   },
@@ -30099,7 +30285,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "video",
+   "type": "music",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -45224,7 +45410,7 @@
   },
   {
    "id": "yt-rb7rp9FhD64",
-   "type": "music",
+   "type": "video",
    "title": "The way the crowd went oooOOOH 😆 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -46281,7 +46467,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "music",
+   "type": "video",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -46643,7 +46829,8 @@
    "artist": "Swingin' in the Rennes",
    "styles": [
     "charleston",
-    "lindy8"
+    "lindy8",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2022,
@@ -47163,7 +47350,7 @@
   },
   {
    "id": "yt-gisafTmbVd8",
-   "type": "music",
+   "type": "video",
    "title": "Best of LindyHop & Charleston • 2012 ninjammerz max dax sarah alice thomas maeva william swing dance",
    "artist": "Jens Rahnfeld",
    "styles": [
@@ -48220,7 +48407,7 @@
   },
   {
    "id": "yt-Xu6Y9cAQqIs",
-   "type": "video",
+   "type": "music",
    "title": "The Lindy-Hop-A-Thon Group Dance - BBC Strictly 2018",
    "artist": "BBC Strictly Come Dancing",
    "styles": [
@@ -52611,6 +52798,27 @@
    "curated": false
   },
   {
+   "id": "yt--N7fHNJNFyw",
+   "type": "tutorial",
+   "title": "Lindy Hop | Remy & Moe – Lesson 1 \"Six Counts Basic Moves\"",
+   "artist": "Summer Jamboree Dance Academy",
+   "styles": [
+    "lindy",
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 641,
+   "popularity": 61,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "-N7fHNJNFyw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-p_qBJRU3SKg",
    "type": "video",
    "title": "Spicy Airplane Charleston Transitions - Lindi Hop & Swing Dance #shorts #lindyhop",
@@ -52884,7 +53092,8 @@
    "artist": "Alexander Tereshin",
    "styles": [
     "balboa",
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2020,
@@ -52932,27 +53141,6 @@
    "source": {
     "platform": "youtube",
     "id": "3GQIbyG_kBk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt--N7fHNJNFyw",
-   "type": "tutorial",
-   "title": "Lindy Hop | Remy & Moe – Lesson 1 \"Six Counts Basic Moves\"",
-   "artist": "Summer Jamboree Dance Academy",
-   "styles": [
-    "lindy",
-    "lindy6",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 641,
-   "popularity": 60,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "-N7fHNJNFyw"
    },
    "curated": false
   },
@@ -55622,7 +55810,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 637,
-   "popularity": 50,
+   "popularity": 51,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
@@ -59493,6 +59681,25 @@
    "curated": false
   },
   {
+   "id": "yt-bemZygvf2Vw",
+   "type": "tutorial",
+   "title": "How to do the Uphold Basic in Balboa @ednalucero1 #balboadance #Balboadancelesson",
+   "artist": "Balboa the dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 204,
+   "popularity": 38,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "bemZygvf2Vw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-pszcU7G_qno",
    "type": "video",
    "title": "B&B2018 : Pure Balboa Strictly  - 1st Place Mungoon & Muse",
@@ -59622,25 +59829,6 @@
    "source": {
     "platform": "youtube",
     "id": "Uu2DqBnfSLc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-bemZygvf2Vw",
-   "type": "tutorial",
-   "title": "How to do the Uphold Basic in Balboa @ednalucero1 #balboadance #Balboadancelesson",
-   "artist": "Balboa the dance",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 204,
-   "popularity": 37,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "bemZygvf2Vw"
    },
    "curated": false
   },
