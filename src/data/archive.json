@@ -1,6 +1,78 @@
 {
- "exportedAt": "2026-10-19T18:24:54.012Z",
+ "exportedAt": "2026-10-20T18:24:16.363Z",
  "items": [
+  {
+   "id": "yt-mSHUKNZozm4",
+   "type": "music",
+   "title": "Storm in My Heart | Special Video Mix #rocknroll #nostalgia #shorts #short #memorygroove #viral",
+   "artist": "Memory Groove ",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 50,
+   "popularity": 92,
+   "addedAt": "2026-10-20",
+   "source": {
+    "platform": "youtube",
+    "id": "mSHUKNZozm4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7SEQaxkiuiU",
+   "type": "music",
+   "title": "Ultimate Swing Dance Mix! #shorts",
+   "artist": "Relax Vibes Instrumental",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 69,
+   "addedAt": "2026-10-20",
+   "source": {
+    "platform": "youtube",
+    "id": "7SEQaxkiuiU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-AkpUPkHNQIQ",
+   "type": "video",
+   "title": "Pure Bal Prelims - Great Lakes Balboa Escape 2026",
+   "artist": "Great Lakes Balboa Escape",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1054,
+   "popularity": 37,
+   "addedAt": "2026-10-20",
+   "source": {
+    "platform": "youtube",
+    "id": "AkpUPkHNQIQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-RFKMRQgWKtw",
+   "type": "video",
+   "title": "Frankie Manning & Jodi Fleischman:  One Mint Julep",
+   "artist": "Century Ballroom",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 307,
+   "popularity": 28,
+   "addedAt": "2026-10-20",
+   "source": {
+    "platform": "youtube",
+    "id": "RFKMRQgWKtw"
+   },
+   "curated": false
+  },
   {
    "id": "yt-EvFQUQjCc_Q",
    "type": "music",
@@ -217,7 +289,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 53,
-   "popularity": 59,
+   "popularity": 60,
    "addedAt": "2026-10-18",
    "source": {
     "platform": "youtube",
@@ -491,7 +563,7 @@
   },
   {
    "id": "yt-l4Fa4WCdL-c",
-   "type": "video",
+   "type": "music",
    "title": "🔥 Vintage Swing Meets Rasputin ✨ #Rasputin #SwingDance #boneym",
    "artist": "Relaxing Dance__1",
    "styles": [
@@ -2052,7 +2124,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 177,
-   "popularity": 37,
+   "popularity": 38,
    "addedAt": "2026-10-11",
    "source": {
     "platform": "youtube",
@@ -8280,7 +8352,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 108,
-   "popularity": 31,
+   "popularity": 32,
    "addedAt": "2026-09-18",
    "source": {
     "platform": "youtube",
@@ -13155,6 +13227,23 @@
    "curated": false
   },
   {
+   "id": "yt-Y62in_MbJx4",
+   "type": "music",
+   "title": "Big Band Swing Music - Relaxing Retro 1940s Jazz Instrumental – Swing Era Vibes & Big Band Groove",
+   "artist": "Jazz Through The Ages",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 152,
+   "popularity": 51,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "Y62in_MbJx4"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-FLw5hFf75kY",
    "type": "video",
    "title": "West Coast Swing Social Mixer at @CenturyB in Seattle, WA",
@@ -13190,23 +13279,6 @@
    "source": {
     "platform": "youtube",
     "id": "wRq_rjFABF8"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Y62in_MbJx4",
-   "type": "music",
-   "title": "Big Band Swing Music - Relaxing Retro 1940s Jazz Instrumental – Swing Era Vibes & Big Band Groove",
-   "artist": "Jazz Through The Ages",
-   "styles": [],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 152,
-   "popularity": 49,
-   "addedAt": "2026-09-08",
-   "source": {
-    "platform": "youtube",
-    "id": "Y62in_MbJx4"
    },
    "curated": false
   },
@@ -17582,13 +17654,13 @@
   {
    "id": "yt-WZGa9aUwSig",
    "type": "music",
-   "title": "Mambo Swing",
+   "title": "Mambo Swing (Album Version)",
    "artist": "Big Bad Voodoo Daddy - Topic",
    "styles": [],
    "bpm": null,
    "year": 2018,
    "durationSec": 308,
-   "popularity": 87,
+   "popularity": 88,
    "addedAt": "2026-08-23",
    "source": {
     "platform": "youtube",
@@ -26429,7 +26501,7 @@
   },
   {
    "id": "yt-am3PmylTbDg",
-   "type": "video",
+   "type": "music",
    "title": "Thibault and Nicole Ramirez - 1st Place Showcase - The Open Swing Dance Championships 2024",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -28574,6 +28646,26 @@
    "curated": false
   },
   {
+   "id": "yt-GtKbwZvsgBA",
+   "type": "video",
+   "title": "WHAT IS WEST COAST SWING? - A Short Guide - Sean & Alyssa McKeever",
+   "artist": "Sean & Alyssa McKeever",
+   "styles": [
+    "jitterbug",
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 324,
+   "popularity": 61,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "GtKbwZvsgBA"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-3phT3UqL5i8",
    "type": "video",
    "title": "Improve your TRIPLE STEP for East Coast Swing!",
@@ -28647,26 +28739,6 @@
    "source": {
     "platform": "youtube",
     "id": "eQeJopjgtdo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-GtKbwZvsgBA",
-   "type": "video",
-   "title": "WHAT IS WEST COAST SWING? - A Short Guide - Sean & Alyssa McKeever",
-   "artist": "Sean & Alyssa McKeever",
-   "styles": [
-    "jitterbug",
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 324,
-   "popularity": 60,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "GtKbwZvsgBA"
    },
    "curated": false
   },
@@ -37200,7 +37272,7 @@
    "bpm": null,
    "year": 2013,
    "durationSec": 171,
-   "popularity": 56,
+   "popularity": 57,
    "addedAt": "2026-07-20",
    "source": {
     "platform": "youtube",
@@ -43561,11 +43633,12 @@
   },
   {
    "id": "yt-c0n-7H4sXak",
-   "type": "music",
+   "type": "video",
    "title": "Dietmar & Nellia - You Are Never Too Old To Rock'n'Roll",
    "artist": "SwingNellia",
    "styles": [
-    "lindy"
+    "lindy",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2024,
@@ -45410,7 +45483,7 @@
   },
   {
    "id": "yt-rb7rp9FhD64",
-   "type": "video",
+   "type": "music",
    "title": "The way the crowd went oooOOOH 😆 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -45783,6 +45856,26 @@
    "curated": false
   },
   {
+   "id": "yt-2RcsoJ7jyH0",
+   "type": "video",
+   "title": "Frankie 6s Monday Night Swing Recap from World Lindy Hop Day 2025 - Happy Birthday Frankie Manning!",
+   "artist": "Santa Fe Swing",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 52,
+   "addedAt": "2026-07-05",
+   "source": {
+    "platform": "youtube",
+    "id": "2RcsoJ7jyH0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-we91ziKVr0Y",
    "type": "video",
    "title": "Pure Balboa Finals - Great Lakes Balboa Escape 2024",
@@ -45798,26 +45891,6 @@
    "source": {
     "platform": "youtube",
     "id": "we91ziKVr0Y"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-2RcsoJ7jyH0",
-   "type": "video",
-   "title": "Frankie 6s Monday Night Swing Recap from World Lindy Hop Day 2025 - Happy Birthday Frankie Manning!",
-   "artist": "Santa Fe Swing",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 60,
-   "popularity": 51,
-   "addedAt": "2026-07-05",
-   "source": {
-    "platform": "youtube",
-    "id": "2RcsoJ7jyH0"
    },
    "curated": false
   },
@@ -47350,7 +47423,7 @@
   },
   {
    "id": "yt-gisafTmbVd8",
-   "type": "video",
+   "type": "music",
    "title": "Best of LindyHop & Charleston • 2012 ninjammerz max dax sarah alice thomas maeva william swing dance",
    "artist": "Jens Rahnfeld",
    "styles": [
@@ -48407,7 +48480,7 @@
   },
   {
    "id": "yt-Xu6Y9cAQqIs",
-   "type": "music",
+   "type": "video",
    "title": "The Lindy-Hop-A-Thon Group Dance - BBC Strictly 2018",
    "artist": "BBC Strictly Come Dancing",
    "styles": [
@@ -52284,9 +52357,10 @@
    "id": "yt-VJB5FU5V4wU",
    "type": "video",
    "title": "Shim Sham Frankie Manning",
-   "artist": "STUDIO SWING",
+   "artist": "Pierre Jrmt",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2023,
@@ -52819,6 +52893,25 @@
    "curated": false
   },
   {
+   "id": "yt-nUSR7JVV9VA",
+   "type": "tutorial",
+   "title": "CalBal Classic 2025 - The Open Classic - Irina & Jacob",
+   "artist": "California Balboa Classic",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 118,
+   "popularity": 61,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "nUSR7JVV9VA"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-p_qBJRU3SKg",
    "type": "video",
    "title": "Spicy Airplane Charleston Transitions - Lindi Hop & Swing Dance #shorts #lindyhop",
@@ -53044,25 +53137,6 @@
    "source": {
     "platform": "youtube",
     "id": "_A7gPhh05LI"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-nUSR7JVV9VA",
-   "type": "tutorial",
-   "title": "CalBal Classic 2025 - The Open Classic - Irina & Jacob",
-   "artist": "California Balboa Classic",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 118,
-   "popularity": 60,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "nUSR7JVV9VA"
    },
    "curated": false
   },
@@ -54457,7 +54531,8 @@
    "styles": [
     "lindy",
     "lindy8",
-    "lindy6"
+    "lindy6",
+    "charleston"
    ],
    "bpm": null,
    "year": 2020,
