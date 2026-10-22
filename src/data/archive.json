@@ -1,6 +1,63 @@
 {
- "exportedAt": "2026-10-21T18:24:18.999Z",
+ "exportedAt": "2026-10-22T18:22:56.774Z",
  "items": [
+  {
+   "id": "yt-joCAg5_c3pE",
+   "type": "video",
+   "title": "inCREDible dance 🤯🤯🤯 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 53,
+   "popularity": 76,
+   "addedAt": "2026-10-22",
+   "source": {
+    "platform": "youtube",
+    "id": "joCAg5_c3pE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1e6ITW3EU0Q",
+   "type": "video",
+   "title": "Single Time Swing Moves | Swing/Jitterbug Combo (6-10)",
+   "artist": "Ballroom Feed",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 100,
+   "popularity": 52,
+   "addedAt": "2026-10-22",
+   "source": {
+    "platform": "youtube",
+    "id": "1e6ITW3EU0Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-IC0enpvU1z4",
+   "type": "video",
+   "title": "Rafal Grzelak & Eva Guignabodet - 5th place Switch Finals - Milan Modern Swing 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 177,
+   "popularity": 39,
+   "addedAt": "2026-10-22",
+   "source": {
+    "platform": "youtube",
+    "id": "IC0enpvU1z4"
+   },
+   "curated": false
+  },
   {
    "id": "yt-t-BbutPKhLA",
    "type": "tutorial",
@@ -126,7 +183,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 124,
-   "popularity": 28,
+   "popularity": 29,
    "addedAt": "2026-10-21",
    "source": {
     "platform": "youtube",
@@ -384,7 +441,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 70,
-   "popularity": 37,
+   "popularity": 38,
    "addedAt": "2026-10-19",
    "source": {
     "platform": "youtube",
@@ -743,7 +800,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 59,
-   "popularity": 65,
+   "popularity": 66,
    "addedAt": "2026-10-16",
    "source": {
     "platform": "youtube",
@@ -11587,7 +11644,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 187,
-   "popularity": 72,
+   "popularity": 73,
    "addedAt": "2026-09-11",
    "source": {
     "platform": "youtube",
@@ -16198,7 +16255,7 @@
    "bpm": null,
    "year": 2020,
    "durationSec": 76,
-   "popularity": 28,
+   "popularity": 29,
    "addedAt": "2026-09-03",
    "source": {
     "platform": "youtube",
@@ -18886,6 +18943,25 @@
    "curated": false
   },
   {
+   "id": "yt-M18F3RPFy4A",
+   "type": "video",
+   "title": "Bal-Swing Swivels & Crosswalks Recap w/ Josh & Emma - Bandits & Balboa 2025  #balboa #santafeswing",
+   "artist": "Santa Fe Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 61,
+   "popularity": 48,
+   "addedAt": "2026-08-18",
+   "source": {
+    "platform": "youtube",
+    "id": "M18F3RPFy4A"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-0_R6UywaCEQ",
    "type": "video",
    "title": "Shagnado! LA Shag Festival 2018 Mix and Match Competition",
@@ -18901,25 +18977,6 @@
    "source": {
     "platform": "youtube",
     "id": "0_R6UywaCEQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-M18F3RPFy4A",
-   "type": "video",
-   "title": "Bal-Swing Swivels & Crosswalks Recap w/ Josh & Emma - Bandits & Balboa 2025  #balboa #santafeswing",
-   "artist": "Santa Fe Swing",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 61,
-   "popularity": 47,
-   "addedAt": "2026-08-18",
-   "source": {
-    "platform": "youtube",
-    "id": "M18F3RPFy4A"
    },
    "curated": false
   },
@@ -26917,7 +26974,8 @@
    "title": "COUNTRY SWING DANCING | Basic Steps of Country Swing Dance for Beginners",
    "artist": "Country Dance X",
    "styles": [
-    "jitterbug"
+    "jitterbug",
+    "charleston"
    ],
    "bpm": null,
    "year": 2020,
@@ -32525,6 +32583,25 @@
    "curated": false
   },
   {
+   "id": "yt-QOjYIslvbSk",
+   "type": "video",
+   "title": "Swing 1 5/22/19 swing out from closed,  Lindy circle",
+   "artist": "swinginstyle",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 112,
+   "popularity": 50,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "QOjYIslvbSk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-qgEabWDMsGc",
    "type": "tutorial",
    "title": "Swing Dance Beginner 6-Count Lindy Hop Moves | Side by Side | Jig Kicks",
@@ -32540,25 +32617,6 @@
    "source": {
     "platform": "youtube",
     "id": "qgEabWDMsGc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-QOjYIslvbSk",
-   "type": "video",
-   "title": "Swing 1 5/22/19 swing out from closed,  Lindy circle",
-   "artist": "swinginstyle",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 112,
-   "popularity": 49,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "QOjYIslvbSk"
    },
    "curated": false
   },
@@ -38919,7 +38977,7 @@
   },
   {
    "id": "yt-I9zHYkKoL4A",
-   "type": "video",
+   "type": "music",
    "title": "Swing Out! 1940s Dancing",
    "artist": "1940GlamourGirl",
    "styles": [
@@ -42932,7 +42990,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 113,
-   "popularity": 46,
+   "popularity": 47,
    "addedAt": "2026-07-09",
    "source": {
     "platform": "youtube",
@@ -43113,6 +43171,25 @@
    "curated": false
   },
   {
+   "id": "yt-Sj3B6NhvH2o",
+   "type": "video",
+   "title": "Beijing Balboa Fever 2026  Balboa Open Strictly Final",
+   "artist": "Swing Beasts Studio_Beijing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 801,
+   "popularity": 38,
+   "addedAt": "2026-07-09",
+   "source": {
+    "platform": "youtube",
+    "id": "Sj3B6NhvH2o"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-62s6W1-HdmE",
    "type": "tutorial",
    "title": "20s Partner Charleston Turn Elbow Catch - Swing Tutorial",
@@ -43147,25 +43224,6 @@
    "source": {
     "platform": "youtube",
     "id": "9m5O4LOs_Ys"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Sj3B6NhvH2o",
-   "type": "video",
-   "title": "Beijing Balboa Fever 2026  Balboa Open Strictly Final",
-   "artist": "Swing Beasts Studio_Beijing",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 801,
-   "popularity": 37,
-   "addedAt": "2026-07-09",
-   "source": {
-    "platform": "youtube",
-    "id": "Sj3B6NhvH2o"
    },
    "curated": false
   },
@@ -46583,7 +46641,7 @@
   },
   {
    "id": "yt-qMglBwfhsN4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2019 – Dietmar & Nellia – Never Stop Jiving",
    "artist": "RockThatSwing",
    "styles": [
@@ -46923,7 +46981,7 @@
   },
   {
    "id": "yt-JdRin5YUORk",
-   "type": "video",
+   "type": "music",
    "title": "Mr and Mrs Smooth demonstrating the art of Simply Smooth Swagger - Watch! Be Cool",
    "artist": "Joe N Dancer",
    "styles": [
@@ -48038,7 +48096,7 @@
   },
   {
    "id": "yt-VjAoG3fgjkc",
-   "type": "music",
+   "type": "tutorial",
    "title": "Lindy hop basic footwork",
    "artist": "Lindybeige",
    "styles": [
@@ -48613,7 +48671,7 @@
   },
   {
    "id": "yt-Xu6Y9cAQqIs",
-   "type": "video",
+   "type": "music",
    "title": "The Lindy-Hop-A-Thon Group Dance - BBC Strictly 2018",
    "artist": "BBC Strictly Come Dancing",
    "styles": [
@@ -49217,7 +49275,7 @@
   },
   {
    "id": "yt-N1r9nUWnkn0",
-   "type": "video",
+   "type": "music",
    "title": "ELECTRO SWING LINDY HOP DANCE - Sondre & Tanya",
    "artist": "Sondre & Tanya",
    "styles": [
@@ -49687,7 +49745,7 @@
   },
   {
    "id": "yt-tZbArq08Aw8",
-   "type": "music",
+   "type": "video",
    "title": "Rhythm Practice for Lindy Hop & Swing Dance - 6 & 8 Count",
    "artist": "Laura Glaess",
    "styles": [
@@ -50035,7 +50093,7 @@
   },
   {
    "id": "yt-C5KTQjACk1Q",
-   "type": "music",
+   "type": "tutorial",
    "title": "Beginner Lindy Hop Lesson",
    "artist": "The Swing Cats Rhythm Revue",
    "styles": [
@@ -53667,6 +53725,26 @@
    "curated": false
   },
   {
+   "id": "yt-2vRlFt_8J2k",
+   "type": "video",
+   "title": "Savoy Cup 2024 - Rhythm & Blues Contest Final - Alex McCormack & Jill Demuelenaere",
+   "artist": "Savoy Cup",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 95,
+   "popularity": 59,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "2vRlFt_8J2k"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-VWNQpsC4tvE",
    "type": "video",
    "title": "2nd Place: Frida & Remy - Invitational Draw - ILHC 2024",
@@ -53901,26 +53979,6 @@
    "curated": false
   },
   {
-   "id": "yt-2vRlFt_8J2k",
-   "type": "video",
-   "title": "Savoy Cup 2024 - Rhythm & Blues Contest Final - Alex McCormack & Jill Demuelenaere",
-   "artist": "Savoy Cup",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 95,
-   "popularity": 58,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "2vRlFt_8J2k"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-6D8HQfUgK48",
    "type": "video",
    "title": "Lindyfest 2025: Invitational Lindy Draw - Laura & Anthony",
@@ -54137,7 +54195,7 @@
   },
   {
    "id": "yt-sgN7ajsMU20",
-   "type": "music",
+   "type": "video",
    "title": "Lindy Hop, Savoy Style! Feb Wk 3",
    "artist": "Swing Dance with Mike & Elli",
    "styles": [
@@ -59690,7 +59748,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 131,
-   "popularity": 38,
+   "popularity": 39,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
