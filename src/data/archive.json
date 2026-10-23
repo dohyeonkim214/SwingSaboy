@@ -1,6 +1,306 @@
 {
- "exportedAt": "2026-10-22T18:22:56.774Z",
+ "exportedAt": "2026-10-23T18:23:34.636Z",
  "items": [
+  {
+   "id": "yt-G5fqXxrJG08",
+   "type": "music",
+   "title": "“Can’t Take My Eyes Off You” (Frankie Valli) Jazz Cover by Robyn Adele Anderson",
+   "artist": "Robyn Adele Anderson",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 240,
+   "popularity": 97,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "G5fqXxrJG08"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tnPfJFFYAcw",
+   "type": "video",
+   "title": "ILHC 2019 - Invitational Draw FULL CONTEST (LIVE STREAM)",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 2401,
+   "popularity": 88,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "tnPfJFFYAcw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-XcITDHuSrC8",
+   "type": "video",
+   "title": "Boogie-Woogie Speakeasy Nights | Roaring 20s Piano Music with Flapper & Charleston Karaoke",
+   "artist": "Vintage Nostalgia",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 3915,
+   "popularity": 77,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "XcITDHuSrC8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-34JF1c3Av0E",
+   "type": "music",
+   "title": "Swing Dance | Why by Tiggy",
+   "artist": "Kim Lascona",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 153,
+   "popularity": 76,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "34JF1c3Av0E"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ptONAE_oVdM",
+   "type": "tutorial",
+   "title": "How to do Lindy Hop Switches + 4 Switch Styles for Followers with Sharon Davis",
+   "artist": "Sharon Davis",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 389,
+   "popularity": 74,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "ptONAE_oVdM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-BdPmQpDcX-s",
+   "type": "video",
+   "title": "1920s Speakeasy Music:🎵 \"Charleston\"💄 (AI Music-Video + 1923 Lyrics by Cecil Mack✍️) Let's Dance 💃",
+   "artist": "videofab",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 172,
+   "popularity": 67,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "BdPmQpDcX-s"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9l6Sw-8YSOc",
+   "type": "video",
+   "title": "Lindy Hop in ‘Swing Fever’ (1943)starring Jean Veloz, Lennie Smith and Don Gallagher #dance #1940s",
+   "artist": "Fifties Daily",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 57,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "9l6Sw-8YSOc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lsrgv8nO6mU",
+   "type": "video",
+   "title": "3 Tips for Better-Looking Legs When Dancing (West Coast Swing)",
+   "artist": "Keerigan Rudd",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 569,
+   "popularity": 54,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "lsrgv8nO6mU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-6FuVXdnt3es",
+   "type": "video",
+   "title": "Lezione di prova di Balboa #swingdance #balliswing #balboa",
+   "artist": "Quell* di Nonsolocharleston",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 60,
+   "popularity": 53,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "6FuVXdnt3es"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-qTAwGXRHNVM",
+   "type": "video",
+   "title": "Swing Dancing in 'The Gentle Sex' (Britain, 1943) - St Louis Shag",
+   "artist": "Swing Dance Galway",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2013,
+   "durationSec": 494,
+   "popularity": 53,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "qTAwGXRHNVM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-INB88Q_lijw",
+   "type": "video",
+   "title": "Juneteenth Series: Black Dance in America- Lindy Hop",
+   "artist": "Zoe Cassell",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 178,
+   "popularity": 44,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "INB88Q_lijw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-DVGzd8RVH-0",
+   "type": "video",
+   "title": "10 escenas de Lindy Hop que deberías conocer",
+   "artist": "Savoy Benimaclet",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 941,
+   "popularity": 44,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "DVGzd8RVH-0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-R_ZxBrBL9a4",
+   "type": "video",
+   "title": "Vivien Meublat & Zsolt Vajda - 2nd place Switch Finals - Milan Modern Swing 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 163,
+   "popularity": 37,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "R_ZxBrBL9a4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-c8oQCnA0KXo",
+   "type": "video",
+   "title": "BCN Shag Festival 2026 - Showcase Contest - Collegiate Shag Trio",
+   "artist": "Shag BCN",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 204,
+   "popularity": 34,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "c8oQCnA0KXo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3hYitIdVicM",
+   "type": "video",
+   "title": "St. Louis Shag w/ The Infinite Chocolate Jar am 03.10.24",
+   "artist": "Swing Patrol Berlin",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 115,
+   "popularity": 29,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "3hYitIdVicM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-te8HDlameck",
+   "type": "video",
+   "title": "Swing & Co balboa 1 Pas de base Bal Swing",
+   "artist": "Gilles Monier",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 121,
+   "popularity": 14,
+   "addedAt": "2026-10-23",
+   "source": {
+    "platform": "youtube",
+    "id": "te8HDlameck"
+   },
+   "curated": false
+  },
   {
    "id": "yt-joCAg5_c3pE",
    "type": "video",
@@ -479,7 +779,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 53,
-   "popularity": 60,
+   "popularity": 61,
    "addedAt": "2026-10-18",
    "source": {
     "platform": "youtube",
@@ -2126,7 +2426,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 58,
-   "popularity": 43,
+   "popularity": 52,
    "addedAt": "2026-10-12",
    "source": {
     "platform": "youtube",
@@ -4526,7 +4826,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 614,
-   "popularity": 38,
+   "popularity": 39,
    "addedAt": "2026-10-03",
    "source": {
     "platform": "youtube",
@@ -6334,7 +6634,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 58,
-   "popularity": 50,
+   "popularity": 51,
    "addedAt": "2026-09-26",
    "source": {
     "platform": "youtube",
@@ -7845,7 +8145,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 82,
-   "popularity": 26,
+   "popularity": 27,
    "addedAt": "2026-09-20",
    "source": {
     "platform": "youtube",
@@ -9954,7 +10254,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 3910,
-   "popularity": 54,
+   "popularity": 55,
    "addedAt": "2026-09-14",
    "source": {
     "platform": "youtube",
@@ -11891,7 +12191,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 102,
-   "popularity": 32,
+   "popularity": 33,
    "addedAt": "2026-09-11",
    "source": {
     "platform": "youtube",
@@ -18276,7 +18576,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 57,
-   "popularity": 97,
+   "popularity": 98,
    "addedAt": "2026-08-20",
    "source": {
     "platform": "youtube",
@@ -26146,7 +26446,7 @@
   },
   {
    "id": "yt-9Ow_k01VfSg",
-   "type": "music",
+   "type": "video",
    "title": "Did not expect the hotel room key move mid-improv 😂 Well done Markus 🙌🏼 #dance #westcoastswing",
    "artist": "Emeline Rochefeuille",
    "styles": [
@@ -30255,7 +30555,7 @@
   },
   {
    "id": "yt-BDv7NhMjhg4",
-   "type": "video",
+   "type": "music",
    "title": "Denver Airport Swing Dance Flash Mob",
    "artist": "Lark Mervine",
    "styles": [
@@ -30548,7 +30848,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "music",
+   "type": "video",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -30702,7 +31002,7 @@
   },
   {
    "id": "yt-slWpbHrOxow",
-   "type": "video",
+   "type": "music",
    "title": "Swing | Awitin Mo At Isasayaw Ko",
    "artist": "De Guzman Ignacio III P.",
    "styles": [
@@ -30712,7 +31012,7 @@
    "bpm": null,
    "year": 2021,
    "durationSec": 179,
-   "popularity": 78,
+   "popularity": 79,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -31093,7 +31393,8 @@
    "title": "Lindy Hop 06: Follower's Swivels in Solo and Swingout",
    "artist": "utsocialdance",
    "styles": [
-    "lindy8"
+    "lindy8",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2011,
@@ -36165,7 +36466,7 @@
    "bpm": null,
    "year": 2020,
    "durationSec": 167,
-   "popularity": 46,
+   "popularity": 47,
    "addedAt": "2026-07-27",
    "source": {
     "platform": "youtube",
@@ -36222,7 +36523,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 318,
-   "popularity": 60,
+   "popularity": 61,
    "addedAt": "2026-07-26",
    "source": {
     "platform": "youtube",
@@ -37766,7 +38067,7 @@
   },
   {
    "id": "yt-E0qmZrVRRw8",
-   "type": "music",
+   "type": "video",
    "title": "Mind = blown 🤯😂🤣 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -38977,7 +39278,7 @@
   },
   {
    "id": "yt-I9zHYkKoL4A",
-   "type": "music",
+   "type": "video",
    "title": "Swing Out! 1940s Dancing",
    "artist": "1940GlamourGirl",
    "styles": [
@@ -41645,7 +41946,7 @@
   },
   {
    "id": "yt-MISaPoTRCjE",
-   "type": "video",
+   "type": "music",
    "title": "Remy and Alice - Lindy Hop Invitational | The Snowball 2025",
    "artist": "Slava Bogatov",
    "styles": [
@@ -43804,7 +44105,7 @@
   },
   {
    "id": "yt-WFhRquNGQCw",
-   "type": "video",
+   "type": "music",
    "title": "MY GIRL - RTSF 2023 - Nils and Bianca",
    "artist": "Nils and Bianca",
    "styles": [
@@ -45674,7 +45975,7 @@
   },
   {
    "id": "yt-rb7rp9FhD64",
-   "type": "video",
+   "type": "music",
    "title": "The way the crowd went oooOOOH 😆 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -46664,7 +46965,7 @@
   },
   {
    "id": "yt-ZP3DM8_hiLg",
-   "type": "video",
+   "type": "music",
    "title": "Grand Nationals 2017 Champion Swing  1st place winners",
    "artist": "Bruce Gleason",
    "styles": [
@@ -46731,7 +47032,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "video",
+   "type": "music",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -47436,7 +47737,8 @@
    "artist": "The FamLee Life",
    "styles": [
     "lindy",
-    "lindy8"
+    "lindy8",
+    "balboa"
    ],
    "bpm": null,
    "year": 2019,
@@ -47935,7 +48237,7 @@
   },
   {
    "id": "yt-egopcBsOPIU",
-   "type": "video",
+   "type": "music",
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -48671,7 +48973,7 @@
   },
   {
    "id": "yt-Xu6Y9cAQqIs",
-   "type": "music",
+   "type": "video",
    "title": "The Lindy-Hop-A-Thon Group Dance - BBC Strictly 2018",
    "artist": "BBC Strictly Come Dancing",
    "styles": [
@@ -49041,7 +49343,7 @@
   },
   {
    "id": "yt-7PBCS3v9B8M",
-   "type": "music",
+   "type": "video",
    "title": "Irina & Anthony - social lindy hop demo at Havelhop 2023",
    "artist": "Slava Bogatov",
    "styles": [
@@ -49919,6 +50221,25 @@
    "curated": false
   },
   {
+   "id": "yt-mj1_pasEINU",
+   "type": "video",
+   "title": "The Charleston (1926)",
+   "artist": "British Pathé",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 84,
+   "popularity": 73,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "mj1_pasEINU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-_ncACnpGxRw",
    "type": "tutorial",
    "title": "CalBal Classic 2023 - Open Classic Finals - Alice & Blake",
@@ -49991,25 +50312,6 @@
    "source": {
     "platform": "youtube",
     "id": "IYTmJ5OvBIc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-mj1_pasEINU",
-   "type": "video",
-   "title": "The Charleston (1926)",
-   "artist": "British Pathé",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2014,
-   "durationSec": 84,
-   "popularity": 72,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "mj1_pasEINU"
    },
    "curated": false
   },
@@ -57407,7 +57709,8 @@
    "title": "Lindyhop Social dancing - Nalla & Kelly @ASIABALBOA ABX 2025 #lindyhop #BALBOA #swingdance",
    "artist": "스윙댄스 Lindy Explorer ",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2025,
