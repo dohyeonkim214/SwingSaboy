@@ -1,6 +1,139 @@
 {
- "exportedAt": "2026-10-25T18:20:49.391Z",
+ "exportedAt": "2026-10-26T18:30:17.958Z",
  "items": [
+  {
+   "id": "yt-B2gru1KQaXs",
+   "type": "video",
+   "title": "Thibault Ramirez & Emeline Rochefeuille - 1st place Champions Strictly - SwingTime Denver 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 188,
+   "popularity": 58,
+   "addedAt": "2026-10-26",
+   "source": {
+    "platform": "youtube",
+    "id": "B2gru1KQaXs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9MEMWK2Hajo",
+   "type": "tutorial",
+   "title": "How to do the Charleston [Fuwa Dance Basics]",
+   "artist": "Fuwa Dance Tutorials",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 273,
+   "popularity": 49,
+   "addedAt": "2026-10-26",
+   "source": {
+    "platform": "youtube",
+    "id": "9MEMWK2Hajo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-aHKGx6zlWjg",
+   "type": "video",
+   "title": "Your Charleston - Partner dance",
+   "artist": "Sylvana - Alain",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 284,
+   "popularity": 45,
+   "addedAt": "2026-10-26",
+   "source": {
+    "platform": "youtube",
+    "id": "aHKGx6zlWjg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1y3IDpU26m0",
+   "type": "video",
+   "title": "#shorts  ビーチ🏖️ジルバ💖(日常生活に溶け込む社交ダンス)💖 #ダンサー内藤 ＃ナイトウダンススクール　#社交ダンス　#ジルバ　#jitterbug  #小野浦海岸",
+   "artist": "ダンサー内藤の社交ダンスレッスンTV",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 102,
+   "popularity": 44,
+   "addedAt": "2026-10-26",
+   "source": {
+    "platform": "youtube",
+    "id": "1y3IDpU26m0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-PU8z3IUPomw",
+   "type": "video",
+   "title": "Heather & PJ - Invitational Shuffle - Great Lakes Balboa Escape 2026",
+   "artist": "Great Lakes Balboa Escape",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 127,
+   "popularity": 40,
+   "addedAt": "2026-10-26",
+   "source": {
+    "platform": "youtube",
+    "id": "PU8z3IUPomw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-HtOUsT8y2oY",
+   "type": "video",
+   "title": "Mia & Dominic - Invitational Shuffle - Great Lakes Balboa Escape 2026",
+   "artist": "Great Lakes Balboa Escape",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 128,
+   "popularity": 37,
+   "addedAt": "2026-10-26",
+   "source": {
+    "platform": "youtube",
+    "id": "HtOUsT8y2oY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-30nSoMmwq1E",
+   "type": "video",
+   "title": "BCN Shag Festival 2026 - Strictly Final with Martin Burguez & His Rhythm Combo",
+   "artist": "Shag BCN",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 355,
+   "popularity": 37,
+   "addedAt": "2026-10-26",
+   "source": {
+    "platform": "youtube",
+    "id": "30nSoMmwq1E"
+   },
+   "curated": false
+  },
   {
    "id": "yt-s48LlgTGDUo",
    "type": "music",
@@ -445,7 +578,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 58,
-   "popularity": 60,
+   "popularity": 62,
    "addedAt": "2026-10-24",
    "source": {
     "platform": "youtube",
@@ -1514,7 +1647,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 56,
-   "popularity": 47,
+   "popularity": 48,
    "addedAt": "2026-10-17",
    "source": {
     "platform": "youtube",
@@ -5221,7 +5354,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 282,
-   "popularity": 58,
+   "popularity": 59,
    "addedAt": "2026-10-03",
    "source": {
     "platform": "youtube",
@@ -6410,7 +6543,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1252,
-   "popularity": 51,
+   "popularity": 52,
    "addedAt": "2026-09-28",
    "source": {
     "platform": "youtube",
@@ -6500,7 +6633,8 @@
    "title": "level 1 8-Count Lindy Hop, June 2026",
    "artist": "All Things Swing",
    "styles": [
-    "lindy8"
+    "lindy8",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2026,
@@ -9798,6 +9932,25 @@
    "curated": false
   },
   {
+   "id": "yt-ntMkW-J6Kfk",
+   "type": "video",
+   "title": "BCN Shag Festival 2025 - Mix & Match Advanced Final with Professor Cunningham & His Old School",
+   "artist": "Shag BCN",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 338,
+   "popularity": 45,
+   "addedAt": "2026-09-17",
+   "source": {
+    "platform": "youtube",
+    "id": "ntMkW-J6Kfk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-2hfAJhUD2Jo",
    "type": "video",
    "title": "Balboa Rendezvous - International Balboa Competition Finals (2010)",
@@ -9813,25 +9966,6 @@
    "source": {
     "platform": "youtube",
     "id": "2hfAJhUD2Jo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-ntMkW-J6Kfk",
-   "type": "video",
-   "title": "BCN Shag Festival 2025 - Mix & Match Advanced Final with Professor Cunningham & His Old School",
-   "artist": "Shag BCN",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 338,
-   "popularity": 44,
-   "addedAt": "2026-09-17",
-   "source": {
-    "platform": "youtube",
-    "id": "ntMkW-J6Kfk"
    },
    "curated": false
   },
@@ -24040,6 +24174,25 @@
    "curated": false
   },
   {
+   "id": "yt-kdLbtNOYO58",
+   "type": "video",
+   "title": "7 Country Swing Moves You’ll Actually Use",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 875,
+   "popularity": 59,
+   "addedAt": "2026-08-09",
+   "source": {
+    "platform": "youtube",
+    "id": "kdLbtNOYO58"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-LgLQxZwPSE4",
    "type": "tutorial",
    "title": "Beginner 6-Count Lindy Hop | Basic Footwork | Inside and Belt Turns | Point and Shake",
@@ -24055,25 +24208,6 @@
    "source": {
     "platform": "youtube",
     "id": "LgLQxZwPSE4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-kdLbtNOYO58",
-   "type": "video",
-   "title": "7 Country Swing Moves You’ll Actually Use",
-   "artist": "Social Dance Online",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 875,
-   "popularity": 58,
-   "addedAt": "2026-08-09",
-   "source": {
-    "platform": "youtube",
-    "id": "kdLbtNOYO58"
    },
    "curated": false
   },
@@ -29943,7 +30077,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 115,
-   "popularity": 55,
+   "popularity": 56,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -31066,7 +31200,7 @@
   },
   {
    "id": "yt-BDv7NhMjhg4",
-   "type": "music",
+   "type": "video",
    "title": "Denver Airport Swing Dance Flash Mob",
    "artist": "Lark Mervine",
    "styles": [
@@ -31513,7 +31647,7 @@
   },
   {
    "id": "yt-slWpbHrOxow",
-   "type": "music",
+   "type": "video",
    "title": "Swing | Awitin Mo At Isasayaw Ko",
    "artist": "De Guzman Ignacio III P.",
    "styles": [
@@ -34372,6 +34506,26 @@
    "curated": false
   },
   {
+   "id": "yt-HHfmYtor5Dc",
+   "type": "tutorial",
+   "title": "01 Learn Lindy Hop Basics: 6 Count & 8 Count Triple Steps Made Simple",
+   "artist": "Lindy Jazz (Joo-Lee)",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 161,
+   "popularity": 39,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "HHfmYtor5Dc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-fV2bL4BdG5o",
    "type": "tutorial",
    "title": "6-Count Lindy Hop for Beginners",
@@ -34407,26 +34561,6 @@
    "source": {
     "platform": "youtube",
     "id": "f1KJRkZwEDU"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-HHfmYtor5Dc",
-   "type": "tutorial",
-   "title": "01 Learn Lindy Hop Basics: 6 Count & 8 Count Triple Steps Made Simple",
-   "artist": "Lindy Jazz (Joo-Lee)",
-   "styles": [
-    "lindy6",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 161,
-   "popularity": 38,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "HHfmYtor5Dc"
    },
    "curated": false
   },
@@ -38581,7 +38715,7 @@
   },
   {
    "id": "yt-E0qmZrVRRw8",
-   "type": "music",
+   "type": "video",
    "title": "Mind = blown 🤯😂🤣 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -39834,7 +39968,7 @@
   },
   {
    "id": "yt-BduX_wdwG6s",
-   "type": "music",
+   "type": "tutorial",
    "title": "2nd Place: Bianca & Nils - World Finals Classic - ILHC 2026",
    "artist": "The International Lindy Hop Championships",
    "styles": [
@@ -47458,7 +47592,7 @@
   },
   {
    "id": "yt-qMglBwfhsN4",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2019 – Dietmar & Nellia – Never Stop Jiving",
    "artist": "RockThatSwing",
    "styles": [
@@ -48248,7 +48382,7 @@
   },
   {
    "id": "yt-gc5fOmnB1z4",
-   "type": "video",
+   "type": "music",
    "title": "OUR FIRST DANCE (Lindy Hop)",
    "artist": "The FamLee Life",
    "styles": [
@@ -48733,7 +48867,7 @@
   },
   {
    "id": "yt-Q3ew4E_-8Ps",
-   "type": "video",
+   "type": "music",
    "title": "Throwback Video! Lindy Hop combos with Anna, Slava, Jean, and Ali",
    "artist": "SwingStepTV",
    "styles": [
@@ -48774,7 +48908,7 @@
   },
   {
    "id": "yt-egopcBsOPIU",
-   "type": "music",
+   "type": "video",
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -48961,7 +49095,8 @@
    "artist": "Sylvie Rene",
    "styles": [
     "lindy",
-    "lindy8"
+    "lindy8",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2016,
@@ -49490,7 +49625,7 @@
   },
   {
    "id": "yt-Xu6Y9cAQqIs",
-   "type": "music",
+   "type": "video",
    "title": "The Lindy-Hop-A-Thon Group Dance - BBC Strictly 2018",
    "artist": "BBC Strictly Come Dancing",
    "styles": [
@@ -50231,6 +50366,25 @@
    "curated": false
   },
   {
+   "id": "yt-XsDao6pcPMs",
+   "type": "video",
+   "title": "HRH 2018 - Collegiate Shag Invitational Jack Carey",
+   "artist": "The Collegiate Shag Channel",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 928,
+   "popularity": 75,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "XsDao6pcPMs"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Vpd6Atc2Kf8",
    "type": "video",
    "title": "ILHC 2011 - Showcase - Max Pitruzzella & Annie Trudeau",
@@ -50365,25 +50519,6 @@
    "source": {
     "platform": "youtube",
     "id": "tNiw16M2c00"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-XsDao6pcPMs",
-   "type": "video",
-   "title": "HRH 2018 - Collegiate Shag Invitational Jack Carey",
-   "artist": "The Collegiate Shag Channel",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2018,
-   "durationSec": 928,
-   "popularity": 74,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "XsDao6pcPMs"
    },
    "curated": false
   },
@@ -56505,6 +56640,46 @@
    "curated": false
   },
   {
+   "id": "yt--d-6i-_n5Bo",
+   "type": "video",
+   "title": "Frankie Manning & Erin Stevens Teach Lindy Hop Part 2",
+   "artist": "Track Town Swing",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 2750,
+   "popularity": 52,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "-d-6i-_n5Bo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-YIkQbHPuz20",
+   "type": "video",
+   "title": "Advanced Mix & Match Finals | Lindy Hop Competition – Sofia Swing Dance Festival 2025",
+   "artist": "Lindy Hop Bulgaria",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 498,
+   "popularity": 52,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "YIkQbHPuz20"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-FOFAMOyGAsE",
    "type": "tutorial",
    "title": "Swing Dancing - Learn how to do a Lindy Hop Tuck Turn",
@@ -56540,26 +56715,6 @@
    "source": {
     "platform": "youtube",
     "id": "ZSSDrFlL0pM"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt--d-6i-_n5Bo",
-   "type": "video",
-   "title": "Frankie Manning & Erin Stevens Teach Lindy Hop Part 2",
-   "artist": "Track Town Swing",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2020,
-   "durationSec": 2750,
-   "popularity": 51,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "-d-6i-_n5Bo"
    },
    "curated": false
   },
@@ -56807,26 +56962,6 @@
    "source": {
     "platform": "youtube",
     "id": "cPSXqKuVNn4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-YIkQbHPuz20",
-   "type": "video",
-   "title": "Advanced Mix & Match Finals | Lindy Hop Competition – Sofia Swing Dance Festival 2025",
-   "artist": "Lindy Hop Bulgaria",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 498,
-   "popularity": 51,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "YIkQbHPuz20"
    },
    "curated": false
   },
@@ -59968,6 +60103,25 @@
    "curated": false
   },
   {
+   "id": "yt-Rj4oubXCug0",
+   "type": "video",
+   "title": "Collegiate Shag mit Clara und Silian",
+   "artist": "Hep Cat Club",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 51,
+   "popularity": 42,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "Rj4oubXCug0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-iewDPl7ipUA",
    "type": "video",
    "title": "Hellzapoppin' Hoopla - Harlem vs Hollywood (fwd swingout, Frankie & Willa Mae, switches)",
@@ -59984,25 +60138,6 @@
    "source": {
     "platform": "youtube",
     "id": "iewDPl7ipUA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Rj4oubXCug0",
-   "type": "video",
-   "title": "Collegiate Shag mit Clara und Silian",
-   "artist": "Hep Cat Club",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 51,
-   "popularity": 41,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "Rj4oubXCug0"
    },
    "curated": false
   },
@@ -61945,7 +62080,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 480,
-   "popularity": 27,
+   "popularity": 28,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
