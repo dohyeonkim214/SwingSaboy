@@ -1,6 +1,231 @@
 {
- "exportedAt": "2026-10-27T18:16:55.622Z",
+ "exportedAt": "2026-10-28T18:18:14.308Z",
  "items": [
+  {
+   "id": "yt-G73RIBsMA5Y",
+   "type": "music",
+   "title": "Autumn Leaves - Cover by Elise Duckworth | The Lounge",
+   "artist": "The Lounge",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 335,
+   "popularity": 97,
+   "addedAt": "2026-10-28",
+   "source": {
+    "platform": "youtube",
+    "id": "G73RIBsMA5Y"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-F1l_sQXm6_U",
+   "type": "music",
+   "title": "How to piss off Jazz fans.",
+   "artist": "Polyphonic",
+   "styles": [],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 55,
+   "popularity": 91,
+   "addedAt": "2026-10-28",
+   "source": {
+    "platform": "youtube",
+    "id": "F1l_sQXm6_U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-sSRLR7DQ6Dg",
+   "type": "music",
+   "title": "Autumn Leaves - Easy Jazz Piano | Piano Cover + Sheets",
+   "artist": "James Wolff",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 68,
+   "popularity": 90,
+   "addedAt": "2026-10-28",
+   "source": {
+    "platform": "youtube",
+    "id": "sSRLR7DQ6Dg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-79d-_Llk8Xs",
+   "type": "music",
+   "title": "Joscho Stephan Trio // Misty (feat. Matthias Strucken)",
+   "artist": "Joscho Stephan",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 258,
+   "popularity": 85,
+   "addedAt": "2026-10-28",
+   "source": {
+    "platform": "youtube",
+    "id": "79d-_Llk8Xs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-xddke3goe0o",
+   "type": "music",
+   "title": "[ #1 ] Smooth Jazz Backing Track 2-5-1-6 in C Major, 80 bpm",
+   "artist": "Honey Jam Tracks",
+   "styles": [],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 611,
+   "popularity": 83,
+   "addedAt": "2026-10-28",
+   "source": {
+    "platform": "youtube",
+    "id": "xddke3goe0o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-bBr-Tpf10DU",
+   "type": "music",
+   "title": "Softly as in a morning sunrise (190 bpm) : Jazz Backing Track",
+   "artist": "Guitare Improvisation",
+   "styles": [],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 334,
+   "popularity": 81,
+   "addedAt": "2026-10-28",
+   "source": {
+    "platform": "youtube",
+    "id": "bBr-Tpf10DU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hauwoWMDBFQ",
+   "type": "music",
+   "title": "The Days of Wine and Roses (Jazz/Swing feel) 160 bpm : Backing Track",
+   "artist": "Guitare Improvisation",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 365,
+   "popularity": 80,
+   "addedAt": "2026-10-28",
+   "source": {
+    "platform": "youtube",
+    "id": "hauwoWMDBFQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-s4HOHAmjpKE",
+   "type": "music",
+   "title": "Stop F***ing Up Oleo!",
+   "artist": "Open Studio",
+   "styles": [],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 51,
+   "popularity": 75,
+   "addedAt": "2026-10-28",
+   "source": {
+    "platform": "youtube",
+    "id": "s4HOHAmjpKE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-93dqOoXITSI",
+   "type": "music",
+   "title": "C minor blues (Jazz/Swing feel) 150 bpm : Backing Track",
+   "artist": "Guitare Improvisation",
+   "styles": [],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 319,
+   "popularity": 74,
+   "addedAt": "2026-10-28",
+   "source": {
+    "platform": "youtube",
+    "id": "93dqOoXITSI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-UkHZD_8TprU",
+   "type": "music",
+   "title": "Db Blues (Jazz/Swing feel) 120 bpm : Backing Track",
+   "artist": "Guitare Improvisation",
+   "styles": [],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 303,
+   "popularity": 72,
+   "addedAt": "2026-10-28",
+   "source": {
+    "platform": "youtube",
+    "id": "UkHZD_8TprU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dVJ5iFlDGu8",
+   "type": "music",
+   "title": "Moanin' (Jazz/Swing feel) - 130 bpm : Backing Track",
+   "artist": "Guitare Improvisation",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 511,
+   "popularity": 71,
+   "addedAt": "2026-10-28",
+   "source": {
+    "platform": "youtube",
+    "id": "dVJ5iFlDGu8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-GZa3GRvy6oc",
+   "type": "video",
+   "title": "mom😅 Double trouble - can we both follow the legendary Chuck Brown? #wcs #improvisation #randomdance",
+   "artist": "Emeline Rochefeuille",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 58,
+   "popularity": 53,
+   "addedAt": "2026-10-28",
+   "source": {
+    "platform": "youtube",
+    "id": "GZa3GRvy6oc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-XjCNfrclOQA",
+   "type": "video",
+   "title": "BRILLIANT 😆🤣🤩 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 41,
+   "addedAt": "2026-10-28",
+   "source": {
+    "platform": "youtube",
+    "id": "XjCNfrclOQA"
+   },
+   "curated": false
+  },
   {
    "id": "yt-IY-v_ZTlcxQ",
    "type": "video",
@@ -69,7 +294,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 188,
-   "popularity": 58,
+   "popularity": 59,
    "addedAt": "2026-10-26",
    "source": {
     "platform": "youtube",
@@ -504,7 +729,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 216,
-   "popularity": 34,
+   "popularity": 35,
    "addedAt": "2026-10-25",
    "source": {
     "platform": "youtube",
@@ -635,7 +860,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 58,
-   "popularity": 62,
+   "popularity": 63,
    "addedAt": "2026-10-24",
    "source": {
     "platform": "youtube",
@@ -4063,7 +4288,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 246,
-   "popularity": 91,
+   "popularity": 92,
    "addedAt": "2026-10-08",
    "source": {
     "platform": "youtube",
@@ -4424,7 +4649,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 274,
-   "popularity": 58,
+   "popularity": 59,
    "addedAt": "2026-10-07",
    "source": {
     "platform": "youtube",
@@ -5439,6 +5664,25 @@
    "curated": false
   },
   {
+   "id": "yt-TEPwYtx7kwo",
+   "type": "video",
+   "title": "Advanced Shuffle Finals COMPLETE CONTEST - Great Lakes Balboa Escape 2026",
+   "artist": "Great Lakes Balboa Escape",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1272,
+   "popularity": 45,
+   "addedAt": "2026-10-03",
+   "source": {
+    "platform": "youtube",
+    "id": "TEPwYtx7kwo"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-MmLDC2kid0M",
    "type": "video",
    "title": "Vasu & Valentina  - Social Balboa (Postcard from Helsinki)",
@@ -5473,25 +5717,6 @@
    "source": {
     "platform": "youtube",
     "id": "bTlYhFNMA9w"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-TEPwYtx7kwo",
-   "type": "video",
-   "title": "Advanced Shuffle Finals COMPLETE CONTEST - Great Lakes Balboa Escape 2026",
-   "artist": "Great Lakes Balboa Escape",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 1272,
-   "popularity": 42,
-   "addedAt": "2026-10-03",
-   "source": {
-    "platform": "youtube",
-    "id": "TEPwYtx7kwo"
    },
    "curated": false
   },
@@ -8952,7 +9177,8 @@
    "title": "Liberty Swing 2026 Johnvitational Full Show   4K",
    "artist": "Liberty Swing Dance Championships",
    "styles": [
-    "wcs"
+    "wcs",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2026,
@@ -14329,6 +14555,23 @@
    "curated": false
   },
   {
+   "id": "yt-verNvruz0LI",
+   "type": "music",
+   "title": "Big Band Swing Music - 1940s Smooth Jazz Instrumental | Ultimate Relaxation & Chill Jazz Music",
+   "artist": "Jazz Through The Ages",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 132,
+   "popularity": 56,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "verNvruz0LI"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-dltXDgntr6Y",
    "type": "music",
    "title": "Patti Austin: \"ELLINGTON MEDLEY\" | Frankfurt Radio Big Band | Ella Fitzgerald | Swing | Jazz",
@@ -14359,23 +14602,6 @@
    "source": {
     "platform": "youtube",
     "id": "9u6SoW7ezoE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-verNvruz0LI",
-   "type": "music",
-   "title": "Big Band Swing Music - 1940s Smooth Jazz Instrumental | Ultimate Relaxation & Chill Jazz Music",
-   "artist": "Jazz Through The Ages",
-   "styles": [],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 132,
-   "popularity": 54,
-   "addedAt": "2026-09-08",
-   "source": {
-    "platform": "youtube",
-    "id": "verNvruz0LI"
    },
    "curated": false
   },
@@ -18721,7 +18947,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 72,
-   "popularity": 59,
+   "popularity": 61,
    "addedAt": "2026-08-25",
    "source": {
     "platform": "youtube",
@@ -19841,7 +20067,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 511,
-   "popularity": 67,
+   "popularity": 69,
    "addedAt": "2026-08-18",
    "source": {
     "platform": "youtube",
@@ -21270,6 +21496,25 @@
    "curated": false
   },
   {
+   "id": "yt-AfS5epTiTMM",
+   "type": "video",
+   "title": "🥇1st Place Improv with Mia 💃#westcoastswing #improv #dance #competition #wcs",
+   "artist": "Keerigan Rudd",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 60,
+   "popularity": 86,
+   "addedAt": "2026-08-14",
+   "source": {
+    "platform": "youtube",
+    "id": "AfS5epTiTMM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Wxy3bxjBsmE",
    "type": "video",
    "title": "Bill Haley \"Rip it up\" 1956. Rock n roll, swing dance | 4k, colorized with DeOldify",
@@ -21285,25 +21530,6 @@
    "source": {
     "platform": "youtube",
     "id": "Wxy3bxjBsmE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-AfS5epTiTMM",
-   "type": "video",
-   "title": "🥇1st Place Improv with Mia 💃#westcoastswing #improv #dance #competition #wcs",
-   "artist": "Keerigan Rudd",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 60,
-   "popularity": 85,
-   "addedAt": "2026-08-14",
-   "source": {
-    "platform": "youtube",
-    "id": "AfS5epTiTMM"
    },
    "curated": false
   },
@@ -24145,7 +24371,7 @@
    "bpm": null,
    "year": 2020,
    "durationSec": 320,
-   "popularity": 71,
+   "popularity": 72,
    "addedAt": "2026-08-09",
    "source": {
     "platform": "youtube",
@@ -25475,7 +25701,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1427,
-   "popularity": 56,
+   "popularity": 57,
    "addedAt": "2026-08-07",
    "source": {
     "platform": "youtube",
@@ -26494,7 +26720,8 @@
    "artist": "Sondre & Tanya",
    "styles": [
     "wcs",
-    "jitterbug"
+    "jitterbug",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2023,
@@ -27146,7 +27373,7 @@
   },
   {
    "id": "yt-9Ow_k01VfSg",
-   "type": "video",
+   "type": "music",
    "title": "Did not expect the hotel room key move mid-improv 😂 Well done Markus 🙌🏼 #dance #westcoastswing",
    "artist": "Emeline Rochefeuille",
    "styles": [
@@ -27600,6 +27827,23 @@
    "curated": false
   },
   {
+   "id": "yt-6UGe1N49sho",
+   "type": "music",
+   "title": "“Autumn Leaves” Jazz Standard Cover by Robyn Adele Anderson",
+   "artist": "Robyn Adele Anderson",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 204,
+   "popularity": 86,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "6UGe1N49sho"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-DOWAaukVfTg",
    "type": "music",
    "title": "Beautiful Love (Jazz/Swing feel) : Backing Track",
@@ -27613,23 +27857,6 @@
    "source": {
     "platform": "youtube",
     "id": "DOWAaukVfTg"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-6UGe1N49sho",
-   "type": "music",
-   "title": "“Autumn Leaves” Jazz Standard Cover by Robyn Adele Anderson",
-   "artist": "Robyn Adele Anderson",
-   "styles": [],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 204,
-   "popularity": 85,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "6UGe1N49sho"
    },
    "curated": false
   },
@@ -28121,7 +28348,7 @@
   {
    "id": "yt-j_Qc8s0h4gg",
    "type": "music",
-   "title": "1940s Swing & Boogie-Woogie🎺 \"As Time goes by\"🎶 AI Music-Video + Authentic Song Lyrics from 1931✍️",
+   "title": "1940s Swing & Boogie-Woogie🎺 \"As Time goes by\"🎶 Music Video 📹 + Authentic Song Lyrics from 1931✍️",
    "artist": "videofab",
    "styles": [],
    "bpm": null,
@@ -28895,6 +29122,25 @@
    "curated": false
   },
   {
+   "id": "yt-zsle7AwtEYk",
+   "type": "video",
+   "title": "Learn to Dance West Coast Swing in 5 Minutes!",
+   "artist": "Thibault and Nicole Ramirez",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 395,
+   "popularity": 71,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "zsle7AwtEYk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-CY5fdIRN8YI",
    "type": "video",
    "title": "Improv West Coast Swing - Keerigan Rudd and Giulia Rusch",
@@ -28963,25 +29209,6 @@
    "source": {
     "platform": "youtube",
     "id": "a-c_TFGO8q8"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-zsle7AwtEYk",
-   "type": "video",
-   "title": "Learn to Dance West Coast Swing in 5 Minutes!",
-   "artist": "Thibault and Nicole Ramirez",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 395,
-   "popularity": 70,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "zsle7AwtEYk"
    },
    "curated": false
   },
@@ -30842,6 +31069,23 @@
    "curated": false
   },
   {
+   "id": "yt-F5slaYJM2ts",
+   "type": "music",
+   "title": "Big Band Swing Music - Ain’t Seen You in a While — 1940s Swing Jazz Original Song (Big Band Style)",
+   "artist": "Jazz Through The Ages",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 210,
+   "popularity": 43,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "F5slaYJM2ts"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-ILdy0wzvFlI",
    "type": "video",
    "title": "St. Louis Shag Performance",
@@ -30857,23 +31101,6 @@
    "source": {
     "platform": "youtube",
     "id": "ILdy0wzvFlI"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-F5slaYJM2ts",
-   "type": "music",
-   "title": "Big Band Swing Music - Ain’t Seen You in a While — 1940s Swing Jazz Original Song (Big Band Style)",
-   "artist": "Jazz Through The Ages",
-   "styles": [],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 210,
-   "popularity": 42,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "F5slaYJM2ts"
    },
    "curated": false
   },
@@ -31550,7 +31777,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "video",
+   "type": "music",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -35079,7 +35306,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "video",
+   "type": "music",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -38772,7 +38999,7 @@
   },
   {
    "id": "yt-E0qmZrVRRw8",
-   "type": "video",
+   "type": "music",
    "title": "Mind = blown 🤯😂🤣 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -43127,6 +43354,25 @@
    "curated": false
   },
   {
+   "id": "yt-OJLCUEWHeZU",
+   "type": "tutorial",
+   "title": "Balboa Dance Basic Steps for Beginners | Day 1 of 4",
+   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 91,
+   "popularity": 41,
+   "addedAt": "2026-07-10",
+   "source": {
+    "platform": "youtube",
+    "id": "OJLCUEWHeZU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-UHxmy9ntJfM",
    "type": "video",
    "title": "Grace & Zach - Adv. Collegiate Shag M&M Finals - SbtS 2023",
@@ -43142,25 +43388,6 @@
    "source": {
     "platform": "youtube",
     "id": "UHxmy9ntJfM"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-OJLCUEWHeZU",
-   "type": "tutorial",
-   "title": "Balboa Dance Basic Steps for Beginners | Day 1 of 4",
-   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 91,
-   "popularity": 40,
-   "addedAt": "2026-07-10",
-   "source": {
-    "platform": "youtube",
-    "id": "OJLCUEWHeZU"
    },
    "curated": false
   },
@@ -46682,7 +46909,7 @@
   },
   {
    "id": "yt-rb7rp9FhD64",
-   "type": "music",
+   "type": "video",
    "title": "The way the crowd went oooOOOH 😆 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -47559,7 +47786,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -47717,7 +47944,7 @@
   },
   {
    "id": "yt-mw2QbbD5rc8",
-   "type": "video",
+   "type": "music",
    "title": "🧊🧊👶 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -47740,7 +47967,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "music",
+   "type": "video",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -56041,6 +56268,25 @@
    "curated": false
   },
   {
+   "id": "yt-_VmmvEM8aP4",
+   "type": "video",
+   "title": "'Bill Bailey' Partner Charleston Dance Routine",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 82,
+   "popularity": 55,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "_VmmvEM8aP4"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-1HKx3BgqxJ0",
    "type": "tutorial",
    "title": "Kenny & Alba - Balboa Int/Adv Workshop Pt 1 (basics, triplets, reverse come around)",
@@ -56056,25 +56302,6 @@
    "source": {
     "platform": "youtube",
     "id": "1HKx3BgqxJ0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-_VmmvEM8aP4",
-   "type": "video",
-   "title": "'Bill Bailey' Partner Charleston Dance Routine",
-   "artist": "MyCharleston",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 82,
-   "popularity": 54,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "_VmmvEM8aP4"
    },
    "curated": false
   },
@@ -56213,6 +56440,25 @@
    "curated": false
   },
   {
+   "id": "yt-_UP7r6g8Fwc",
+   "type": "tutorial",
+   "title": "Beginners Balboa 5",
+   "artist": "SwingdanceUK",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 3146,
+   "popularity": 54,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "_UP7r6g8Fwc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-iPvhbZR0vos",
    "type": "video",
    "title": "Nevermore Jazz Ball 2014 St. Louis Shag Contest",
@@ -56306,25 +56552,6 @@
    "source": {
     "platform": "youtube",
     "id": "D46nUlCys8A"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-_UP7r6g8Fwc",
-   "type": "tutorial",
-   "title": "Beginners Balboa 5",
-   "artist": "SwingdanceUK",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 3146,
-   "popularity": 53,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "_UP7r6g8Fwc"
    },
    "curated": false
   },
