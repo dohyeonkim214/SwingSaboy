@@ -1,6 +1,338 @@
 {
- "exportedAt": "2026-10-28T18:18:14.308Z",
+ "exportedAt": "2026-10-29T18:18:41.060Z",
  "items": [
+  {
+   "id": "yt-W29xpRD0BwE",
+   "type": "video",
+   "title": "Michael  1996  John  Travolta Dance scene",
+   "artist": "Sérgio Percevallis",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 126,
+   "popularity": 100,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "W29xpRD0BwE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FpVL7TZF748",
+   "type": "video",
+   "title": "Esto es bailar no él del expreso maquiatto #Savik6655 #shorts #short",
+   "artist": "Savik",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 51,
+   "popularity": 97,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "FpVL7TZF748"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gEMHQ6e9hnM",
+   "type": "video",
+   "title": "Brother and Sister Dance Duo Have Something to Prove on America's Got Talent!",
+   "artist": "Kids Got Talent",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 351,
+   "popularity": 96,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "gEMHQ6e9hnM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8TEG0oXB2C4",
+   "type": "music",
+   "title": "Jazz ballad (Dm7 G7 CMaj7) : Backing track",
+   "artist": "Guitare Improvisation",
+   "styles": [],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 307,
+   "popularity": 86,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "8TEG0oXB2C4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3vMMbrFS_4k",
+   "type": "music",
+   "title": "Jazz Backing Track #1 – C Minor Modal Groove 93 BPM of Smooth Jazz",
+   "artist": "Conieta Music",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 320,
+   "popularity": 83,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "3vMMbrFS_4k"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gb58lGHtwMQ",
+   "type": "music",
+   "title": "Misty - Stringspace - Jazz Band",
+   "artist": "StringspaceLive",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 332,
+   "popularity": 82,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "gb58lGHtwMQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-0oCHWhH6ztw",
+   "type": "video",
+   "title": "Nelson is a fabulous follower 🤩🔥😍 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 58,
+   "popularity": 78,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "0oCHWhH6ztw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-0tY3JPF93uc",
+   "type": "music",
+   "title": "The Javier Nero Jazz Orchestra with Veronica Swift - Softly, as in a Morning Sunrise",
+   "artist": "Dr. Javier Nero",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 530,
+   "popularity": 77,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "0tY3JPF93uc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pfdWmVvYuCY",
+   "type": "video",
+   "title": "Lose my breath 😮‍💨😮‍💨 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 55,
+   "popularity": 70,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "pfdWmVvYuCY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-n68gx16GJpg",
+   "type": "video",
+   "title": "Joel snuck in there 🤭 #westcoastswing #improv",
+   "artist": "Chantelle & Joel",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 63,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "n68gx16GJpg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-H3lx7MQJIu0",
+   "type": "video",
+   "title": "What is West Coast Swing Dancing?",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 45,
+   "popularity": 62,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "H3lx7MQJIu0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3MFLw4rOAI4",
+   "type": "video",
+   "title": "When we're \"losing our ways together\" 🎶 #fkj #tommisch #wcs #improvisation",
+   "artist": "Emeline Rochefeuille",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 54,
+   "popularity": 57,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "3MFLw4rOAI4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-0ibE_qU-ytk",
+   "type": "video",
+   "title": "🛋️Couch Vibes✨ #dance #wcs #improv #soulful #fyp",
+   "artist": "StuckOnSwing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 64,
+   "popularity": 54,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "0ibE_qU-ytk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-z66ruGVmSts",
+   "type": "video",
+   "title": "Whats yo flava 😜 #dance #improv #wcs #flava #fyp",
+   "artist": "StuckOnSwing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 64,
+   "popularity": 54,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "z66ruGVmSts"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-2QtXJqHOGMQ",
+   "type": "tutorial",
+   "title": "How to Do Charlestons",
+   "artist": "Line Dancing with Lynn",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 119,
+   "popularity": 53,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "2QtXJqHOGMQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1XscgRaNMwI",
+   "type": "video",
+   "title": "WCS Improvisation in 5 Easy Steps!",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 373,
+   "popularity": 52,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "1XscgRaNMwI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-SD5CgVxp3rU",
+   "type": "video",
+   "title": "1st Place: Perle Kouakou Kouame - Youth Solo Jazz & Charleston - ILHC 2021",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 86,
+   "popularity": 50,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "SD5CgVxp3rU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9RRNEXw5-TE",
+   "type": "music",
+   "title": "There Will Never Be Another You (2026 Version) | 180 bpm | Jazz Swing | Play-Along Backing Track",
+   "artist": "Edwin’s Jazz Jam",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 354,
+   "popularity": 28,
+   "addedAt": "2026-10-29",
+   "source": {
+    "platform": "youtube",
+    "id": "9RRNEXw5-TE"
+   },
+   "curated": false
+  },
   {
    "id": "yt-G73RIBsMA5Y",
    "type": "music",
@@ -61,7 +393,7 @@
    "bpm": null,
    "year": 2021,
    "durationSec": 258,
-   "popularity": 85,
+   "popularity": 86,
    "addedAt": "2026-10-28",
    "source": {
     "platform": "youtube",
@@ -189,6 +521,25 @@
    "curated": false
   },
   {
+   "id": "yt-XjCNfrclOQA",
+   "type": "video",
+   "title": "BRILLIANT 😆🤣🤩 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 60,
+   "addedAt": "2026-10-28",
+   "source": {
+    "platform": "youtube",
+    "id": "XjCNfrclOQA"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-GZa3GRvy6oc",
    "type": "video",
    "title": "mom😅 Double trouble - can we both follow the legendary Chuck Brown? #wcs #improvisation #randomdance",
@@ -204,25 +555,6 @@
    "source": {
     "platform": "youtube",
     "id": "GZa3GRvy6oc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-XjCNfrclOQA",
-   "type": "video",
-   "title": "BRILLIANT 😆🤣🤩 #improv #westcoastswing",
-   "artist": "Ken & Bryn",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 60,
-   "popularity": 41,
-   "addedAt": "2026-10-28",
-   "source": {
-    "platform": "youtube",
-    "id": "XjCNfrclOQA"
    },
    "curated": false
   },
@@ -379,6 +711,25 @@
    "curated": false
   },
   {
+   "id": "yt-30nSoMmwq1E",
+   "type": "video",
+   "title": "BCN Shag Festival 2026 - Strictly Final with Martin Burguez & His Rhythm Combo",
+   "artist": "Shag BCN",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 355,
+   "popularity": 38,
+   "addedAt": "2026-10-26",
+   "source": {
+    "platform": "youtube",
+    "id": "30nSoMmwq1E"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-HtOUsT8y2oY",
    "type": "video",
    "title": "Mia & Dominic - Invitational Shuffle - Great Lakes Balboa Escape 2026",
@@ -394,25 +745,6 @@
    "source": {
     "platform": "youtube",
     "id": "HtOUsT8y2oY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-30nSoMmwq1E",
-   "type": "video",
-   "title": "BCN Shag Festival 2026 - Strictly Final with Martin Burguez & His Rhythm Combo",
-   "artist": "Shag BCN",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 355,
-   "popularity": 37,
-   "addedAt": "2026-10-26",
-   "source": {
-    "platform": "youtube",
-    "id": "30nSoMmwq1E"
    },
    "curated": false
   },
@@ -2233,7 +2565,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 66,
-   "popularity": 33,
+   "popularity": 34,
    "addedAt": "2026-10-16",
    "source": {
     "platform": "youtube",
@@ -2295,6 +2627,25 @@
    "curated": false
   },
   {
+   "id": "yt-TH7CdtdPC2Y",
+   "type": "video",
+   "title": "The cutest little dance 😻😘🤗 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 50,
+   "popularity": 71,
+   "addedAt": "2026-10-15",
+   "source": {
+    "platform": "youtube",
+    "id": "TH7CdtdPC2Y"
+   },
+   "curated": false
+  },
+  {
    "id": "yt--NCvTiHiImo",
    "type": "video",
    "title": "1920s Charleston Jazz🎺 \"Ain't We Got Fun\"🎶 AI Music Video + Authentic Song Lyrics from 1921✍️",
@@ -2310,25 +2661,6 @@
    "source": {
     "platform": "youtube",
     "id": "-NCvTiHiImo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-TH7CdtdPC2Y",
-   "type": "video",
-   "title": "The cutest little dance 😻😘🤗 #improv #westcoastswing",
-   "artist": "Ken & Bryn",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 50,
-   "popularity": 65,
-   "addedAt": "2026-10-15",
-   "source": {
-    "platform": "youtube",
-    "id": "TH7CdtdPC2Y"
    },
    "curated": false
   },
@@ -3274,7 +3606,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 59,
-   "popularity": 40,
+   "popularity": 41,
    "addedAt": "2026-10-13",
    "source": {
     "platform": "youtube",
@@ -6787,7 +7119,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 63,
-   "popularity": 63,
+   "popularity": 64,
    "addedAt": "2026-09-28",
    "source": {
     "platform": "youtube",
@@ -18239,7 +18571,7 @@
   },
   {
    "id": "yt-l3j7fGCB45o",
-   "type": "music",
+   "type": "video",
    "title": "100% Improv West Coast Swing. DJ chose the song 😍 Our dance partner anniversary! #competition  #wcs",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -22960,6 +23292,25 @@
    "curated": false
   },
   {
+   "id": "yt-fIh5zIeyd2w",
+   "type": "video",
+   "title": "[Pulse In Seoul 2026]Pure Balboa Instructors Performance : Javi & Jucia",
+   "artist": "PULSE IN SEOUL",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 184,
+   "popularity": 27,
+   "addedAt": "2026-08-12",
+   "source": {
+    "platform": "youtube",
+    "id": "fIh5zIeyd2w"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-1bbIOKb6edg",
    "type": "video",
    "title": "SBW2025 Underground Shag Competition - Prelims",
@@ -22975,25 +23326,6 @@
    "source": {
     "platform": "youtube",
     "id": "1bbIOKb6edg"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-fIh5zIeyd2w",
-   "type": "video",
-   "title": "[Pulse In Seoul 2026]Pure Balboa Instructors Performance : Javi & Jucia",
-   "artist": "PULSE IN SEOUL",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 184,
-   "popularity": 26,
-   "addedAt": "2026-08-12",
-   "source": {
-    "platform": "youtube",
-    "id": "fIh5zIeyd2w"
    },
    "curated": false
   },
@@ -25720,7 +26052,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 366,
-   "popularity": 56,
+   "popularity": 57,
    "addedAt": "2026-08-07",
    "source": {
     "platform": "youtube",
@@ -50834,7 +51166,8 @@
    "title": "Tuck turn - a simple Lindy hop move",
    "artist": "Lindybeige",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
@@ -52404,6 +52737,25 @@
    "curated": false
   },
   {
+   "id": "yt--l9Q7IO8eGc",
+   "type": "video",
+   "title": "Popular 1920s dance styles and fashion in the Jazz Age - Charleston, Fox Trot, Peabody",
+   "artist": "Wardrobeshop",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 483,
+   "popularity": 68,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "-l9Q7IO8eGc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-D9aOifM0CWs",
    "type": "video",
    "title": "Midwest Lindyfest 2013 - Social Lindy Hop - Ryan Calloway & Ann Mony",
@@ -52500,25 +52852,6 @@
    "source": {
     "platform": "youtube",
     "id": "XgtEOjyEmpY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt--l9Q7IO8eGc",
-   "type": "video",
-   "title": "Popular 1920s dance styles and fashion in the Jazz Age - Charleston, Fox Trot, Peabody",
-   "artist": "Wardrobeshop",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2023,
-   "durationSec": 483,
-   "popularity": 67,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "-l9Q7IO8eGc"
    },
    "curated": false
   },
