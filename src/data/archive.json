@@ -1,6 +1,196 @@
 {
- "exportedAt": "2026-10-31T18:13:49.658Z",
+ "exportedAt": "2026-11-01T18:13:49.039Z",
  "items": [
+  {
+   "id": "yt-rkMK_vN8c3Y",
+   "type": "video",
+   "title": "Cindy le Coeur - Balboa (feat. Koffi Olomide) (Clip officiel)",
+   "artist": "KOFFIOLOMIDIEU GOAT",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 367,
+   "popularity": 91,
+   "addedAt": "2026-11-01",
+   "source": {
+    "platform": "youtube",
+    "id": "rkMK_vN8c3Y"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-N00msK8BvkA",
+   "type": "video",
+   "title": "Amazing 20s Charleston dance! \"Flapper's folly\" by Ksenia",
+   "artist": "Ksenia Parkhatskaya",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 185,
+   "popularity": 73,
+   "addedAt": "2026-11-01",
+   "source": {
+    "platform": "youtube",
+    "id": "N00msK8BvkA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-hpjqpPbQrKI",
+   "type": "video",
+   "title": "Lindy Hop Double Tuck Spin to Monkey Walks",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 61,
+   "popularity": 53,
+   "addedAt": "2026-11-01",
+   "source": {
+    "platform": "youtube",
+    "id": "hpjqpPbQrKI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-XNdg9sd7rB4",
+   "type": "video",
+   "title": "The 20s Charleston - Semester of Solo History Spotlight",
+   "artist": "EUSDS (EUSDS)",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 414,
+   "popularity": 53,
+   "addedAt": "2026-11-01",
+   "source": {
+    "platform": "youtube",
+    "id": "XNdg9sd7rB4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-xBmy7f4tX5Q",
+   "type": "video",
+   "title": "Lindy Hop Swing Inside Turn and Sugar Push to Sugar Shuffle April 26, 2026",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 52,
+   "addedAt": "2026-11-01",
+   "source": {
+    "platform": "youtube",
+    "id": "xBmy7f4tX5Q"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-PdVuA5ICh9A",
+   "type": "tutorial",
+   "title": "How to Create Your Own Dance Variations | Solo Jazz Dance Tutorial",
+   "artist": "Secrets of Solo",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 62,
+   "popularity": 50,
+   "addedAt": "2026-11-01",
+   "source": {
+    "platform": "youtube",
+    "id": "PdVuA5ICh9A"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-NWMj9FfBd0U",
+   "type": "video",
+   "title": "Open Solo Jazz Final with The Oldie Goldies - ILHC EUROPE 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 666,
+   "popularity": 48,
+   "addedAt": "2026-11-01",
+   "source": {
+    "platform": "youtube",
+    "id": "NWMj9FfBd0U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8ud8_AF3A88",
+   "type": "video",
+   "title": "Lindy Hop Open Mix&Match Seoul Lindy Fest 🥈 Kate Vax and Antony 🎥 Joshua Heo",
+   "artist": "Школа джазовых танцев МСДК",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 47,
+   "popularity": 45,
+   "addedAt": "2026-11-01",
+   "source": {
+    "platform": "youtube",
+    "id": "8ud8_AF3A88"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-e6oK_z154lM",
+   "type": "video",
+   "title": "LA Jitterbug, 2026 Soul-O-Ween, #halloween  #swingdance #Jitterbug #dance #joendancer",
+   "artist": "Joe N Dancer",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 167,
+   "popularity": 37,
+   "addedAt": "2026-11-01",
+   "source": {
+    "platform": "youtube",
+    "id": "e6oK_z154lM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7bC1H-dsaC0",
+   "type": "video",
+   "title": "Natalia & Lukasz - Invitational Shuffle - Great Lakes Balboa Escape 2026",
+   "artist": "Great Lakes Balboa Escape",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 123,
+   "popularity": 36,
+   "addedAt": "2026-11-01",
+   "source": {
+    "platform": "youtube",
+    "id": "7bC1H-dsaC0"
+   },
+   "curated": false
+  },
   {
    "id": "yt-jft3BVoxqjo",
    "type": "music",
@@ -4172,7 +4362,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 58,
-   "popularity": 52,
+   "popularity": 53,
    "addedAt": "2026-10-12",
    "source": {
     "platform": "youtube",
@@ -6142,7 +6332,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 50,
-   "popularity": 46,
+   "popularity": 47,
    "addedAt": "2026-10-05",
    "source": {
     "platform": "youtube",
@@ -7036,7 +7226,7 @@
   {
    "id": "yt-_pFYdeqDIaU",
    "type": "video",
-   "title": "Larissa & Heio – Balboa Delight 2026",
+   "title": "Larissa & Heiko – Balboa Delight 2026",
    "artist": "Basel Jitterbugs",
    "styles": [
     "balboa"
@@ -24131,7 +24321,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 178,
-   "popularity": 37,
+   "popularity": 38,
    "addedAt": "2026-08-11",
    "source": {
     "platform": "youtube",
@@ -26784,7 +26974,7 @@
   },
   {
    "id": "yt-PsGh3cHHqZs",
-   "type": "video",
+   "type": "music",
    "title": "More than 270 Millions of Views across platforms 😱 Aye Macarena !",
    "artist": "Emeline Rochefeuille",
    "styles": [
@@ -27876,6 +28066,28 @@
    "curated": false
   },
   {
+   "id": "yt-tsX87384tnQ",
+   "type": "music",
+   "title": "Improvised West Coast Swing Dance by PJ Turner & Tashina Beckmann - Inspirational JnJ (2017)",
+   "artist": "Musicologia",
+   "styles": [
+    "jitterbug",
+    "wcs",
+    "balboa",
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 98,
+   "popularity": 95,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "tsX87384tnQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-auEwji8iGYQ",
    "type": "music",
    "title": "Jumpin' Jack (Album Version)",
@@ -27923,28 +28135,6 @@
    "source": {
     "platform": "youtube",
     "id": "WGq-eCoPSwA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-tsX87384tnQ",
-   "type": "music",
-   "title": "Improvised West Coast Swing Dance by PJ Turner & Tashina Beckmann - Inspirational JnJ (2017)",
-   "artist": "Musicologia",
-   "styles": [
-    "jitterbug",
-    "wcs",
-    "balboa",
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2023,
-   "durationSec": 98,
-   "popularity": 94,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "tsX87384tnQ"
    },
    "curated": false
   },
@@ -30444,7 +30634,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 435,
-   "popularity": 64,
+   "popularity": 65,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -30661,6 +30851,25 @@
    "curated": false
   },
   {
+   "id": "yt-J6a-GASlZU8",
+   "type": "tutorial",
+   "title": "Adding STYLE to West Coast Swing Basics",
+   "artist": "Keerigan Rudd",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 226,
+   "popularity": 62,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "J6a-GASlZU8"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-MYt4eVULgDE",
    "type": "video",
    "title": "사교댄스 지루박 중급과정 차차차! / Jitterbug, Ballroom Dance, Social Dance / 지르박",
@@ -30771,25 +30980,6 @@
    "source": {
     "platform": "youtube",
     "id": "57k75OUuFLU"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-J6a-GASlZU8",
-   "type": "tutorial",
-   "title": "Adding STYLE to West Coast Swing Basics",
-   "artist": "Keerigan Rudd",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 226,
-   "popularity": 61,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "J6a-GASlZU8"
    },
    "curated": false
   },
@@ -31740,6 +31930,25 @@
    "curated": false
   },
   {
+   "id": "yt-UgDiRLz2yWk",
+   "type": "video",
+   "title": "Downhold Basic #balboa #beginningbalboa #learnbalboa #shorts",
+   "artist": "Balboa the dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 58,
+   "popularity": 46,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "UgDiRLz2yWk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-kG_mnrE07TA",
    "type": "video",
    "title": "Policoro in Swing 2018 - Lindy Hop Showcase",
@@ -31755,25 +31964,6 @@
    "source": {
     "platform": "youtube",
     "id": "kG_mnrE07TA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-UgDiRLz2yWk",
-   "type": "video",
-   "title": "Downhold Basic #balboa #beginningbalboa #learnbalboa #shorts",
-   "artist": "Balboa the dance",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 58,
-   "popularity": 45,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "UgDiRLz2yWk"
    },
    "curated": false
   },
@@ -34027,6 +34217,25 @@
    "curated": false
   },
   {
+   "id": "yt-dt2zXR9QZEQ",
+   "type": "video",
+   "title": "Jitterbug Swing Fundamentals | Steps Only",
+   "artist": "DrDanceRight",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 266,
+   "popularity": 58,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "dt2zXR9QZEQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-w4JhPdOKPDw",
    "type": "video",
    "title": "lindy hop, 6 count moves, texas tommy, mini-dip, groucho",
@@ -34118,25 +34327,6 @@
    "source": {
     "platform": "youtube",
     "id": "9vbuS-iGQTQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-dt2zXR9QZEQ",
-   "type": "video",
-   "title": "Jitterbug Swing Fundamentals | Steps Only",
-   "artist": "DrDanceRight",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 266,
-   "popularity": 57,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "dt2zXR9QZEQ"
    },
    "curated": false
   },
@@ -34720,7 +34910,8 @@
    "title": "2024-02-15 Level 1: Lindy Hop Fundamentals - 6-Count Moves",
    "artist": "Corner Pocket Swing",
    "styles": [
-    "lindy6"
+    "lindy6",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2024,
@@ -35040,6 +35231,26 @@
    "curated": false
   },
   {
+   "id": "yt-zp2PuM75YNU",
+   "type": "tutorial",
+   "title": "Intro 8 Count: 6 Count VS 8 Count. Class Recap",
+   "artist": "Lainey Silver",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 101,
+   "popularity": 45,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "zp2PuM75YNU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-96V0zlIhKkg",
    "type": "tutorial",
    "title": "Beginning Lindy Hop - 6 Count Basics, Tuck Turn and Barrel Turn plus K-Dip!",
@@ -35074,26 +35285,6 @@
    "source": {
     "platform": "youtube",
     "id": "-SqDwFSIm6A"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-zp2PuM75YNU",
-   "type": "tutorial",
-   "title": "Intro 8 Count: 6 Count VS 8 Count. Class Recap",
-   "artist": "Lainey Silver",
-   "styles": [
-    "lindy6",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 101,
-   "popularity": 44,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "zp2PuM75YNU"
    },
    "curated": false
   },
@@ -38620,7 +38811,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 192,
-   "popularity": 39,
+   "popularity": 40,
    "addedAt": "2026-07-24",
    "source": {
     "platform": "youtube",
@@ -39822,7 +40013,7 @@
   },
   {
    "id": "yt-E0qmZrVRRw8",
-   "type": "video",
+   "type": "music",
    "title": "Mind = blown 🤯😂🤣 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -48611,7 +48802,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -48701,7 +48892,7 @@
   },
   {
    "id": "yt-qMglBwfhsN4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2019 – Dietmar & Nellia – Never Stop Jiving",
    "artist": "RockThatSwing",
    "styles": [
@@ -49042,7 +49233,7 @@
   },
   {
    "id": "yt-JdRin5YUORk",
-   "type": "music",
+   "type": "video",
    "title": "Mr and Mrs Smooth demonstrating the art of Simply Smooth Swagger - Watch! Be Cool",
    "artist": "Joe N Dancer",
    "styles": [
@@ -50736,7 +50927,7 @@
   },
   {
    "id": "yt-Xu6Y9cAQqIs",
-   "type": "video",
+   "type": "music",
    "title": "The Lindy-Hop-A-Thon Group Dance - BBC Strictly 2018",
    "artist": "BBC Strictly Come Dancing",
    "styles": [
@@ -51496,6 +51687,25 @@
    "curated": false
   },
   {
+   "id": "yt-UHOlGEawhv8",
+   "type": "video",
+   "title": "⭐️ Solo Charleston: Basic, Windmill, Gaze Afar ⭐️",
+   "artist": "Swing Base",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 339,
+   "popularity": 75,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "UHOlGEawhv8"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Vpd6Atc2Kf8",
    "type": "video",
    "title": "ILHC 2011 - Showcase - Max Pitruzzella & Annie Trudeau",
@@ -51592,25 +51802,6 @@
    "source": {
     "platform": "youtube",
     "id": "ZXrJoPMJ_2g"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-UHOlGEawhv8",
-   "type": "video",
-   "title": "⭐️ Solo Charleston: Basic, Windmill, Gaze Afar ⭐️",
-   "artist": "Swing Base",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2020,
-   "durationSec": 339,
-   "popularity": 74,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "UHOlGEawhv8"
    },
    "curated": false
   },
@@ -59189,6 +59380,25 @@
    "curated": false
   },
   {
+   "id": "yt-eB0kqzAfWxY",
+   "type": "video",
+   "title": "🎷 [170–179 BPM] Balboa Dance Music Playlist 💃🕺 | Energetic Swing Grooves",
+   "artist": "Balboa Music Station",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 7493,
+   "popularity": 48,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "eB0kqzAfWxY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-MeTpjJfQ58w",
    "type": "tutorial",
    "title": "2016-08-01 Rob & Emma Balboa Explorers Level 2 Pure Bal & almost Pure Bal class recap",
@@ -59433,25 +59643,6 @@
    "source": {
     "platform": "youtube",
     "id": "gGzhrPzXFG8"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-eB0kqzAfWxY",
-   "type": "video",
-   "title": "🎷 [170–179 BPM] Balboa Dance Music Playlist 💃🕺 | Energetic Swing Grooves",
-   "artist": "Balboa Music Station",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 7493,
-   "popularity": 47,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "eB0kqzAfWxY"
    },
    "curated": false
   },
