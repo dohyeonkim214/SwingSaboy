@@ -1,6 +1,196 @@
 {
- "exportedAt": "2026-11-01T18:13:49.039Z",
+ "exportedAt": "2026-11-02T18:15:28.074Z",
  "items": [
+  {
+   "id": "yt-tR08nDP2cYg",
+   "type": "video",
+   "title": "Dean Collins Shim Sham - Jitterbugs Delight 2025",
+   "artist": "Basel Jitterbugs",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 128,
+   "popularity": 70,
+   "addedAt": "2026-11-02",
+   "source": {
+    "platform": "youtube",
+    "id": "tR08nDP2cYg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Ye7kU_ENYag",
+   "type": "video",
+   "title": "Christian Frommelt & Jenny Shirar at Moscow Lindy Hop and St. Louis Shag Weekend 2016",
+   "artist": "Sergey Korytnik",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 136,
+   "popularity": 56,
+   "addedAt": "2026-11-02",
+   "source": {
+    "platform": "youtube",
+    "id": "Ye7kU_ENYag"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3dhm_3sVkJ4",
+   "type": "tutorial",
+   "title": "5 Secrets to Getting Good at West Coast Swing for Beginners",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 1107,
+   "popularity": 55,
+   "addedAt": "2026-11-02",
+   "source": {
+    "platform": "youtube",
+    "id": "3dhm_3sVkJ4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-d6lMtV5X-5I",
+   "type": "video",
+   "title": "The Collegiate Shag Taster (2/2) 8/10/10",
+   "artist": "jamcellar",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2010,
+   "durationSec": 384,
+   "popularity": 54,
+   "addedAt": "2026-11-02",
+   "source": {
+    "platform": "youtube",
+    "id": "d6lMtV5X-5I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FqFjmyQKyEs",
+   "type": "video",
+   "title": "American Swing Dance! #america #usa #dance",
+   "artist": "Sondre & Tanya",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 45,
+   "addedAt": "2026-11-02",
+   "source": {
+    "platform": "youtube",
+    "id": "FqFjmyQKyEs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Bgx1tjO0Mas",
+   "type": "tutorial",
+   "title": "Learn Solo Jazz Dance for Beginners | Take the A-Train",
+   "artist": "Secrets of Solo",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 72,
+   "popularity": 45,
+   "addedAt": "2026-11-02",
+   "source": {
+    "platform": "youtube",
+    "id": "Bgx1tjO0Mas"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-JlUfDMmv8IA",
+   "type": "tutorial",
+   "title": "Lindy Hop Class Swingout, Sugar Push, Side Passes, 8 Count Circle to Closed Nov 1 2026",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 55,
+   "popularity": 43,
+   "addedAt": "2026-11-02",
+   "source": {
+    "platform": "youtube",
+    "id": "JlUfDMmv8IA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-GK0JI1VmeBE",
+   "type": "video",
+   "title": "KP Rutland & Bryn Anderson - WoW Show - SwingTime Denver 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 135,
+   "popularity": 41,
+   "addedAt": "2026-11-02",
+   "source": {
+    "platform": "youtube",
+    "id": "GK0JI1VmeBE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FNsSfaj7p14",
+   "type": "video",
+   "title": "BCN Shag Festival 2026 - Endurance competition with Hot Swing Sextet",
+   "artist": "Shag BCN",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 764,
+   "popularity": 35,
+   "addedAt": "2026-11-02",
+   "source": {
+    "platform": "youtube",
+    "id": "FNsSfaj7p14"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3qJEUVKmpTE",
+   "type": "video",
+   "title": "Camp Hollywood / National Jitterbug Championships 2008 Am contests & Showcase",
+   "artist": "camphollywood",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 7660,
+   "popularity": 32,
+   "addedAt": "2026-11-02",
+   "source": {
+    "platform": "youtube",
+    "id": "3qJEUVKmpTE"
+   },
+   "curated": false
+  },
   {
    "id": "yt-rkMK_vN8c3Y",
    "type": "video",
@@ -229,14 +419,16 @@
   },
   {
    "id": "yt-gyIwQ9Su2GI",
-   "type": "music",
+   "type": "video",
    "title": "Goooood music 🤎 #improv #westcoastswing",
    "artist": "Ken & Bryn",
-   "styles": [],
+   "styles": [
+    "wcs"
+   ],
    "bpm": null,
    "year": 2026,
    "durationSec": 49,
-   "popularity": 61,
+   "popularity": 64,
    "addedAt": "2026-10-31",
    "source": {
     "platform": "youtube",
@@ -24795,6 +24987,25 @@
    "curated": false
   },
   {
+   "id": "yt-3-W4KVMumuA",
+   "type": "video",
+   "title": "1st Place: Grace & Nalla - All-Star Draw Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 101,
+   "popularity": 52,
+   "addedAt": "2026-08-10",
+   "source": {
+    "platform": "youtube",
+    "id": "3-W4KVMumuA"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-pjoWqVXmz9g",
    "type": "video",
    "title": "2009 ILHC - Lindy Hop Showcase: Sheven Kekoolani & Ellen Scott",
@@ -24867,25 +25078,6 @@
    "source": {
     "platform": "youtube",
     "id": "mBdFL8WmPPI"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-3-W4KVMumuA",
-   "type": "video",
-   "title": "1st Place: Grace & Nalla - All-Star Draw Finals - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 101,
-   "popularity": 50,
-   "addedAt": "2026-08-10",
-   "source": {
-    "platform": "youtube",
-    "id": "3-W4KVMumuA"
    },
    "curated": false
   },
@@ -26974,7 +27166,7 @@
   },
   {
    "id": "yt-PsGh3cHHqZs",
-   "type": "music",
+   "type": "video",
    "title": "More than 270 Millions of Views across platforms 😱 Aye Macarena !",
    "artist": "Emeline Rochefeuille",
    "styles": [
@@ -28403,7 +28595,7 @@
   },
   {
    "id": "yt-9Ow_k01VfSg",
-   "type": "video",
+   "type": "music",
    "title": "Did not expect the hotel room key move mid-improv 😂 Well done Markus 🙌🏼 #dance #westcoastswing",
    "artist": "Emeline Rochefeuille",
    "styles": [
@@ -35040,6 +35232,26 @@
    "curated": false
   },
   {
+   "id": "yt-iH4k-F7n4tw",
+   "type": "tutorial",
+   "title": "8 count moves for beginners Lindy Hop course",
+   "artist": "Portsmouth Lindy Hop",
+   "styles": [
+    "lindy8",
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 47,
+   "popularity": 47,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "iH4k-F7n4tw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Dn8WRrF1XXI",
    "type": "tutorial",
    "title": "6-Count Lindy Hop for Beginners | Cross Hand Moves",
@@ -35112,26 +35324,6 @@
    "source": {
     "platform": "youtube",
     "id": "ivFZvobYuQE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-iH4k-F7n4tw",
-   "type": "tutorial",
-   "title": "8 count moves for beginners Lindy Hop course",
-   "artist": "Portsmouth Lindy Hop",
-   "styles": [
-    "lindy8",
-    "lindy6"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 47,
-   "popularity": 46,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "iH4k-F7n4tw"
    },
    "curated": false
   },
@@ -40013,7 +40205,7 @@
   },
   {
    "id": "yt-E0qmZrVRRw8",
-   "type": "music",
+   "type": "video",
    "title": "Mind = blown 🤯😂🤣 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -45869,7 +46061,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 196,
-   "popularity": 40,
+   "popularity": 41,
    "addedAt": "2026-07-08",
    "source": {
     "platform": "youtube",
@@ -48983,7 +49175,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "video",
+   "type": "music",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -49523,7 +49715,7 @@
   },
   {
    "id": "yt-xh8DrpJDrFg",
-   "type": "video",
+   "type": "music",
    "title": "Jordan Frisbee & Nicole Ramirez \"Man! I Feel Like A Woman!\" - Invitational Jack&Jill - Budafest 2023",
    "artist": "West Coast Swing",
    "styles": [
@@ -55017,6 +55209,25 @@
    "curated": false
   },
   {
+   "id": "yt-45eMp_QmgBM",
+   "type": "video",
+   "title": "2026 Professional Champions - Autumn Jones & Grayson Free",
+   "artist": "Stages Video Productions",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 189,
+   "popularity": 62,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "45eMp_QmgBM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-ydXuB8IzMp8",
    "type": "tutorial",
    "title": "ALL-STAR CLASSIC ROUTINE - ILHC EUROPE 2024",
@@ -55262,25 +55473,6 @@
    "source": {
     "platform": "youtube",
     "id": "TlN0wJqUeRo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-45eMp_QmgBM",
-   "type": "video",
-   "title": "2026 Professional Champions - Autumn Jones & Grayson Free",
-   "artist": "Stages Video Productions",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 189,
-   "popularity": 61,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "45eMp_QmgBM"
    },
    "curated": false
   },
