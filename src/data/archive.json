@@ -1,6 +1,154 @@
 {
- "exportedAt": "2026-11-02T18:15:28.074Z",
+ "exportedAt": "2026-11-03T18:14:58.174Z",
  "items": [
+  {
+   "id": "yt-fyAUKU_ImNg",
+   "type": "music",
+   "title": "Gene Krupa \"Sing, Sing, Sing\" on The Ed Sullivan Show",
+   "artist": "The Ed Sullivan Show",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 328,
+   "popularity": 93,
+   "addedAt": "2026-11-03",
+   "source": {
+    "platform": "youtube",
+    "id": "fyAUKU_ImNg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-T2WTqjC-vPs",
+   "type": "music",
+   "title": "Moanin'",
+   "artist": "Mingus Big Band - Topic",
+   "styles": [],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 540,
+   "popularity": 92,
+   "addedAt": "2026-11-03",
+   "source": {
+    "platform": "youtube",
+    "id": "T2WTqjC-vPs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8vQp0Vhv66g",
+   "type": "video",
+   "title": "1950s Style Jitterbug at the Frim Fram",
+   "artist": "lindyland",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 161,
+   "popularity": 73,
+   "addedAt": "2026-11-03",
+   "source": {
+    "platform": "youtube",
+    "id": "8vQp0Vhv66g"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-8r-KPxtePpo",
+   "type": "video",
+   "title": "Solo Jazz  - Shim Sham - Swing",
+   "artist": "Swing Planet",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 178,
+   "popularity": 65,
+   "addedAt": "2026-11-03",
+   "source": {
+    "platform": "youtube",
+    "id": "8r-KPxtePpo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-yDyKPJ4N-A4",
+   "type": "video",
+   "title": "Elegant Balboa Moves From Jacob Spinney & Julie Roman!",
+   "artist": "Swing Dancing Phoenix",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 63,
+   "popularity": 55,
+   "addedAt": "2026-11-03",
+   "source": {
+    "platform": "youtube",
+    "id": "yDyKPJ4N-A4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-RT3_DxpLOlc",
+   "type": "video",
+   "title": "Balboa at the 138, Grenoble",
+   "artist": "VinnieKatSwing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 97,
+   "popularity": 40,
+   "addedAt": "2026-11-03",
+   "source": {
+    "platform": "youtube",
+    "id": "RT3_DxpLOlc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Dz6zW7KF4pE",
+   "type": "video",
+   "title": "Shag Junction - Level 1 & 2: sliding doors, kicks and more (2020.02.04)",
+   "artist": "Salty Jitterbugs",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 165,
+   "popularity": 37,
+   "addedAt": "2026-11-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Dz6zW7KF4pE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-QL4-5Bm6kVY",
+   "type": "video",
+   "title": "PIS 2026 - Balboa Moments with Natalia & Shawn",
+   "artist": "Policoro in Swing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 193,
+   "popularity": 33,
+   "addedAt": "2026-11-03",
+   "source": {
+    "platform": "youtube",
+    "id": "QL4-5Bm6kVY"
+   },
+   "curated": false
+  },
   {
    "id": "yt-tR08nDP2cYg",
    "type": "video",
@@ -78,6 +226,25 @@
    "curated": false
   },
   {
+   "id": "yt-GK0JI1VmeBE",
+   "type": "video",
+   "title": "KP Rutland & Bryn Anderson - WoW Show - SwingTime Denver 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 135,
+   "popularity": 53,
+   "addedAt": "2026-11-02",
+   "source": {
+    "platform": "youtube",
+    "id": "GK0JI1VmeBE"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-FqFjmyQKyEs",
    "type": "video",
    "title": "American Swing Dance! #america #usa #dance",
@@ -131,25 +298,6 @@
    "source": {
     "platform": "youtube",
     "id": "JlUfDMmv8IA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-GK0JI1VmeBE",
-   "type": "video",
-   "title": "KP Rutland & Bryn Anderson - WoW Show - SwingTime Denver 2026",
-   "artist": "West Coast Swing",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 135,
-   "popularity": 41,
-   "addedAt": "2026-11-02",
-   "source": {
-    "platform": "youtube",
-    "id": "GK0JI1VmeBE"
    },
    "curated": false
   },
@@ -12480,7 +12628,7 @@
    "bpm": null,
    "year": 2013,
    "durationSec": 107,
-   "popularity": 50,
+   "popularity": 51,
    "addedAt": "2026-09-14",
    "source": {
     "platform": "youtube",
@@ -17701,7 +17849,7 @@
    "bpm": null,
    "year": 2017,
    "durationSec": 318,
-   "popularity": 85,
+   "popularity": 86,
    "addedAt": "2026-09-05",
    "source": {
     "platform": "youtube",
@@ -19745,6 +19893,25 @@
    "curated": false
   },
   {
+   "id": "yt-vg0pWCT3ATs",
+   "type": "video",
+   "title": "HRH 2026 - Amateur Shag Strictly Finals COMPLETE CONTEST",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 800,
+   "popularity": 38,
+   "addedAt": "2026-08-28",
+   "source": {
+    "platform": "youtube",
+    "id": "vg0pWCT3ATs"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-JiFHyeQuQF0",
    "type": "tutorial",
    "title": "Why Jitterbug Is Perfect For Beginners",
@@ -19760,25 +19927,6 @@
    "source": {
     "platform": "youtube",
     "id": "JiFHyeQuQF0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-vg0pWCT3ATs",
-   "type": "video",
-   "title": "HRH 2026 - Amateur Shag Strictly Finals COMPLETE CONTEST",
-   "artist": "Hot Rhythm Foundation",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 800,
-   "popularity": 37,
-   "addedAt": "2026-08-28",
-   "source": {
-    "platform": "youtube",
-    "id": "vg0pWCT3ATs"
    },
    "curated": false
   },
@@ -29123,7 +29271,7 @@
   },
   {
    "id": "yt-am3PmylTbDg",
-   "type": "video",
+   "type": "music",
    "title": "Thibault and Nicole Ramirez - 1st Place Showcase - The Open Swing Dance Championships 2024",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -36512,7 +36660,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "video",
+   "type": "music",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -38597,7 +38745,7 @@
    "id": "yt-NQ1RPcD8UKg",
    "type": "video",
    "title": "Jenny Shirar and Christian Frommelt - St. Louis Shag and Swing",
-   "artist": "Christian Frommelt",
+   "artist": "C Frommelt",
    "styles": [
     "shag"
    ],
@@ -40205,7 +40353,7 @@
   },
   {
    "id": "yt-E0qmZrVRRw8",
-   "type": "video",
+   "type": "music",
    "title": "Mind = blown 🤯😂🤣 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -41204,6 +41352,25 @@
    "curated": false
   },
   {
+   "id": "yt-4KLiZJPUEWs",
+   "type": "tutorial",
+   "title": "Collegiate Shag Notebook:  Footwork Variation",
+   "artist": "Michael Quebec",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 324,
+   "popularity": 38,
+   "addedAt": "2026-07-18",
+   "source": {
+    "platform": "youtube",
+    "id": "4KLiZJPUEWs"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-yfTSGNPRuQc",
    "type": "video",
    "title": "HRH 2023: Advanced Collegiate Shag Mix & Match - Theresa & Haily",
@@ -41219,25 +41386,6 @@
    "source": {
     "platform": "youtube",
     "id": "yfTSGNPRuQc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-4KLiZJPUEWs",
-   "type": "tutorial",
-   "title": "Collegiate Shag Notebook:  Footwork Variation",
-   "artist": "Michael Quebec",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 324,
-   "popularity": 37,
-   "addedAt": "2026-07-18",
-   "source": {
-    "platform": "youtube",
-    "id": "4KLiZJPUEWs"
    },
    "curated": false
   },
@@ -41328,7 +41476,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 80,
-   "popularity": 31,
+   "popularity": 32,
    "addedAt": "2026-07-18",
    "source": {
     "platform": "youtube",
@@ -41416,7 +41564,7 @@
   },
   {
    "id": "yt-I9zHYkKoL4A",
-   "type": "music",
+   "type": "video",
    "title": "Swing Out! 1940s Dancing",
    "artist": "1940GlamourGirl",
    "styles": [
@@ -49152,7 +49300,7 @@
   },
   {
    "id": "yt-mw2QbbD5rc8",
-   "type": "music",
+   "type": "video",
    "title": "🧊🧊👶 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -49175,7 +49323,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "music",
+   "type": "video",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -56200,6 +56348,25 @@
    "curated": false
   },
   {
+   "id": "yt-bBz0DE7liKY",
+   "type": "tutorial",
+   "title": "Beginner Shuffle Dance Tutorial (The Charleston)",
+   "artist": "DNCR Dance Tutorials",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 160,
+   "popularity": 59,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "bBz0DE7liKY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-VWNQpsC4tvE",
    "type": "video",
    "title": "2nd Place: Frida & Remy - Invitational Draw - ILHC 2024",
@@ -56256,25 +56423,6 @@
    "source": {
     "platform": "youtube",
     "id": "6dj3tEJHYcU"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-bBz0DE7liKY",
-   "type": "tutorial",
-   "title": "Beginner Shuffle Dance Tutorial (The Charleston)",
-   "artist": "DNCR Dance Tutorials",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 160,
-   "popularity": 58,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "bBz0DE7liKY"
    },
    "curated": false
   },
