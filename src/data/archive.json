@@ -1,6 +1,196 @@
 {
- "exportedAt": "2026-11-03T18:14:58.174Z",
+ "exportedAt": "2026-11-04T18:14:29.384Z",
  "items": [
+  {
+   "id": "yt-F9hy0v3TkTM",
+   "type": "video",
+   "title": "1. 📀 Storm In My Heart - 90s Dance Vibes 🔥💃🏻🕺",
+   "artist": "Channel Fun",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 58,
+   "popularity": 90,
+   "addedAt": "2026-11-04",
+   "source": {
+    "platform": "youtube",
+    "id": "F9hy0v3TkTM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-XbZtUoDCchg",
+   "type": "video",
+   "title": "Nils & Bianca Lindy Hop performance in Manchester, UK",
+   "artist": "Swing North - Manchester Swing Dance",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 170,
+   "popularity": 73,
+   "addedAt": "2026-11-04",
+   "source": {
+    "platform": "youtube",
+    "id": "XbZtUoDCchg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-cPzhHNL_MsE",
+   "type": "video",
+   "title": "Teachers Performance - Pamela & Tadas @ Swingala 2025 #lindyhop #swingdance",
+   "artist": "스윙댄스 Lindy Explorer ",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 166,
+   "popularity": 58,
+   "addedAt": "2026-11-04",
+   "source": {
+    "platform": "youtube",
+    "id": "cPzhHNL_MsE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-CZBjCbq5qZc",
+   "type": "video",
+   "title": "Lindy Eight Count Recap Nov 2 - Inside turn to Swivel Swingout",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 59,
+   "popularity": 47,
+   "addedAt": "2026-11-04",
+   "source": {
+    "platform": "youtube",
+    "id": "CZBjCbq5qZc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zA1TP0AsgFE",
+   "type": "video",
+   "title": "Solo Jazz Dance - Clap Your Hands",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 126,
+   "popularity": 45,
+   "addedAt": "2026-11-04",
+   "source": {
+    "platform": "youtube",
+    "id": "zA1TP0AsgFE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-cbwBDGojBT0",
+   "type": "video",
+   "title": "Week 1 - 6 count triple swing",
+   "artist": "MONCTON SWING CO-HOP",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 58,
+   "popularity": 44,
+   "addedAt": "2026-11-04",
+   "source": {
+    "platform": "youtube",
+    "id": "cbwBDGojBT0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-qj0dFA5jeHk",
+   "type": "video",
+   "title": "Open Strictly Final with Carolina Reapers Swing - ILHC EUROPE 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 755,
+   "popularity": 43,
+   "addedAt": "2026-11-04",
+   "source": {
+    "platform": "youtube",
+    "id": "qj0dFA5jeHk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-MXb15YpIIR8",
+   "type": "video",
+   "title": "Highlights of Advanced Draw Final with Carolina Reapers Swing!  #dance #dancerlife #dancer",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 54,
+   "popularity": 41,
+   "addedAt": "2026-11-04",
+   "source": {
+    "platform": "youtube",
+    "id": "MXb15YpIIR8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-YskpzBV6wGs",
+   "type": "video",
+   "title": "Highlights of Open Strictly Final with Carolina Reapers Swing  #dance #dancerlife #dancer",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 54,
+   "popularity": 38,
+   "addedAt": "2026-11-04",
+   "source": {
+    "platform": "youtube",
+    "id": "YskpzBV6wGs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gOka0i2Li0E",
+   "type": "video",
+   "title": "BCN Shag Festival 2026 - Showcase Contest - Ioanna & Apostolos",
+   "artist": "Shag BCN",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 144,
+   "popularity": 33,
+   "addedAt": "2026-11-04",
+   "source": {
+    "platform": "youtube",
+    "id": "gOka0i2Li0E"
+   },
+   "curated": false
+  },
   {
    "id": "yt-fyAUKU_ImNg",
    "type": "music",
@@ -169,6 +359,25 @@
    "curated": false
   },
   {
+   "id": "yt-FqFjmyQKyEs",
+   "type": "video",
+   "title": "American Swing Dance! #america #usa #dance",
+   "artist": "Sondre & Tanya",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 62,
+   "addedAt": "2026-11-02",
+   "source": {
+    "platform": "youtube",
+    "id": "FqFjmyQKyEs"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Ye7kU_ENYag",
    "type": "video",
    "title": "Christian Frommelt & Jenny Shirar at Moscow Lindy Hop and St. Louis Shag Weekend 2016",
@@ -241,25 +450,6 @@
    "source": {
     "platform": "youtube",
     "id": "GK0JI1VmeBE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-FqFjmyQKyEs",
-   "type": "video",
-   "title": "American Swing Dance! #america #usa #dance",
-   "artist": "Sondre & Tanya",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 59,
-   "popularity": 45,
-   "addedAt": "2026-11-02",
-   "source": {
-    "platform": "youtube",
-    "id": "FqFjmyQKyEs"
    },
    "curated": false
   },
@@ -445,7 +635,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 62,
-   "popularity": 50,
+   "popularity": 51,
    "addedAt": "2026-11-01",
    "source": {
     "platform": "youtube",
@@ -2370,7 +2560,7 @@
   {
    "id": "yt-BdPmQpDcX-s",
    "type": "video",
-   "title": "1920s Speakeasy Music:🎵 \"Charleston\"💄 (AI Music-Video + 1923 Lyrics by Cecil Mack✍️) Let's Dance 💃",
+   "title": "1920s Speakeasy Music:🎵 \"Charleston\"💄 Music Video 📹",
    "artist": "videofab",
    "styles": [
     "charleston"
@@ -2378,7 +2568,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 172,
-   "popularity": 67,
+   "popularity": 68,
    "addedAt": "2026-10-23",
    "source": {
     "platform": "youtube",
@@ -12476,7 +12666,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 566,
-   "popularity": 58,
+   "popularity": 59,
    "addedAt": "2026-09-14",
    "source": {
     "platform": "youtube",
@@ -16004,7 +16194,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 152,
-   "popularity": 52,
+   "popularity": 53,
    "addedAt": "2026-09-08",
    "source": {
     "platform": "youtube",
@@ -17717,7 +17907,7 @@
    "bpm": null,
    "year": 2011,
    "durationSec": 192,
-   "popularity": 48,
+   "popularity": 49,
    "addedAt": "2026-09-06",
    "source": {
     "platform": "youtube",
@@ -22802,7 +22992,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 49,
-   "popularity": 38,
+   "popularity": 39,
    "addedAt": "2026-08-15",
    "source": {
     "platform": "youtube",
@@ -24211,7 +24401,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 86,
-   "popularity": 55,
+   "popularity": 56,
    "addedAt": "2026-08-12",
    "source": {
     "platform": "youtube",
@@ -25781,7 +25971,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 119,
-   "popularity": 61,
+   "popularity": 62,
    "addedAt": "2026-08-09",
    "source": {
     "platform": "youtube",
@@ -25915,7 +26105,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 60,
-   "popularity": 53,
+   "popularity": 54,
    "addedAt": "2026-08-09",
    "source": {
     "platform": "youtube",
@@ -27275,7 +27465,7 @@
   },
   {
    "id": "yt-MggQSspSGU8",
-   "type": "video",
+   "type": "music",
    "title": "California Jubilee in \"Let's Twist Again\" - Chubby Checker",
    "artist": "Pascal De Maria",
    "styles": [
@@ -34076,7 +34266,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "video",
+   "type": "music",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -36660,7 +36850,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "music",
+   "type": "video",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -40098,7 +40288,7 @@
   },
   {
    "id": "yt-JOdRkqcvius",
-   "type": "video",
+   "type": "music",
    "title": "Leapin' Lindy 2024: Show Nils & Bianca",
    "artist": "Leapin' Lindy",
    "styles": [
@@ -40353,7 +40543,7 @@
   },
   {
    "id": "yt-E0qmZrVRRw8",
-   "type": "music",
+   "type": "video",
    "title": "Mind = blown 🤯😂🤣 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -41606,7 +41796,7 @@
   },
   {
    "id": "yt-BduX_wdwG6s",
-   "type": "tutorial",
+   "type": "music",
    "title": "2nd Place: Bianca & Nils - World Finals Classic - ILHC 2026",
    "artist": "The International Lindy Hop Championships",
    "styles": [
@@ -44214,7 +44404,7 @@
   },
   {
    "id": "yt-MISaPoTRCjE",
-   "type": "video",
+   "type": "music",
    "title": "Remy and Alice - Lindy Hop Invitational | The Snowball 2025",
    "artist": "Slava Bogatov",
    "styles": [
@@ -45999,7 +46189,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 45,
-   "popularity": 60,
+   "popularity": 61,
    "addedAt": "2026-07-08",
    "source": {
     "platform": "youtube",
@@ -49142,7 +49332,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -49232,7 +49422,7 @@
   },
   {
    "id": "yt-qMglBwfhsN4",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2019 – Dietmar & Nellia – Never Stop Jiving",
    "artist": "RockThatSwing",
    "styles": [
@@ -49300,7 +49490,7 @@
   },
   {
    "id": "yt-mw2QbbD5rc8",
-   "type": "video",
+   "type": "music",
    "title": "🧊🧊👶 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -49507,7 +49697,7 @@
   },
   {
    "id": "yt-v9xxeWRxSbA",
-   "type": "video",
+   "type": "music",
    "title": "ILHC 2013 - Invitational Strictly Lindy Hop Finals",
    "artist": "Alain Wong",
    "styles": [
@@ -49722,7 +49912,7 @@
   },
   {
    "id": "yt-XcHsHrFobgg",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2020 Rock That Swing Ball (Saturday) – Killer Boogie",
    "artist": "RockThatSwing",
    "styles": [
@@ -49863,7 +50053,7 @@
   },
   {
    "id": "yt-xh8DrpJDrFg",
-   "type": "music",
+   "type": "video",
    "title": "Jordan Frisbee & Nicole Ramirez \"Man! I Feel Like A Woman!\" - Invitational Jack&Jill - Budafest 2023",
    "artist": "West Coast Swing",
    "styles": [
@@ -50023,7 +50213,7 @@
   },
   {
    "id": "yt-gc5fOmnB1z4",
-   "type": "music",
+   "type": "video",
    "title": "OUR FIRST DANCE (Lindy Hop)",
    "artist": "The FamLee Life",
    "styles": [
@@ -50286,7 +50476,7 @@
   },
   {
    "id": "yt-FoSH-UQqB8Q",
-   "type": "video",
+   "type": "music",
    "title": "1st Place: Bianca & Felix - Invitational Draw - ILHC 2022",
    "artist": "The International Lindy Hop Championships",
    "styles": [
@@ -50508,7 +50698,7 @@
   },
   {
    "id": "yt-Q3ew4E_-8Ps",
-   "type": "video",
+   "type": "music",
    "title": "Throwback Video! Lindy Hop combos with Anna, Slava, Jean, and Ali",
    "artist": "SwingStepTV",
    "styles": [
@@ -50758,7 +50948,8 @@
    "styles": [
     "lindy",
     "charleston",
-    "lindy8"
+    "lindy8",
+    "lindy6"
    ],
    "bpm": null,
    "year": 2020,
@@ -51267,7 +51458,7 @@
   },
   {
    "id": "yt-Xu6Y9cAQqIs",
-   "type": "music",
+   "type": "video",
    "title": "The Lindy-Hop-A-Thon Group Dance - BBC Strictly 2018",
    "artist": "BBC Strictly Come Dancing",
    "styles": [
@@ -52304,7 +52495,7 @@
   },
   {
    "id": "yt-VSE7SD3l3uA",
-   "type": "video",
+   "type": "music",
    "title": "Swing Out - Learn to Lindy Hop from the Ground Up",
    "artist": "Laura Glaess",
    "styles": [
@@ -54055,6 +54246,26 @@
    "curated": false
   },
   {
+   "id": "yt-4HhuZXXTxlI",
+   "type": "video",
+   "title": "Advanced Tandem Charleston Combinations for Lindy Hop and Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "charleston",
+    "lindy"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 47,
+   "popularity": 67,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "4HhuZXXTxlI"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-5mcyDwSBOgg",
    "type": "video",
    "title": "Lindy Hop Level 3 - Frankie Manning & Erin Stevens (1995)",
@@ -54320,26 +54531,6 @@
    "source": {
     "platform": "youtube",
     "id": "diStBFJO-ls"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-4HhuZXXTxlI",
-   "type": "video",
-   "title": "Advanced Tandem Charleston Combinations for Lindy Hop and Swing Dance",
-   "artist": "Laura Glaess",
-   "styles": [
-    "charleston",
-    "lindy"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 47,
-   "popularity": 66,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "4HhuZXXTxlI"
    },
    "curated": false
   },
@@ -55376,6 +55567,27 @@
    "curated": false
   },
   {
+   "id": "yt--N7fHNJNFyw",
+   "type": "tutorial",
+   "title": "Lindy Hop | Remy & Moe – Lesson 1 \"Six Counts Basic Moves\"",
+   "artist": "Summer Jamboree Dance Academy",
+   "styles": [
+    "lindy",
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 641,
+   "popularity": 62,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "-N7fHNJNFyw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-ydXuB8IzMp8",
    "type": "tutorial",
    "title": "ALL-STAR CLASSIC ROUTINE - ILHC EUROPE 2024",
@@ -55660,27 +55872,6 @@
    "source": {
     "platform": "youtube",
     "id": "E6vngBqLLDw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt--N7fHNJNFyw",
-   "type": "tutorial",
-   "title": "Lindy Hop | Remy & Moe – Lesson 1 \"Six Counts Basic Moves\"",
-   "artist": "Summer Jamboree Dance Academy",
-   "styles": [
-    "lindy",
-    "lindy6",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 641,
-   "popularity": 61,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "-N7fHNJNFyw"
    },
    "curated": false
   },
