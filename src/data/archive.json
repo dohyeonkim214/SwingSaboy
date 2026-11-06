@@ -1,6 +1,116 @@
 {
- "exportedAt": "2026-11-05T18:16:36.231Z",
+ "exportedAt": "2026-11-06T18:16:41.090Z",
  "items": [
+  {
+   "id": "yt-bWOauEtsLdk",
+   "type": "music",
+   "title": "Jazz swing bass backing track | Only jazz drums | 150 Bpm",
+   "artist": "Backing Tracks Channel",
+   "styles": [],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 381,
+   "popularity": 72,
+   "addedAt": "2026-11-06",
+   "source": {
+    "platform": "youtube",
+    "id": "bWOauEtsLdk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Pq2WazBDqNI",
+   "type": "music",
+   "title": "April And June Swing jazz from 1940s AI Art",
+   "artist": "Riff Raff Jazz Club",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 216,
+   "popularity": 70,
+   "addedAt": "2026-11-06",
+   "source": {
+    "platform": "youtube",
+    "id": "Pq2WazBDqNI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tUAq6q1jfIA",
+   "type": "video",
+   "title": "Stephen is widely known for reviving authentic Collegiate Shag #dance #dancer #dancemoves #stephen",
+   "artist": "AMAZING EVENTS",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 46,
+   "popularity": 67,
+   "addedAt": "2026-11-06",
+   "source": {
+    "platform": "youtube",
+    "id": "tUAq6q1jfIA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7MQ3n8tsoJo",
+   "type": "video",
+   "title": "LA Jitterbug - Student Team - Camp Hollywood 2025",
+   "artist": "camphollywood",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 280,
+   "popularity": 46,
+   "addedAt": "2026-11-06",
+   "source": {
+    "platform": "youtube",
+    "id": "7MQ3n8tsoJo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-cyTFNOOQm_0",
+   "type": "video",
+   "title": "Red Shufflers Everyday | Balboa | Part 3/3",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 54,
+   "popularity": 40,
+   "addedAt": "2026-11-06",
+   "source": {
+    "platform": "youtube",
+    "id": "cyTFNOOQm_0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-n9LmIPskfmA",
+   "type": "video",
+   "title": "Natalia & Adam at Balboa Delight 2026",
+   "artist": "Basel Jitterbugs",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 136,
+   "popularity": 0,
+   "addedAt": "2026-11-06",
+   "source": {
+    "platform": "youtube",
+    "id": "n9LmIPskfmA"
+   },
+   "curated": false
+  },
   {
    "id": "yt-2uo_Xmi-mdU",
    "type": "music",
@@ -2105,7 +2215,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 188,
-   "popularity": 59,
+   "popularity": 60,
    "addedAt": "2026-10-26",
    "source": {
     "platform": "youtube",
@@ -4831,7 +4941,7 @@
   {
    "id": "yt-T6yQ5sh4cc4",
    "type": "tutorial",
-   "title": "Aprende Balboa/Bal-Swing: Beginner Level #balboadance #balswing #swingchile #swingdance",
+   "title": "BALBOA/BAL-SWING Beginner Level Recap #balboadance #balswing #swingchile #swingdance",
    "artist": "Groove That Swing",
    "styles": [
     "balboa"
@@ -4839,7 +4949,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 57,
-   "popularity": 27,
+   "popularity": 34,
    "addedAt": "2026-10-14",
    "source": {
     "platform": "youtube",
@@ -5201,7 +5311,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 128,
-   "popularity": 33,
+   "popularity": 34,
    "addedAt": "2026-10-12",
    "source": {
     "platform": "youtube",
@@ -10855,6 +10965,25 @@
    "curated": false
   },
   {
+   "id": "yt-71XLhro8iHg",
+   "type": "video",
+   "title": "Dee & Kate - Pure Bal Finals, CalBal 2020, spotlights",
+   "artist": "Kate Hedin",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 82,
+   "popularity": 28,
+   "addedAt": "2026-09-20",
+   "source": {
+    "platform": "youtube",
+    "id": "71XLhro8iHg"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-F72xGn4Eb8I",
    "type": "video",
    "title": "Want to see how smooth the best 2026 Amateur Balboa Swing Dancers are?",
@@ -10870,25 +10999,6 @@
    "source": {
     "platform": "youtube",
     "id": "F72xGn4Eb8I"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-71XLhro8iHg",
-   "type": "video",
-   "title": "Dee & Kate - Pure Bal Finals, CalBal 2020, spotlights",
-   "artist": "Kate Hedin",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 82,
-   "popularity": 27,
-   "addedAt": "2026-09-20",
-   "source": {
-    "platform": "youtube",
-    "id": "71XLhro8iHg"
    },
    "curated": false
   },
@@ -14921,6 +15031,25 @@
    "curated": false
   },
   {
+   "id": "yt-1xOuGSiVqjg",
+   "type": "tutorial",
+   "title": "Collegiate Shag for Beginners #2 | Breaks: Technique for Getting In & Out",
+   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 163,
+   "popularity": 36,
+   "addedAt": "2026-09-11",
+   "source": {
+    "platform": "youtube",
+    "id": "1xOuGSiVqjg"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-X4mqcMbI0Eg",
    "type": "video",
    "title": "Collegiate Shag Strictly Final - Kiwon & Giselle - BAL&HOP 2025",
@@ -14993,25 +15122,6 @@
    "source": {
     "platform": "youtube",
     "id": "ZMAgqpT-hA4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-1xOuGSiVqjg",
-   "type": "tutorial",
-   "title": "Collegiate Shag for Beginners #2 | Breaks: Technique for Getting In & Out",
-   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 163,
-   "popularity": 10,
-   "addedAt": "2026-09-11",
-   "source": {
-    "platform": "youtube",
-    "id": "1xOuGSiVqjg"
    },
    "curated": false
   },
@@ -16513,6 +16623,25 @@
    "curated": false
   },
   {
+   "id": "yt-X1g-kgUyapU",
+   "type": "video",
+   "title": "Advanced Jazz Finals - ILHC 2026",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 551,
+   "popularity": 49,
+   "addedAt": "2026-09-08",
+   "source": {
+    "platform": "youtube",
+    "id": "X1g-kgUyapU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Vhv8vYkHKic",
    "type": "video",
    "title": "1940's Jive/Jitterbug Swing Dance Demonstration",
@@ -16564,25 +16693,6 @@
    "source": {
     "platform": "youtube",
     "id": "cr_Uio_HkiE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-X1g-kgUyapU",
-   "type": "video",
-   "title": "Advanced Jazz Finals - ILHC 2026",
-   "artist": "The International Lindy Hop Championships",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 551,
-   "popularity": 48,
-   "addedAt": "2026-09-08",
-   "source": {
-    "platform": "youtube",
-    "id": "X1g-kgUyapU"
    },
    "curated": false
   },
@@ -18923,6 +19033,25 @@
    "curated": false
   },
   {
+   "id": "yt-LsSS9oHN170",
+   "type": "video",
+   "title": "Maxime Zzaoui & Emeline Rochefeuille - 1st place Champions Jack&Jill Finals - German Open 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 255,
+   "popularity": 64,
+   "addedAt": "2026-09-03",
+   "source": {
+    "platform": "youtube",
+    "id": "LsSS9oHN170"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-guiXh9f2z5I",
    "type": "video",
    "title": "Q&A2 - for Lindy Hop and Swing Dance",
@@ -18939,25 +19068,6 @@
    "source": {
     "platform": "youtube",
     "id": "guiXh9f2z5I"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-LsSS9oHN170",
-   "type": "video",
-   "title": "Maxime Zzaoui & Emeline Rochefeuille - 1st place Champions Jack&Jill Finals - German Open 2026",
-   "artist": "West Coast Swing",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 255,
-   "popularity": 63,
-   "addedAt": "2026-09-03",
-   "source": {
-    "platform": "youtube",
-    "id": "LsSS9oHN170"
    },
    "curated": false
   },
@@ -19067,7 +19177,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 148,
-   "popularity": 51,
+   "popularity": 52,
    "addedAt": "2026-09-03",
    "source": {
     "platform": "youtube",
@@ -20195,7 +20305,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 245,
-   "popularity": 85,
+   "popularity": 86,
    "addedAt": "2026-08-28",
    "source": {
     "platform": "youtube",
@@ -20297,6 +20407,25 @@
    "curated": false
   },
   {
+   "id": "yt-JiFHyeQuQF0",
+   "type": "tutorial",
+   "title": "Why Jitterbug Is Perfect For Beginners",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 72,
+   "popularity": 50,
+   "addedAt": "2026-08-28",
+   "source": {
+    "platform": "youtube",
+    "id": "JiFHyeQuQF0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-yMwNoCaWUpU",
    "type": "video",
    "title": "Advanced Draw Finals - ILHC 2026",
@@ -20369,25 +20498,6 @@
    "source": {
     "platform": "youtube",
     "id": "vg0pWCT3ATs"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-JiFHyeQuQF0",
-   "type": "tutorial",
-   "title": "Why Jitterbug Is Perfect For Beginners",
-   "artist": "Social Dance Online",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 72,
-   "popularity": 37,
-   "addedAt": "2026-08-28",
-   "source": {
-    "platform": "youtube",
-    "id": "JiFHyeQuQF0"
    },
    "curated": false
   },
@@ -27736,7 +27846,7 @@
   },
   {
    "id": "yt-MggQSspSGU8",
-   "type": "music",
+   "type": "video",
    "title": "California Jubilee in \"Let's Twist Again\" - Chubby Checker",
    "artist": "Pascal De Maria",
    "styles": [
@@ -27775,7 +27885,7 @@
   },
   {
    "id": "yt-PsGh3cHHqZs",
-   "type": "music",
+   "type": "video",
    "title": "More than 270 Millions of Views across platforms 😱 Aye Macarena !",
    "artist": "Emeline Rochefeuille",
    "styles": [
@@ -29204,7 +29314,7 @@
   },
   {
    "id": "yt-9Ow_k01VfSg",
-   "type": "music",
+   "type": "video",
    "title": "Did not expect the hotel room key move mid-improv 😂 Well done Markus 🙌🏼 #dance #westcoastswing",
    "artist": "Emeline Rochefeuille",
    "styles": [
@@ -30379,7 +30489,7 @@
    "bpm": null,
    "year": 2020,
    "durationSec": 1843,
-   "popularity": 76,
+   "popularity": 77,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -31463,6 +31573,25 @@
    "curated": false
   },
   {
+   "id": "yt-zi1usPXUeJc",
+   "type": "video",
+   "title": "Jordan Frisbee & Brandi Guild - Improv Modern West Coast Swing - 2025 Revitalise WCS",
+   "artist": "Revitalise WCS | toniq dance",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 175,
+   "popularity": 64,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "zi1usPXUeJc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-A8cNBjQwMUw",
    "type": "tutorial",
    "title": "WCS Tutorial - The 6 vs 8 Count WCS Dance SECRET",
@@ -31577,25 +31706,6 @@
    "curated": false
   },
   {
-   "id": "yt-zi1usPXUeJc",
-   "type": "video",
-   "title": "Jordan Frisbee & Brandi Guild - Improv Modern West Coast Swing - 2025 Revitalise WCS",
-   "artist": "Revitalise WCS | toniq dance",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 175,
-   "popularity": 63,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "zi1usPXUeJc"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-Ba8w73x4J2s",
    "type": "tutorial",
    "title": "How to REALLY DANCE West Coast Swing!",
@@ -31667,6 +31777,25 @@
    "source": {
     "platform": "youtube",
     "id": "J6a-GASlZU8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-we6Lqt3E3Sc",
+   "type": "tutorial",
+   "title": "Country Swing Basics",
+   "artist": "Luke Beckstrand",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 70,
+   "popularity": 62,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "we6Lqt3E3Sc"
    },
    "curated": false
   },
@@ -31838,25 +31967,6 @@
    "source": {
     "platform": "youtube",
     "id": "piuK3Dd5rHI"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-we6Lqt3E3Sc",
-   "type": "tutorial",
-   "title": "Country Swing Basics",
-   "artist": "Luke Beckstrand",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 70,
-   "popularity": 61,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "we6Lqt3E3Sc"
    },
    "curated": false
   },
@@ -33278,7 +33388,7 @@
   },
   {
    "id": "yt-Qr9_aocDqAc",
-   "type": "music",
+   "type": "video",
    "title": "John Lindo & Victoria Henk - Champions Jack&Jill Finals - Jack&Jill O'Rama 2024",
    "artist": "Jack & Jill O'Rama",
    "styles": [
@@ -34701,7 +34811,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 152,
-   "popularity": 63,
+   "popularity": 64,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -35648,6 +35758,25 @@
    "curated": false
   },
   {
+   "id": "yt-oEN7VcFqCdQ",
+   "type": "video",
+   "title": "SWINGALA 2025 - Lindy hop M&M Advanced competition",
+   "artist": "Spirit Of St. Louis Roma",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 423,
+   "popularity": 50,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "oEN7VcFqCdQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-qgEabWDMsGc",
    "type": "tutorial",
    "title": "Swing Dance Beginner 6-Count Lindy Hop Moves | Side by Side | Jig Kicks",
@@ -35663,25 +35792,6 @@
    "source": {
     "platform": "youtube",
     "id": "qgEabWDMsGc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-oEN7VcFqCdQ",
-   "type": "video",
-   "title": "SWINGALA 2025 - Lindy hop M&M Advanced competition",
-   "artist": "Spirit Of St. Louis Roma",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 423,
-   "popularity": 49,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "oEN7VcFqCdQ"
    },
    "curated": false
   },
@@ -37143,7 +37253,7 @@
   },
   {
    "id": "yt-2PyDM6B_5_Q",
-   "type": "video",
+   "type": "music",
    "title": "I guess we really can swing to ANYTHING 😂 West Coast Swing Improv #dance",
    "artist": "Sean & Alyssa McKeever",
    "styles": [
@@ -40814,7 +40924,7 @@
   },
   {
    "id": "yt-E0qmZrVRRw8",
-   "type": "music",
+   "type": "video",
    "title": "Mind = blown 🤯😂🤣 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -41595,7 +41705,7 @@
    "bpm": null,
    "year": 2020,
    "durationSec": 53,
-   "popularity": 47,
+   "popularity": 48,
    "addedAt": "2026-07-18",
    "source": {
     "platform": "youtube",
@@ -42078,7 +42188,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 185,
-   "popularity": 72,
+   "popularity": 73,
    "addedAt": "2026-07-17",
    "source": {
     "platform": "youtube",
@@ -48725,7 +48835,7 @@
   },
   {
    "id": "yt-rb7rp9FhD64",
-   "type": "music",
+   "type": "video",
    "title": "The way the crowd went oooOOOH 😆 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -50969,7 +51079,7 @@
   },
   {
    "id": "yt-Q3ew4E_-8Ps",
-   "type": "video",
+   "type": "music",
    "title": "Throwback Video! Lindy Hop combos with Anna, Slava, Jean, and Ali",
    "artist": "SwingStepTV",
    "styles": [
