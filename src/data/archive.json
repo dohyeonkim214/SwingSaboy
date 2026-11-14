@@ -1,6 +1,260 @@
 {
- "exportedAt": "2026-11-13T18:13:52.431Z",
+ "exportedAt": "2026-11-14T18:13:22.106Z",
  "items": [
+  {
+   "id": "yt-kxwAnl0MBpk",
+   "type": "music",
+   "title": "Swing Dance (Let's Get Loud) - GPE4 FINAL EXAMINATION",
+   "artist": "Bryan James Fernandico",
+   "styles": [],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 180,
+   "popularity": 86,
+   "addedAt": "2026-11-14",
+   "source": {
+    "platform": "youtube",
+    "id": "kxwAnl0MBpk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-cryl1LYiSvw",
+   "type": "music",
+   "title": "Blue Bossa Backing Track (140 BPM) – Bossa Nova Play Along | Jazz Guitar, Piano, Sax",
+   "artist": "PRACTICE JAZZ",
+   "styles": [],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 57,
+   "popularity": 80,
+   "addedAt": "2026-11-14",
+   "source": {
+    "platform": "youtube",
+    "id": "cryl1LYiSvw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ORmetTZjTUM",
+   "type": "music",
+   "title": "All Of Me - Jazz Swing Style - Female - Male Karaoke Backing Track",
+   "artist": "softbackingtracks",
+   "styles": [],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 193,
+   "popularity": 77,
+   "addedAt": "2026-11-14",
+   "source": {
+    "platform": "youtube",
+    "id": "ORmetTZjTUM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-dEyUDd_hVd4",
+   "type": "music",
+   "title": "Gypsy jazz chords! 🎻🎙️#guitar #gypsyjazz #guitarlesson #guitarsolo",
+   "artist": "What The Chord!",
+   "styles": [],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 60,
+   "popularity": 76,
+   "addedAt": "2026-11-14",
+   "source": {
+    "platform": "youtube",
+    "id": "dEyUDd_hVd4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-k3WxyEXp6rc",
+   "type": "music",
+   "title": "Comping A Jazz Standard - This Is How To Get Started",
+   "artist": "Jens Larsen",
+   "styles": [],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 409,
+   "popularity": 76,
+   "addedAt": "2026-11-14",
+   "source": {
+    "platform": "youtube",
+    "id": "k3WxyEXp6rc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-J5LgYMUrj-4",
+   "type": "music",
+   "title": "New Jazz Backing Track ALL OF ME (C) Jazz Standards Play Along Jazzing mp3 for Sax Trumpet Guitar",
+   "artist": "Jazzing",
+   "styles": [],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 194,
+   "popularity": 74,
+   "addedAt": "2026-11-14",
+   "source": {
+    "platform": "youtube",
+    "id": "J5LgYMUrj-4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-VV7-Hy6IHwo",
+   "type": "video",
+   "title": "This shouldn't be physically possible 🤯😍🔥 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 55,
+   "popularity": 62,
+   "addedAt": "2026-11-14",
+   "source": {
+    "platform": "youtube",
+    "id": "VV7-Hy6IHwo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-jXpuyLkaht0",
+   "type": "video",
+   "title": "Aris Demarco & Talía Colón - 1st place All-Star Jack&Jill Finals - SwingTime Denver 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 187,
+   "popularity": 54,
+   "addedAt": "2026-11-14",
+   "source": {
+    "platform": "youtube",
+    "id": "jXpuyLkaht0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-A7AlPouzHbQ",
+   "type": "video",
+   "title": "Marty & Alice - Balboa (turn combos)",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 66,
+   "popularity": 51,
+   "addedAt": "2026-11-14",
+   "source": {
+    "platform": "youtube",
+    "id": "A7AlPouzHbQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ZxYguxiHUPQ",
+   "type": "video",
+   "title": "Moments of Balboa Contest Final with Martin Burguez & his rhythm combo!",
+   "artist": "Savoy Cup",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 50,
+   "popularity": 46,
+   "addedAt": "2026-11-14",
+   "source": {
+    "platform": "youtube",
+    "id": "ZxYguxiHUPQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-1PmAz6g0jLE",
+   "type": "tutorial",
+   "title": "Uptown Swing - Solo Charleston Tuesday class 8/26/14",
+   "artist": "Uptown Swing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 120,
+   "popularity": 46,
+   "addedAt": "2026-11-14",
+   "source": {
+    "platform": "youtube",
+    "id": "1PmAz6g0jLE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pSr2zTH85kk",
+   "type": "video",
+   "title": "[Busan] ShoobyDoo \" Solo Charleston \"  #Shoobydoo #Solojazz #Charleston #lalla #swingdance",
+   "artist": "Lalla and Sunny",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 53,
+   "popularity": 44,
+   "addedAt": "2026-11-14",
+   "source": {
+    "platform": "youtube",
+    "id": "pSr2zTH85kk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3G1HMQSSiIo",
+   "type": "video",
+   "title": "Asia Balboa Exchange 2026 Novice M&M 2nd🥈🥈🙆🏻‍♀️🙆🏻‍♀️ #abx#balboa#dancer#dance#swingdance#발보아",
+   "artist": "HolaShuri 올라슈리",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 102,
+   "popularity": 43,
+   "addedAt": "2026-11-14",
+   "source": {
+    "platform": "youtube",
+    "id": "3G1HMQSSiIo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--0sX3K7JghU",
+   "type": "video",
+   "title": "Gabi Wasserman & Olga Khvan - 2nd place All-Star Jack&Jill Finals - SwingTime Denver 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 174,
+   "popularity": 32,
+   "addedAt": "2026-11-14",
+   "source": {
+    "platform": "youtube",
+    "id": "-0sX3K7JghU"
+   },
+   "curated": false
+  },
   {
    "id": "yt-xqW-Hfk0FN0",
    "type": "music",
@@ -74,6 +328,25 @@
    "curated": false
   },
   {
+   "id": "yt-GFqhf0o7IWY",
+   "type": "video",
+   "title": "All That Jazz! Cameo McHenry & Ben Morris West Coast Swing Improv",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 54,
+   "addedAt": "2026-11-13",
+   "source": {
+    "platform": "youtube",
+    "id": "GFqhf0o7IWY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-M4d08NciKUE",
    "type": "video",
    "title": "Lindy Hop Showcase JDC  2019",
@@ -127,25 +400,6 @@
    "source": {
     "platform": "youtube",
     "id": "f5uw6_unrtY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-GFqhf0o7IWY",
-   "type": "video",
-   "title": "All That Jazz! Cameo McHenry & Ben Morris West Coast Swing Improv",
-   "artist": "Ben Morris",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 60,
-   "popularity": 39,
-   "addedAt": "2026-11-13",
-   "source": {
-    "platform": "youtube",
-    "id": "GFqhf0o7IWY"
    },
    "curated": false
   },
@@ -805,7 +1059,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 234,
-   "popularity": 68,
+   "popularity": 69,
    "addedAt": "2026-11-07",
    "source": {
     "platform": "youtube",
@@ -4494,7 +4748,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 152,
-   "popularity": 33,
+   "popularity": 35,
    "addedAt": "2026-10-18",
    "source": {
     "platform": "youtube",
@@ -14409,7 +14663,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 2427,
-   "popularity": 49,
+   "popularity": 50,
    "addedAt": "2026-09-13",
    "source": {
     "platform": "youtube",
@@ -15778,7 +16032,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 87,
-   "popularity": 45,
+   "popularity": 46,
    "addedAt": "2026-09-11",
    "source": {
     "platform": "youtube",
@@ -25997,6 +26251,25 @@
    "curated": false
   },
   {
+   "id": "yt-4-HugxP-rDc",
+   "type": "tutorial",
+   "title": "Collegiate Shag | Steve & Chanzie – Lesson 1 \"Double Kick Basics and Hitches\"",
+   "artist": "Summer Jamboree Dance Academy",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 178,
+   "popularity": 39,
+   "addedAt": "2026-08-11",
+   "source": {
+    "platform": "youtube",
+    "id": "4-HugxP-rDc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-h-V0ip_izH8",
    "type": "video",
    "title": "2026 Swingin' by the Sound  - Advanced Collegiate Shag Mix & Match Finals",
@@ -26031,25 +26304,6 @@
    "source": {
     "platform": "youtube",
     "id": "Cf5rvSHVQis"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-4-HugxP-rDc",
-   "type": "tutorial",
-   "title": "Collegiate Shag | Steve & Chanzie – Lesson 1 \"Double Kick Basics and Hitches\"",
-   "artist": "Summer Jamboree Dance Academy",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 178,
-   "popularity": 38,
-   "addedAt": "2026-08-11",
-   "source": {
-    "platform": "youtube",
-    "id": "4-HugxP-rDc"
    },
    "curated": false
   },
@@ -26890,7 +27144,7 @@
    "bpm": null,
    "year": 2024,
    "durationSec": 165,
-   "popularity": 99,
+   "popularity": 100,
    "addedAt": "2026-08-09",
    "source": {
     "platform": "youtube",
@@ -29561,7 +29815,7 @@
   },
   {
    "id": "yt-jB6pd-kTbGo",
-   "type": "music",
+   "type": "video",
    "title": "She KNEW this song 🤩 #improv #westcoastswing with Tren Veal",
    "artist": "Ken & Bryn",
    "styles": [
@@ -29791,7 +30045,7 @@
   },
   {
    "id": "yt-tsX87384tnQ",
-   "type": "video",
+   "type": "music",
    "title": "Improvised West Coast Swing Dance by PJ Turner & Tashina Beckmann - Inspirational JnJ (2017)",
    "artist": "Musicologia",
    "styles": [
@@ -30127,7 +30381,7 @@
   },
   {
    "id": "yt-9Ow_k01VfSg",
-   "type": "video",
+   "type": "music",
    "title": "Did not expect the hotel room key move mid-improv 😂 Well done Markus 🙌🏼 #dance #westcoastswing",
    "artist": "Emeline Rochefeuille",
    "styles": [
@@ -31431,7 +31685,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 740,
-   "popularity": 75,
+   "popularity": 76,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -34436,7 +34690,7 @@
   },
   {
    "id": "yt-w1GaZgLQIv4",
-   "type": "video",
+   "type": "music",
    "title": "‘Swing Dance’ - HOPE Performance Task (STEM 11A- Obsidian)",
    "artist": "edralyn",
    "styles": [
@@ -34455,7 +34709,7 @@
   },
   {
    "id": "yt-HYVE4SHDZNw",
-   "type": "tutorial",
+   "type": "music",
    "title": "1st Place Classic 2025 - The Open World Swing Dance Championships - Sean & Alyssa McKeever",
    "artist": "Sean & Alyssa McKeever",
    "styles": [
@@ -34515,7 +34769,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "video",
+   "type": "music",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -34669,7 +34923,7 @@
   },
   {
    "id": "yt-slWpbHrOxow",
-   "type": "video",
+   "type": "music",
    "title": "Swing | Awitin Mo At Isasayaw Ko",
    "artist": "De Guzman Ignacio III P.",
    "styles": [
@@ -36058,6 +36312,25 @@
    "curated": false
   },
   {
+   "id": "yt-gvbV-Cy7V_k",
+   "type": "tutorial",
+   "title": "How to Swing Dance: East Coast Swing & Jitterbug for Beginners",
+   "artist": "Social Dance Online",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 572,
+   "popularity": 57,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "gvbV-Cy7V_k"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-02JuLSLAf2Q",
    "type": "tutorial",
    "title": "Swingin' Denver - Beginner Lindy Hop (8 Count Tuck Turn Breakdown)",
@@ -36092,25 +36365,6 @@
    "source": {
     "platform": "youtube",
     "id": "7SBW_sW3ruc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-gvbV-Cy7V_k",
-   "type": "tutorial",
-   "title": "How to Swing Dance: East Coast Swing & Jitterbug for Beginners",
-   "artist": "Social Dance Online",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 572,
-   "popularity": 56,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "gvbV-Cy7V_k"
    },
    "curated": false
   },
@@ -36288,6 +36542,25 @@
    "curated": false
   },
   {
+   "id": "yt-Ehc-S3TOoVs",
+   "type": "video",
+   "title": "Learn2LindyHop, Ch. 9 - The Sugar Push",
+   "artist": "Doug Silton",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 271,
+   "popularity": 54,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "Ehc-S3TOoVs"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-GBEOxAh1d7M",
    "type": "tutorial",
    "title": "Learn to dance lindy hop : 6 count basics",
@@ -36380,25 +36653,6 @@
    "source": {
     "platform": "youtube",
     "id": "LACOMA8JuCo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Ehc-S3TOoVs",
-   "type": "video",
-   "title": "Learn2LindyHop, Ch. 9 - The Sugar Push",
-   "artist": "Doug Silton",
-   "styles": [
-    "lindy6"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 271,
-   "popularity": 53,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "Ehc-S3TOoVs"
    },
    "curated": false
   },
@@ -36978,6 +37232,25 @@
    "curated": false
   },
   {
+   "id": "yt-oJWjeLCDnOk",
+   "type": "video",
+   "title": "Learn2LindyHop, Ch. 14 - The Swingout with Inside Turn",
+   "artist": "Doug Silton",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 196,
+   "popularity": 45,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "oJWjeLCDnOk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-96V0zlIhKkg",
    "type": "tutorial",
    "title": "Beginning Lindy Hop - 6 Count Basics, Tuck Turn and Barrel Turn plus K-Dip!",
@@ -37051,25 +37324,6 @@
    "source": {
     "platform": "youtube",
     "id": "Du30F4uTwDw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-oJWjeLCDnOk",
-   "type": "video",
-   "title": "Learn2LindyHop, Ch. 14 - The Swingout with Inside Turn",
-   "artist": "Doug Silton",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 196,
-   "popularity": 44,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "oJWjeLCDnOk"
    },
    "curated": false
   },
@@ -38047,7 +38301,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "music",
+   "type": "video",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -41418,7 +41672,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1400,
-   "popularity": 61,
+   "popularity": 62,
    "addedAt": "2026-07-20",
    "source": {
     "platform": "youtube",
@@ -41740,7 +41994,7 @@
   },
   {
    "id": "yt-E0qmZrVRRw8",
-   "type": "music",
+   "type": "video",
    "title": "Mind = blown 🤯😂🤣 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -43351,7 +43605,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 735,
-   "popularity": 65,
+   "popularity": 66,
    "addedAt": "2026-07-15",
    "source": {
     "platform": "youtube",
@@ -44290,7 +44544,7 @@
   },
   {
    "id": "yt-PyzkLRrZTCQ",
-   "type": "video",
+   "type": "music",
    "title": "Can’t believe we literally just met 😅 #westcoastswing #dance #competition #improv #randomsong",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -44330,7 +44584,7 @@
   },
   {
    "id": "yt-6NIeqzrF7Jw",
-   "type": "video",
+   "type": "music",
    "title": "Thibault Ramirez & Emeline Rochefeuille - 1st place Strictly Open Finals - Global Grand Prix 2022",
    "artist": "Global Grand Prix - West Coast Swing Championships",
    "styles": [
@@ -49653,7 +49907,7 @@
   },
   {
    "id": "yt-rb7rp9FhD64",
-   "type": "video",
+   "type": "music",
    "title": "The way the crowd went oooOOOH 😆 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -50531,7 +50785,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -50712,7 +50966,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "video",
+   "type": "music",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -51091,7 +51345,7 @@
   },
   {
    "id": "yt-psch9N4PmO4",
-   "type": "video",
+   "type": "music",
    "title": "1920s dances featuring the Charleston, the Peabody, Turkey Trot and more",
    "artist": "Savoy Hop",
    "styles": [
@@ -51253,7 +51507,7 @@
   },
   {
    "id": "yt-xh8DrpJDrFg",
-   "type": "video",
+   "type": "music",
    "title": "Jordan Frisbee & Nicole Ramirez \"Man! I Feel Like A Woman!\" - Invitational Jack&Jill - Budafest 2023",
    "artist": "West Coast Swing",
    "styles": [
@@ -60082,6 +60336,25 @@
    "curated": false
   },
   {
+   "id": "yt-5IritsADddQ",
+   "type": "tutorial",
+   "title": "Balboa Intermediate Class - Crabwalks and Scoots",
+   "artist": "Swingtopia Dance",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 111,
+   "popularity": 51,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "5IritsADddQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-zU8EjY2JfNM",
    "type": "video",
    "title": "The Big Apple at the Savoy, 1938",
@@ -60348,25 +60621,6 @@
    "source": {
     "platform": "youtube",
     "id": "hWZrL7mX9BI"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-5IritsADddQ",
-   "type": "tutorial",
-   "title": "Balboa Intermediate Class - Crabwalks and Scoots",
-   "artist": "Swingtopia Dance",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2018,
-   "durationSec": 111,
-   "popularity": 50,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "5IritsADddQ"
    },
    "curated": false
   },
@@ -63964,6 +64218,25 @@
    "curated": false
   },
   {
+   "id": "yt-jr0MqdXbf44",
+   "type": "video",
+   "title": "Beijing Balboa Fever 2026  Advanced Mix & Match Final",
+   "artist": "Swing Beasts Studio_Beijing",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 778,
+   "popularity": 38,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "jr0MqdXbf44"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-pszcU7G_qno",
    "type": "video",
    "title": "B&B2018 : Pure Balboa Strictly  - 1st Place Mungoon & Muse",
@@ -64093,25 +64366,6 @@
    "source": {
     "platform": "youtube",
     "id": "Uu2DqBnfSLc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-jr0MqdXbf44",
-   "type": "video",
-   "title": "Beijing Balboa Fever 2026  Advanced Mix & Match Final",
-   "artist": "Swing Beasts Studio_Beijing",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 778,
-   "popularity": 37,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "jr0MqdXbf44"
    },
    "curated": false
   },
