@@ -1,6 +1,192 @@
 {
- "exportedAt": "2026-11-15T18:13:50.535Z",
+ "exportedAt": "2026-11-16T18:15:19.272Z",
  "items": [
+  {
+   "id": "yt-pbSCWgZQf_g",
+   "type": "video",
+   "title": "Alfonso Ribeiro doing the Carlton on DWTS!!!! (HD 720p)",
+   "artist": "HopMedia",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2014,
+   "durationSec": 191,
+   "popularity": 100,
+   "addedAt": "2026-11-16",
+   "source": {
+    "platform": "youtube",
+    "id": "pbSCWgZQf_g"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-t-QvZ4BhoVY",
+   "type": "video",
+   "title": "ULHS 2012 - Solo Jazz Finals",
+   "artist": "Alain Wong",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 314,
+   "popularity": 82,
+   "addedAt": "2026-11-16",
+   "source": {
+    "platform": "youtube",
+    "id": "t-QvZ4BhoVY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--VdoV-cpsxQ",
+   "type": "music",
+   "title": "Storm in My Heart – Vintage Rock 'n' Roll Swing Dance Mix 🎤🔥#dance #viral #music #shorts #short",
+   "artist": "DanceTV-M8U",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 58,
+   "popularity": 69,
+   "addedAt": "2026-11-16",
+   "source": {
+    "platform": "youtube",
+    "id": "-VdoV-cpsxQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-egRE8yuy4cQ",
+   "type": "tutorial",
+   "title": "We just dropped a brand-new free WCS Styling class! Let’s find new ways to move, together! 🔥",
+   "artist": "Thibault and Nicole Ramirez",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 77,
+   "popularity": 65,
+   "addedAt": "2026-11-16",
+   "source": {
+    "platform": "youtube",
+    "id": "egRE8yuy4cQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-OM7-6W7qkAA",
+   "type": "video",
+   "title": "First Stops Routine | Lindy Hop & Solo Jazz in Basel",
+   "artist": "Lindy Harbour Basel",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 48,
+   "popularity": 59,
+   "addedAt": "2026-11-16",
+   "source": {
+    "platform": "youtube",
+    "id": "OM7-6W7qkAA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Xc0VTRt9XZA",
+   "type": "music",
+   "title": "👉 Dance Like Trouble   Upbeat Electro Swing Song   Female Vocal Swing Music",
+   "artist": "Swing Nation Music",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 242,
+   "popularity": 57,
+   "addedAt": "2026-11-16",
+   "source": {
+    "platform": "youtube",
+    "id": "Xc0VTRt9XZA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-rxtfgMNpvwQ",
+   "type": "video",
+   "title": "Quando il Lindy Hop arrivò in Italia: Silvia e Frankie Manning",
+   "artist": "ZenaSwingers ",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 61,
+   "popularity": 56,
+   "addedAt": "2026-11-16",
+   "source": {
+    "platform": "youtube",
+    "id": "rxtfgMNpvwQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-7PEKjC3cg7o",
+   "type": "video",
+   "title": "Valerio La Pietra & Grainne Farrell - All-Stars Jack&Jill Finals - Milan Modern Swing 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 172,
+   "popularity": 53,
+   "addedAt": "2026-11-16",
+   "source": {
+    "platform": "youtube",
+    "id": "7PEKjC3cg7o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-fK1u7BJEL6Y",
+   "type": "video",
+   "title": "In Your Eyes - Ben Abraham | West Coast Swing Improv by Ben Morris & Ludovic Pelegrin Pardou",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 37,
+   "addedAt": "2026-11-16",
+   "source": {
+    "platform": "youtube",
+    "id": "fK1u7BJEL6Y"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-e8rRH7yyN8k",
+   "type": "tutorial",
+   "title": "Level A Class Recap #2 - Beginning 8-Count Lindy Hop - 11/3/26",
+   "artist": "Portland Swing Project",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 223,
+   "popularity": 29,
+   "addedAt": "2026-11-16",
+   "source": {
+    "platform": "youtube",
+    "id": "e8rRH7yyN8k"
+   },
+   "curated": false
+  },
   {
    "id": "yt-90TzDXjWTdo",
    "type": "video",
@@ -357,7 +543,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 174,
-   "popularity": 55,
+   "popularity": 57,
    "addedAt": "2026-11-14",
    "source": {
     "platform": "youtube",
@@ -890,7 +1076,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 170,
-   "popularity": 76,
+   "popularity": 77,
    "addedAt": "2026-11-11",
    "source": {
     "platform": "youtube",
@@ -1038,7 +1224,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 56,
-   "popularity": 63,
+   "popularity": 64,
    "addedAt": "2026-11-10",
    "source": {
     "platform": "youtube",
@@ -2097,7 +2283,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1107,
-   "popularity": 55,
+   "popularity": 56,
    "addedAt": "2026-11-02",
    "source": {
     "platform": "youtube",
@@ -3168,7 +3354,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 373,
-   "popularity": 52,
+   "popularity": 53,
    "addedAt": "2026-10-29",
    "source": {
     "platform": "youtube",
@@ -24713,7 +24899,7 @@
   },
   {
    "id": "yt-AfS5epTiTMM",
-   "type": "video",
+   "type": "music",
    "title": "🥇1st Place Improv with Mia 💃#westcoastswing #improv #dance #competition #wcs",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -27443,7 +27629,7 @@
    "bpm": null,
    "year": 2021,
    "durationSec": 238,
-   "popularity": 86,
+   "popularity": 87,
    "addedAt": "2026-08-09",
    "source": {
     "platform": "youtube",
@@ -30040,7 +30226,7 @@
   },
   {
    "id": "yt-jB6pd-kTbGo",
-   "type": "video",
+   "type": "music",
    "title": "She KNEW this song 🤩 #improv #westcoastswing with Tren Veal",
    "artist": "Ken & Bryn",
    "styles": [
@@ -30270,7 +30456,7 @@
   },
   {
    "id": "yt-tsX87384tnQ",
-   "type": "music",
+   "type": "video",
    "title": "Improvised West Coast Swing Dance by PJ Turner & Tashina Beckmann - Inspirational JnJ (2017)",
    "artist": "Musicologia",
    "styles": [
@@ -34934,7 +35120,7 @@
   },
   {
    "id": "yt-HYVE4SHDZNw",
-   "type": "music",
+   "type": "tutorial",
    "title": "1st Place Classic 2025 - The Open World Swing Dance Championships - Sean & Alyssa McKeever",
    "artist": "Sean & Alyssa McKeever",
    "styles": [
@@ -34994,7 +35180,7 @@
   },
   {
    "id": "yt-kI3KpdD2X0U",
-   "type": "music",
+   "type": "video",
    "title": "1ST PLACE - Keerigan & Mia - Wild Wild Westie 2025",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -35855,7 +36041,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 582,
-   "popularity": 66,
+   "popularity": 67,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -35942,7 +36128,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "video",
+   "type": "music",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -37342,6 +37528,25 @@
    "curated": false
   },
   {
+   "id": "yt-p7GEYOW-Whc",
+   "type": "video",
+   "title": "Jitterbug: solo actions",
+   "artist": "iPEP",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 58,
+   "popularity": 46,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "p7GEYOW-Whc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-t5ZbIigPBOs",
    "type": "tutorial",
    "title": "Lindy hop basics - play with 8 counts side by side basic",
@@ -37414,25 +37619,6 @@
    "source": {
     "platform": "youtube",
     "id": "4Rc-ST0LnNg"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-p7GEYOW-Whc",
-   "type": "video",
-   "title": "Jitterbug: solo actions",
-   "artist": "iPEP",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2017,
-   "durationSec": 58,
-   "popularity": 45,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "p7GEYOW-Whc"
    },
    "curated": false
   },
@@ -38526,7 +38712,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "video",
+   "type": "music",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -44769,7 +44955,7 @@
   },
   {
    "id": "yt-PyzkLRrZTCQ",
-   "type": "music",
+   "type": "video",
    "title": "Can’t believe we literally just met 😅 #westcoastswing #dance #competition #improv #randomsong",
    "artist": "Keerigan Rudd",
    "styles": [
@@ -44809,7 +44995,7 @@
   },
   {
    "id": "yt-6NIeqzrF7Jw",
-   "type": "music",
+   "type": "video",
    "title": "Thibault Ramirez & Emeline Rochefeuille - 1st place Strictly Open Finals - Global Grand Prix 2022",
    "artist": "Global Grand Prix - West Coast Swing Championships",
    "styles": [
@@ -51054,7 +51240,7 @@
   },
   {
    "id": "yt-VcsI84aINjE",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2017 - Agnieszka & Grzegorz",
    "artist": "RockThatSwing",
    "styles": [
@@ -51078,7 +51264,7 @@
   },
   {
    "id": "yt-T7XfKf46iZY",
-   "type": "music",
+   "type": "video",
    "title": "Jason Colacino and Katie Boyle - Honky Tonk",
    "artist": "itsmektb",
    "styles": [
@@ -51168,7 +51354,7 @@
   },
   {
    "id": "yt-mw2QbbD5rc8",
-   "type": "music",
+   "type": "video",
    "title": "🧊🧊👶 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -51191,7 +51377,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "video",
+   "type": "music",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -52398,7 +52584,7 @@
   },
   {
    "id": "yt-Q3ew4E_-8Ps",
-   "type": "video",
+   "type": "music",
    "title": "Throwback Video! Lindy Hop combos with Anna, Slava, Jean, and Ali",
    "artist": "SwingStepTV",
    "styles": [
@@ -53508,7 +53694,7 @@
   },
   {
    "id": "yt-7PBCS3v9B8M",
-   "type": "music",
+   "type": "video",
    "title": "Irina & Anthony - social lindy hop demo at Havelhop 2023",
    "artist": "Slava Bogatov",
    "styles": [
@@ -57017,6 +57203,26 @@
    "curated": false
   },
   {
+   "id": "yt-VJB5FU5V4wU",
+   "type": "video",
+   "title": "Shim Sham Frankie Manning",
+   "artist": "Pierre Jrmt",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 163,
+   "popularity": 63,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "VJB5FU5V4wU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-jE4JJ1GIgu8",
    "type": "video",
    "title": "Recap #4—Frankie's 6s (6T lindy hop)",
@@ -57033,26 +57239,6 @@
    "source": {
     "platform": "youtube",
     "id": "jE4JJ1GIgu8"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-VJB5FU5V4wU",
-   "type": "video",
-   "title": "Shim Sham Frankie Manning",
-   "artist": "Pierre Jrmt",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2023,
-   "durationSec": 163,
-   "popularity": 62,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "VJB5FU5V4wU"
    },
    "curated": false
   },
@@ -58773,12 +58959,13 @@
    "title": "Frankie Manning's Favourite Steps!",
    "artist": "Sing Lim",
    "styles": [
-    "lindy"
+    "lindy",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2016,
    "durationSec": 294,
-   "popularity": 56,
+   "popularity": 57,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
