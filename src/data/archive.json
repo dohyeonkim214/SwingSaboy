@@ -1,6 +1,137 @@
 {
- "exportedAt": "2026-11-17T18:15:34.068Z",
+ "exportedAt": "2026-11-18T18:14:22.358Z",
  "items": [
+  {
+   "id": "yt-Nbt7rKMN49k",
+   "type": "video",
+   "title": "That trust fall though 🔥🔥🔥 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 48,
+   "popularity": 58,
+   "addedAt": "2026-11-18",
+   "source": {
+    "platform": "youtube",
+    "id": "Nbt7rKMN49k"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lpikPgqgYSE",
+   "type": "video",
+   "title": "Swing Dancing - Advanced Tandem Charleston",
+   "artist": "Jo and Andy Dance",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 338,
+   "popularity": 57,
+   "addedAt": "2026-11-18",
+   "source": {
+    "platform": "youtube",
+    "id": "lpikPgqgYSE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-s__0kXoxXXo",
+   "type": "video",
+   "title": "Joshua Schubert & Angelique Pernotte - 1st place All-Stars Jack&Jill - Milan Modern Swing 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 175,
+   "popularity": 55,
+   "addedAt": "2026-11-18",
+   "source": {
+    "platform": "youtube",
+    "id": "s__0kXoxXXo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-yNjULs8fk_E",
+   "type": "video",
+   "title": "2011 Camp Jitterbug - Solo Charleston Finals",
+   "artist": "RetroRhythmz",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 191,
+   "popularity": 53,
+   "addedAt": "2026-11-18",
+   "source": {
+    "platform": "youtube",
+    "id": "yNjULs8fk_E"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gg7Q1K_NbF0",
+   "type": "tutorial",
+   "title": "4/20/16 - Swing Basics (20s charleston, skates, turns, mambo step)",
+   "artist": "swinginstyle",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 115,
+   "popularity": 49,
+   "addedAt": "2026-11-18",
+   "source": {
+    "platform": "youtube",
+    "id": "gg7Q1K_NbF0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-CPj61DJw8bk",
+   "type": "music",
+   "title": "Dancing Through the 1930s & 1940s 💃 Vintage Jazz & Swing Music | Romantic Old-Time Classics",
+   "artist": "The Golden Hour Radio",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 150,
+   "popularity": 31,
+   "addedAt": "2026-11-18",
+   "source": {
+    "platform": "youtube",
+    "id": "CPj61DJw8bk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-OIWLFIn_ZR0",
+   "type": "video",
+   "title": "Pavel Crha & Romana Melichaříková - 2nd place Advanced Jack&Jill - Warsaw Halloween Swing 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 140,
+   "popularity": 29,
+   "addedAt": "2026-11-18",
+   "source": {
+    "platform": "youtube",
+    "id": "OIWLFIn_ZR0"
+   },
+   "curated": false
+  },
   {
    "id": "yt-S--opfGNE0o",
    "type": "music",
@@ -270,7 +401,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 223,
-   "popularity": 30,
+   "popularity": 31,
    "addedAt": "2026-11-16",
    "source": {
     "platform": "youtube",
@@ -298,6 +429,25 @@
    "curated": false
   },
   {
+   "id": "yt-CHBPl_T34CA",
+   "type": "video",
+   "title": "Best rewind ever ⏪🤣🤣🤣 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 56,
+   "popularity": 83,
+   "addedAt": "2026-11-15",
+   "source": {
+    "platform": "youtube",
+    "id": "CHBPl_T34CA"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-kYDOY_p62AE",
    "type": "music",
    "title": "10 Must-Know Jazz Standards for Jam Sessions",
@@ -311,25 +461,6 @@
    "source": {
     "platform": "youtube",
     "id": "kYDOY_p62AE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-CHBPl_T34CA",
-   "type": "video",
-   "title": "Best rewind ever ⏪🤣🤣🤣 #improv #westcoastswing",
-   "artist": "Ken & Bryn",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 56,
-   "popularity": 74,
-   "addedAt": "2026-11-15",
-   "source": {
-    "platform": "youtube",
-    "id": "CHBPl_T34CA"
    },
    "curated": false
   },
@@ -810,6 +941,25 @@
    "curated": false
   },
   {
+   "id": "yt-GFqhf0o7IWY",
+   "type": "video",
+   "title": "All That Jazz! Cameo McHenry & Ben Morris West Coast Swing Improv",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 60,
+   "addedAt": "2026-11-13",
+   "source": {
+    "platform": "youtube",
+    "id": "GFqhf0o7IWY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-y-liK_OEyw4",
    "type": "video",
    "title": "3 Starter Step Concepts for West Coast Swing",
@@ -825,25 +975,6 @@
    "source": {
     "platform": "youtube",
     "id": "y-liK_OEyw4"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-GFqhf0o7IWY",
-   "type": "video",
-   "title": "All That Jazz! Cameo McHenry & Ben Morris West Coast Swing Improv",
-   "artist": "Ben Morris",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 60,
-   "popularity": 54,
-   "addedAt": "2026-11-13",
-   "source": {
-    "platform": "youtube",
-    "id": "GFqhf0o7IWY"
    },
    "curated": false
   },
@@ -2412,7 +2543,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 55,
-   "popularity": 50,
+   "popularity": 51,
    "addedAt": "2026-11-02",
    "source": {
     "platform": "youtube",
@@ -5163,6 +5294,25 @@
    "curated": false
   },
   {
+   "id": "yt-XjOFJd28PI0",
+   "type": "video",
+   "title": "(move)...move...move!...MOOVE! 😆 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 53,
+   "popularity": 62,
+   "addedAt": "2026-10-18",
+   "source": {
+    "platform": "youtube",
+    "id": "XjOFJd28PI0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-EfL6ausFOJw",
    "type": "video",
    "title": "Savoy Cup 2023 - Advanced Mix & Match Final with Hot Swing Sextet",
@@ -5178,25 +5328,6 @@
    "source": {
     "platform": "youtube",
     "id": "EfL6ausFOJw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-XjOFJd28PI0",
-   "type": "video",
-   "title": "(move)...move...move!...MOOVE! 😆 #improv #westcoastswing",
-   "artist": "Ken & Bryn",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 53,
-   "popularity": 61,
-   "addedAt": "2026-10-18",
-   "source": {
-    "platform": "youtube",
-    "id": "XjOFJd28PI0"
    },
    "curated": false
   },
@@ -20745,7 +20876,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 148,
-   "popularity": 52,
+   "popularity": 53,
    "addedAt": "2026-09-03",
    "source": {
     "platform": "youtube",
@@ -25018,7 +25149,7 @@
    "bpm": null,
    "year": 2021,
    "durationSec": 209,
-   "popularity": 85,
+   "popularity": 86,
    "addedAt": "2026-08-14",
    "source": {
     "platform": "youtube",
@@ -32818,6 +32949,25 @@
    "curated": false
   },
   {
+   "id": "yt-qapOn_cIMAc",
+   "type": "video",
+   "title": "Bartender- Mia Primavera and Keerigan Rudd - West Coast Swing Improvisation ",
+   "artist": "Mia Primavera",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 209,
+   "popularity": 69,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "qapOn_cIMAc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-oFUxi1wDSUM",
    "type": "tutorial",
    "title": "How to Swing Dance for Beginners - Part 10: 6 Count Cuddle",
@@ -32871,25 +33021,6 @@
    "source": {
     "platform": "youtube",
     "id": "vx1wmjgR124"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-qapOn_cIMAc",
-   "type": "video",
-   "title": "Bartender- Mia Primavera and Keerigan Rudd - West Coast Swing Improvisation ",
-   "artist": "Mia Primavera",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 209,
-   "popularity": 68,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "qapOn_cIMAc"
    },
    "curated": false
   },
@@ -38825,7 +38956,7 @@
   },
   {
    "id": "yt-2PyDM6B_5_Q",
-   "type": "video",
+   "type": "music",
    "title": "I guess we really can swing to ANYTHING 😂 West Coast Swing Improv #dance",
    "artist": "Sean & Alyssa McKeever",
    "styles": [
@@ -51652,7 +51783,7 @@
   },
   {
    "id": "yt-v9xxeWRxSbA",
-   "type": "video",
+   "type": "music",
    "title": "ILHC 2013 - Invitational Strictly Lindy Hop Finals",
    "artist": "Alain Wong",
    "styles": [
@@ -52169,7 +52300,7 @@
   },
   {
    "id": "yt-gc5fOmnB1z4",
-   "type": "music",
+   "type": "video",
    "title": "OUR FIRST DANCE (Lindy Hop)",
    "artist": "The FamLee Life",
    "styles": [
@@ -52634,7 +52765,7 @@
   },
   {
    "id": "yt-egopcBsOPIU",
-   "type": "music",
+   "type": "video",
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -52675,7 +52806,7 @@
   },
   {
    "id": "yt-Q3ew4E_-8Ps",
-   "type": "video",
+   "type": "music",
    "title": "Throwback Video! Lindy Hop combos with Anna, Slava, Jean, and Ali",
    "artist": "SwingStepTV",
    "styles": [
@@ -52836,7 +52967,7 @@
   },
   {
    "id": "yt-VjAoG3fgjkc",
-   "type": "tutorial",
+   "type": "music",
    "title": "Lindy hop basic footwork",
    "artist": "Lindybeige",
    "styles": [
