@@ -1,6 +1,247 @@
 {
- "exportedAt": "2026-11-18T18:14:22.358Z",
+ "exportedAt": "2026-11-19T18:14:58.629Z",
  "items": [
+  {
+   "id": "yt-pTfvSeNbNR4",
+   "type": "music",
+   "title": "All of Me - Easy Jazz Chord Lesson (Western Swing/Gypsy Jazz)",
+   "artist": "Damian Bacci",
+   "styles": [],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 517,
+   "popularity": 80,
+   "addedAt": "2026-11-19",
+   "source": {
+    "platform": "youtube",
+    "id": "pTfvSeNbNR4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-qEAAZblDpzE",
+   "type": "tutorial",
+   "title": "Five(ish) Minute Dance Lesson - Swing!: Lesson 1: East Coast Swing",
+   "artist": "Kennedy Center Education Digital Learning",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2012,
+   "durationSec": 315,
+   "popularity": 70,
+   "addedAt": "2026-11-19",
+   "source": {
+    "platform": "youtube",
+    "id": "qEAAZblDpzE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-YS8ccxkvka4",
+   "type": "video",
+   "title": "How did she spin that fast?? 🫨😱🤩 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 68,
+   "addedAt": "2026-11-19",
+   "source": {
+    "platform": "youtube",
+    "id": "YS8ccxkvka4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-czv3olOrPOU",
+   "type": "video",
+   "title": "lindy hop, cool stuff to do with baskets",
+   "artist": "itsaboutmomentum",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 140,
+   "popularity": 64,
+   "addedAt": "2026-11-19",
+   "source": {
+    "platform": "youtube",
+    "id": "czv3olOrPOU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-CUojkZGmgnM",
+   "type": "music",
+   "title": "Jazz 1930's - It's my favorite...",
+   "artist": "Сергей Журенко",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 159,
+   "popularity": 59,
+   "addedAt": "2026-11-19",
+   "source": {
+    "platform": "youtube",
+    "id": "CUojkZGmgnM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lh0ZVgZIy-U",
+   "type": "video",
+   "title": "ILHC 2016 - Balboa Jack & Jill Finals - Bobby White & Gaby Cook (US)",
+   "artist": "The International Lindy Hop Championships",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 114,
+   "popularity": 52,
+   "addedAt": "2026-11-19",
+   "source": {
+    "platform": "youtube",
+    "id": "lh0ZVgZIy-U"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-nwdZw7wAiec",
+   "type": "tutorial",
+   "title": "1920s Partner Charleston Basics for use in #lindyhop#swingdance",
+   "artist": "Bswinglindy Singapore",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 100,
+   "popularity": 43,
+   "addedAt": "2026-11-19",
+   "source": {
+    "platform": "youtube",
+    "id": "nwdZw7wAiec"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-uuarLrUk2-0",
+   "type": "video",
+   "title": "HRH 2024 - Collegiate Shag Invitational - Julie & Zach",
+   "artist": "Hot Rhythm Foundation",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 130,
+   "popularity": 43,
+   "addedAt": "2026-11-19",
+   "source": {
+    "platform": "youtube",
+    "id": "uuarLrUk2-0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Bo3PHhn2cxs",
+   "type": "video",
+   "title": "Charleston - Savoy kick #socialdancing #charleston",
+   "artist": "SwingOut&Shimmy",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 71,
+   "popularity": 41,
+   "addedAt": "2026-11-19",
+   "source": {
+    "platform": "youtube",
+    "id": "Bo3PHhn2cxs"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-PghLHiRt8AE",
+   "type": "tutorial",
+   "title": "Slow Balboa Class Recap | Part 1 #Shorts",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 54,
+   "popularity": 39,
+   "addedAt": "2026-11-19",
+   "source": {
+    "platform": "youtube",
+    "id": "PghLHiRt8AE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-B1r9H5pWi6w",
+   "type": "video",
+   "title": "Red Shufflers Everyday | Session 1 | Part 2/2",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 57,
+   "popularity": 37,
+   "addedAt": "2026-11-19",
+   "source": {
+    "platform": "youtube",
+    "id": "B1r9H5pWi6w"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-YkDzsjofEJI",
+   "type": "music",
+   "title": "Vintage Noir Jazz 🎷 Midnight in the Old Jazz Lounge | 1940s Jazz",
+   "artist": "RetroBeat Revival",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 108,
+   "popularity": 37,
+   "addedAt": "2026-11-19",
+   "source": {
+    "platform": "youtube",
+    "id": "YkDzsjofEJI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-lJSUFKqu7dk",
+   "type": "video",
+   "title": "Austin swing syndicate partner Charleston workshop 8/22/19",
+   "artist": "Troy Lensing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 198,
+   "popularity": 27,
+   "addedAt": "2026-11-19",
+   "source": {
+    "platform": "youtube",
+    "id": "lJSUFKqu7dk"
+   },
+   "curated": false
+  },
   {
    "id": "yt-Nbt7rKMN49k",
    "type": "video",
@@ -50,7 +291,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 175,
-   "popularity": 55,
+   "popularity": 57,
    "addedAt": "2026-11-18",
    "source": {
     "platform": "youtube",
@@ -105,7 +346,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 150,
-   "popularity": 31,
+   "popularity": 32,
    "addedAt": "2026-11-18",
    "source": {
     "platform": "youtube",
@@ -1326,6 +1567,25 @@
    "curated": false
   },
   {
+   "id": "yt-81ntJMtpDRE",
+   "type": "video",
+   "title": "Red Shufflers Everyday | Soo Chan & Emma | Balboa Part 2/3",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 46,
+   "addedAt": "2026-11-11",
+   "source": {
+    "platform": "youtube",
+    "id": "81ntJMtpDRE"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-2ELEieYzPyA",
    "type": "video",
    "title": "Showcase Routine - ILHC EUROPE 2026",
@@ -1341,25 +1601,6 @@
    "source": {
     "platform": "youtube",
     "id": "2ELEieYzPyA"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-81ntJMtpDRE",
-   "type": "video",
-   "title": "Red Shufflers Everyday | Soo Chan & Emma | Balboa Part 2/3",
-   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 60,
-   "popularity": 41,
-   "addedAt": "2026-11-11",
-   "source": {
-    "platform": "youtube",
-    "id": "81ntJMtpDRE"
    },
    "curated": false
   },
@@ -2940,7 +3181,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 138,
-   "popularity": 30,
+   "popularity": 31,
    "addedAt": "2026-10-31",
    "source": {
     "platform": "youtube",
@@ -3175,6 +3416,25 @@
    "curated": false
   },
   {
+   "id": "yt-2S4HPUaroV4",
+   "type": "video",
+   "title": "Neus & Albert: Balboa demo #shorts",
+   "artist": "Basel Jitterbugs",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 115,
+   "popularity": 45,
+   "addedAt": "2026-10-30",
+   "source": {
+    "platform": "youtube",
+    "id": "2S4HPUaroV4"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-_vhv6lyKJ-8",
    "type": "video",
    "title": "Red Shufflers Everyday | Session 2 Part 3/3",
@@ -3266,25 +3526,6 @@
    "source": {
     "platform": "youtube",
     "id": "keST7JpUOow"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-2S4HPUaroV4",
-   "type": "video",
-   "title": "Neus & Albert: Balboa demo #shorts",
-   "artist": "Basel Jitterbugs",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 115,
-   "popularity": 25,
-   "addedAt": "2026-10-30",
-   "source": {
-    "platform": "youtube",
-    "id": "2S4HPUaroV4"
    },
    "curated": false
   },
@@ -6990,7 +7231,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 199,
-   "popularity": 45,
+   "popularity": 46,
    "addedAt": "2026-10-12",
    "source": {
     "platform": "youtube",
@@ -10543,7 +10784,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 100,
-   "popularity": 42,
+   "popularity": 43,
    "addedAt": "2026-09-28",
    "source": {
     "platform": "youtube",
@@ -12137,7 +12378,7 @@
    "bpm": null,
    "year": 2020,
    "durationSec": 918,
-   "popularity": 43,
+   "popularity": 44,
    "addedAt": "2026-09-21",
    "source": {
     "platform": "youtube",
@@ -14242,6 +14483,25 @@
    "curated": false
   },
   {
+   "id": "yt-khNE1bOeGLQ",
+   "type": "video",
+   "title": "Move Like a Dancer (Not Like You’re Marching) | West Coast Swing Tips  ",
+   "artist": "Thibault and Nicole Ramirez",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 332,
+   "popularity": 58,
+   "addedAt": "2026-09-16",
+   "source": {
+    "platform": "youtube",
+    "id": "khNE1bOeGLQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-TiJ4nvUxLYE",
    "type": "video",
    "title": "lindy hop, 8 count tuck turns, sliding doors",
@@ -14257,25 +14517,6 @@
    "source": {
     "platform": "youtube",
     "id": "TiJ4nvUxLYE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-khNE1bOeGLQ",
-   "type": "video",
-   "title": "Move Like a Dancer (Not Like You’re Marching) | West Coast Swing Tips  ",
-   "artist": "Thibault and Nicole Ramirez",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 332,
-   "popularity": 57,
-   "addedAt": "2026-09-16",
-   "source": {
-    "platform": "youtube",
-    "id": "khNE1bOeGLQ"
    },
    "curated": false
   },
@@ -20459,7 +20700,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 53,
-   "popularity": 50,
+   "popularity": 51,
    "addedAt": "2026-09-04",
    "source": {
     "platform": "youtube",
@@ -22155,7 +22396,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1039,
-   "popularity": 47,
+   "popularity": 48,
    "addedAt": "2026-08-28",
    "source": {
     "platform": "youtube",
@@ -31559,7 +31800,7 @@
   },
   {
    "id": "yt-am3PmylTbDg",
-   "type": "video",
+   "type": "music",
    "title": "Thibault and Nicole Ramirez - 1st Place Showcase - The Open Swing Dance Championships 2024",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -37884,6 +38125,25 @@
    "curated": false
   },
   {
+   "id": "yt-3Sb0k9AZoe4",
+   "type": "tutorial",
+   "title": "Solo Jazz Recap - A1 Beginner 6-Count Lindy Hop",
+   "artist": "Lindy Maine",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 60,
+   "popularity": 45,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "3Sb0k9AZoe4"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-96V0zlIhKkg",
    "type": "tutorial",
    "title": "Beginning Lindy Hop - 6 Count Basics, Tuck Turn and Barrel Turn plus K-Dip!",
@@ -37957,25 +38217,6 @@
    "source": {
     "platform": "youtube",
     "id": "Du30F4uTwDw"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-3Sb0k9AZoe4",
-   "type": "tutorial",
-   "title": "Solo Jazz Recap - A1 Beginner 6-Count Lindy Hop",
-   "artist": "Lindy Maine",
-   "styles": [
-    "lindy6"
-   ],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 60,
-   "popularity": 44,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "3Sb0k9AZoe4"
    },
    "curated": false
   },
@@ -38276,7 +38517,7 @@
    "bpm": null,
    "year": 2017,
    "durationSec": 87,
-   "popularity": 40,
+   "popularity": 41,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -38956,7 +39197,7 @@
   },
   {
    "id": "yt-2PyDM6B_5_Q",
-   "type": "music",
+   "type": "video",
    "title": "I guess we really can swing to ANYTHING 😂 West Coast Swing Improv #dance",
    "artist": "Sean & Alyssa McKeever",
    "styles": [
@@ -51783,7 +52024,7 @@
   },
   {
    "id": "yt-v9xxeWRxSbA",
-   "type": "music",
+   "type": "video",
    "title": "ILHC 2013 - Invitational Strictly Lindy Hop Finals",
    "artist": "Alain Wong",
    "styles": [
@@ -51849,7 +52090,7 @@
   },
   {
    "id": "yt-JdRin5YUORk",
-   "type": "music",
+   "type": "video",
    "title": "Mr and Mrs Smooth demonstrating the art of Simply Smooth Swagger - Watch! Be Cool",
    "artist": "Joe N Dancer",
    "styles": [
@@ -52300,7 +52541,7 @@
   },
   {
    "id": "yt-gc5fOmnB1z4",
-   "type": "video",
+   "type": "music",
    "title": "OUR FIRST DANCE (Lindy Hop)",
    "artist": "The FamLee Life",
    "styles": [
@@ -52765,7 +53006,7 @@
   },
   {
    "id": "yt-egopcBsOPIU",
-   "type": "video",
+   "type": "music",
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -52806,7 +53047,7 @@
   },
   {
    "id": "yt-Q3ew4E_-8Ps",
-   "type": "music",
+   "type": "video",
    "title": "Throwback Video! Lindy Hop combos with Anna, Slava, Jean, and Ali",
    "artist": "SwingStepTV",
    "styles": [
@@ -52945,6 +53186,28 @@
    "curated": false
   },
   {
+   "id": "yt-VjAoG3fgjkc",
+   "type": "music",
+   "title": "Lindy hop basic footwork",
+   "artist": "Lindybeige",
+   "styles": [
+    "lindy",
+    "jitterbug",
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 472,
+   "popularity": 84,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "VjAoG3fgjkc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-EjaqRlmVMiQ",
    "type": "video",
    "title": "Learn To Lindy Hop In A Day (fwd/back, popout, promenade, circle, charleston, dip)",
@@ -52962,28 +53225,6 @@
    "source": {
     "platform": "youtube",
     "id": "EjaqRlmVMiQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-VjAoG3fgjkc",
-   "type": "music",
-   "title": "Lindy hop basic footwork",
-   "artist": "Lindybeige",
-   "styles": [
-    "lindy",
-    "jitterbug",
-    "lindy6",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2017,
-   "durationSec": 472,
-   "popularity": 83,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "VjAoG3fgjkc"
    },
    "curated": false
   },
@@ -56063,6 +56304,25 @@
    "curated": false
   },
   {
+   "id": "yt-7TXCwjMBP5M",
+   "type": "video",
+   "title": "Charleston Dance Routine - MyCharleston",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 121,
+   "popularity": 68,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "7TXCwjMBP5M"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-D9aOifM0CWs",
    "type": "video",
    "title": "Midwest Lindyfest 2013 - Social Lindy Hop - Ryan Calloway & Ann Mony",
@@ -56297,25 +56557,6 @@
    "curated": false
   },
   {
-   "id": "yt-7TXCwjMBP5M",
-   "type": "video",
-   "title": "Charleston Dance Routine - MyCharleston",
-   "artist": "MyCharleston",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 121,
-   "popularity": 67,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "7TXCwjMBP5M"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-JkonZbTj2wE",
    "type": "video",
    "title": "Dance through Lindy Hop's Black American Roots  | If Cities Could Dance",
@@ -56386,11 +56627,31 @@
    "bpm": null,
    "year": 2020,
    "durationSec": 3399,
-   "popularity": 66,
+   "popularity": 67,
    "addedAt": "2026-07-04",
    "source": {
     "platform": "youtube",
     "id": "5mcyDwSBOgg"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zRj-Qf3bjaA",
+   "type": "video",
+   "title": "Lindy Hop and Charleston Performance - Sondre & Tanya",
+   "artist": "Sondre & Tanya",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 129,
+   "popularity": 67,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "zRj-Qf3bjaA"
    },
    "curated": false
   },
@@ -56934,26 +57195,6 @@
    "source": {
     "platform": "youtube",
     "id": "enPIXit6LlM"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-zRj-Qf3bjaA",
-   "type": "video",
-   "title": "Lindy Hop and Charleston Performance - Sondre & Tanya",
-   "artist": "Sondre & Tanya",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 129,
-   "popularity": 64,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "zRj-Qf3bjaA"
    },
    "curated": false
   },
@@ -57678,6 +57919,25 @@
    "curated": false
   },
   {
+   "id": "yt-TlN0wJqUeRo",
+   "type": "tutorial",
+   "title": "Beginner Shuffle Tutorial | Learn the Charleston in under 5 minutes!",
+   "artist": "Tori Nishino",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 242,
+   "popularity": 62,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "TlN0wJqUeRo"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-ydXuB8IzMp8",
    "type": "tutorial",
    "title": "ALL-STAR CLASSIC ROUTINE - ILHC EUROPE 2024",
@@ -57904,25 +58164,6 @@
    "source": {
     "platform": "youtube",
     "id": "N-m2waY0g54"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-TlN0wJqUeRo",
-   "type": "tutorial",
-   "title": "Beginner Shuffle Tutorial | Learn the Charleston in under 5 minutes!",
-   "artist": "Tori Nishino",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 242,
-   "popularity": 61,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "TlN0wJqUeRo"
    },
    "curated": false
   },
