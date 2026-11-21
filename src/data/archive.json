@@ -1,6 +1,118 @@
 {
- "exportedAt": "2026-11-20T18:14:39.604Z",
+ "exportedAt": "2026-11-21T18:13:26.662Z",
  "items": [
+  {
+   "id": "yt-AHgml3BXhZc",
+   "type": "music",
+   "title": "Most Iconic Songs Of 1930's & 1940's #1930smusic #1940smusic #classichits #nostalgia #throwbackmusic",
+   "artist": "The House Of Nostalgia",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 70,
+   "addedAt": "2026-11-21",
+   "source": {
+    "platform": "youtube",
+    "id": "AHgml3BXhZc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Sj6PT5Dr1Fk",
+   "type": "video",
+   "title": "Basic Swing Six Count Lindy Hop Sweetheart Position",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 48,
+   "addedAt": "2026-11-21",
+   "source": {
+    "platform": "youtube",
+    "id": "Sj6PT5Dr1Fk"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_cIpdvn465I",
+   "type": "video",
+   "title": "Red Shufflers Everyday | Session 2 | Part 1/2",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 57,
+   "popularity": 41,
+   "addedAt": "2026-11-21",
+   "source": {
+    "platform": "youtube",
+    "id": "_cIpdvn465I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wD-vKGvC1NY",
+   "type": "video",
+   "title": "Balboa Castle Camp 2015 - Strictly Balboa Finals - 2nd Place Spotlights (Olga & Sergey)",
+   "artist": "Swing Dance Leipzig",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2015,
+   "durationSec": 90,
+   "popularity": 39,
+   "addedAt": "2026-11-21",
+   "source": {
+    "platform": "youtube",
+    "id": "wD-vKGvC1NY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-tIAAcq-1860",
+   "type": "tutorial",
+   "title": "Slow Balboa Class Recap | Part 2 #Shorts",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 54,
+   "popularity": 38,
+   "addedAt": "2026-11-21",
+   "source": {
+    "platform": "youtube",
+    "id": "tIAAcq-1860"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ba9LgFQdNS4",
+   "type": "video",
+   "title": "Learn2LindyHop, Ch. 3 - 6 Count Rhythms",
+   "artist": "Doug Silton",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 183,
+   "popularity": 35,
+   "addedAt": "2026-11-21",
+   "source": {
+    "platform": "youtube",
+    "id": "ba9LgFQdNS4"
+   },
+   "curated": false
+  },
   {
    "id": "yt-e9kMs4N5teY",
    "type": "music",
@@ -184,6 +296,25 @@
    "curated": false
   },
   {
+   "id": "yt-YS8ccxkvka4",
+   "type": "video",
+   "title": "How did she spin that fast?? 🫨😱🤩 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 71,
+   "addedAt": "2026-11-19",
+   "source": {
+    "platform": "youtube",
+    "id": "YS8ccxkvka4"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-qEAAZblDpzE",
    "type": "tutorial",
    "title": "Five(ish) Minute Dance Lesson - Swing!: Lesson 1: East Coast Swing",
@@ -199,25 +330,6 @@
    "source": {
     "platform": "youtube",
     "id": "qEAAZblDpzE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-YS8ccxkvka4",
-   "type": "video",
-   "title": "How did she spin that fast?? 🫨😱🤩 #improv #westcoastswing",
-   "artist": "Ken & Bryn",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 60,
-   "popularity": 70,
-   "addedAt": "2026-11-19",
-   "source": {
-    "platform": "youtube",
-    "id": "YS8ccxkvka4"
    },
    "curated": false
   },
@@ -418,7 +530,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 48,
-   "popularity": 58,
+   "popularity": 62,
    "addedAt": "2026-11-18",
    "source": {
     "platform": "youtube",
@@ -983,6 +1095,25 @@
    "curated": false
   },
   {
+   "id": "yt-2RpHFnhvJ2c",
+   "type": "video",
+   "title": "Beginning 6-Count Lindy Hop 'Crash Course' - 11/8/26",
+   "artist": "Portland Swing Project",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 232,
+   "popularity": 33,
+   "addedAt": "2026-11-15",
+   "source": {
+    "platform": "youtube",
+    "id": "2RpHFnhvJ2c"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-x6DEP774DLc",
    "type": "video",
    "title": "Collegiate Shag M&M Finals - Robert & Giselle - BAL&HOP 2025",
@@ -998,25 +1129,6 @@
    "source": {
     "platform": "youtube",
     "id": "x6DEP774DLc"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-2RpHFnhvJ2c",
-   "type": "video",
-   "title": "Beginning 6-Count Lindy Hop 'Crash Course' - 11/8/26",
-   "artist": "Portland Swing Project",
-   "styles": [
-    "lindy6"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 232,
-   "popularity": 31,
-   "addedAt": "2026-11-15",
-   "source": {
-    "platform": "youtube",
-    "id": "2RpHFnhvJ2c"
    },
    "curated": false
   },
@@ -13269,7 +13381,7 @@
    "bpm": null,
    "year": 2017,
    "durationSec": 83,
-   "popularity": 58,
+   "popularity": 59,
    "addedAt": "2026-09-19",
    "source": {
     "platform": "youtube",
@@ -32190,6 +32302,26 @@
    "curated": false
   },
   {
+   "id": "yt-DtexnJUibB0",
+   "type": "video",
+   "title": "Liberty Swing 2025 Johnvitational KP Rutland & Alexis Garrish   4K",
+   "artist": "Liberty Swing Dance Championships",
+   "styles": [
+    "wcs",
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 319,
+   "popularity": 81,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "DtexnJUibB0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-L--9LSCG6QQ",
    "type": "video",
    "title": "Surprise dance when Jordan Frisbee draws Tatiana Mollmann | West Coast Swing (Sweden 2017)",
@@ -32278,26 +32410,6 @@
    "source": {
     "platform": "youtube",
     "id": "FZpHCjCY-9w"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-DtexnJUibB0",
-   "type": "video",
-   "title": "Liberty Swing 2025 Johnvitational KP Rutland & Alexis Garrish   4K",
-   "artist": "Liberty Swing Dance Championships",
-   "styles": [
-    "wcs",
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 319,
-   "popularity": 80,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "DtexnJUibB0"
    },
    "curated": false
   },
@@ -41831,7 +41943,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 192,
-   "popularity": 40,
+   "popularity": 41,
    "addedAt": "2026-07-24",
    "source": {
     "platform": "youtube",
@@ -44244,7 +44356,7 @@
   },
   {
    "id": "yt-I9zHYkKoL4A",
-   "type": "music",
+   "type": "video",
    "title": "Swing Out! 1940s Dancing",
    "artist": "1940GlamourGirl",
    "styles": [
@@ -51824,7 +51936,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -51937,7 +52049,7 @@
   },
   {
    "id": "yt-ZP3DM8_hiLg",
-   "type": "video",
+   "type": "music",
    "title": "Grand Nationals 2017 Champion Swing  1st place winners",
    "artist": "Bruce Gleason",
    "styles": [
@@ -52255,7 +52367,7 @@
   },
   {
    "id": "yt-JdRin5YUORk",
-   "type": "video",
+   "type": "music",
    "title": "Mr and Mrs Smooth demonstrating the art of Simply Smooth Swagger - Watch! Be Cool",
    "artist": "Joe N Dancer",
    "styles": [
@@ -52706,7 +52818,7 @@
   },
   {
    "id": "yt-gc5fOmnB1z4",
-   "type": "music",
+   "type": "video",
    "title": "OUR FIRST DANCE (Lindy Hop)",
    "artist": "The FamLee Life",
    "styles": [
@@ -53213,7 +53325,7 @@
   },
   {
    "id": "yt-Q3ew4E_-8Ps",
-   "type": "video",
+   "type": "music",
    "title": "Throwback Video! Lindy Hop combos with Anna, Slava, Jean, and Ali",
    "artist": "SwingStepTV",
    "styles": [
@@ -57853,6 +57965,27 @@
    "curated": false
   },
   {
+   "id": "yt--N7fHNJNFyw",
+   "type": "tutorial",
+   "title": "Lindy Hop | Remy & Moe – Lesson 1 \"Six Counts Basic Moves\"",
+   "artist": "Summer Jamboree Dance Academy",
+   "styles": [
+    "lindy",
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 641,
+   "popularity": 63,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "-N7fHNJNFyw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-jE4JJ1GIgu8",
    "type": "video",
    "title": "Recap #4—Frankie's 6s (6T lindy hop)",
@@ -58060,27 +58193,6 @@
    "source": {
     "platform": "youtube",
     "id": "45eMp_QmgBM"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt--N7fHNJNFyw",
-   "type": "tutorial",
-   "title": "Lindy Hop | Remy & Moe – Lesson 1 \"Six Counts Basic Moves\"",
-   "artist": "Summer Jamboree Dance Academy",
-   "styles": [
-    "lindy",
-    "lindy6",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 641,
-   "popularity": 62,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "-N7fHNJNFyw"
    },
    "curated": false
   },
@@ -59115,6 +59227,25 @@
    "curated": false
   },
   {
+   "id": "yt-ORmRny-Kckk",
+   "type": "video",
+   "title": "Recap: Pure Balboa with Olga and Andreas",
+   "artist": "Andreas Olsson",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 217,
+   "popularity": 59,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "ORmRny-Kckk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-VWNQpsC4tvE",
    "type": "video",
    "title": "2nd Place: Frida & Remy - Invitational Draw - ILHC 2024",
@@ -59268,25 +59399,6 @@
    "source": {
     "platform": "youtube",
     "id": "is5oQYAlqFk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-ORmRny-Kckk",
-   "type": "video",
-   "title": "Recap: Pure Balboa with Olga and Andreas",
-   "artist": "Andreas Olsson",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2020,
-   "durationSec": 217,
-   "popularity": 58,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "ORmRny-Kckk"
    },
    "curated": false
   },
@@ -59604,6 +59716,26 @@
    "curated": false
   },
   {
+   "id": "yt-OFsQYQIylrA",
+   "type": "video",
+   "title": "5 - Learn to Lindy Hop - Swing Out From Closed",
+   "artist": "Midtown Stomp",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 111,
+   "popularity": 57,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "OFsQYQIylrA"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-YEY4DZ840aE",
    "type": "video",
    "title": "Frankie Manning: El bailarín de Lindy Hop. De 1914 a 1955 (1/2) | La historia de Frankie Manning",
@@ -59907,26 +60039,6 @@
    "source": {
     "platform": "youtube",
     "id": "BiCeAlJIgic"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-OFsQYQIylrA",
-   "type": "video",
-   "title": "5 - Learn to Lindy Hop - Swing Out From Closed",
-   "artist": "Midtown Stomp",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2018,
-   "durationSec": 111,
-   "popularity": 56,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "OFsQYQIylrA"
    },
    "curated": false
   },
