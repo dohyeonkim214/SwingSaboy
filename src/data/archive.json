@@ -1,6 +1,156 @@
 {
- "exportedAt": "2026-11-21T18:13:26.662Z",
+ "exportedAt": "2026-11-22T18:14:01.224Z",
  "items": [
+  {
+   "id": "yt-NZht6wLcNTA",
+   "type": "music",
+   "title": "Soulful SMOOTH JAZZ Backing Track in E minor (Blues & Altered Scale Diagrams)",
+   "artist": "Pocket Jam Tracks",
+   "styles": [],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 488,
+   "popularity": 90,
+   "addedAt": "2026-11-22",
+   "source": {
+    "platform": "youtube",
+    "id": "NZht6wLcNTA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ozkwzforIu8",
+   "type": "video",
+   "title": "INSANE 🤯 Tatiana got into one of her modes again 😍 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 51,
+   "popularity": 66,
+   "addedAt": "2026-11-22",
+   "source": {
+    "platform": "youtube",
+    "id": "ozkwzforIu8"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-AmQOd7dC0fA",
+   "type": "video",
+   "title": "Frankie Manning and Dean Collins",
+   "artist": "Nick Williams",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2011,
+   "durationSec": 67,
+   "popularity": 62,
+   "addedAt": "2026-11-22",
+   "source": {
+    "platform": "youtube",
+    "id": "AmQOd7dC0fA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-G6VOL1-Hc7E",
+   "type": "tutorial",
+   "title": "6/21/18 Balboa 1 Wk 1 Footwork (out-and-ins, come around, pure bal basic)",
+   "artist": "swinginstyle",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 57,
+   "popularity": 41,
+   "addedAt": "2026-11-22",
+   "source": {
+    "platform": "youtube",
+    "id": "G6VOL1-Hc7E"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-D6gArxOFAnc",
+   "type": "video",
+   "title": "Social West Coast Swing - Westie Joy 2026 - Fluid (AMES)",
+   "artist": "Alexandre Zaag",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 210,
+   "popularity": 36,
+   "addedAt": "2026-11-22",
+   "source": {
+    "platform": "youtube",
+    "id": "D6gArxOFAnc"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-3I2PbbRtiDY",
+   "type": "video",
+   "title": "5 Easy Tips To Improve Musicality In Dance",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 384,
+   "popularity": 32,
+   "addedAt": "2026-11-22",
+   "source": {
+    "platform": "youtube",
+    "id": "3I2PbbRtiDY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ApYm0VCQA4I",
+   "type": "video",
+   "title": "Ken Rutland & Karin Kakun - 3rd place Champions Jack&Jill Finals - Milan Modern Swing 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 303,
+   "popularity": 31,
+   "addedAt": "2026-11-22",
+   "source": {
+    "platform": "youtube",
+    "id": "ApYm0VCQA4I"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-pvC8nCZfj_A",
+   "type": "tutorial",
+   "title": "Collegiate Shag Class Recap | Floaty Style, Single vs Double & Center of Gravity | Berlin",
+   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 192,
+   "popularity": 30,
+   "addedAt": "2026-11-22",
+   "source": {
+    "platform": "youtube",
+    "id": "pvC8nCZfj_A"
+   },
+   "curated": false
+  },
   {
    "id": "yt-AHgml3BXhZc",
    "type": "music",
@@ -306,7 +456,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 60,
-   "popularity": 71,
+   "popularity": 73,
    "addedAt": "2026-11-19",
    "source": {
     "platform": "youtube",
@@ -3099,7 +3249,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 764,
-   "popularity": 35,
+   "popularity": 36,
    "addedAt": "2026-11-02",
    "source": {
     "platform": "youtube",
@@ -3906,7 +4056,7 @@
    "bpm": null,
    "year": 2021,
    "durationSec": 332,
-   "popularity": 82,
+   "popularity": 83,
    "addedAt": "2026-10-29",
    "source": {
     "platform": "youtube",
@@ -5145,7 +5295,7 @@
    ],
    "bpm": null,
    "year": 2017,
-   "durationSec": 389,
+   "durationSec": 390,
    "popularity": 74,
    "addedAt": "2026-10-23",
    "source": {
@@ -8427,7 +8577,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 246,
-   "popularity": 92,
+   "popularity": 93,
    "addedAt": "2026-10-08",
    "source": {
     "platform": "youtube",
@@ -14903,7 +15053,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1006,
-   "popularity": 44,
+   "popularity": 45,
    "addedAt": "2026-09-16",
    "source": {
     "platform": "youtube",
@@ -20174,6 +20324,23 @@
    "curated": false
   },
   {
+   "id": "yt-IjT9ssaLpWw",
+   "type": "music",
+   "title": "🇬🇧 This Is What the Hits of the 1930s Sounded Like🇺🇸 #shorts",
+   "artist": "JAMILDARK22",
+   "styles": [],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 59,
+   "popularity": 64,
+   "addedAt": "2026-09-06",
+   "source": {
+    "platform": "youtube",
+    "id": "IjT9ssaLpWw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-sGcF9ML8wss",
    "type": "video",
    "title": "Improv West Coast Swing Dance with Ben Morris & Victoria Henk",
@@ -20208,23 +20375,6 @@
    "source": {
     "platform": "youtube",
     "id": "ZEPViwkylUg"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-IjT9ssaLpWw",
-   "type": "music",
-   "title": "🇬🇧 This Is What the Hits of the 1930s Sounded Like🇺🇸 #shorts",
-   "artist": "The best songs of all ever",
-   "styles": [],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 59,
-   "popularity": 62,
-   "addedAt": "2026-09-06",
-   "source": {
-    "platform": "youtube",
-    "id": "IjT9ssaLpWw"
    },
    "curated": false
   },
@@ -30123,7 +30273,7 @@
   },
   {
    "id": "yt-AmWPoLzXW58",
-   "type": "video",
+   "type": "music",
    "title": "Dancing to the BEE GEES?!?!  How'd we do? #westcoastswing",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -30221,7 +30371,7 @@
   },
   {
    "id": "yt-w-_cMoscSuc",
-   "type": "video",
+   "type": "music",
    "title": "Unbelievable improvised West Coast Swing performance",
    "artist": "The Urban Herald",
    "styles": [
@@ -30966,7 +31116,7 @@
   },
   {
    "id": "yt-jB6pd-kTbGo",
-   "type": "music",
+   "type": "video",
    "title": "She KNEW this song 🤩 #improv #westcoastswing with Tren Veal",
    "artist": "Ken & Bryn",
    "styles": [
@@ -32077,7 +32227,7 @@
   },
   {
    "id": "yt-am3PmylTbDg",
-   "type": "music",
+   "type": "video",
    "title": "Thibault and Nicole Ramirez - 1st Place Showcase - The Open Swing Dance Championships 2024",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -34630,7 +34780,8 @@
    "title": "Lindy Hop 08: Mixing 8-count and 6-count Variations",
    "artist": "utsocialdance",
    "styles": [
-    "lindy6"
+    "lindy6",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2012,
@@ -44356,7 +44507,7 @@
   },
   {
    "id": "yt-I9zHYkKoL4A",
-   "type": "video",
+   "type": "music",
    "title": "Swing Out! 1940s Dancing",
    "artist": "1940GlamourGirl",
    "styles": [
@@ -47445,6 +47596,25 @@
    "curated": false
   },
   {
+   "id": "yt-OJLCUEWHeZU",
+   "type": "tutorial",
+   "title": "Balboa Dance Basic Steps for Beginners | Day 1 of 4",
+   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 91,
+   "popularity": 43,
+   "addedAt": "2026-07-10",
+   "source": {
+    "platform": "youtube",
+    "id": "OJLCUEWHeZU"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-N1Dlq_Cqht8",
    "type": "video",
    "title": "Shag Republic 2022 - Combo Shag competition - Finals",
@@ -47498,25 +47668,6 @@
    "source": {
     "platform": "youtube",
     "id": "WqS9WFi1O9I"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-OJLCUEWHeZU",
-   "type": "tutorial",
-   "title": "Balboa Dance Basic Steps for Beginners | Day 1 of 4",
-   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 91,
-   "popularity": 42,
-   "addedAt": "2026-07-10",
-   "source": {
-    "platform": "youtube",
-    "id": "OJLCUEWHeZU"
    },
    "curated": false
   },
@@ -52049,7 +52200,7 @@
   },
   {
    "id": "yt-ZP3DM8_hiLg",
-   "type": "music",
+   "type": "video",
    "title": "Grand Nationals 2017 Champion Swing  1st place winners",
    "artist": "Bruce Gleason",
    "styles": [
@@ -52180,7 +52331,7 @@
   },
   {
    "id": "yt-XBJXSwJtx9o",
-   "type": "video",
+   "type": "music",
    "title": "Fast feet vintage viral \"Paris Jazz Roots Dance Jam\" in 2015 (part)",
    "artist": "Secrets of Solo",
    "styles": [
@@ -52367,7 +52518,7 @@
   },
   {
    "id": "yt-JdRin5YUORk",
-   "type": "music",
+   "type": "video",
    "title": "Mr and Mrs Smooth demonstrating the art of Simply Smooth Swagger - Watch! Be Cool",
    "artist": "Joe N Dancer",
    "styles": [
@@ -53284,7 +53435,7 @@
   },
   {
    "id": "yt-egopcBsOPIU",
-   "type": "video",
+   "type": "music",
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
@@ -53325,7 +53476,7 @@
   },
   {
    "id": "yt-Q3ew4E_-8Ps",
-   "type": "music",
+   "type": "video",
    "title": "Throwback Video! Lindy Hop combos with Anna, Slava, Jean, and Ali",
    "artist": "SwingStepTV",
    "styles": [
@@ -53465,7 +53616,7 @@
   },
   {
    "id": "yt-VjAoG3fgjkc",
-   "type": "music",
+   "type": "tutorial",
    "title": "Lindy hop basic footwork",
    "artist": "Lindybeige",
    "styles": [
