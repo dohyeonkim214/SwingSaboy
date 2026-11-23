@@ -1,6 +1,62 @@
 {
- "exportedAt": "2026-11-22T18:14:01.224Z",
+ "exportedAt": "2026-11-23T18:14:40.920Z",
  "items": [
+  {
+   "id": "yt-F8FooithZHo",
+   "type": "video",
+   "title": "¿Por qué el Lindy Hop tiene pasos de 6 y 8 tiempos?",
+   "artist": "EstiloSwing: Baile y cultura Swing",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 640,
+   "popularity": 61,
+   "addedAt": "2026-11-23",
+   "source": {
+    "platform": "youtube",
+    "id": "F8FooithZHo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-xnTba9IMd6k",
+   "type": "music",
+   "title": "1930s Vocal Swing Jazz🎸 \"Driving Me Crazy\"🔥 Authentic Song Lyrics (1930)✍️Music Video📹",
+   "artist": "videofab-en",
+   "styles": [],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 133,
+   "popularity": 43,
+   "addedAt": "2026-11-23",
+   "source": {
+    "platform": "youtube",
+    "id": "xnTba9IMd6k"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-amizsbaM6uI",
+   "type": "video",
+   "title": "🕺West Coast Swing Improv Freestyle Dance by Ben Morris & Cameo McHenry",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 39,
+   "addedAt": "2026-11-23",
+   "source": {
+    "platform": "youtube",
+    "id": "amizsbaM6uI"
+   },
+   "curated": false
+  },
   {
    "id": "yt-NZht6wLcNTA",
    "type": "music",
@@ -689,6 +745,25 @@
    "curated": false
   },
   {
+   "id": "yt-s__0kXoxXXo",
+   "type": "video",
+   "title": "Joshua Schubert & Angelique Pernotte - 1st place All-Stars Jack&Jill - Milan Modern Swing 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 175,
+   "popularity": 59,
+   "addedAt": "2026-11-18",
+   "source": {
+    "platform": "youtube",
+    "id": "s__0kXoxXXo"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-lpikPgqgYSE",
    "type": "video",
    "title": "Swing Dancing - Advanced Tandem Charleston",
@@ -704,25 +779,6 @@
    "source": {
     "platform": "youtube",
     "id": "lpikPgqgYSE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-s__0kXoxXXo",
-   "type": "video",
-   "title": "Joshua Schubert & Angelique Pernotte - 1st place All-Stars Jack&Jill - Milan Modern Swing 2026",
-   "artist": "West Coast Swing",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 175,
-   "popularity": 57,
-   "addedAt": "2026-11-18",
-   "source": {
-    "platform": "youtube",
-    "id": "s__0kXoxXXo"
    },
    "curated": false
   },
@@ -1107,7 +1163,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 56,
-   "popularity": 83,
+   "popularity": 84,
    "addedAt": "2026-11-15",
    "source": {
     "platform": "youtube",
@@ -2061,7 +2117,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 416,
-   "popularity": 33,
+   "popularity": 34,
    "addedAt": "2026-11-11",
    "source": {
     "platform": "youtube",
@@ -2721,7 +2777,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 111,
-   "popularity": 23,
+   "popularity": 29,
    "addedAt": "2026-11-05",
    "source": {
     "platform": "youtube",
@@ -5748,7 +5804,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 1054,
-   "popularity": 37,
+   "popularity": 38,
    "addedAt": "2026-10-20",
    "source": {
     "platform": "youtube",
@@ -8102,7 +8158,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 61,
-   "popularity": 64,
+   "popularity": 65,
    "addedAt": "2026-10-09",
    "source": {
     "platform": "youtube",
@@ -11124,6 +11180,25 @@
    "curated": false
   },
   {
+   "id": "yt-TmaWZGtD0pw",
+   "type": "video",
+   "title": "July 5 2026 Lindy Hop Savoy Swingout, Reverse Swingout to Turn and Free spins",
+   "artist": "Swing Dance with Mike & Elli",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 60,
+   "popularity": 49,
+   "addedAt": "2026-09-28",
+   "source": {
+    "platform": "youtube",
+    "id": "TmaWZGtD0pw"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-qHdUS5sE1Io",
    "type": "video",
    "title": "Trafik Hop! - Lindy Hop Team - ILHC 2022",
@@ -11139,25 +11214,6 @@
    "source": {
     "platform": "youtube",
     "id": "qHdUS5sE1Io"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-TmaWZGtD0pw",
-   "type": "video",
-   "title": "July 5 2026 Lindy Hop Savoy Swingout, Reverse Swingout to Turn and Free spins",
-   "artist": "Swing Dance with Mike & Elli",
-   "styles": [
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 60,
-   "popularity": 48,
-   "addedAt": "2026-09-28",
-   "source": {
-    "platform": "youtube",
-    "id": "TmaWZGtD0pw"
    },
    "curated": false
   },
@@ -16352,6 +16408,25 @@
    "curated": false
   },
   {
+   "id": "yt-a5UMf505elk",
+   "type": "video",
+   "title": "🕺West Coast Swing Improv Freestyle Dance by Ben Morris & Alexis Garrish",
+   "artist": "Ben Morris",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 67,
+   "addedAt": "2026-09-12",
+   "source": {
+    "platform": "youtube",
+    "id": "a5UMf505elk"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-Zw1UTeQpPoQ",
    "type": "video",
    "title": "East coast swing",
@@ -16405,25 +16480,6 @@
    "source": {
     "platform": "youtube",
     "id": "p6s0AZRtQt0"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-a5UMf505elk",
-   "type": "video",
-   "title": "🕺West Coast Swing Improv Freestyle Dance by Ben Morris & Alexis Garrish",
-   "artist": "Ben Morris",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 59,
-   "popularity": 66,
-   "addedAt": "2026-09-12",
-   "source": {
-    "platform": "youtube",
-    "id": "a5UMf505elk"
    },
    "curated": false
   },
@@ -25309,7 +25365,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 714,
-   "popularity": 67,
+   "popularity": 68,
    "addedAt": "2026-08-16",
    "source": {
     "platform": "youtube",
@@ -30273,7 +30329,7 @@
   },
   {
    "id": "yt-AmWPoLzXW58",
-   "type": "music",
+   "type": "video",
    "title": "Dancing to the BEE GEES?!?!  How'd we do? #westcoastswing",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -31116,7 +31172,7 @@
   },
   {
    "id": "yt-jB6pd-kTbGo",
-   "type": "video",
+   "type": "music",
    "title": "She KNEW this song 🤩 #improv #westcoastswing with Tren Veal",
    "artist": "Ken & Bryn",
    "styles": [
@@ -33115,7 +33171,7 @@
    "bpm": null,
    "year": 2025,
    "durationSec": 293,
-   "popularity": 74,
+   "popularity": 75,
    "addedAt": "2026-08-05",
    "source": {
     "platform": "youtube",
@@ -34169,6 +34225,25 @@
    "curated": false
   },
   {
+   "id": "yt-StRuCN9jbgM",
+   "type": "tutorial",
+   "title": "Total BEGINNERS Guide to West Coast Swing!",
+   "artist": "West Coast Swing Online",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 737,
+   "popularity": 62,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "StRuCN9jbgM"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-MYt4eVULgDE",
    "type": "video",
    "title": "사교댄스 지루박 중급과정 차차차! / Jitterbug, Ballroom Dance, Social Dance / 지르박",
@@ -34222,25 +34297,6 @@
    "source": {
     "platform": "youtube",
     "id": "KLDpLRRzBeQ"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-StRuCN9jbgM",
-   "type": "tutorial",
-   "title": "Total BEGINNERS Guide to West Coast Swing!",
-   "artist": "West Coast Swing Online",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2023,
-   "durationSec": 737,
-   "popularity": 61,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "StRuCN9jbgM"
    },
    "curated": false
   },
@@ -34379,6 +34435,25 @@
    "curated": false
   },
   {
+   "id": "yt-eQeJopjgtdo",
+   "type": "tutorial",
+   "title": "How to Country Swing: Framework, and Basic Step",
+   "artist": "Dirt Road Dancing",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 212,
+   "popularity": 61,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "eQeJopjgtdo"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-3phT3UqL5i8",
    "type": "video",
    "title": "Improve your TRIPLE STEP for East Coast Swing!",
@@ -34433,25 +34508,6 @@
    "source": {
     "platform": "youtube",
     "id": "XJ9vOJk7aKY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-eQeJopjgtdo",
-   "type": "tutorial",
-   "title": "How to Country Swing: Framework, and Basic Step",
-   "artist": "Dirt Road Dancing",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 212,
-   "popularity": 60,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "eQeJopjgtdo"
    },
    "curated": false
   },
@@ -37019,7 +37075,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "music",
+   "type": "video",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -39625,7 +39681,7 @@
   },
   {
    "id": "yt-2PyDM6B_5_Q",
-   "type": "video",
+   "type": "music",
    "title": "I guess we really can swing to ANYTHING 😂 West Coast Swing Improv #dance",
    "artist": "Sean & Alyssa McKeever",
    "styles": [
@@ -44507,7 +44563,7 @@
   },
   {
    "id": "yt-I9zHYkKoL4A",
-   "type": "music",
+   "type": "video",
    "title": "Swing Out! 1940s Dancing",
    "artist": "1940GlamourGirl",
    "styles": [
@@ -52268,7 +52324,7 @@
   },
   {
    "id": "yt-FIawVClaMgI",
-   "type": "music",
+   "type": "video",
    "title": "Jordan Frisbee & Emeline Rochefeuille - Champions Jack&Jill - Budafest 2020 \"Macarena\"",
    "artist": "West Coast Swing",
    "styles": [
@@ -52331,7 +52387,7 @@
   },
   {
    "id": "yt-XBJXSwJtx9o",
-   "type": "music",
+   "type": "video",
    "title": "Fast feet vintage viral \"Paris Jazz Roots Dance Jam\" in 2015 (part)",
    "artist": "Secrets of Solo",
    "styles": [
@@ -53454,6 +53510,27 @@
    "curated": false
   },
   {
+   "id": "yt-YtMnwud1agY",
+   "type": "video",
+   "title": "Jerry Lewis  Does The Lindy Hop - Jitterbug",
+   "artist": "Rusty Frank",
+   "styles": [
+    "lindy",
+    "jitterbug",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2017,
+   "durationSec": 46,
+   "popularity": 85,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "YtMnwud1agY"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-dFtX8RlGRrw",
    "type": "music",
    "title": "RTSF 2016 - Lindy Hop Performance - Laura & Felipe",
@@ -53476,7 +53553,7 @@
   },
   {
    "id": "yt-Q3ew4E_-8Ps",
-   "type": "video",
+   "type": "music",
    "title": "Throwback Video! Lindy Hop combos with Anna, Slava, Jean, and Ali",
    "artist": "SwingStepTV",
    "styles": [
@@ -53532,27 +53609,6 @@
    "source": {
     "platform": "youtube",
     "id": "2cUPYkJQ29s"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-YtMnwud1agY",
-   "type": "video",
-   "title": "Jerry Lewis  Does The Lindy Hop - Jitterbug",
-   "artist": "Rusty Frank",
-   "styles": [
-    "lindy",
-    "jitterbug",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2017,
-   "durationSec": 46,
-   "popularity": 84,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "YtMnwud1agY"
    },
    "curated": false
   },
@@ -56260,6 +56316,26 @@
    "curated": false
   },
   {
+   "id": "yt-KGU-bwbK26I",
+   "type": "video",
+   "title": "Sugar Push - for Lindy Hop & Swing Dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 833,
+   "popularity": 70,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "KGU-bwbK26I"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-YixRGU8wk_U",
    "type": "video",
    "title": "Buck Fever | Authentic Jazz Dance Routine by Sharon Davis | 30 November 2013",
@@ -56295,26 +56371,6 @@
    "source": {
     "platform": "youtube",
     "id": "zOl-frw-9xs"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-KGU-bwbK26I",
-   "type": "video",
-   "title": "Sugar Push - for Lindy Hop & Swing Dance",
-   "artist": "Laura Glaess",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2024,
-   "durationSec": 833,
-   "popularity": 69,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "KGU-bwbK26I"
    },
    "curated": false
   },
@@ -60309,6 +60365,25 @@
    "curated": false
   },
   {
+   "id": "yt-L6hfm8zmgBI",
+   "type": "video",
+   "title": "A Short Explanation of Pure Balboa",
+   "artist": "Swungover",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 169,
+   "popularity": 56,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "L6hfm8zmgBI"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-dP8jiwmcV9U",
    "type": "tutorial",
    "title": "Difference between Lindy Hop and Charleston | Online Swing Dance Lessons | Street Smart Swing",
@@ -60518,25 +60593,6 @@
    "source": {
     "platform": "youtube",
     "id": "oStr286PDBs"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-L6hfm8zmgBI",
-   "type": "video",
-   "title": "A Short Explanation of Pure Balboa",
-   "artist": "Swungover",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 169,
-   "popularity": 55,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "L6hfm8zmgBI"
    },
    "curated": false
   },
@@ -61660,6 +61716,25 @@
    "curated": false
   },
   {
+   "id": "yt-Y3MedRSWEfI",
+   "type": "video",
+   "title": "A Short Explanation of Bal-Swing",
+   "artist": "Swungover",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 181,
+   "popularity": 51,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "Y3MedRSWEfI"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-zU8EjY2JfNM",
    "type": "video",
    "title": "The Big Apple at the Savoy, 1938",
@@ -61983,25 +62058,6 @@
    "source": {
     "platform": "youtube",
     "id": "Ez6ul3ofl10"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Y3MedRSWEfI",
-   "type": "video",
-   "title": "A Short Explanation of Bal-Swing",
-   "artist": "Swungover",
-   "styles": [
-    "balboa"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 181,
-   "popularity": 50,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "Y3MedRSWEfI"
    },
    "curated": false
   },
