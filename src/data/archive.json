@@ -1,6 +1,158 @@
 {
- "exportedAt": "2026-11-23T18:14:40.920Z",
+ "exportedAt": "2026-11-24T18:14:50.166Z",
  "items": [
+  {
+   "id": "yt-RI13dZr4yiI",
+   "type": "video",
+   "title": "Boogie Woogie Improvisation Dancing Show 💃 🎷 #ludostacy #shorts  #sunny #swing #couple #viral",
+   "artist": "Ludo & Stacy",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 60,
+   "popularity": 100,
+   "addedAt": "2026-11-24",
+   "source": {
+    "platform": "youtube",
+    "id": "RI13dZr4yiI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-sGAMLtbeG1o",
+   "type": "video",
+   "title": "Lindy Focus XVIII: Anthony & Irina \"Bill Bailey\" Performance",
+   "artist": "Lindy Focus",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 232,
+   "popularity": 70,
+   "addedAt": "2026-11-24",
+   "source": {
+    "platform": "youtube",
+    "id": "sGAMLtbeG1o"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-C4Mk5S1ZQwI",
+   "type": "tutorial",
+   "title": "3/30/16 - Swing Basics (charleston, kick aways, breaks, pecks, johnny drop)",
+   "artist": "swinginstyle",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 83,
+   "popularity": 43,
+   "addedAt": "2026-11-24",
+   "source": {
+    "platform": "youtube",
+    "id": "C4Mk5S1ZQwI"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-LBXK6qb7i_0",
+   "type": "video",
+   "title": "Joshua Schubert & Michelle Braun - 1st place All-Stars Jack&Jill - Warsaw Halloween Swing 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 170,
+   "popularity": 43,
+   "addedAt": "2026-11-24",
+   "source": {
+    "platform": "youtube",
+    "id": "LBXK6qb7i_0"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-SYRP21qyqXE",
+   "type": "video",
+   "title": "Locked In ✨🔥 #dance #improv #wcs #dancing #movement #grooce #bigenergy #boom  #fyp",
+   "artist": "StuckOnSwing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 63,
+   "popularity": 42,
+   "addedAt": "2026-11-24",
+   "source": {
+    "platform": "youtube",
+    "id": "SYRP21qyqXE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-FFCLJQNhvCw",
+   "type": "video",
+   "title": "KBW2026 Jacob Wigger & Nataila Eristavi White heat  #dancer #balboadance #Koreabalboa #whiteheat",
+   "artist": "Korea Balboa",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 169,
+   "popularity": 40,
+   "addedAt": "2026-11-24",
+   "source": {
+    "platform": "youtube",
+    "id": "FFCLJQNhvCw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-ttaLS-U2VVo",
+   "type": "video",
+   "title": "Red Shufflers Everyday | Session 2 | Part 2/2",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 59,
+   "popularity": 37,
+   "addedAt": "2026-11-24",
+   "source": {
+    "platform": "youtube",
+    "id": "ttaLS-U2VVo"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-_Z6JGluoHXI",
+   "type": "video",
+   "title": "ATCJI 2020 Shag Showdown Competition Finals - Bridget Foley & Azi Wallmeyer",
+   "artist": "All the Cats Join In",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 108,
+   "popularity": 30,
+   "addedAt": "2026-11-24",
+   "source": {
+    "platform": "youtube",
+    "id": "_Z6JGluoHXI"
+   },
+   "curated": false
+  },
   {
    "id": "yt-F8FooithZHo",
    "type": "video",
@@ -85,7 +237,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 51,
-   "popularity": 66,
+   "popularity": 69,
    "addedAt": "2026-11-22",
    "source": {
     "platform": "youtube",
@@ -512,7 +664,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 60,
-   "popularity": 73,
+   "popularity": 74,
    "addedAt": "2026-11-19",
    "source": {
     "platform": "youtube",
@@ -736,7 +888,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 48,
-   "popularity": 62,
+   "popularity": 63,
    "addedAt": "2026-11-18",
    "source": {
     "platform": "youtube",
@@ -2379,7 +2531,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 216,
-   "popularity": 28,
+   "popularity": 29,
    "addedAt": "2026-11-08",
    "source": {
     "platform": "youtube",
@@ -22139,6 +22291,25 @@
    "curated": false
   },
   {
+   "id": "yt-lcUcQfNVqJ0",
+   "type": "video",
+   "title": "✨Vibin’ 💫 #dance #improv #wcs #partnership #dancing #groove #love",
+   "artist": "StuckOnSwing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 61,
+   "popularity": 63,
+   "addedAt": "2026-09-01",
+   "source": {
+    "platform": "youtube",
+    "id": "lcUcQfNVqJ0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-r9dnkXbcB8M",
    "type": "tutorial",
    "title": "Learn How To Line Dance- Beginners' Steps: Side Together, Side Touch and Charleston Kick",
@@ -22154,25 +22325,6 @@
    "source": {
     "platform": "youtube",
     "id": "r9dnkXbcB8M"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-lcUcQfNVqJ0",
-   "type": "video",
-   "title": "✨Vibin’ 💫 #dance #improv #wcs #partnership #dancing #groove #love",
-   "artist": "StuckOnSwing",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 61,
-   "popularity": 62,
-   "addedAt": "2026-09-01",
-   "source": {
-    "platform": "youtube",
-    "id": "lcUcQfNVqJ0"
    },
    "curated": false
   },
@@ -24240,7 +24392,7 @@
    "id": "yt-OOtUIMrJUyc",
    "type": "music",
    "title": "Beegie Adair Trio Performs \"Autumn Leaves\" at Nashville Jazz Workshop",
-   "artist": "Nashvillejazz",
+   "artist": "Nashville Jazz Workshop",
    "styles": [],
    "bpm": null,
    "year": 2014,
@@ -25028,7 +25180,7 @@
    "bpm": null,
    "year": 2015,
    "durationSec": 159,
-   "popularity": 57,
+   "popularity": 58,
    "addedAt": "2026-08-17",
    "source": {
     "platform": "youtube",
@@ -27570,6 +27722,25 @@
    "curated": false
   },
   {
+   "id": "yt-4-HugxP-rDc",
+   "type": "tutorial",
+   "title": "Collegiate Shag | Steve & Chanzie – Lesson 1 \"Double Kick Basics and Hitches\"",
+   "artist": "Summer Jamboree Dance Academy",
+   "styles": [
+    "shag"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 178,
+   "popularity": 40,
+   "addedAt": "2026-08-11",
+   "source": {
+    "platform": "youtube",
+    "id": "4-HugxP-rDc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-HznVy1mfzsw",
    "type": "video",
    "title": "Lindy Hop 8 Count Basic Foot Work",
@@ -27604,25 +27775,6 @@
    "source": {
     "platform": "youtube",
     "id": "RKHh9Zo_32U"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-4-HugxP-rDc",
-   "type": "tutorial",
-   "title": "Collegiate Shag | Steve & Chanzie – Lesson 1 \"Double Kick Basics and Hitches\"",
-   "artist": "Summer Jamboree Dance Academy",
-   "styles": [
-    "shag"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 178,
-   "popularity": 39,
-   "addedAt": "2026-08-11",
-   "source": {
-    "platform": "youtube",
-    "id": "4-HugxP-rDc"
    },
    "curated": false
   },
@@ -31172,7 +31324,7 @@
   },
   {
    "id": "yt-jB6pd-kTbGo",
-   "type": "music",
+   "type": "video",
    "title": "She KNEW this song 🤩 #improv #westcoastswing with Tren Veal",
    "artist": "Ken & Bryn",
    "styles": [
@@ -32283,7 +32435,7 @@
   },
   {
    "id": "yt-am3PmylTbDg",
-   "type": "video",
+   "type": "music",
    "title": "Thibault and Nicole Ramirez - 1st Place Showcase - The Open Swing Dance Championships 2024",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -36281,7 +36433,7 @@
   },
   {
    "id": "yt-slWpbHrOxow",
-   "type": "music",
+   "type": "video",
    "title": "Swing | Awitin Mo At Isasayaw Ko",
    "artist": "De Guzman Ignacio III P.",
    "styles": [
@@ -36689,6 +36841,25 @@
    "curated": false
   },
   {
+   "id": "yt-EvY6kEzQick",
+   "type": "tutorial",
+   "title": "HOW TO COUNTRY SWING DANCE - Basics For Beginners",
+   "artist": "Country Dance X",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 285,
+   "popularity": 70,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "EvY6kEzQick"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-jfwwdVwPiJA",
    "type": "tutorial",
    "title": "Swing Dance Fundamentals for Complete Beginners",
@@ -36723,25 +36894,6 @@
    "source": {
     "platform": "youtube",
     "id": "ODzEfFtFsfY"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-EvY6kEzQick",
-   "type": "tutorial",
-   "title": "HOW TO COUNTRY SWING DANCE - Basics For Beginners",
-   "artist": "Country Dance X",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 285,
-   "popularity": 69,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "EvY6kEzQick"
    },
    "curated": false
   },
@@ -43352,7 +43504,7 @@
   },
   {
    "id": "yt-E0qmZrVRRw8",
-   "type": "video",
+   "type": "music",
    "title": "Mind = blown 🤯😂🤣 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -52387,7 +52539,7 @@
   },
   {
    "id": "yt-XBJXSwJtx9o",
-   "type": "video",
+   "type": "music",
    "title": "Fast feet vintage viral \"Paris Jazz Roots Dance Jam\" in 2015 (part)",
    "artist": "Secrets of Solo",
    "styles": [
@@ -53491,7 +53643,7 @@
   },
   {
    "id": "yt-egopcBsOPIU",
-   "type": "music",
+   "type": "video",
    "title": "A Day at the Races - Lindy Hop scene in color | Colorized with DeOldify",
    "artist": "Black Pepper Swing",
    "styles": [
