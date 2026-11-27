@@ -1,6 +1,253 @@
 {
- "exportedAt": "2026-11-26T18:15:52.324Z",
+ "exportedAt": "2026-11-27T18:15:18.066Z",
  "items": [
+  {
+   "id": "yt-1paSqmUIar4",
+   "type": "video",
+   "title": "Swing Stunts",
+   "artist": "Duke Swing",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2016,
+   "durationSec": 363,
+   "popularity": 87,
+   "addedAt": "2026-11-27",
+   "source": {
+    "platform": "youtube",
+    "id": "1paSqmUIar4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-sryJ9M7E_yA",
+   "type": "video",
+   "title": "Nils och Bianca,  Lindy hop showcase SM 2019",
+   "artist": "Danspassion",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 168,
+   "popularity": 74,
+   "addedAt": "2026-11-27",
+   "source": {
+    "platform": "youtube",
+    "id": "sryJ9M7E_yA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-mggROOhzUtM",
+   "type": "video",
+   "title": "Comment danser le SWING en solo tout SIMPLEMENT",
+   "artist": "Danse à la maison",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 1805,
+   "popularity": 68,
+   "addedAt": "2026-11-27",
+   "source": {
+    "platform": "youtube",
+    "id": "mggROOhzUtM"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-vI_lR3nuDD4",
+   "type": "video",
+   "title": "Let's gooo 🔥🔥🔥 #improv #westcoastswing",
+   "artist": "Ken & Bryn",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 58,
+   "popularity": 65,
+   "addedAt": "2026-11-27",
+   "source": {
+    "platform": "youtube",
+    "id": "vI_lR3nuDD4"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-jKRrmSjSDkw",
+   "type": "video",
+   "title": "Savoy Cup 2022 - Advanced Jazz Roots / Charleston Final with The Hot Swing Sextet",
+   "artist": "Savoy Cup",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 538,
+   "popularity": 62,
+   "addedAt": "2026-11-27",
+   "source": {
+    "platform": "youtube",
+    "id": "jKRrmSjSDkw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-9kNlXcEMjDY",
+   "type": "video",
+   "title": "Exploring Tandem Charleston Variations! #스윙댄스 #dance #lindyhop #린디합 #jazz #swingdnace",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 90,
+   "popularity": 62,
+   "addedAt": "2026-11-27",
+   "source": {
+    "platform": "youtube",
+    "id": "9kNlXcEMjDY"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-zJUF3-0PMBA",
+   "type": "tutorial",
+   "title": "How To Charleston Turn in Airplane Position - Lindy Hop & Swing Dance #dance",
+   "artist": "Laura Glaess",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2024,
+   "durationSec": 52,
+   "popularity": 57,
+   "addedAt": "2026-11-27",
+   "source": {
+    "platform": "youtube",
+    "id": "zJUF3-0PMBA"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-eCEXiF_NTQE",
+   "type": "video",
+   "title": "Swing Patrol Kulturbrauerei 20s Charleston",
+   "artist": "Swing Patrol Berlin",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 187,
+   "popularity": 52,
+   "addedAt": "2026-11-27",
+   "source": {
+    "platform": "youtube",
+    "id": "eCEXiF_NTQE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-Tc0q5rMl0nQ",
+   "type": "video",
+   "title": "Open Slow Balboa Finals - Great Lakes Balboa Escape 2023",
+   "artist": "Great Lakes Balboa Escape",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2023,
+   "durationSec": 540,
+   "popularity": 50,
+   "addedAt": "2026-11-27",
+   "source": {
+    "platform": "youtube",
+    "id": "Tc0q5rMl0nQ"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-wr-feDakRAw",
+   "type": "video",
+   "title": "The  Hot Shots - Lindy Hop Performance",
+   "artist": "Policoro in Swing",
+   "styles": [
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2018,
+   "durationSec": 145,
+   "popularity": 46,
+   "addedAt": "2026-11-27",
+   "source": {
+    "platform": "youtube",
+    "id": "wr-feDakRAw"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-gA3e5OgOUqE",
+   "type": "video",
+   "title": "Slow Balboa Finals - Great Lakes Balboa Escape 2026",
+   "artist": "Great Lakes Balboa Escape",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 705,
+   "popularity": 39,
+   "addedAt": "2026-11-27",
+   "source": {
+    "platform": "youtube",
+    "id": "gA3e5OgOUqE"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt-txuc8HAgAMU",
+   "type": "video",
+   "title": "February 2026 - Level 1: 6-count Lindy Fundamentals Weeks 1 and 2",
+   "artist": "JumptownSwingMadison",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 510,
+   "popularity": 29,
+   "addedAt": "2026-11-27",
+   "source": {
+    "platform": "youtube",
+    "id": "txuc8HAgAMU"
+   },
+   "curated": false
+  },
+  {
+   "id": "yt--AHxF849eRY",
+   "type": "video",
+   "title": "Balboa Swing Dance Tricks and Cheese",
+   "artist": "Nicholas Tapia | Shag, Balboa, Lindy, Tango",
+   "styles": [
+    "balboa"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 256,
+   "popularity": 29,
+   "addedAt": "2026-11-27",
+   "source": {
+    "platform": "youtube",
+    "id": "-AHxF849eRY"
+   },
+   "curated": false
+  },
   {
    "id": "yt-a-6qQ752pQk",
    "type": "music",
@@ -84,7 +331,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 61,
-   "popularity": 61,
+   "popularity": 62,
    "addedAt": "2026-11-26",
    "source": {
     "platform": "youtube",
@@ -310,7 +557,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 191,
-   "popularity": 29,
+   "popularity": 30,
    "addedAt": "2026-11-25",
    "source": {
     "platform": "youtube",
@@ -376,6 +623,25 @@
    "curated": false
   },
   {
+   "id": "yt-LBXK6qb7i_0",
+   "type": "video",
+   "title": "Joshua Schubert & Michelle Braun - 1st place All-Stars Jack&Jill - Warsaw Halloween Swing 2026",
+   "artist": "West Coast Swing",
+   "styles": [
+    "wcs"
+   ],
+   "bpm": null,
+   "year": 2026,
+   "durationSec": 170,
+   "popularity": 54,
+   "addedAt": "2026-11-24",
+   "source": {
+    "platform": "youtube",
+    "id": "LBXK6qb7i_0"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-SYRP21qyqXE",
    "type": "video",
    "title": "Locked In ✨🔥 #dance #improv #wcs #dancing #movement #grooce #bigenergy #boom  #fyp",
@@ -391,25 +657,6 @@
    "source": {
     "platform": "youtube",
     "id": "SYRP21qyqXE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-LBXK6qb7i_0",
-   "type": "video",
-   "title": "Joshua Schubert & Michelle Braun - 1st place All-Stars Jack&Jill - Warsaw Halloween Swing 2026",
-   "artist": "West Coast Swing",
-   "styles": [
-    "wcs"
-   ],
-   "bpm": null,
-   "year": 2026,
-   "durationSec": 170,
-   "popularity": 52,
-   "addedAt": "2026-11-24",
-   "source": {
-    "platform": "youtube",
-    "id": "LBXK6qb7i_0"
    },
    "curated": false
   },
@@ -574,7 +821,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 51,
-   "popularity": 70,
+   "popularity": 71,
    "addedAt": "2026-11-22",
    "source": {
     "platform": "youtube",
@@ -996,7 +1243,8 @@
    "title": "How did she spin that fast?? 🫨😱🤩 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
-    "wcs"
+    "wcs",
+    "lindy8"
    ],
    "bpm": null,
    "year": 2026,
@@ -2659,7 +2907,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 56,
-   "popularity": 64,
+   "popularity": 66,
    "addedAt": "2026-11-10",
    "source": {
     "platform": "youtube",
@@ -3756,7 +4004,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 55,
-   "popularity": 51,
+   "popularity": 52,
    "addedAt": "2026-11-02",
    "source": {
     "platform": "youtube",
@@ -4058,7 +4306,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 49,
-   "popularity": 67,
+   "popularity": 68,
    "addedAt": "2026-10-31",
    "source": {
     "platform": "youtube",
@@ -9160,7 +9408,7 @@
    "bpm": null,
    "year": 2021,
    "durationSec": 379,
-   "popularity": 65,
+   "popularity": 66,
    "addedAt": "2026-10-08",
    "source": {
     "platform": "youtube",
@@ -9778,7 +10026,7 @@
    "bpm": null,
    "year": 2021,
    "durationSec": 3972,
-   "popularity": 62,
+   "popularity": 63,
    "addedAt": "2026-10-06",
    "source": {
     "platform": "youtube",
@@ -14152,7 +14400,7 @@
    "bpm": null,
    "year": 2020,
    "durationSec": 110,
-   "popularity": 52,
+   "popularity": 53,
    "addedAt": "2026-09-19",
    "source": {
     "platform": "youtube",
@@ -14461,6 +14709,25 @@
    "curated": false
   },
   {
+   "id": "yt-Z25w-xFZ8xQ",
+   "type": "video",
+   "title": "One Trick That Unlocks Unlimited Patterns  #dance #shorts #lindyhop #swingdance #youtubeshorts",
+   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
+   "styles": [
+    "lindy6"
+   ],
+   "bpm": null,
+   "year": 2025,
+   "durationSec": 67,
+   "popularity": 57,
+   "addedAt": "2026-09-18",
+   "source": {
+    "platform": "youtube",
+    "id": "Z25w-xFZ8xQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-_spBzxaB_zY",
    "type": "video",
    "title": "balboa-balswing-module-base.m4v",
@@ -14514,25 +14781,6 @@
    "source": {
     "platform": "youtube",
     "id": "Q0O9dBXN4xE"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-Z25w-xFZ8xQ",
-   "type": "video",
-   "title": "One Trick That Unlocks Unlimited Patterns  #dance #shorts #lindyhop #swingdance #youtubeshorts",
-   "artist": "Triple Crown Swing Dance Academy - 스윙댄스",
-   "styles": [
-    "lindy6"
-   ],
-   "bpm": null,
-   "year": 2025,
-   "durationSec": 67,
-   "popularity": 53,
-   "addedAt": "2026-09-18",
-   "source": {
-    "platform": "youtube",
-    "id": "Z25w-xFZ8xQ"
    },
    "curated": false
   },
@@ -15370,7 +15618,7 @@
    "bpm": null,
    "year": 2023,
    "durationSec": 389,
-   "popularity": 61,
+   "popularity": 62,
    "addedAt": "2026-09-16",
    "source": {
     "platform": "youtube",
@@ -26354,7 +26602,7 @@
   },
   {
    "id": "yt-Wxy3bxjBsmE",
-   "type": "music",
+   "type": "video",
    "title": "Bill Haley \"Rip it up\" 1956. Rock n roll, swing dance | 4k, colorized with DeOldify",
    "artist": "Alexey Kazennov",
    "styles": [
@@ -30819,7 +31067,7 @@
   },
   {
    "id": "yt-AmWPoLzXW58",
-   "type": "video",
+   "type": "music",
    "title": "Dancing to the BEE GEES?!?!  How'd we do? #westcoastswing",
    "artist": "Thibault and Nicole Ramirez",
    "styles": [
@@ -30917,7 +31165,7 @@
   },
   {
    "id": "yt-w-_cMoscSuc",
-   "type": "music",
+   "type": "video",
    "title": "Unbelievable improvised West Coast Swing performance",
    "artist": "The Urban Herald",
    "styles": [
@@ -31427,7 +31675,8 @@
    "artist": "FunkyWestie",
    "styles": [
     "jitterbug",
-    "lindy8"
+    "lindy8",
+    "wcs"
    ],
    "bpm": null,
    "year": 2008,
@@ -31662,7 +31911,7 @@
   },
   {
    "id": "yt-jB6pd-kTbGo",
-   "type": "video",
+   "type": "music",
    "title": "She KNEW this song 🤩 #improv #westcoastswing with Tren Veal",
    "artist": "Ken & Bryn",
    "styles": [
@@ -33018,6 +33267,26 @@
    "curated": false
   },
   {
+   "id": "yt-MYfVD9l5x3o",
+   "type": "tutorial",
+   "title": "COUNTRY SWING DANCING | Basic Steps of Country Swing Dance for Beginners",
+   "artist": "Country Dance X",
+   "styles": [
+    "jitterbug",
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2020,
+   "durationSec": 802,
+   "popularity": 81,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "MYfVD9l5x3o"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-L--9LSCG6QQ",
    "type": "video",
    "title": "Surprise dance when Jordan Frisbee draws Tatiana Mollmann | West Coast Swing (Sweden 2017)",
@@ -33050,26 +33319,6 @@
    "source": {
     "platform": "youtube",
     "id": "uN_171UUFLU"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-MYfVD9l5x3o",
-   "type": "tutorial",
-   "title": "COUNTRY SWING DANCING | Basic Steps of Country Swing Dance for Beginners",
-   "artist": "Country Dance X",
-   "styles": [
-    "jitterbug",
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2020,
-   "durationSec": 802,
-   "popularity": 80,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "MYfVD9l5x3o"
    },
    "curated": false
   },
@@ -34660,6 +34909,25 @@
    "curated": false
   },
   {
+   "id": "yt-we6Lqt3E3Sc",
+   "type": "tutorial",
+   "title": "Country Swing Basics",
+   "artist": "Luke Beckstrand",
+   "styles": [
+    "jitterbug"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 70,
+   "popularity": 63,
+   "addedAt": "2026-08-05",
+   "source": {
+    "platform": "youtube",
+    "id": "we6Lqt3E3Sc"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-p5iI45001JY",
    "type": "music",
    "title": "Blueshift Big Band - \"DK Island Swing\" - Sessions from Studio A",
@@ -34692,25 +34960,6 @@
    "source": {
     "platform": "youtube",
     "id": "J6a-GASlZU8"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-we6Lqt3E3Sc",
-   "type": "tutorial",
-   "title": "Country Swing Basics",
-   "artist": "Luke Beckstrand",
-   "styles": [
-    "jitterbug"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 70,
-   "popularity": 62,
-   "addedAt": "2026-08-05",
-   "source": {
-    "platform": "youtube",
-    "id": "we6Lqt3E3Sc"
    },
    "curated": false
   },
@@ -37565,7 +37814,7 @@
   },
   {
    "id": "yt-5VdLk7bumPA",
-   "type": "music",
+   "type": "video",
    "title": "Basic Music Structure, Part 1 - for Lindy Hop and Swing Dance",
    "artist": "Laura Glaess",
    "styles": [
@@ -38217,6 +38466,26 @@
    "curated": false
   },
   {
+   "id": "yt-x9M7QO9pIxQ",
+   "type": "video",
+   "title": "Lindy Hop Bases • Mixing 6 and 8 counts in Triple Steps",
+   "artist": "Swing Station",
+   "styles": [
+    "lindy6",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2019,
+   "durationSec": 60,
+   "popularity": 56,
+   "addedAt": "2026-08-03",
+   "source": {
+    "platform": "youtube",
+    "id": "x9M7QO9pIxQ"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-JN5AEYxWWuk",
    "type": "video",
    "title": "Single Time Swing Moves | Swing/Jitterbug Master Demo (1-10)",
@@ -38232,26 +38501,6 @@
    "source": {
     "platform": "youtube",
     "id": "JN5AEYxWWuk"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-x9M7QO9pIxQ",
-   "type": "video",
-   "title": "Lindy Hop Bases • Mixing 6 and 8 counts in Triple Steps",
-   "artist": "Swing Station",
-   "styles": [
-    "lindy6",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2019,
-   "durationSec": 60,
-   "popularity": 55,
-   "addedAt": "2026-08-03",
-   "source": {
-    "platform": "youtube",
-    "id": "x9M7QO9pIxQ"
    },
    "curated": false
   },
@@ -39911,7 +40160,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 264,
-   "popularity": 27,
+   "popularity": 28,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -40006,7 +40255,7 @@
    "bpm": null,
    "year": 2026,
    "durationSec": 459,
-   "popularity": 21,
+   "popularity": 22,
    "addedAt": "2026-08-03",
    "source": {
     "platform": "youtube",
@@ -40149,7 +40398,7 @@
   },
   {
    "id": "yt-LQxHfEjBhh0",
-   "type": "music",
+   "type": "video",
    "title": "She lit up the ballroom 🤩🔥😍 #improv #westcoastswing",
    "artist": "Ken & Bryn",
    "styles": [
@@ -40171,7 +40420,7 @@
   },
   {
    "id": "yt-2PyDM6B_5_Q",
-   "type": "music",
+   "type": "video",
    "title": "I guess we really can swing to ANYTHING 😂 West Coast Swing Improv #dance",
    "artist": "Sean & Alyssa McKeever",
    "styles": [
@@ -42222,7 +42471,7 @@
    "bpm": null,
    "year": 2017,
    "durationSec": 119,
-   "popularity": 60,
+   "popularity": 61,
    "addedAt": "2026-07-27",
    "source": {
     "platform": "youtube",
@@ -45053,7 +45302,7 @@
   },
   {
    "id": "yt-I9zHYkKoL4A",
-   "type": "video",
+   "type": "music",
    "title": "Swing Out! 1940s Dancing",
    "artist": "1940GlamourGirl",
    "styles": [
@@ -47828,7 +48077,7 @@
    "bpm": null,
    "year": 2016,
    "durationSec": 325,
-   "popularity": 54,
+   "popularity": 55,
    "addedAt": "2026-07-10",
    "source": {
     "platform": "youtube",
@@ -49883,7 +50132,7 @@
   },
   {
    "id": "yt-WFhRquNGQCw",
-   "type": "video",
+   "type": "music",
    "title": "MY GIRL - RTSF 2023 - Nils and Bianca",
    "artist": "Nils and Bianca",
    "styles": [
@@ -51318,7 +51567,8 @@
    "styles": [
     "lindy",
     "lindy6",
-    "lindy8"
+    "lindy8",
+    "charleston"
    ],
    "bpm": null,
    "year": 2023,
@@ -52633,7 +52883,7 @@
   },
   {
    "id": "yt-alLi8i9BQK4",
-   "type": "video",
+   "type": "music",
    "title": "RTSF 2018 - Nils & Bianca",
    "artist": "RockThatSwing",
    "styles": [
@@ -52877,7 +53127,7 @@
   },
   {
    "id": "yt-XBJXSwJtx9o",
-   "type": "music",
+   "type": "video",
    "title": "Fast feet vintage viral \"Paris Jazz Roots Dance Jam\" in 2015 (part)",
    "artist": "Secrets of Solo",
    "styles": [
@@ -53064,7 +53314,7 @@
   },
   {
    "id": "yt-JdRin5YUORk",
-   "type": "video",
+   "type": "music",
    "title": "Mr and Mrs Smooth demonstrating the art of Simply Smooth Swagger - Watch! Be Cool",
    "artist": "Joe N Dancer",
    "styles": [
@@ -53332,7 +53582,7 @@
   },
   {
    "id": "yt-m01f4uAn1AA",
-   "type": "music",
+   "type": "video",
    "title": "RTSF 2016 - The Nitty Gritty - Chanzie & Stephen",
    "artist": "RockThatSwing",
    "styles": [
@@ -53360,7 +53610,8 @@
    "artist": "West Coast Swing",
    "styles": [
     "lindy",
-    "wcs"
+    "wcs",
+    "jitterbug"
    ],
    "bpm": null,
    "year": 2023,
@@ -53515,7 +53766,7 @@
   },
   {
    "id": "yt-gc5fOmnB1z4",
-   "type": "music",
+   "type": "video",
    "title": "OUR FIRST DANCE (Lindy Hop)",
    "artist": "The FamLee Life",
    "styles": [
@@ -54084,7 +54335,7 @@
   },
   {
    "id": "yt-2cUPYkJQ29s",
-   "type": "video",
+   "type": "music",
    "title": "Lindyfest 2016 - Shim Sham",
    "artist": "Houston Swing Dance Society - Lindyfest",
    "styles": [
@@ -54162,7 +54413,7 @@
   },
   {
    "id": "yt-VjAoG3fgjkc",
-   "type": "music",
+   "type": "tutorial",
    "title": "Lindy hop basic footwork",
    "artist": "Lindybeige",
    "styles": [
@@ -54918,6 +55169,25 @@
    "curated": false
   },
   {
+   "id": "yt-Mw858ql_tv4",
+   "type": "tutorial",
+   "title": "How to Dance the Charleston Basic Step",
+   "artist": "MyCharleston",
+   "styles": [
+    "charleston"
+   ],
+   "bpm": null,
+   "year": 2022,
+   "durationSec": 177,
+   "popularity": 78,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "Mw858ql_tv4"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-6fDIPCuGpjE",
    "type": "video",
    "title": "What is Lindy Hop?",
@@ -55112,27 +55382,8 @@
    "curated": false
   },
   {
-   "id": "yt-Mw858ql_tv4",
-   "type": "tutorial",
-   "title": "How to Dance the Charleston Basic Step",
-   "artist": "MyCharleston",
-   "styles": [
-    "charleston"
-   ],
-   "bpm": null,
-   "year": 2022,
-   "durationSec": 177,
-   "popularity": 77,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "Mw858ql_tv4"
-   },
-   "curated": false
-  },
-  {
    "id": "yt-7PBCS3v9B8M",
-   "type": "music",
+   "type": "video",
    "title": "Irina & Anthony - social lindy hop demo at Havelhop 2023",
    "artist": "Slava Bogatov",
    "styles": [
@@ -55840,7 +56091,7 @@
   },
   {
    "id": "yt-tZbArq08Aw8",
-   "type": "music",
+   "type": "video",
    "title": "Rhythm Practice for Lindy Hop & Swing Dance - 6 & 8 Count",
    "artist": "Laura Glaess",
    "styles": [
@@ -56788,7 +57039,7 @@
   },
   {
    "id": "yt-H9E4Aq4K_p8",
-   "type": "video",
+   "type": "music",
    "title": "Early Savoy Lindy Hop",
    "artist": "Richard Powers",
    "styles": [
@@ -63525,6 +63776,26 @@
    "curated": false
   },
   {
+   "id": "yt-I2i0IJwJy64",
+   "type": "video",
+   "title": "Swing It Seattle - Frankie Manning, Norma Miller, & the Savoy Ballroom",
+   "artist": "Swing It Seattle",
+   "styles": [
+    "lindy",
+    "lindy8"
+   ],
+   "bpm": null,
+   "year": 2021,
+   "durationSec": 728,
+   "popularity": 47,
+   "addedAt": "2026-07-04",
+   "source": {
+    "platform": "youtube",
+    "id": "I2i0IJwJy64"
+   },
+   "curated": false
+  },
+  {
    "id": "yt-NHH_byIebDo",
    "type": "video",
    "title": "Lindyhop Social dancing - Nalla & Kelly @ASIABALBOA ABX 2025 #lindyhop #BALBOA #swingdance",
@@ -63769,26 +64040,6 @@
    "source": {
     "platform": "youtube",
     "id": "t7Uh8h2DQPo"
-   },
-   "curated": false
-  },
-  {
-   "id": "yt-I2i0IJwJy64",
-   "type": "video",
-   "title": "Swing It Seattle - Frankie Manning, Norma Miller, & the Savoy Ballroom",
-   "artist": "Swing It Seattle",
-   "styles": [
-    "lindy",
-    "lindy8"
-   ],
-   "bpm": null,
-   "year": 2021,
-   "durationSec": 728,
-   "popularity": 46,
-   "addedAt": "2026-07-04",
-   "source": {
-    "platform": "youtube",
-    "id": "I2i0IJwJy64"
    },
    "curated": false
   },
